@@ -188,9 +188,15 @@
       return;
     }
 
+    const setSeoMeta = (url, title, desc) => {
+    const set = (sel, attr, val) => { const m = document.querySelector(sel); if (m && val) m.setAttribute(attr, val); };
+    set('link[rel="canonical"]', "href", url); set('meta[property="og:url"]', "content", url);
+    set('meta[property="og:title"]', "content", title); set('meta[property="og:description"]', "content", desc);
+  };
     document.title = `${a.title} — Deholic Cattery`;
     const desc = document.querySelector('meta[name="description"]');
     if (desc) desc.setAttribute("content", a.excerpt);
+    setSeoMeta(`https://deholic.id/article.html?slug=${encodeURIComponent(a.slug)}`, document.title, a.excerpt);
 
     const prev = ARTICLES[idx + 1];
     const next = ARTICLES[idx - 1];

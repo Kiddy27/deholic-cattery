@@ -94,9 +94,15 @@
       el.innerHTML = `<div class="container narrow notfound reveal"><p class="eyebrow">404</p><h1>Kucing tidak ditemukan</h1><p class="muted">Tautan mungkin salah atau profilnya sudah dipindahkan.</p><a class="btn" href="adopsi.html">Lihat semua kitten</a></div>`;
       return;
     }
+    const setSeoMeta = (url, title, desc) => {
+    const set = (sel, attr, val) => { const m = document.querySelector(sel); if (m && val) m.setAttribute(attr, val); };
+    set('link[rel="canonical"]', "href", url); set('meta[property="og:url"]', "content", url);
+    set('meta[property="og:title"]', "content", title); set('meta[property="og:description"]', "content", desc);
+  };
     document.title = `${k.nama}${k.peran === "kitten" ? " — Kitten British Shorthair" : ""} — Deholic Cattery`;
     const desc = document.querySelector('meta[name="description"]');
     if (desc) desc.setAttribute("content", k.sifat || `Profil ${k.nama}, kucing British Shorthair di Deholic Cattery.`);
+    setSeoMeta(`https://deholic.id/kucing.html?nama=${encodeURIComponent(k.slug)}`, document.title, desc && desc.getAttribute("content"));
     const rows = [
       ["Peran", k.peran === "induk" ? "Induk" : "Kitten"],
       ["Jenis kelamin", k.kelamin],
