@@ -49,8 +49,7 @@
       h.innerHTML = `
         <div class="container nav">
           <a class="brand" href="${root}index.html" aria-label="Deholic Cattery — beranda">
-            <img src="${root}assets/img/favicon.svg" alt="" width="38" height="38" />
-            <span>Deholic<em>Cattery</em></span>
+            <img class="brand-logo" src="${root}assets/img/logo-deholic.webp" alt="Deholic Cattery" width="72" height="70" />
           </a>
           <button class="nav-toggle" aria-expanded="false" aria-controls="nav-links" aria-label="Buka menu">
             <span></span><span></span>
@@ -80,7 +79,7 @@
         <div class="peek" aria-hidden="true"><svg viewBox="0 0 120 72"><path class="peek-head" d="M12 64 L12 32 Q12 26 16 22 L13 4 Q13 0 17 2 L38 15 Q60 8 82 15 L103 2 Q107 0 107 4 L104 22 Q108 26 108 32 L108 64 Z"/><path class="peek-ear" d="M19 18 L18 9 L29 15 Z M101 18 L102 9 L91 15 Z"/><ellipse class="peek-eye" cx="44" cy="38" rx="5" ry="6"/><ellipse class="peek-eye" cx="76" cy="38" rx="5" ry="6"/><circle cx="46" cy="36" r="1.8" fill="#fff"/><circle cx="78" cy="36" r="1.8" fill="#fff"/><ellipse class="peek-blush" cx="32" cy="48" rx="6" ry="3.5"/><ellipse class="peek-blush" cx="88" cy="48" rx="6" ry="3.5"/><path class="peek-mouth" d="M54 47 q3 4 6 0 q3 4 6 0"/><ellipse class="peek-paw" cx="30" cy="62" rx="13" ry="8"/><ellipse class="peek-paw" cx="90" cy="62" rx="13" ry="8"/></svg></div>
         <div class="container footer-grid">
           <div>
-            <a class="brand" href="${root}index.html"><img src="${root}assets/img/favicon.svg" alt="" width="30" height="30" /><span>Deholic<em>Cattery</em></span></a>
+            <a class="brand" href="${root}index.html" aria-label="Deholic Cattery — beranda"><img class="brand-logo brand-logo-lg" src="${root}assets/img/logo-deholic.webp" alt="Deholic Cattery" width="150" height="146" loading="lazy" /></a>
             <p class="muted">Blog Deholic Cattery seputar merawat anabul kucing — ditulis dengan rasa sayang untuk sesama cat lovers.</p>
           </div>
           <div>
