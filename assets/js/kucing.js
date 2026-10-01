@@ -28,7 +28,8 @@
   const contohTag = (k) => (k.contoh ? '<span class="tag tag-sample">Contoh</span>' : "");
   const statusTag = (k) => (STATUS[k.status] ? `<span class="tag ${STATUS[k.status].cls}">${STATUS[k.status].label}</span>` : "");
 
-  const stamp = (k) => (k.status === "diadopsi" ? '<span class="stamp">Adopted</span>' : "");
+  const PAW_SVG = '<svg class="stamp-paw" viewBox="0 0 200 190" aria-hidden="true" focusable="false"><g><ellipse cx="36" cy="74" rx="19" ry="25" transform="rotate(-22 36 74)"/><ellipse cx="77" cy="34" rx="21" ry="27" transform="rotate(-6 77 34)"/><ellipse cx="123" cy="34" rx="21" ry="27" transform="rotate(6 123 34)"/><ellipse cx="164" cy="74" rx="19" ry="25" transform="rotate(22 164 74)"/><path d="M100 90C142 90 182 118 182 151C182 179 153 188 129 181C115 177 109 173 100 173C91 173 85 177 71 181C47 188 18 179 18 151C18 118 58 90 100 90Z"/></g></svg>';
+  const stamp = (k) => (k.status === "diadopsi" ? `<span class="stamp">${PAW_SVG}<span class="stamp-teks">Adopted</span></span>` : "");
   function kartu(k) {
     return `
     <article class="kitten-card glass reveal${k.status === "diadopsi" ? " is-done" : ""}">
