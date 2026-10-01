@@ -397,3 +397,9 @@ main > section:last-of-type { padding-bottom: clamp(64px, 7vw, 96px); }
   .paw-trail span { width: 24px; height: 24px; }
   .btn { padding: 13px 22px; }
 }
+
+/* Kartu foto kucing di halaman Tentang */
+.cat-title { text-align: center; margin: 0 0 28px; }
+.cat-card { margin: 0; padding: 14px 14px 18px; text-align: center; }
+.cat-card img { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; border-radius: calc(var(--radius) - 8px); }
+.cat-card h3 { margin: 14px 0 0; }
