@@ -1,0 +1,32 @@
+/* Tema British Shorthair (uji coba): abu-abu kebiruan + aksen tembaga seperti warna mata BSH */
+:root {
+  --bg: #eef1f5;
+  --bg-2: #e6eaf0;
+  --surface: #ffffff;
+  --ink: #26303c;
+  --text: #333e4b;
+  --muted: #56616f;
+  --line: #dce2ea;
+  --line-strong: #cbd3de;
+  --pink: #e39a63;
+  --pink-soft: #fbeadc;
+  --pink-ink: #95461a;
+  --peach: #f0b98a;
+  --peach-soft: #fdf1e6;
+  --lilac: #8ea2bd;
+  --lilac-soft: #e3e9f1;
+  --lilac-ink: #3b5677;
+  --mint: #a9c4cf;
+  --mint-soft: #e6eff2;
+  --blue: #a8bdd6;
+  --butter: #f2c98f;
+  --grad: linear-gradient(110deg, #9aaac0 0%, #b9c4d2 50%, #e8a46c 100%);
+  --grad-text: linear-gradient(100deg, #3b5677 0%, #6b7f99 50%, #b0601f 100%);
+  --shadow: 0 14px 34px -16px rgba(60, 80, 105, 0.28), 0 2px 6px rgba(60, 80, 105, 0.07);
+  --shadow-hover: 0 24px 50px -18px rgba(60, 80, 105, 0.38), 0 4px 10px rgba(60, 80, 105, 0.09);
+}
+.bg { background: linear-gradient(180deg, #e9edf2 0%, var(--bg) 40%, #eceff3 100%); }
+.o1 { background: #cfd8e3; }
+.o2 { background: #f6dcc6; }
+.o3 { background: #d9e2ea; }
+::selection { background: #f6d6bd; }
