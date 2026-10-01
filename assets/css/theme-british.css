@@ -61,13 +61,9 @@
 }
 
 /* Logo resmi Deholic Cattery */
-.brand img.brand-logo { border-radius: 0; box-shadow: none; height: 68px; width: auto; filter: drop-shadow(0 4px 8px rgba(40, 55, 75, 0.25)); }
-.brand img.brand-logo-lg { height: 140px; }
+.brand img.brand-logo { border-radius: 0; box-shadow: none; height: 58px; width: auto; filter: drop-shadow(0 4px 8px rgba(40, 55, 75, 0.25)); }
+.brand img.brand-logo-lg { height: 100px; }
 @media (max-width: 600px) {
-  .brand img.brand-logo { height: 58px; }
-  .brand img.brand-logo-lg { height: 120px; }
-}
-@media (min-width: 861px) {
-  .nav { height: 96px; }
-  .brand img.brand-logo:not(.brand-logo-lg) { height: 82px; }
+  .brand img.brand-logo { height: 50px; }
+  .brand img.brand-logo-lg { height: 90px; }
 }
