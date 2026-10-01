@@ -28,10 +28,11 @@
   const contohTag = (k) => (k.contoh ? '<span class="tag tag-sample">Contoh</span>' : "");
   const statusTag = (k) => (STATUS[k.status] ? `<span class="tag ${STATUS[k.status].cls}">${STATUS[k.status].label}</span>` : "");
 
+  const stamp = (k) => (k.status === "diadopsi" ? '<span class="stamp">Adopted</span>' : "");
   function kartu(k) {
     return `
     <article class="kitten-card glass reveal${k.status === "diadopsi" ? " is-done" : ""}">
-      <a class="kitten-foto" href="${href(k)}" tabindex="-1" aria-hidden="true">${foto(k)}</a>
+      <a class="kitten-foto" href="${href(k)}" tabindex="-1" aria-hidden="true">${foto(k)}${stamp(k)}</a>
       <div class="kitten-body">
         <div class="tags">${statusTag(k)}${contohTag(k)}</div>
         <h3><a href="${href(k)}">${esc(k.nama)}</a></h3>
@@ -102,14 +103,14 @@
       ["Tanggal lahir", k.lahir && `${tgl(k.lahir)} (${umur(k.lahir)})`],
       ["Vaksin", k.vaksin],
       ["Obat cacing", k.cacing],
-      ["Harga", k.harga],
+      ["Harga", k.status === "diadopsi" ? "" : k.harga],
     ].filter((r) => r[1]);
     const lainnya = DATA.filter((x) => x.peran === "kitten" && x.slug !== k.slug && x.status === "tersedia");
     el.innerHTML = `
       <section class="page-hero">
         <div class="container profil-grid">
           <div class="reveal">
-            <div class="profil-foto glass">${foto(k)}</div>
+            <div class="profil-foto glass">${foto(k)}${stamp(k)}</div>
             ${k.foto && k.foto.length > 1 ? `<div class="galeri" role="group" aria-label="Foto ${esc(k.nama)}">${k.foto.map((f, i) => `<button type="button" class="galeri-thumb" aria-pressed="${i === 0}" data-i="${i}"><img src="${esc(f)}" alt="${esc((k.altFoto && k.altFoto[i]) || k.nama)}" width="120" height="120" loading="lazy"></button>`).join("")}</div>` : ""}
           </div>
           <div class="reveal">
