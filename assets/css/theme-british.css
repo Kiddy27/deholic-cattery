@@ -37,7 +37,7 @@
 /* Footer mengikuti tema British Shorthair (abu-abu + aksen tembaga) */
 .site-footer { background: #c9d0d8; border-top: 2px solid #b3bcc6; }
 .footer-bottom { border-top: 1px dashed #a3adb8; color: #3a434e; }
-.site-footer h4 { color: #7a3f18; }
+.site-footer .footer-title { color: #7a3f18; }
 .site-footer ul a { color: #1f2730; }
 .site-footer ul a:hover { color: #7a3f18; }
 .site-footer .footer-grid p { color: #3a434e; }

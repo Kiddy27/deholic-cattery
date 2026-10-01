@@ -84,11 +84,11 @@
             <p class="muted">Blog Deholic Cattery seputar merawat anabul kucing — ditulis dengan rasa sayang untuk sesama cat lovers.</p>
           </div>
           <div>
-            <h4>Jelajahi</h4>
+            <h2 class="footer-title">Jelajahi</h2>
             <ul><li><a href="${root}index.html">Beranda</a></li><li><a href="${root}index.html#artikel">Semua artikel</a></li><li><a href="${root}adopsi.html">Adopsi</a></li><li><a href="${root}tentang.html">Tentang</a></li></ul>
           </div>
           <div>
-            <h4>Kategori</h4>
+            <h2 class="footer-title">Kategori</h2>
             <ul>${cats.map((c) => `<li><a href="${root}index.html?kategori=${encodeURIComponent(c)}#artikel">${esc(c)}</a></li>`).join("")}</ul>
           </div>
         </div>
