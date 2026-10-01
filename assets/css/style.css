@@ -437,3 +437,7 @@ main > section:last-of-type { padding-bottom: clamp(64px, 7vw, 96px); }
   .profil-grid { grid-template-columns: 1fr; gap: 28px; }
   .profil-data { grid-template-columns: 1fr; }
 }
+.galeri { display: flex; gap: 12px; margin-top: 14px; }
+.galeri-thumb { padding: 0; border: 3px solid transparent; border-radius: 16px; overflow: hidden; width: 84px; height: 84px; cursor: pointer; background: #e3e8ee; }
+.galeri-thumb img { width: 100%; height: 100%; object-fit: cover; }
+.galeri-thumb[aria-pressed="true"] { border-color: var(--lilac-ink); }

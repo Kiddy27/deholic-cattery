@@ -21,6 +21,17 @@ window.KUCING = [
     alt: "Hennessy, kucing British Shorthair abu-abu dan putih dengan pita World Cat Federation",
   },
   {
+    slug: "absolute-vodka", nama: "Absolute Vodka", peran: "kitten",
+    kelamin: "Jantan", warna: "Blue solid", lahir: "2026-04-05", status: "tersedia",
+    vaksin: "Lengkap", cacing: "Sudah",
+    sifat: "Si pipi chubby yang lincah dan hobi makan. Kalau nggak lagi main, ya lagi makan.",
+    deskripsi: "Kenalan sama Absolute Vodka, kitten blue solid dengan pipi chubby yang bikin susah berhenti dilihat. Dia lincah, suka main, dan punya hobi yang dia jalani dengan sepenuh hati: makan. Cocok buat hooman yang siap diajak main tiap hari dan siap mendengar \u201cmeong\u201d saat jam makan tiba.",
+    harga: "Tanya via DM",
+    foto: ["assets/img/kucing/vodka-1.webp", "assets/img/kucing/vodka-2.webp", "assets/img/kucing/vodka-bayi.webp"],
+    alt: "Absolute Vodka, kitten British Shorthair blue solid bermata tembaga",
+    altFoto: ["Absolute Vodka rebahan di bean bag abu-abu", "Absolute Vodka duduk di lantai", "Absolute Vodka waktu masih bayi"],
+  },
+  {
     slug: "mochi", nama: "Mochi", peran: "kitten", contoh: true,
     kelamin: "Jantan", warna: "Blue", lahir: "2026-07-12", status: "tersedia",
     vaksin: "Vaksin pertama sudah (contoh)", cacing: "Sudah obat cacing (contoh)",

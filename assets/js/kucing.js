@@ -108,12 +108,15 @@
     el.innerHTML = `
       <section class="page-hero">
         <div class="container profil-grid">
-          <div class="profil-foto glass reveal">${foto(k)}</div>
+          <div class="reveal">
+            <div class="profil-foto glass">${foto(k)}</div>
+            ${k.foto && k.foto.length > 1 ? `<div class="galeri" role="group" aria-label="Foto ${esc(k.nama)}">${k.foto.map((f, i) => `<button type="button" class="galeri-thumb" aria-pressed="${i === 0}" data-i="${i}"><img src="${esc(f)}" alt="${esc((k.altFoto && k.altFoto[i]) || k.nama)}" width="120" height="120" loading="lazy"></button>`).join("")}</div>` : ""}
+          </div>
           <div class="reveal">
             <p class="eyebrow"><a href="adopsi.html">${k.peran === "induk" ? "Induk Deholic Cattery" : "Kitten Deholic Cattery"}</a></p>
             <div class="tags">${statusTag(k)}${contohTag(k)}</div>
             <h1>${esc(k.nama)}</h1>
-            <p class="lead">${esc(k.sifat || "Profil lengkap segera hadir.")}</p>
+            <p class="lead">${esc(k.deskripsi || k.sifat || "Profil lengkap segera hadir.")}</p>
             <dl class="profil-data">${rows.map(([a, b]) => `<div><dt>${a}</dt><dd>${esc(b)}</dd></div>`).join("")}</dl>
             <div class="kitten-aksi">
               ${k.status === "tersedia" ? `<a class="btn" href="${IG_DM}" target="_blank" rel="noopener">Tanya ${esc(k.nama)} via DM Instagram <span aria-hidden="true">→</span></a>` : ""}
@@ -126,6 +129,18 @@
       ${lainnya.length ? `<section class="section tight"><div class="container"><h2 class="cat-title reveal">Kitten lain yang tersedia</h2><div class="kitten-grid">${lainnya.map(kartu).join("")}</div></div></section>` : ""}`;
   }
 
+  document.addEventListener("click", (e) => {
+    const b = e.target.closest(".galeri-thumb");
+    if (!b) return;
+    const k = DATA.find((x) => x.slug === new URLSearchParams(location.search).get("nama"));
+    const big = document.querySelector(".profil-foto img");
+    if (!k || !big) return;
+    const i = +b.dataset.i;
+    big.src = k.foto[i];
+    big.alt = (k.altFoto && k.altFoto[i]) || k.alt || k.nama;
+    document.querySelectorAll(".galeri-thumb").forEach((x) => x.setAttribute("aria-pressed", x === b));
+  });
   if (page === "adopsi") renderAdopsi();
   if (page === "kucing") renderProfil();
+  document.querySelectorAll(".kitten-grid .reveal").forEach((n) => n.classList.add("in"));
 })();
