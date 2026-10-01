@@ -1,23 +1,23 @@
 /* Tema British Shorthair (uji coba): abu-abu kebiruan + aksen tembaga seperti warna mata BSH */
 :root {
-  --bg: #eef1f5;
-  --bg-2: #e6eaf0;
+  --bg: #d8dde3;
+  --bg-2: #ced4db;
   --surface: #ffffff;
   --ink: #26303c;
   --text: #333e4b;
-  --muted: #56616f;
-  --line: #dce2ea;
-  --line-strong: #cbd3de;
+  --muted: #46505c;
+  --line: #c9d0d8;
+  --line-strong: #b7c0ca;
   --pink: #e39a63;
   --pink-soft: #fbeadc;
   --pink-ink: #95461a;
   --peach: #f0b98a;
   --peach-soft: #fdf1e6;
   --lilac: #8ea2bd;
-  --lilac-soft: #e3e9f1;
+  --lilac-soft: #e6eaef;
   --lilac-ink: #3b5677;
   --mint: #a9c4cf;
-  --mint-soft: #e6eff2;
+  --mint-soft: #e9edf1;
   --blue: #a8bdd6;
   --butter: #f2c98f;
   --grad: linear-gradient(110deg, #9aaac0 0%, #b9c4d2 50%, #e8a46c 100%);
@@ -25,8 +25,11 @@
   --shadow: 0 14px 34px -16px rgba(60, 80, 105, 0.28), 0 2px 6px rgba(60, 80, 105, 0.07);
   --shadow-hover: 0 24px 50px -18px rgba(60, 80, 105, 0.38), 0 4px 10px rgba(60, 80, 105, 0.09);
 }
-.bg { background: linear-gradient(180deg, #e9edf2 0%, var(--bg) 40%, #eceff3 100%); }
-.o1 { background: #cfd8e3; }
-.o2 { background: #f6dcc6; }
-.o3 { background: #d9e2ea; }
+.bg { background: linear-gradient(180deg, #d2d8df 0%, var(--bg) 40%, #d5dae0 100%); }
+.o1 { background: #bcc6d1; }
+.o2 { background: #c7cfd9; }
+.o3 { background: #b9c3ce; }
 ::selection { background: #f6d6bd; }
+.hero-frame::before { background: radial-gradient(circle at 30% 25%, #f4f6f8 0%, transparent 35%), linear-gradient(140deg, #c3ccd6 0%, #d5dbe2 45%, #b4bfcb 100%); box-shadow: 0 30px 60px -30px rgba(60, 80, 105, 0.45), inset 0 -10px 30px rgba(90, 110, 135, 0.2); }
+.hero-frame::after { border-color: #a9b4c1; }
+.hero-stats div:nth-child(1), .hero-stats div:nth-child(2), .hero-stats div:nth-child(3) { background: #eef1f4; border-color: var(--line); }

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Ilustrasi kucing lucu berkalung lonceng sedang duduk">
+  <defs>
+    <linearGradient id="tail" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8c97a4"/><stop offset="1" stop-color="#7d8896"/></linearGradient>
+  </defs>
+  <!-- bayangan -->
+  <ellipse cx="205" cy="372" rx="130" ry="14" fill="#3d2f4f" opacity=".08"/>
+  <!-- ekor -->
+  <path d="M272 330 Q346 334 342 266 Q339 230 308 240" fill="none" stroke="#3d2f4f" stroke-width="27" stroke-linecap="round"/>
+  <path d="M272 330 Q346 334 342 266 Q339 230 308 240" fill="none" stroke="url(#tail)" stroke-width="18" stroke-linecap="round"/>
+  <!-- badan -->
+  <ellipse cx="200" cy="296" rx="94" ry="76" fill="#a3adb8" stroke="#3d2f4f" stroke-width="5"/>
+  <path d="M158 300 Q200 330 242 300 Q236 352 200 356 Q164 352 158 300 Z" fill="#c5cdd6"/>
+  <!-- kaki depan -->
+  <ellipse cx="168" cy="362" rx="27" ry="15" fill="#a3adb8" stroke="#3d2f4f" stroke-width="5"/>
+  <ellipse cx="232" cy="362" rx="27" ry="15" fill="#a3adb8" stroke="#3d2f4f" stroke-width="5"/>
+  <path d="M160 356 v8 M176 356 v8 M224 356 v8 M240 356 v8" stroke="#3d2f4f" stroke-width="3" stroke-linecap="round"/>
+  <!-- telinga -->
+  <path d="M112 150 L108 58 Q110 50 118 54 L178 104 Z" fill="#a3adb8" stroke="#3d2f4f" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M288 150 L292 58 Q290 50 282 54 L222 104 Z" fill="#a3adb8" stroke="#3d2f4f" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M124 128 L122 78 L160 108 Z" fill="#d9a7ad"/>
+  <path d="M276 128 L278 78 L240 108 Z" fill="#d9a7ad"/>
+  <!-- kepala -->
+  <ellipse cx="200" cy="176" rx="106" ry="86" fill="#a3adb8" stroke="#3d2f4f" stroke-width="5"/>
+  <!-- corak di kepala -->
+  <path d="M176 94 Q200 88 224 94 Q214 112 200 114 Q186 112 176 94 Z" fill="#8c97a4"/>
+  <path d="M188 96 L190 108 M200 92 L200 110 M212 96 L210 108" stroke="#6b7684" stroke-width="3" stroke-linecap="round"/>
+  <!-- mata -->
+  <ellipse cx="158" cy="180" rx="15" ry="18" fill="#3d2f4f"/>
+  <ellipse cx="242" cy="180" rx="15" ry="18" fill="#3d2f4f"/>
+  <circle cx="164" cy="172" r="6" fill="#fff"/><circle cx="153" cy="188" r="2.6" fill="#fff"/>
+  <circle cx="248" cy="172" r="6" fill="#fff"/><circle cx="237" cy="188" r="2.6" fill="#fff"/>
+  <!-- pipi -->
+  <ellipse cx="128" cy="212" rx="18" ry="10" fill="#d9a7ad" opacity=".85"/>
+  <ellipse cx="272" cy="212" rx="18" ry="10" fill="#d9a7ad" opacity=".85"/>
+  <!-- hidung & mulut -->
+  <path d="M192 203 h16 l-8 9 z" fill="#d98f6a" stroke="#d98f6a" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M186 216 q7 10 14 0 q7 10 14 0" fill="none" stroke="#3d2f4f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- kumis -->
+  <g stroke="#3d2f4f" stroke-width="3" stroke-linecap="round" opacity=".75">
+    <path d="M110 196 L72 188 M110 206 L74 212"/><path d="M290 196 L328 188 M290 206 L326 212"/>
+  </g>
+  <!-- kalung & lonceng -->
+  <path d="M130 244 Q200 284 270 244" fill="none" stroke="#c27a45" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="200" cy="270" r="13" fill="#e0b25c" stroke="#3d2f4f" stroke-width="4"/>
+  <path d="M190 268 h20 M200 272 v6" stroke="#3d2f4f" stroke-width="3" stroke-linecap="round"/>
+  <!-- dekorasi -->
+  <g fill="#d98f6a"><path d="M60 110 c-6-8-18-4-16 6 2 8 16 14 16 14 s14-6 16-14c2-10-10-14-16-6z"/></g>
+  <g fill="#c27a45" opacity=".9"><path d="M344 128 c-4-6-13-3-12 4 1.5 6 12 10 12 10 s10.5-4 12-10c1-7-8-10-12-4z"/></g>
+  <g fill="#8fe3c8"><path d="M330 64 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z"/></g>
+  <g fill="#7d8896"><path d="M62 300 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z"/></g>
+  <g fill="#9fd4ff" opacity=".9">
+    <circle cx="44" cy="214" r="5"/><circle cx="54" cy="202" r="4"/><circle cx="66" cy="204" r="4"/><circle cx="74" cy="214" r="4"/><ellipse cx="59" cy="222" rx="10" ry="8"/>
+  </g>
+</svg>
