@@ -403,3 +403,37 @@ main > section:last-of-type { padding-bottom: clamp(64px, 7vw, 96px); }
 .cat-card { margin: 0; padding: 14px 14px 18px; text-align: center; }
 .cat-card img { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; border-radius: calc(var(--radius) - 8px); }
 .cat-card h3 { margin: 14px 0 0; }
+
+/* ---------- Adopsi & profil kucing ---------- */
+.kitten-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-top: 24px; }
+.kitten-card { border-radius: var(--radius); overflow: hidden; background: #fff; display: flex; flex-direction: column; }
+.kitten-card.is-done .kitten-foto img { filter: grayscale(0.6); opacity: 0.85; }
+.kitten-foto { display: block; aspect-ratio: 1; background: #e3e8ee; }
+.kitten-foto img, .profil-foto img { width: 100%; height: 100%; object-fit: cover; }
+.foto-kosong { width: 100%; height: 100%; display: grid; place-items: center; align-content: center; gap: 8px; color: var(--muted); font-weight: 700; font-size: 0.9rem; }
+.foto-kosong img { width: 55% !important; height: auto !important; object-fit: contain !important; }
+.kitten-body { padding: 22px 24px 26px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
+.kitten-body h3 { margin: 6px 0 0; font-size: 1.4rem; }
+.kitten-body h3 a { color: var(--ink); }
+.kitten-meta { margin: 0; font-weight: 700; color: var(--text); font-size: 0.95rem; }
+.kitten-body .muted { margin: 4px 0 0; font-size: 0.97rem; }
+.kitten-aksi { display: flex; flex-wrap: wrap; gap: 10px; margin-top: auto; padding-top: 16px; }
+.st-ok { color: #1f5b3a; background: #d7efe0; }
+.st-hold { color: #6b4500; background: #ffe7a6; }
+.st-done { color: #3a434e; background: #dde2e8; }
+.induk-link { display: block; color: var(--ink); text-align: center; }
+.induk-link h3 { margin: 14px 0 0; }
+.profil-grid { display: grid; grid-template-columns: 1fr 1.1fr; gap: 48px; align-items: start; padding-bottom: 40px; }
+.profil-foto { border-radius: var(--radius); overflow: hidden; aspect-ratio: 1; background: #e3e8ee; }
+.profil-grid h1 { margin: 10px 0 12px; }
+.profil-grid .eyebrow a { color: inherit; }
+.profil-data { display: grid; grid-template-columns: 1fr 1fr; gap: 14px 24px; margin: 24px 0; padding: 22px 24px; background: #fff; border-radius: 20px; border: 1px solid var(--line); }
+.profil-data dt { font-size: 0.8rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); }
+.profil-data dd { margin: 2px 0 0; font-weight: 700; color: var(--ink); }
+.filters .chip[aria-pressed="true"] { color: var(--ink); background: var(--grad); border-color: transparent; }
+@media (max-width: 1080px) { .kitten-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 760px) {
+  .kitten-grid { grid-template-columns: 1fr; }
+  .profil-grid { grid-template-columns: 1fr; gap: 28px; }
+  .profil-data { grid-template-columns: 1fr; }
+}

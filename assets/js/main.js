@@ -41,6 +41,7 @@
     const nav = [
       { id: "home", href: `${root}index.html`, label: "Beranda" },
       { id: "articles", href: `${root}index.html#artikel`, label: "Artikel" },
+      { id: "adopsi", href: `${root}adopsi.html`, label: "Adopsi" },
       { id: "about", href: `${root}tentang.html`, label: "Tentang" },
     ];
     const h = document.getElementById("site-header");
@@ -55,7 +56,7 @@
             <span></span><span></span>
           </button>
           <nav id="nav-links" class="nav-links" aria-label="Navigasi utama">
-            ${nav.map((n) => `<a href="${n.href}" ${n.id === page || (page === "article" && n.id === "articles") ? 'aria-current="page"' : ""}>${n.label}</a>`).join("")}
+            ${nav.map((n) => `<a href="${n.href}" ${n.id === page || (page === "article" && n.id === "articles") || (page === "kucing" && n.id === "adopsi") ? 'aria-current="page"' : ""}>${n.label}</a>`).join("")}
             <a class="btn btn-small" href="${root}index.html#artikel">Mulai membaca</a>
           </nav>
         </div>`;
@@ -84,7 +85,7 @@
           </div>
           <div>
             <h4>Jelajahi</h4>
-            <ul><li><a href="${root}index.html">Beranda</a></li><li><a href="${root}index.html#artikel">Semua artikel</a></li><li><a href="${root}tentang.html">Tentang</a></li></ul>
+            <ul><li><a href="${root}index.html">Beranda</a></li><li><a href="${root}index.html#artikel">Semua artikel</a></li><li><a href="${root}adopsi.html">Adopsi</a></li><li><a href="${root}tentang.html">Tentang</a></li></ul>
           </div>
           <div>
             <h4>Kategori</h4>
