@@ -22,6 +22,74 @@
 
 window.ARTICLES = [
   {
+    slug: "potong-kuku-kucing-tanpa-drama",
+    title: "Potong Kuku Kucing Tanpa Drama: Tips Biar Anabul Nggak Kabur",
+    category: "Perawatan",
+    excerpt:
+      "Potong kuku kucing bisa tenang kalau setup-nya nyaman. Tips santai biar anabul kooperatif, sofa aman, dan kamu tetap utuh.",
+    date: "2026-10-03",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "paw",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Ada momen di rumah yang membuat waktu seakan melambat: kamu membawa gunting kuku, kucing langsung menghilang ke bawah sofa. Seolah ia punya radar khusus untuk benda kecil yang mengkilap. Padahal potong kuku bukan hukuman. Ini perawatan biasa supaya kaki anabul nyaman, sofa tetap utuh, dan lenganmu tidak jadi papan goresan berjalan.</p>
+      <p>Kabar baiknya, drama itu bisa dikurangi. Kuncinya bukan mengejar, melainkan menyiapkan suasana yang tenang, memotong sedikit demi sedikit, dan berhenti sebelum kucing panik. Yuk mulai dari dasar yang ramah pemula.</p>
+
+      <h2>Kenapa kuku perlu dipotong?</h2>
+      <p>Kucing memang punya kebiasaan mengasah kuku di scratching post atau karpet. Itu bagus dan tetap perlu didukung. Tapi kuku yang terlalu panjang tetap bisa mengganjal saat berjalan, menyangkut di kain, atau tidak sengaja mencakar kulit saat ia loncat ke pangkuanmu.</p>
+      <ul>
+        <li><strong>Furnitur dan kain:</strong> kuku tajam lebih mudah menyangkut di sofa, selimut, atau baju.</li>
+        <li><strong>Kulit manusia:</strong> main atau naik ke pangkuan jadi lebih aman kalau ujung kuku tidak terlalu tajam.</li>
+        <li><strong>Kenyamanan kaki:</strong> kuku yang terlalu panjang bisa membuat langkah terasa kurang nyaman, terutama pada kucing yang jarang keluar atau kurang sering mengasah.</li>
+      </ul>
+      <p>Scratching post tetap penting. Memotong kuku bukan pengganti mengasah, melainkan pelengkap supaya panjang kuku tetap terkendali.</p>
+
+      <h2>Kenali bagian yang boleh dan tidak boleh dipotong</h2>
+      <p>Ini bagian paling penting. Pada kuku berwarna terang, kamu biasanya bisa melihat area merah muda di dalam kuku. Itu disebut quick, bagian yang berisi pembuluh darah dan saraf. <strong>Jangan memotong sampai ke situ.</strong> Potong hanya ujung kuku yang transparan atau putih, sedikit di depan area merah muda.</p>
+      <p>Pada kuku gelap, quick lebih sulit dilihat. Lebih aman memotong sangat sedikit saja, lalu periksa lagi lain waktu. Kalau tidak yakin, berhenti. Memotong terlalu pendek bisa membuat kuku berdarah dan kucing sakit, lalu ia semakin takut dipotong di kemudian hari.</p>
+      <blockquote>Lebih baik potong sedikit dan sering daripada sekali potong terlalu dalam. Kuku yang agak panjang masih bisa diperbaiki. Trust yang rusak jauh lebih sulit diperbaiki.</blockquote>
+
+      <h2>Siapkan dulu, baru panggil anabul</h2>
+      <p>Jangan mulai saat kucing lagi mode "buronan". Pilih waktu ia sudah santai: setelah makan, setelah bermain ringan, atau saat sedang tidur siang di pangkuan. Siapkan semua alat sebelum kamu menyentuh kakinya.</p>
+      <ul>
+        <li>Gunting atau gunting kuku khusus kucing yang tajam dan nyaman dipegang.</li>
+        <li>Cahaya yang cukup supaya kamu jelas melihat kuku.</li>
+        <li>Camilan kecil atau mainan favorit sebagai hadiah.</li>
+        <li>Handuk lembut bila perlu, untuk menenangkan tanpa memaksa.</li>
+        <li>Tempat duduk yang stabil, bukan di tepi meja yang goyah.</li>
+      </ul>
+      <p>Suasana rumah sebaiknya tenang. Matikan TV yang keras, minta anggota keluarga lain tidak tiba-tiba muncul dengan vacuum cleaner. Kamu yang tenang akan lebih mudah ditiru kucing.</p>
+
+      <h2>Satu kaki dulu, jangan targetkan semua sekaligus</h2>
+      <p>Banyak pemilik pemula gagal karena ingin selesai dalam satu sesi heroik: delapan kuku depan, delapan kuku belakang, semua tuntas sekarang juga. Kucing tidak setuju dengan rencana itu. Mulai dari satu kaki saja, atau bahkan satu-dua kuku saja di hari pertama.</p>
+      <ol>
+        <li>Duduk nyaman, biarkan kucing di pangkuan atau di sampingmu dalam posisi yang ia sukai.</li>
+        <li>Pegang kaki dengan lembut. Tekan pelan bantalan jari supaya kuku keluar.</li>
+        <li>Potong hanya ujung kuku, lurus dan cepat, jauh tapi aman dari quick.</li>
+        <li>Lepas sejenak, beri pujian atau camilan, lalu lanjut bila ia masih tenang.</li>
+        <li>Kalau ia mulai gelisah, berhenti. Selesaikan sisanya besok atau lusa.</li>
+      </ol>
+      <p>Kuku belakang sering lebih sensitif karena kucing kurang terbiasa kakinya dipegang dari belakang. Boleh dikerjakan terpisah di hari lain. Yang penting rutinitasnya terasa aman, bukan seperti misi darurat.</p>
+
+      <h2>Hadiah, pujian, dan latihan singkat</h2>
+      <p>Kucing belajar dari pengalaman. Kalau setiap kali kaki dipegang berakhir dengan panik, ia akan kabur lebih cepat. Kalau setiap sesi pendek diakhiri camilan, pujian lembut, atau usapan di tempat favoritnya, ia mulai menghubungkan potong kuku dengan hal yang menyenangkan.</p>
+      <ul>
+        <li>Latih dulu hanya memegang kaki beberapa detik tanpa memotong, lalu beri hadiah.</li>
+        <li>Setelah ia tenang, lanjut tekan bantalan jari supaya kuku terlihat, tanpa gunting dulu.</li>
+        <li>Baru kemudian masukkan gunting ke sesi singkat. Jangan buru-buru.</li>
+      </ul>
+      <p>Konsistensi lebih berharga daripada kecepatan. Beberapa minggu sekali biasanya sudah cukup bagi banyak kucing rumahan, tapi tiap kucing beda. Perhatikan ujung kuku: kalau sudah mulai melengkung tajam atau sering menyangkut di kain, saatnya potong lagi.</p>
+
+      <h2>Kapan harus minta bantuan</h2>
+      <p>Tidak semua situasi cocok ditangani sendiri di rumah. Segera hubungi dokter hewan bila kamu melihat kuku tumbuh masuk ke bantalan kaki, kuku patah, kaki bengkak, kucing pincang, atau ada darah yang tidak berhenti. Begitu juga kalau kucing sangat panik atau bereaksi seolah kesakitan saat kaki disentuh. Bisa jadi ada rasa nyeri yang perlu diperiksa.</p>
+      <p>Kalau kamu sendiri kurang percaya diri memotong, tidak apa-apa minta demo singkat ke dokter hewan atau perawat hewan. Belajar sekali dengan benar sering lebih aman daripada nekat berkali-kali.</p>
+
+      <h2>Penutup</h2>
+      <p>Potong kuku tanpa drama bukan soal trik rahasia. Ini soal sabar, cahaya yang cukup, potongan yang dangkal, dan keberanian untuk berhenti saat anabul bilang "cukup". Siapkan alat, pilih waktu tenang, kerjakan satu kaki dulu, lalu rayakan dengan camilan. Lama-lama, gunting kuku tidak lagi jadi sinyal kabur ke bawah sofa, melainkan bagian biasa dari perawatan yang membuat rumah lebih nyaman untuk kalian berdua.</p>
+    `,
+  },
+  {
     slug: "panduan-kotak-pasir-kucing",
     title: "Kotak Pasir Kucing: Memilih, Menaruh, dan Merawatnya biar Nggak Bau",
     category: "Perawatan",
