@@ -22,6 +22,66 @@
 
 window.ARTICLES = [
   {
+    slug: "arti-suara-kucing-meong-dengkur-desis",
+    title: "Meong, Dengkur, Desis: Arti Suara Kucing buat Pemula",
+    category: "Perilaku",
+    excerpt:
+      "Meong, dengkur, desis, sampai trill: panduan santai membaca suara kucing biar kamu nggak salah paham sama anabul.",
+    date: "2026-10-04",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "eye",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Rumah dengan kucing jarang benar-benar sunyi. Ada meong pendek di depan kulkas, dengkur lembut di pangkuan, kadang desis singkat saat main terlalu kasar. Buat pemilik pemula, semua suara itu sering terdengar sama: "anabul lagi ngomong." Padahal tiap bunyi punya nuansa sendiri. Belum tentu marah, belum tentu lapar, dan belum tentu minta dipeluk seketika.</p>
+      <p>Ini bukan kamus ilmiah, melainkan panduan santai: kapan meong berarti "perhatikan aku", kapan dengkur berarti nyaman, dan kapan desis artinya "berhenti dulu". Kalau suara berubah drastis atau kucing terlihat kesakitan, itu wilayah dokter hewan, bukan tebak-tebakan di sofa.</p>
+
+      <h2>Meong: bahasa serbaguna yang tergantung konteks</h2>
+      <p>Meong paling sering terdengar, dan justru karena itu paling mudah disalahartikan. Meong pendek di pagi hari bisa berarti "sarapan dong". Meong panjang di depan pintu bisa berarti ingin keluar atau masuk. Meong beruntun saat kamu pulang kerja sering lebih ke "ayo interaksi".</p>
+      <p>Triknya sederhana: lihat situasi, bukan hanya bunyinya.</p>
+      <ul>
+        <li><strong>Dekat mangkuk atau kulkas:</strong> kemungkinan terkait makan atau kebiasaan minta camilan.</li>
+        <li><strong>Dekat pintu atau jendela:</strong> biasanya soal akses, penasaran, atau ingin ikut.</li>
+        <li><strong>Saat kamu diam di laptop:</strong> sering jadi pengingat bahwa perhatian sedang diminta.</li>
+        <li><strong>Meong di malam hari:</strong> bisa bosan, ingin main, atau memastikan kamu masih ada.</li>
+      </ul>
+      <p>Jangan langsung menyimpulkan lapar setiap kali ada suara. Kalau jadwal makan sudah teratur dan mangkuk masih ada isinya, cek dulu: apakah ia ingin main, ingin pintu dibuka, atau hanya ingin kamu menoleh? Menoleh dan menyapa sering sudah cukup. Memberi camilan tiap meong bisa membuat kebiasaan minta jadi lebih rajin dari yang kamu siap tangani.</p>
+
+      <h2>Dengkur: nyaman, tapi bukan jaminan mutlak</h2>
+      <p>Dengkur biasanya jadi favorit manusia. Getaran halus di dada kucing saat dipeluk terasa seperti pujian hidup. Banyak kucing memang dengkur saat senang, aman, atau menikmati usapan di tempat favorit. Itu sinyal menyenangkan untuk kalian berdua.</p>
+      <p>Tetap ada catatan kecil: dengkur juga bisa muncul saat kucing ingin menenangkan diri, misalnya di situasi baru. Jadi dengkur bukan stempel "semua baik-baik saja" tanpa melihat bahasa tubuh. Kalau badan rileks, mata setengah terpejam, dan ia mendekat sendiri, kemungkinan besar ia nyaman. Kalau badan kaku, telinga gelisah, atau ia mencoba menjauh sambil tetap berdengkur, hormati ruangnya.</p>
+      <blockquote>Dengkur itu seperti senyum: sering berarti senang, tapi konteks tetap raja. Lihat seluruh kucingnya, bukan cuma getaran di tenggorokan.</blockquote>
+
+      <h2>Desis, geram, dan "jangan dekati dulu"</h2>
+      <p>Desis adalah sinyal jelas: jarak dibutuhkan. Bisa muncul saat kucing kaget, merasa terpojok, menjaga mainan atau makanan, atau tidak suka cara dipegang. Geraman rendah sering jadi peringatan sebelum reaksi lebih tegas. Ini bukan kucing "jahat". Ini kucing yang sedang bilang batasnya.</p>
+      <ul>
+        <li>Berhenti mendekat atau menyentuh. Mundur pelan, jangan balas dengan teriakan.</li>
+        <li>Beri jalur kabur. Kucing yang merasa terjebak lebih mudah panik.</li>
+        <li>Jangan paksa interaksi "supaya terbiasa". Paksaan biasanya memperburuk rasa tidak aman.</li>
+        <li>Kalau desis muncul saat bermain, mainnya mungkin terlalu kasar atau terlalu lama. Ganti ke mainan, bukan tanganmu.</li>
+      </ul>
+      <p>Anak kecil di rumah perlu diajari sinyal ini lebih awal. Desis bukan tantangan untuk diuji, melainkan lampu kuning yang harus dihormati. Kalau desis muncul tiba-tiba tanpa pemicu jelas, atau disertai perubahan nafsu makan, konsultasikan ke dokter hewan.</p>
+
+      <h2>Trill, kicau kecil, dan suara "ngobrol"</h2>
+      <p>Selain meong klasik, banyak kucing punya suara pendek mirip trill atau kicau saat menyapa. Bunyi itu sering muncul saat kamu masuk ruangan, saat ia berjalan di depanmu menuju mangkuk, atau saat mengajak ikut ke tempat favoritnya. Nuansanya biasanya ramah: semacam "hai" atau "ikut sini".</p>
+      <p>Ada juga kucing yang "bicara" panjang saat kamu berbicara padanya, membalas dengan rangkaian meong dan trill seolah rapat keluarga sedang berlangsung. Itu normal dan sering jadi momen lucu. Balas dengan suara tenang. Kamu tidak perlu menerjemahkan tiap suku kata; yang penting interaksi terasa dua arah dan tidak memaksa.</p>
+      <p>Suara saat melihat burung di jendela juga umum: semacam gertakan gigi atau bunyi "kuk-kuk" pelan, biasanya terkait naluri berburu. Tidak perlu panik. Tutup tirai bila ia terlalu fokus sampai stres, atau alihkan ke mainan bulu supaya energinya punya saluran aman di dalam rumah.</p>
+
+      <h2>Cara "mendengar" yang lebih akurat</h2>
+      <p>Suara kucing jauh lebih mudah dibaca kalau digabung dengan waktu, tempat, dan bahasa tubuh. Meong di dapur jam makan beda artinya dengan meong di kamar mandi saat kamu mandi lama. Ekor tenang dan telinga maju mendukung arti ramah. Ekor besar dan telinga mundur mendukung arti "saya tidak nyaman".</p>
+      <ol>
+        <li>Catat pola harian: kapan ia paling vokal, di lokasi mana, dan apa yang biasanya kamu lakukan sesudahnya.</li>
+        <li>Respons konsisten lebih membantu daripada tebak-tebakan tiap hari. Kalau meong pintu biasanya ingin ikut, putuskan batasan yang sama tiap kali.</li>
+        <li>Jangan hadiahi semua suara dengan makanan. Sesekali cukup sapa, main sebentar, atau biarkan ia punya waktu sendiri.</li>
+        <li>Perhatikan perubahan mendadak. Kucing yang biasanya diam lalu tiba-tiba sangat berisik, atau sebaliknya, pantas dicermati.</li>
+      </ol>
+      <p>Kalau suara menjadi serak terus-menerus, napas terdengar berat, ia berteriak tanpa sebab jelas, atau tampak kesakitan saat bersuara, hubungi dokter hewan. Panduan di sini hanya untuk komunikasi sehari-hari yang sehat, bukan untuk mendiagnosis gangguan.</p>
+
+      <h2>Penutup</h2>
+      <p>Meong, dengkur, dan desis bukan kode rahasia yang harus dihafal sempurna. Itu cara kucing mengatur jarak, meminta perhatian, dan menjaga rasa amannya di rumah yang ia bagi denganmu. Dengarkan konteksnya, hormati batas saat ada desis, nikmati dengkur saat ia memilih dekat, dan jangan anggap setiap meong sebagai alarm lapar. Lama-lama kamu akan punya "kamus rumah" sendiri: bukan dari teori rumit, melainkan dari kebiasaan saling menyimak yang tumbuh tiap hari.</p>
+    `,
+  },
+  {
     slug: "potong-kuku-kucing-tanpa-drama",
     title: "Potong Kuku Kucing Tanpa Drama: Tips Biar Anabul Nggak Kabur",
     category: "Perawatan",
