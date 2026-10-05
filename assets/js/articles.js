@@ -22,6 +22,80 @@
 
 window.ARTICLES = [
   {
+    slug: "scratching-post-kucing-biar-dipakai",
+    title: "Scratching Post Mahal tapi Dicuekin? Begini Biar Anabul Mau Pakai",
+    category: "Perilaku",
+    excerpt:
+      "Scratching post cantik malah dicuekin, sofa yang jadi korban? Tips santai memilih, menaruh, dan mengenalkan tiang garukan biar benar-benar dipakai anabul.",
+    date: "2026-10-05",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "paw",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Kamu sudah survei berhari-hari, membandingkan model, lalu akhirnya membeli scratching post yang cantik. Dipasang di sudut ruang tamu, difoto, dipamerkan ke grup keluarga. Lalu anabul lewat di depannya tanpa menoleh sedikit pun, dan langsung mengasah kuku di sandaran sofa. Sakit, tapi bukan di kulit. Di hati.</p>
+      <p>Tenang, ini kisah yang sangat umum di kalangan hooman. Scratching post yang dicuekin biasanya bukan karena kucingmu keras kepala, tapi karena ada yang belum pas: bentuknya, bahannya, atau lokasinya. Yuk kita bahas pelan-pelan supaya tiang garukan itu benar-benar dipakai, bukan cuma jadi pajangan mahal.</p>
+
+      <h2>Kenapa kucing hobi mencakar?</h2>
+      <p>Pertama, terima dulu kenyataannya: mencakar itu perilaku normal, bukan kenakalan. Kucing umumnya mencakar untuk beberapa alasan sekaligus.</p>
+      <ul>
+        <li><strong>Merawat kuku:</strong> mengasah membantu melepas lapisan luar kuku yang sudah tua.</li>
+        <li><strong>Peregangan:</strong> coba perhatikan, kucing sering mencakar sambil meregangkan badan dari ujung kaki sampai punggung. Semacam yoga pagi versi anabul.</li>
+        <li><strong>Menandai wilayah:</strong> selain bekas goresan yang terlihat, kaki kucing juga meninggalkan aroma yang menandakan "ini daerahku".</li>
+        <li><strong>Melepas energi atau emosi:</strong> banyak kucing mencakar saat bangun tidur, saat senang menyambutmu pulang, atau saat sedang bersemangat.</li>
+      </ul>
+      <p>Jadi tujuan kita bukan menghentikan kebiasaan mencakar, melainkan mengarahkannya ke tempat yang kita setujui bersama.</p>
+
+      <h2>Pilih scratching post yang lolos seleksi</h2>
+      <p>Kucing itu juri yang cukup pemilih. Beberapa hal ini biasanya menentukan apakah produkmu dapat nilai sempurna atau langsung didiskualifikasi.</p>
+
+      <h3>Kokoh dulu, cantik belakangan</h3>
+      <p>Scratching post yang goyang atau gampang terguling sering langsung masuk daftar hitam. Bayangkan kamu sedang menggaruk punggung di tembok, lalu temboknya ikut bergoyang. Kurang meyakinkan, kan? Pilih yang alasnya lebar dan berat, atau yang bisa ditempel dengan aman ke dinding.</p>
+
+      <h3>Cukup tinggi untuk peregangan penuh</h3>
+      <p>Banyak kucing suka mencakar sambil berdiri dan meregang maksimal. Kalau tiangnya terlalu pendek, ia tidak bisa meregang dengan puas, lalu mencari alternatif yang lebih tinggi. Sandaran sofa, misalnya. Sebagai patokan kasar, pilih tiang yang lebih tinggi dari panjang badan kucingmu saat ia berdiri meregang.</p>
+
+      <h3>Bahan dan arah: tiap kucing punya selera</h3>
+      <p>Ada kucing yang cinta tali sisal, ada yang lebih suka kardus bergelombang, ada juga yang tergila-gila pada karpet tertentu. Arah juga penting: sebagian suka mencakar tegak, sebagian lebih senang di permukaan datar di lantai.</p>
+      <p>Petunjuk terbaik ada di rumahmu sendiri. Kalau ia sering menyerang karpet, mungkin ia tipe horizontal. Kalau sasarannya sisi sofa atau kusen pintu, kemungkinan ia tipe vertikal. Kalau masih bingung, coba sediakan satu tiang tegak dan satu papan kardus datar, lalu lihat mana yang menang.</p>
+
+      <h2>Lokasi, lokasi, lokasi</h2>
+      <p>Ini kesalahan paling sering: scratching post ditaruh di pojok yang sepi supaya tidak mengganggu pemandangan. Padahal karena mencakar juga berfungsi menandai wilayah, kucing cenderung ingin melakukannya di area yang penting dan sering dilewati.</p>
+      <ul>
+        <li>Taruh di dekat tempat ia tidur, karena banyak kucing langsung mencakar setelah bangun.</li>
+        <li>Letakkan di samping "korban" favoritnya, misalnya tepat di sebelah sudut sofa yang sudah compang-camping.</li>
+        <li>Pilih area tempat keluarga sering berkumpul, bukan gudang atau balkon belakang.</li>
+        <li>Kalau rumahmu cukup luas, satu scratching post mungkin tidak cukup. Beberapa titik di ruangan berbeda biasanya lebih efektif.</li>
+      </ul>
+
+      <h2>Cara mengenalkan supaya dilirik</h2>
+      <p>Sudah pilih yang kokoh dan menaruhnya di lokasi strategis? Saatnya promosi. Anggap kamu sedang membuka toko baru dan kucingmu adalah pelanggan pertama yang harus dibujuk.</p>
+      <ol>
+        <li><strong>Ajak bermain di sekitarnya.</strong> Gerakkan mainan bulu atau tali di sekitar dan di atas tiang supaya kaki anabul ikut mencengkeramnya.</li>
+        <li><strong>Gunakan catnip atau silvervine bila ia suka.</strong> Taburkan sedikit di permukaannya. Tidak semua kucing bereaksi, jadi jangan kecewa kalau hasilnya biasa saja.</li>
+        <li><strong>Beri pujian dan camilan</strong> setiap kali ia mencakar di tempat yang benar. Momen positif membuatnya lebih mungkin kembali.</li>
+        <li><strong>Jangan paksa kakinya menggaruk.</strong> Memegang kaki kucing lalu menggosokkannya ke tiang justru bisa membuatnya tidak nyaman dan menjauh.</li>
+        <li><strong>Bersabar.</strong> Ada kucing yang langsung jatuh cinta, ada yang butuh waktu berminggu-minggu untuk berubah pikiran.</li>
+      </ol>
+
+      <h2>Kalau sofa tetap jadi incaran</h2>
+      <p>Hindari memarahi, membentak, atau menyemprot air. Kucing umumnya tidak mengaitkan hukuman dengan perbuatannya, malah bisa jadi takut padamu. Lebih baik buat sofa kurang menarik dan scratching post jauh lebih menggoda.</p>
+      <ul>
+        <li>Tutup sementara area favoritnya dengan selimut tebal atau pelindung furnitur.</li>
+        <li>Saat ia mulai mencakar sofa, alihkan dengan tenang ke scratching post di sebelahnya.</li>
+        <li>Rajin ajak bermain supaya energinya tersalurkan, bukan dilampiaskan ke furnitur.</li>
+      </ul>
+      <p>Menjaga kuku tetap rapi juga membantu mengurangi kerusakan. Baca juga artikel kami sebelumnya, "Potong Kuku Kucing Tanpa Drama: Tips Biar Anabul Nggak Kabur", untuk panduan lengkapnya.</p>
+
+      <h2>Kapan perlu ke dokter hewan?</h2>
+      <p>Mencakar memang normal, tapi perubahan mendadak patut diperhatikan. Hubungi dokter hewan kalau kucingmu tiba-tiba mencakar jauh lebih sering dan intens dari biasanya, terus-menerus menjilati atau menggigit kakinya, pincang, atau kamu melihat kuku patah, kuku tumbuh masuk ke bantalan, bengkak, atau luka. Sebaliknya, kucing yang dulu rajin mencakar lalu mendadak berhenti, terutama bila ia tampak enggan melompat, juga sebaiknya diperiksakan. Bisa jadi ada rasa tidak nyaman yang tidak terlihat dari luar, dan dokter hewan yang paling tepat menilainya.</p>
+
+      <h2>Penutup</h2>
+      <p>Scratching post yang dicuekin bukan tanda kamu gagal jadi hooman. Biasanya hanya perlu sedikit penyesuaian: tiang yang lebih kokoh, bahan yang sesuai selera, lokasi yang strategis, dan banyak kesabaran plus camilan. Begitu anabul menemukan scratching post idamannya, sofa pun bisa bernapas lega.</p>
+      <p>Punya cerita anabul yang akhirnya mau pakai scratching post? Kami di Deholic Cattery, cattery British Shorthair di Jakarta Barat, senang sekali mendengarnya. Sapa kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "arti-suara-kucing-meong-dengkur-desis",
     title: "Meong, Dengkur, Desis: Arti Suara Kucing buat Pemula",
     category: "Perilaku",
