@@ -22,6 +22,64 @@
 
 window.ARTICLES = [
   {
+    slug: "mengenal-british-shorthair",
+    title: "Mengenal British Shorthair: Si Boneka Hidup yang Kalem",
+    category: "Pemula",
+    excerpt:
+      "Mau kenalan sama British Shorthair? Panduan santai soal watak, bulu, dan kehidupan sehari-hari si boneka hidup yang kalem buat calon hooman pemula.",
+    date: "2026-10-06",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "heart",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Pernah lihat kucing yang wajahnya bulat, matanya besar, tubuhnya seperti boneka yang bisa berjalan sendiri? Itu kemungkinan besar British Shorthair, atau yang sering disingkat BSH. Ras ini sering bikin orang bilang "aduh lucu banget", lalu dua detik kemudian bertanya, "emang dia selalu semahal itu diamnya?"</p>
+      <p>Artikel ini buat kamu yang baru mulai penasaran. Bukan ensiklopedia panjang, melainkan kenalan santai: seperti apa wataknya, kenapa bulunya terasa mewah, dan apa yang perlu disiapkan kalau suatu hari kamu ingin hidup bareng si boneka hidup ini.</p>
+
+      <h2>Siapa British Shorthair itu?</h2>
+      <p>British Shorthair adalah ras kucing berbulu pendek yang dikenal dengan tubuh padat, wajah bulat, pipi yang terasa "penuh", dan mata yang ekspresif. Banyak orang menggambarkan mereka seperti boneka berbulu yang punya pendapat sendiri. Tidak semua BSH berwarna abu-abu kebiruan (blue), meski warna itu yang paling sering muncul di foto dan meme. Ada juga solid, bicolor, dan variasi warna lain yang sama-sama menggemaskan.</p>
+      <p>Secara umum, BSH terkesan tenang dibanding beberapa ras yang lebih hiperaktif. Tapi "tenang" bukan berarti patung. Mereka tetap suka main, naik ke tempat tinggi, dan mengawasi rumah dari sudut favorit. Hanya saja, drama kejar-kejaran seharian biasanya bukan gaya hidup utama mereka.</p>
+
+      <h2>Watak: kalem, setia, tapi tetap punya selera</h2>
+      <p>Kalau kamu berharap kucing yang selalu nempel di pangkuan 24 jam, BSH bisa mengejutkan. Banyak BSH lebih suka jadi teman dekat yang duduk di dekatmu, bukan di atas kepala. Mereka sering digambarkan mandiri, tapi tetap senang ada di ruangan yang sama dengan keluarganya. Semacam teman kost yang jarang ribut, tapi selalu tahu kalau kamu lagi di rumah.</p>
+      <ul>
+        <li><strong>Umumnya ramah dengan keluarga:</strong> banyak BSH nyaman dengan rutinitas rumah dan orang yang sudah dikenal.</li>
+        <li><strong>Tidak selalu clingy:</strong> kasih sayang mereka sering datang dengan cara halus, misalnya tidur di samping laptopmu atau mengikuti dari jauh.</li>
+        <li><strong>Cocok untuk rumah yang tidak terlalu gaduh:</strong> mereka biasanya lebih enjoy suasana yang relatif tenang, meski tiap individu beda.</li>
+        <li><strong>Punya mood sendiri:</strong> ada hari "mau dipeluk", ada hari "cukup lihat dari sofa saja, terima kasih".</li>
+      </ul>
+      <p>Yang penting diingat: karakter kucing itu individu. Dua BSH dari latar belakang sama sekalipun bisa punya selera bermain, tingkat keakraban, dan preferensi tempat tidur yang berbeda. Jadi kenali satu-satu, jangan hanya dari foto di internet.</p>
+
+      <h2>Bulu dan perawatan sehari-hari</h2>
+      <p>Bulu BSH pendek, padat, dan terasa "mewah" saat disentuh. Banyak orang bilang seperti menyentuh boneka yang baru dicuci. Kabar baiknya, perawatan biasanya tidak serumit ras berbulu panjang. Kabar realistisnya, bulu pendek padat tetap butuh perhatian supaya tidak kusut atau menumpuk di sofa favoritmu.</p>
+      <ul>
+        <li><strong>Sikat rutin:</strong> beberapa kali seminggu biasanya cukup untuk banyak BSH, terutama saat berganti bulu. Pilih sisir atau sikat yang nyaman di kulitnya.</li>
+        <li><strong>Jangan dipaksa:</strong> sesi pendek yang menyenangkan lebih baik daripada maraton sikat yang bikin trauma.</li>
+        <li><strong>Cuci tangan setelah main:</strong> bulu ini enak disentuh, tapi juga rajin nempel di baju hitam. Itu bagian dari paket romansa.</li>
+      </ul>
+      <p>Kalau kamu baru punya kucing, biasakan menyikat pelan-pelan sambil kasih camilan. Tujuannya supaya anabul mengaitkan perawatan dengan momen positif, bukan dengan "oh tidak, alat aneh itu lagi".</p>
+
+      <h2>Aktivitas: bukan atlet, tapi tetap butuh main</h2>
+      <p>Karena BSH sering tampak santai, banyak hooman pemula mengira mereka cukup dibiarkan tidur seharian. Padahal kucing, termasuk BSH, tetap butuh stimulasi. Mainan bulu, karton bekas, atau sesi kejar laser singkat (dengan aturan: selalu akhiri dengan mainan fisik yang bisa ditangkap) bisa membantu tubuh dan otaknya tetap aktif.</p>
+      <p>Mereka juga suka tempat tinggi yang aman. Rak dinding yang kokoh, cat tree, atau jendela dengan pemandangan burung di luar sering jadi spot favorit. Anggap saja BSH butuh kantor kecil sebagai manajer keamanan rumah tangga.</p>
+
+      <h2>Makan dan berat badan: pantau dengan lembut</h2>
+      <p>Banyak BSH cenderung mudah gemuk kalau porsi dan camilan tidak dijaga. Tubuh mereka memang terlihat padat dan "berisi", jadi kadang sulit membedakan mana yang proporsional dan mana yang sudah kelebihan. Timbang rutin, ukur pakan sesuai panduan di kemasan atau saran dokter hewan, dan jangan jadikan camilan sebagai alat negosiasi sepanjang hari.</p>
+      <p>Kalau kamu ragu soal porsi, bentuk tubuh, atau pola makan, tanyakan ke dokter hewan. Mereka yang paling tepat menilai apakah anabulmu berada di jalur yang sehat.</p>
+
+      <h2>Kesehatan: observasi + dokter hewan, bukan tebak-tebakan</h2>
+      <p>Seperti kucing lain, BSH tetap butuh vaksinasi, obat cacing sesuai jadwal, dan pemeriksaan rutin. Jangan mengandalkan artikel internet untuk mendiagnosis. Kalau nafsu makan berubah drastis, ia jadi lesu, susah buang air, atau ada perubahan perilaku yang mencolok, hubungi dokter hewan. Lebih baik "salah-salah waspada" daripada menunggu terlalu lama.</p>
+
+      <h2>Apakah BSH cocok buat pemula?</h2>
+      <p>Banyak pemilik pemula merasa BSH relatif "lebih mudah diajak kompromi" dibanding ras yang sangat aktif atau sangat vokal. Tapi "cocok" tetap bergantung pada rumahmu: apakah kamu siap menyediakan waktu bermain, tempat yang aman, kotak pasir bersih, dan kunjungan ke dokter hewan? Kucing kalem pun tetap makhluk hidup dengan kebutuhan, bukan dekorasi bulu yang bisa dibiarkan di pojok ruang tamu.</p>
+      <p>Kalau kamu sedang menimbang, mulailah dari belajar kebutuhan dasar: kotak pasir, makanan yang sesuai, scratching post, dan ruang yang ramah kucing. Artikel-artikel lain di situs ini bisa jadi bekal sebelum keputusan besar diambil.</p>
+
+      <h2>Penutup</h2>
+      <p>British Shorthair itu kombinasi wajah boneka, tubuh padat, dan kepribadian yang sering terasa tenang tapi tetap penuh karakter. Mereka bukan robot pengikut perintah, melainkan teman rumah yang punya selera sendiri. Kenali individunya, rawat bulunya dengan sabar, ajak main secukupnya, dan selalu libatkan dokter hewan untuk urusan kesehatan.</p>
+      <p>Kami di Deholic Cattery, cattery British Shorthair di Jakarta Barat yang berdiri sejak 2025 dengan tiga kucing BSH di awal perjalanan, senang sekali berbagi cerita seputar anabul. Sapa kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "scratching-post-kucing-biar-dipakai",
     title: "Scratching Post Mahal tapi Dicuekin? Begini Biar Anabul Mau Pakai",
     category: "Perilaku",
