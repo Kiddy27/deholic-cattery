@@ -22,6 +22,67 @@
 
 window.ARTICLES = [
   {
+    slug: "tips-air-minum-kucing-rumahan",
+    title: "Biar Anabul Cukup Minum: Tips Air Minum untuk Kucing Rumahan",
+    category: "Perawatan",
+    excerpt:
+      "Kucingmu jarang kelihatan minum? Tips santai soal mangkuk, posisi, air segar, dan kebiasaan kecil biar anabul rumahan lebih rajin minum.",
+    date: "2026-10-07",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "bowl",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Kamu sudah menyiapkan mangkuk air yang bersih, diisi penuh, ditaruh rapi di samping mangkuk makan. Lalu anabul lewat, melirik sebentar, dan... memilih minum dari gelas kopimu yang ketinggalan di meja. Atau dari keran wastafel. Atau dari genangan air bekas siram tanaman. Selamat, kamu resmi bergabung dengan klub hooman yang bingung kenapa kucing begitu pemilih soal air.</p>
+      <p>Tenang, ini cerita yang sangat umum. Banyak kucing memang tidak terlihat "rajin minum" seperti anjing yang langsung menyeruput air sampai lantai basah. Kabar baiknya, ada beberapa trik sederhana yang bisa membuat air minum jadi lebih menarik di mata (dan kumis) mereka.</p>
+
+      <h2>Kenapa kucing sering terlihat malas minum?</h2>
+      <p>Kucing punya selera yang cukup spesifik. Mereka bisa peduli pada rasa air, bau mangkuk, posisi tempat minum, sampai apakah kumisnya tersentuh pinggiran mangkuk atau tidak. Kalau ada satu hal yang terasa kurang pas, mereka bisa saja cuek dan mencari sumber air lain yang menurut mereka lebih "berkelas".</p>
+      <p>Selain itu, jenis makanan juga berpengaruh. Kucing yang banyak makan makanan basah biasanya sudah mendapat sebagian cairan dari makanannya, jadi wajar kalau ia tidak terlalu sering mampir ke mangkuk air. Sementara kucing yang lebih banyak makan makanan kering umumnya perlu lebih banyak minum dari mangkuk. Jadi jangan langsung panik hanya karena kamu jarang memergokinya minum, tapi tetap perhatikan pola keseluruhannya.</p>
+
+      <h2>Mangkuk yang tepat: kumis juga punya perasaan</h2>
+      <p>Banyak kucing kurang suka mangkuk yang sempit dan dalam, karena kumisnya jadi menyentuh pinggiran setiap kali menunduk. Bayangkan minum sambil pipimu digesek-gesek terus. Agak menyebalkan, kan?</p>
+      <ul>
+        <li><strong>Pilih mangkuk lebar dan tidak terlalu dalam:</strong> supaya kumis tidak terganggu dan anabul bisa melihat sekelilingnya saat minum.</li>
+        <li><strong>Pertimbangkan bahan:</strong> mangkuk keramik, kaca, atau stainless steel umumnya lebih mudah dibersihkan dan tidak gampang menyimpan bau dibanding plastik yang sudah tergores.</li>
+        <li><strong>Isi sampai cukup penuh:</strong> beberapa kucing lebih suka permukaan air yang dekat dengan bibir mangkuk, jadi tidak perlu menunduk terlalu dalam.</li>
+      </ul>
+
+      <h2>Lokasi, lokasi, lokasi</h2>
+      <p>Di dunia properti, lokasi itu penting. Ternyata di dunia anabul juga. Beberapa hal yang bisa kamu coba:</p>
+      <ul>
+        <li><strong>Jauhkan dari kotak pasir:</strong> kamu juga pasti nggak mau minum di sebelah toilet. Kucing pun begitu.</li>
+        <li><strong>Coba pisahkan dari mangkuk makan:</strong> sebagian kucing lebih suka tempat minum yang tidak menempel dengan tempat makannya. Tidak semua kucing begini, tapi layak dicoba.</li>
+        <li><strong>Sediakan lebih dari satu titik air:</strong> taruh mangkuk di beberapa sudut rumah, misalnya dekat tempat tidurnya, di ruang tengah, atau dekat jendela favoritnya. Semakin gampang ditemukan, semakin besar peluang ia mampir.</li>
+        <li><strong>Pilih tempat yang tenang:</strong> hindari lorong yang ramai lalu-lalang atau dekat mesin cuci yang tiba-tiba bergemuruh.</li>
+      </ul>
+
+      <h2>Air segar itu wajib, bukan bonus</h2>
+      <p>Air yang sudah didiamkan seharian, apalagi yang ada bulu atau remah makanan mengapung, bisa jadi alasan anabul mogok minum. Ganti air setiap hari, dan cuci mangkuknya secara rutin dengan sabun lalu bilas sampai bersih supaya tidak tersisa bau sabun. Hidung kucing itu sensitif, jadi aroma yang menurut kita samar bisa terasa mengganggu buat mereka.</p>
+      <p>Kalau anabulmu suka minum dari gelasmu, mungkin itu pertanda ia suka air yang baru dituang. Coba isi ulang mangkuknya di depan dia. Kadang, melihat air "baru" saja sudah cukup bikin dia penasaran.</p>
+
+      <h2>Air mancur kucing: perlu atau tidak?</h2>
+      <p>Kucing yang hobi minum dari keran biasanya tertarik pada air yang bergerak. Untuk tipe ini, air mancur khusus kucing (cat water fountain) bisa jadi pilihan menarik. Gemericiknya sering memancing rasa ingin tahu, dan banyak hooman merasa kucingnya jadi lebih sering mampir.</p>
+      <p>Tapi ini bukan kewajiban. Ada juga kucing yang malah curiga dengan benda berisik baru di rumahnya. Kalau mau mencoba, kenalkan pelan-pelan, tetap sediakan mangkuk biasa di dekatnya, dan bersihkan air mancur serta filternya sesuai petunjuk produsen. Air mancur yang jarang dibersihkan justru bisa lebih jorok daripada mangkuk biasa.</p>
+
+      <h2>Trik kecil yang sering berhasil</h2>
+      <ul>
+        <li><strong>Tambahkan makanan basah ke menu:</strong> kalau cocok untuk anabulmu, ini cara mudah menambah asupan cairan. Untuk perubahan pola makan, sebaiknya diskusikan dulu dengan dokter hewan.</li>
+        <li><strong>Jadikan momen minum menyenangkan:</strong> sebagian kucing suka kalau ditemani. Duduk di dekatnya sambil ngobrol pelan bisa membuatnya lebih santai.</li>
+        <li><strong>Perhatikan suhu ruangan:</strong> saat cuaca panas, pastikan ada air di tempat yang sejuk dan teduh, bukan di bawah sinar matahari langsung.</li>
+        <li><strong>Jangan pakai air yang aneh-aneh:</strong> air minum bersih yang biasa kamu konsumsi sudah cukup. Tidak perlu menambahkan susu, kaldu berbumbu, atau minuman manis ke mangkuknya.</li>
+      </ul>
+
+      <h2>Kapan harus ke dokter hewan?</h2>
+      <p>Tips di atas untuk kucing sehat yang sekadar pemilih. Kalau kamu melihat perubahan yang mencolok, jangan ditebak sendiri. Misalnya anabul tiba-tiba minum jauh lebih banyak dari biasanya, atau malah hampir tidak minum sama sekali, buang air kecil jadi lebih sering atau justru sedikit sekali, terlihat lemas, kehilangan nafsu makan, atau gusinya terasa kering. Hal-hal seperti ini sebaiknya segera dikonsultasikan ke dokter hewan, karena bisa jadi tanda ada sesuatu yang perlu diperiksa.</p>
+      <p>Mengenali kebiasaan normal anabulmu sejak awal akan sangat membantu. Dengan begitu, kamu lebih cepat sadar kalau ada yang berubah.</p>
+
+      <h2>Penutup</h2>
+      <p>Membuat kucing rajin minum itu bukan soal memaksa, melainkan soal membuat air terasa menarik dan mudah dijangkau. Mangkuk lebar, air segar, lokasi yang tenang, dan sedikit kesabaran sering sudah membawa perubahan. Dan kalau anabulmu tetap bersikeras minum dari gelas kopimu... ya, mungkin saatnya kamu yang mengalah dan menutup gelas rapat-rapat.</p>
+      <p>Kami di Deholic Cattery, cattery British Shorthair di Jakarta Barat, senang berbagi tips sederhana seputar kehidupan bareng anabul. Mampir dan sapa kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "mengenal-british-shorthair",
     title: "Mengenal British Shorthair: Si Boneka Hidup yang Kalem",
     category: "Pemula",
