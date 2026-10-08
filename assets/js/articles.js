@@ -22,6 +22,72 @@
 
 window.ARTICLES = [
   {
+    slug: "memilih-tempat-tidur-kucing",
+    title: "Kasur Mahal Dicuekin, Kardus Dipeluk: Cara Memilih Tempat Tidur Kucing",
+    category: "Gaya Hidup",
+    excerpt:
+      "Beli kasur kucing cantik, eh anabul malah tidur di kardusnya. Tips santai memilih bentuk, bahan, dan lokasi tempat tidur yang benar-benar dipakai.",
+    date: "2026-10-08",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "home",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Kamu sudah scroll marketplace berjam-jam, membandingkan warna, membaca ulasan, lalu akhirnya check out kasur kucing paling empuk dan paling estetik. Paket datang, kasur ditata rapi, kamu memanggil anabul dengan penuh harap. Dia datang, mengendus kasurnya sebentar, lalu dengan mantap masuk ke... kardus bekas paketnya. Kasurnya? Dilewati begitu saja, seperti mantan.</p>
+      <p>Kalau ini terdengar akrab, kamu tidak sendirian. Kucing memang punya pendapat yang kuat soal tempat tidur. Kabar baiknya, dengan sedikit pengamatan, kamu bisa memilih tempat tidur yang jauh lebih mungkin dipakai, bukan cuma jadi pajangan.</p>
+
+      <h2>Kenapa tempat tidur itu penting buat kucing?</h2>
+      <p>Kucing dikenal sebagai makhluk yang hobi tidur. Sebagian besar harinya bisa habis untuk tidur dan bermalas-malasan, apalagi kucing rumahan yang hidupnya santai. Karena itu, punya tempat istirahat yang terasa aman dan nyaman bisa membantu anabul lebih tenang di rumah.</p>
+      <p>Tapi ingat, "nyaman" menurut kucing belum tentu sama dengan "nyaman" menurut kita. Yang kita lihat lucu dan empuk, belum tentu lolos seleksi juri berkumis.</p>
+
+      <h2>Kenali dulu gaya tidur anabulmu</h2>
+      <p>Sebelum belanja, coba jadi detektif selama beberapa hari. Perhatikan di mana dan bagaimana anabulmu biasanya tidur:</p>
+      <ul>
+        <li><strong>Si penggulung:</strong> tidur melingkar seperti donat. Biasanya cocok dengan kasur bundar berpinggiran (sering disebut donut bed) yang bisa jadi sandaran.</li>
+        <li><strong>Si pembentang:</strong> tidur telentang atau memanjang tanpa malu. Kasur datar yang cukup lebar atau matras tipis mungkin lebih pas.</li>
+        <li><strong>Si penyembunyi:</strong> suka tidur di kolong, lemari, atau kardus. Tipe ini sering menyukai tempat tidur tertutup seperti cat cave atau rumah-rumahan kecil.</li>
+        <li><strong>Si pengawas:</strong> selalu tidur di tempat tinggi, misalnya di atas lemari atau sandaran sofa. Coba pertimbangkan tempat tidur di cat tree atau rak yang aman.</li>
+      </ul>
+      <p>Satu kucing bisa saja punya beberapa gaya tergantung mood dan cuaca. Namanya juga kucing, konsistensi bukan keahlian utamanya.</p>
+
+      <h2>Bahan dan ukuran: jangan cuma lihat fotonya</h2>
+      <p>Foto produk memang menggoda, tapi beberapa hal praktis ini lebih penting:</p>
+      <ul>
+        <li><strong>Gampang dicuci:</strong> pilih tempat tidur dengan sarung yang bisa dilepas atau yang bisa langsung dicuci. Bulu, debu, dan sesekali muntahan bola bulu itu bagian dari paket hidup bareng kucing.</li>
+        <li><strong>Sesuaikan dengan cuaca:</strong> di Jakarta yang sering gerah, bahan yang terlalu tebal dan berbulu bisa terasa panas. Bahan yang lebih adem atau matras tipis bisa jadi alternatif, terutama di siang hari.</li>
+        <li><strong>Ukuran yang pas:</strong> kucing sering suka tempat yang terasa "memeluk" badannya. Terlalu besar bisa terasa kurang aman, terlalu kecil ya bikin badannya tumpah ke mana-mana.</li>
+        <li><strong>Cek jahitan dan hiasan:</strong> hindari pompom, tali, atau manik-manik yang gampang lepas dan bisa dikunyah.</li>
+      </ul>
+
+      <h2>Lokasi menentukan segalanya</h2>
+      <p>Kasur sebagus apa pun bisa gagal kalau ditaruh di tempat yang salah. Beberapa hal yang bisa kamu coba:</p>
+      <ul>
+        <li><strong>Taruh di spot favoritnya:</strong> kalau dia selalu tidur di ujung sofa, letakkan kasurnya di dekat situ. Jangan memaksanya pindah ke pojok yang menurutmu lebih rapi.</li>
+        <li><strong>Pilih tempat yang tenang:</strong> jauhkan dari mesin cuci, pintu yang sering dibanting, atau jalur lalu-lalang.</li>
+        <li><strong>Jauh dari kotak pasir dan mangkuk makan:</strong> kucing umumnya suka area tidur, makan, dan buang air yang terpisah.</li>
+        <li><strong>Manfaatkan sinar matahari pagi:</strong> banyak kucing senang berjemur. Spot dekat jendela yang kena cahaya hangat bisa jadi lokasi idaman, asal tidak terlalu panas dan jendelanya aman.</li>
+      </ul>
+
+      <h2>Trik biar kasur baru mau dipakai</h2>
+      <p>Kalau kasurnya masih dicuekin, jangan langsung menyerah atau merasa ditolak secara pribadi. Coba beberapa trik ini:</p>
+      <ul>
+        <li><strong>Kasih aroma yang familiar:</strong> letakkan selimut kecil atau kain yang biasa ia tiduri di dalam kasur baru. Bau yang dikenalnya bisa membuat tempat baru terasa lebih "miliknya".</li>
+        <li><strong>Pakai camilan atau mainan:</strong> taruh satu dua camilan atau mainan favoritnya di sana, lalu biarkan dia menjelajah sendiri.</li>
+        <li><strong>Jangan dipaksa:</strong> mengangkat kucing lalu menaruhnya di kasur berulang kali justru bisa bikin dia makin curiga.</li>
+        <li><strong>Sabar sedikit:</strong> beberapa kucing butuh waktu untuk menerima benda baru. Ada yang langsung suka, ada yang baru mau setelah beberapa hari.</li>
+        <li><strong>Gabungkan dengan kardus:</strong> kalau dia memang fans berat kardus, kenapa tidak taruh alas empuk di dalam kardus? Hemat, dan juri berkumis pun puas.</li>
+      </ul>
+
+      <h2>Satu tempat tidur cukup?</h2>
+      <p>Tidak ada aturan baku, tapi banyak hooman menyediakan lebih dari satu tempat istirahat di beberapa sudut rumah. Kucing suka berpindah-pindah, dan punya pilihan bisa membuatnya lebih leluasa. Kalau di rumah ada lebih dari satu kucing, menyediakan beberapa spot juga bisa mengurangi rebutan "kursi VIP".</p>
+      <p>Jangan lupa cuci tempat tidurnya secara rutin. Kalau kamu melihat perubahan kebiasaan tidur yang mencolok, misalnya anabul tiba-tiba terus bersembunyi, tampak lemas, atau tidak mau bergerak seperti biasanya, sebaiknya konsultasikan ke dokter hewan supaya penyebabnya bisa diperiksa.</p>
+
+      <h2>Penutup</h2>
+      <p>Memilih tempat tidur kucing itu bukan soal mencari yang paling mahal, tapi soal memahami gaya tidur, selera, dan spot favorit anabulmu. Amati dulu, pilih yang praktis, taruh di tempat yang tepat, dan beri dia waktu. Kalau ujung-ujungnya dia tetap memilih kardus... anggap saja kamu dapat bonus tempat tidur gratis setiap kali belanja online.</p>
+      <p>Kami di Deholic Cattery, cattery British Shorthair di Jakarta Barat, senang berbagi tips sederhana seputar kehidupan bareng anabul. Mampir dan sapa kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "tips-air-minum-kucing-rumahan",
     title: "Biar Anabul Cukup Minum: Tips Air Minum untuk Kucing Rumahan",
     category: "Perawatan",
