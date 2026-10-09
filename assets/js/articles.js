@@ -22,6 +22,70 @@
 
 window.ARTICLES = [
   {
+    slug: "mainan-stimulasi-kucing-indoor",
+    title: "Anabul Bosan di Rumah? Ide Mainan dan Stimulasi untuk Kucing Indoor",
+    category: "Gaya Hidup",
+    excerpt:
+      "Kucing indoor juga butuh hiburan, bukan cuma makan dan tidur. Ide mainan, permainan cari makan, dan trik rotasi biar anabul tetap aktif dan senang.",
+    date: "2026-10-09",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "sparkle",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Jam tiga pagi. Rumah sunyi. Tiba-tiba terdengar suara gedebak-gedebuk dari ruang tengah, disusul suara sesuatu jatuh dari meja. Kamu keluar kamar dan menemukan anabul sedang berlari dari ujung ke ujung rumah seperti dikejar deadline. Kalau ini sering terjadi, bisa jadi anabulmu sedang menyampaikan pesan sederhana: "Hooman, aku bosan."</p>
+      <p>Kucing yang tinggal di dalam rumah memang lebih terlindung dari banyak risiko di luar. Tapi dunia mereka juga jadi lebih kecil. Di sinilah tugas kita: membuat rumah tetap terasa seru, tanpa harus mengubahnya jadi taman bermain mahal.</p>
+
+      <h2>Kenapa kucing indoor butuh stimulasi?</h2>
+      <p>Kucing pada dasarnya adalah pemburu kecil. Mengintai, mengejar, menerkam, lalu "menangkap" sesuatu adalah bagian dari naluri mereka, walaupun mangsanya cuma bulu di ujung tongkat. Kalau naluri ini tidak punya saluran, energinya bisa keluar dalam bentuk lain: mencakar sofa, menggigit kaki yang lewat, atau menjatuhkan barang dengan tatapan tanpa dosa.</p>
+      <p>Stimulasi bukan cuma soal fisik, tapi juga soal pikiran. Kucing yang punya kegiatan biasanya terlihat lebih santai dan puas. Bonusnya, kamu juga jadi lebih kenal karakter anabulmu.</p>
+
+      <h2>Kenali dulu tipe pemburu di rumahmu</h2>
+      <p>Setiap kucing punya selera mainan sendiri. Coba amati, anabulmu lebih semangat saat:</p>
+      <ul>
+        <li><strong>Mengejar sesuatu di udara:</strong> bulu, kupu-kupu mainan, atau tali yang melayang. Tipe ini sering suka mainan tongkat (wand toy).</li>
+        <li><strong>Mengejar sesuatu di lantai:</strong> bola kecil, tikus-tikusan, atau tutup botol yang menggelinding. Si pemburu "darat" ini biasanya senang dengan mainan yang bisa dipukul-pukul.</li>
+        <li><strong>Menyerang lalu memeluk:</strong> mainan panjang yang bisa dipeluk sambil ditendang-tendang dengan kaki belakang. Kelihatannya brutal, padahal dia sedang bahagia.</li>
+      </ul>
+      <p>Jangan kaget kalau mainan termahal justru dicuekin, sementara karet rambutmu jadi primadona. Itu bukan penghinaan, itu riset pasar.</p>
+
+      <h2>Ide mainan yang gampang dicoba</h2>
+      <ul>
+        <li><strong>Mainan tongkat:</strong> salah satu cara paling seru untuk main bareng. Gerakkan ujungnya seperti mangsa sungguhan: bersembunyi di balik kursi, diam sebentar, lalu kabur. Mangsa yang langsung lompat ke muka kucing justru kurang meyakinkan.</li>
+        <li><strong>Bola dan mainan kecil:</strong> pilih yang ukurannya tidak terlalu kecil supaya tidak mudah tertelan.</li>
+        <li><strong>Kardus dan kantong kertas:</strong> mainan gratis yang tidak pernah gagal. Lubangi kardus di beberapa sisi, dan kamu punya terowongan petualangan. Gunting dulu pegangan kantong kertas supaya kepala anabul tidak tersangkut.</li>
+        <li><strong>Mainan puzzle atau cari makan:</strong> wadah yang harus diputar, digoyang, atau dikorek supaya camilan keluar. Kamu juga bisa bikin sendiri dari gulungan tisu bekas yang ujungnya dilipat, lalu diisi beberapa butir makanan kering.</li>
+      </ul>
+
+      <h2>Bikin makan jadi petualangan kecil</h2>
+      <p>Di alam, kucing harus berusaha dulu sebelum makan. Kucing rumahan? Tinggal duduk manis di depan mangkuk sambil menatap kita penuh harap. Supaya ada sedikit tantangan, coba sembunyikan beberapa butir makanan kering atau camilan di beberapa sudut rumah, atau masukkan ke mainan puzzle tadi.</p>
+      <p>Mulai dari yang gampang dulu supaya anabul tidak frustrasi, baru naikkan tingkat kesulitannya pelan-pelan. Ingat juga untuk menghitung camilan ini sebagai bagian dari porsi makan hariannya, ya. Tujuannya biar anabul aktif, bukan biar dia makin bulat.</p>
+
+      <h2>Rumah juga bisa jadi taman bermain</h2>
+      <p>Stimulasi tidak selalu harus berupa mainan. Beberapa hal sederhana di rumah juga bisa bikin hari anabul lebih menarik:</p>
+      <ul>
+        <li><strong>Tempat tinggi:</strong> rak dinding, cat tree, atau lemari rendah yang aman memberi kucing tempat untuk memanjat dan mengamati "wilayah kekuasaannya".</li>
+        <li><strong>Pemandangan jendela:</strong> melihat burung, daun bergoyang, atau tetangga lewat bisa jadi tontonan favorit. Pastikan jendela dan teralisnya aman.</li>
+        <li><strong>Aroma baru:</strong> sebagian kucing tertarik pada catnip atau mainan beraroma, sebagian lagi biasa saja. Coba sedikit dulu dan lihat reaksinya.</li>
+      </ul>
+
+      <h2>Rahasia kecil: rotasi mainan</h2>
+      <p>Mainan yang tergeletak setiap hari lama-lama terasa seperti perabot. Coba simpan sebagian mainan di laci, lalu keluarkan beberapa saja secara bergantian setiap beberapa hari. Mainan lama yang "menghilang" sebentar sering terasa seperti barang baru saat muncul lagi. Hemat, dan anabul tetap penasaran.</p>
+
+      <h2>Soal keamanan, jangan dilewatkan</h2>
+      <ul>
+        <li>Simpan mainan bertali, benang, pita, dan karet setelah sesi main selesai. Mainan seperti ini sebaiknya dipakai hanya saat kamu ikut mengawasi.</li>
+        <li>Cek mainan secara berkala. Kalau sudah sobek, ada bagian yang lepas, atau isinya keluar, sebaiknya dibuang.</li>
+        <li>Hindari laser sebagai satu-satunya mainan. Banyak hooman mengakhiri sesi laser dengan mengarahkan titiknya ke mainan sungguhan supaya kucing tetap bisa "menangkap" sesuatu.</li>
+      </ul>
+      <p>Kalau anabulmu tiba-tiba kehilangan minat bermain sama sekali, terlihat lesu, atau perilakunya berubah drastis, sebaiknya konsultasikan ke dokter hewan. Kadang perubahan seperti ini bukan cuma soal bosan.</p>
+
+      <h2>Penutup</h2>
+      <p>Membuat kucing indoor tetap senang tidak butuh rumah besar atau mainan mahal. Yang dibutuhkan hanyalah sedikit kreativitas, beberapa menit waktu bermain setiap hari, dan kesediaan menerima kenyataan bahwa kardus bekas mungkin akan selalu jadi mainan nomor satu. Siapa tahu, setelah energinya tersalurkan di siang hari, konser jam tiga pagi pun ikut berkurang.</p>
+      <p>Kami di Deholic Cattery, cattery British Shorthair di Jakarta Barat, senang berbagi tips sederhana seputar kehidupan bareng anabul. Mampir dan sapa kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "memilih-tempat-tidur-kucing",
     title: "Kasur Mahal Dicuekin, Kardus Dipeluk: Cara Memilih Tempat Tidur Kucing",
     category: "Gaya Hidup",
