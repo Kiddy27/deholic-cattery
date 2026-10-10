@@ -22,6 +22,70 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-takut-suara-bising",
+    title: "Petir, Bor Tetangga, dan Kembang Api: Bikin Anabul Tetap Tenang saat Rumah Bising",
+    category: "Perilaku",
+    excerpt:
+      "Anabul langsung ngumpet tiap ada petir atau suara bor? Cara sederhana bikin kucing tetap tenang saat rumah berisik, tanpa dipaksa dan tanpa panik.",
+    date: "2026-10-10",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "shield",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Langit mendung, lalu tiba-tiba terdengar suara petir menggelegar. Dalam sepersekian detik, anabul yang tadinya rebahan santai di sofa sudah lenyap. Sepuluh menit kemudian kamu menemukannya di kolong tempat tidur, mata bulat besar, badan menempel ke lantai seperti sedang menyamar jadi karpet. Kalau adegan ini terasa akrab, tenang, kamu tidak sendirian.</p>
+      <p>Telinga kucing umumnya jauh lebih peka daripada telinga kita. Suara yang buat kita cuma "agak berisik" bisa terasa jauh lebih mengagetkan buat mereka. Kabar baiknya, ada banyak cara sederhana untuk membantu anabul melewati hari-hari bising dengan lebih tenang.</p>
+
+      <h2>Suara apa saja yang sering bikin kucing kaget?</h2>
+      <p>Setiap kucing beda-beda, tapi beberapa "tersangka" yang sering muncul antara lain:</p>
+      <ul>
+        <li><strong>Hujan deras dan petir:</strong> apalagi di musim hujan, saat suara gemuruh bisa datang berkali-kali dalam sehari.</li>
+        <li><strong>Renovasi:</strong> bor, palu, gerinda, dan tukang yang bolak-balik. Kombinasi suara keras dan orang asing sekaligus.</li>
+        <li><strong>Kembang api dan petasan:</strong> biasanya muncul mendadak, keras, dan berulang.</li>
+        <li><strong>Peralatan rumah:</strong> vacuum cleaner, blender, atau mesin cuci saat masuk mode putar kencang. Ada kucing yang cuek, ada juga yang menganggap vacuum sebagai musuh bebuyutan.</li>
+      </ul>
+
+      <h2>Tanda anabul sedang takut atau stres</h2>
+      <p>Kucing jarang bilang terus terang, jadi kita perlu jeli membaca tandanya. Beberapa yang sering terlihat:</p>
+      <ul>
+        <li>Langsung bersembunyi dan susah dibujuk keluar.</li>
+        <li>Telinga menempel ke belakang, pupil membesar, badan merendah.</li>
+        <li>Ekor diselipkan ke bawah badan atau bulu terlihat mengembang.</li>
+        <li>Mendesis, menggeram, atau justru diam membeku.</li>
+        <li>Untuk sementara tidak mau makan atau tidak mau ke kotak pasir.</li>
+      </ul>
+
+      <h2>Sediakan tempat persembunyian yang aman</h2>
+      <p>Saat takut, naluri pertama kucing adalah mencari tempat sembunyi. Jadi daripada melawan naluri itu, bantu saja. Sediakan satu "bunker" yang nyaman: kardus yang dilapisi kain, kandang yang ditutup selimut tipis, atau sudut lemari yang bisa dia akses. Taruh di ruangan yang paling jauh dari sumber suara kalau memungkinkan.</p>
+      <p>Yang penting, biarkan dia memilih sendiri. Kalau anabul sudah nyaman di kolong kasur, jangan ditarik keluar. Buat dia, kolong kasur itu benteng pertahanan terakhir, bukan tempat ngambek.</p>
+
+      <h2>Redam suaranya sebisa mungkin</h2>
+      <ul>
+        <li><strong>Tutup jendela dan tirai:</strong> sedikit membantu meredam suara, sekaligus menutupi kilatan petir atau kembang api.</li>
+        <li><strong>Nyalakan suara latar yang lembut:</strong> musik pelan, TV dengan volume wajar, atau kipas angin bisa membantu menyamarkan suara dari luar.</li>
+        <li><strong>Atur jadwal renovasi:</strong> kalau kamu yang sedang renovasi, coba siapkan satu ruangan tenang untuk anabul selama tukang bekerja. Pastikan pintunya tertutup supaya dia tidak kabur saat panik.</li>
+      </ul>
+
+      <h2>Tetap tenang, jadilah teladan</h2>
+      <p>Kucing cukup peka dengan suasana di sekitarnya. Kalau kita ikut panik, anabul bisa makin bingung. Usahakan tetap bersikap biasa saja: bicara dengan suara pelan, tetap beraktivitas seperti biasa, dan jangan memaksa memeluk kucing yang sedang ketakutan. Kalau dia datang sendiri minta ditemani, silakan dielus pelan. Kalau dia memilih menyendiri, hormati keputusannya.</p>
+      <p>Satu hal yang penting: jangan pernah memarahi atau menghukum kucing yang ketakutan. Rasa takut bukan kenakalan, dan hukuman justru bisa membuatnya makin cemas.</p>
+
+      <h2>Latihan pelan-pelan untuk suara yang bisa diprediksi</h2>
+      <p>Untuk suara yang sumbernya ada di rumah, seperti vacuum cleaner, kamu bisa mencoba membiasakan anabul secara bertahap. Misalnya, biarkan vacuum diam di ruangan dalam keadaan mati supaya dia bisa mengendus dan mengenalnya. Setelah dia santai, nyalakan sebentar dari kejauhan sambil memberi camilan atau mengajak bermain. Lakukan sedikit demi sedikit, dan berhenti kalau dia mulai terlihat takut.</p>
+      <p>Proses ini butuh kesabaran, dan tidak semua kucing akan jadi sahabat vacuum. Tapi naik level dari "kabur ke kolong" menjadi "melirik sinis dari atas kursi" pun sudah termasuk kemajuan.</p>
+
+      <h2>Setelah suara mereda</h2>
+      <p>Begitu suasana kembali tenang, biarkan anabul keluar dari persembunyian dengan sendirinya. Siapkan makanan, air minum, dan kotak pasir yang mudah dijangkau. Ajak main sebentar atau beri camilan kecil supaya suasana kembali menyenangkan. Biasanya, setelah beberapa waktu, dia akan kembali ke rutinitas: makan, tidur, dan menatapmu seolah tidak pernah terjadi apa-apa.</p>
+
+      <h2>Kapan perlu ke dokter hewan?</h2>
+      <p>Kalau rasa takut anabul terlihat sangat berat, misalnya dia tidak mau makan lebih dari sehari, terus-menerus bersembunyi bahkan setelah suara hilang, atau sampai melukai diri sendiri, sebaiknya konsultasikan ke dokter hewan. Dokter hewan bisa membantu mencari tahu apakah ada masalah lain dan menyarankan langkah yang sesuai untuk kucingmu. Jangan memberi obat penenang atau produk apa pun tanpa saran dokter hewan, ya.</p>
+
+      <h2>Penutup</h2>
+      <p>Kita memang tidak bisa menghentikan petir, mengatur jadwal tukang tetangga, atau melarang kembang api. Tapi kita bisa membuat rumah tetap terasa aman buat anabul. Dengan tempat sembunyi yang nyaman, suasana yang tenang, dan sedikit kesabaran, hari-hari bising pun bisa dilewati bersama, meskipun dia tetap memilih melewatinya dari kolong kasur.</p>
+      <p>Kami di Deholic Cattery, cattery British Shorthair di Jakarta Barat, senang berbagi tips sederhana seputar kehidupan bareng anabul. Mampir dan sapa kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "mainan-stimulasi-kucing-indoor",
     title: "Anabul Bosan di Rumah? Ide Mainan dan Stimulasi untuk Kucing Indoor",
     category: "Gaya Hidup",
