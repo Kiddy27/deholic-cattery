@@ -22,6 +22,66 @@
 
 window.ARTICLES = [
   {
+    slug: "membiasakan-kucing-masuk-carrier",
+    title: "Carrier Bukan Musuh: Cara Membiasakan Kucing Masuk Kandang Travel Tanpa Drama",
+    category: "Perawatan",
+    excerpt:
+      "Anabul langsung kabur tiap carrier keluar dari gudang? Begini cara pelan-pelan bikin kandang travel jadi tempat yang aman dan nyaman buat kucing.",
+    date: "2026-10-11",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "home",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Begitu kandang travel dikeluarkan dari gudang, suasana rumah langsung berubah jadi film aksi. Anabul yang tadinya tidur pulas mendadak punya kekuatan super: menghilang ke kolong lemari, menempel di sudut paling jauh, atau berubah jadi gumpalan bulu yang kaku dengan empat kaki terbuka lebar di depan pintu carrier. Lima belas menit kemudian, kamu sudah berkeringat, dan janji ke dokter hewan atau grooming sudah hampir telat.</p>
+      <p>Kalau ini terdengar familiar, tenang dulu. Banyak kucing tidak suka carrier bukan karena carrier-nya seram, tapi karena benda itu biasanya cuma muncul sebelum hal-hal yang kurang menyenangkan. Kabar baiknya, kesan itu bisa diubah pelan-pelan.</p>
+
+      <h2>Kenapa kucing sering takut carrier?</h2>
+      <p>Coba lihat dari sudut pandang anabul. Kotak itu muncul tiba-tiba, dia dimasukkan dengan buru-buru, lalu diajak naik kendaraan yang bergoyang dan berbunyi aneh, dan berakhir di tempat penuh bau asing. Wajar kalau dia mengingat carrier sebagai "tanda bahaya".</p>
+      <p>Jadi tujuan kita sederhana: mengubah carrier dari "kotak tanda bahaya" menjadi "furnitur biasa yang kadang ada camilannya".</p>
+
+      <h2>Pilih carrier yang nyaman</h2>
+      <p>Sebelum latihan, pastikan carrier-nya sendiri bersahabat. Beberapa hal yang bisa jadi pertimbangan:</p>
+      <ul>
+        <li><strong>Ukuran pas:</strong> cukup lega untuk berdiri, berbalik badan, dan berbaring, tapi tidak terlalu besar sampai dia terguling-guling di jalan.</li>
+        <li><strong>Mudah dibuka:</strong> carrier yang bagian atasnya bisa dibuka biasanya memudahkan kucing masuk dan keluar tanpa harus ditarik-tarik.</li>
+        <li><strong>Kokoh dan berventilasi:</strong> pintu terkunci rapat, ada lubang udara yang cukup, dan alasnya tidak licin.</li>
+      </ul>
+
+      <h2>Langkah 1: Jadikan carrier bagian dari rumah</h2>
+      <p>Ini rahasia paling sederhana tapi sering terlewat. Jangan simpan carrier di gudang. Taruh di ruangan yang sering dipakai anabul, dengan pintu terbuka atau dilepas sementara. Biarkan dia mengendus, melirik, atau bahkan mengabaikannya selama beberapa hari. Lama-lama carrier jadi benda membosankan yang memang ada di situ, sama seperti sofa atau rak buku.</p>
+
+      <h2>Langkah 2: Bikin bagian dalamnya menggoda</h2>
+      <p>Lapisi bagian dalam carrier dengan selimut atau handuk yang sudah ada bau anabul atau baumu. Sesekali, selipkan camilan kesukaannya atau mainan kecil di dalam. Jangan didorong masuk, cukup biarkan dia "menemukan" hadiah itu sendiri. Kucing suka merasa ide itu datang dari dirinya, bukan dari kita.</p>
+      <p>Kalau anabul suka tidur di kardus, besar kemungkinan suatu hari kamu akan menemukannya tidur siang di dalam carrier. Di momen itu, rasanya seperti menang lotre kecil.</p>
+
+      <h2>Langkah 3: Latihan menutup pintu, sebentar saja</h2>
+      <p>Setelah dia santai masuk-keluar sendiri, mulai tutup pintunya sebentar saat dia sedang asyik makan camilan di dalam. Cukup beberapa detik, lalu buka lagi. Pelan-pelan, perpanjang waktunya. Kalau dia mulai gelisah, mundur selangkah ke latihan sebelumnya. Tidak ada lomba di sini.</p>
+
+      <h2>Langkah 4: Angkat dan ajak jalan-jalan kecil</h2>
+      <p>Kalau menutup pintu sudah aman, coba angkat carrier sebentar lalu taruh lagi. Berikutnya, bawa keliling rumah, kemudian ke teras, lalu duduk sebentar di dalam kendaraan tanpa pergi ke mana-mana. Tutup setiap sesi dengan hal menyenangkan, misalnya camilan atau sesi elus-elus. Tujuannya supaya perjalanan tidak selalu berarti tujuan yang bikin deg-degan.</p>
+
+      <h2>Tips saat hari keberangkatan tiba</h2>
+      <ul>
+        <li><strong>Siapkan carrier lebih awal:</strong> jangan baru mencarinya lima menit sebelum berangkat.</li>
+        <li><strong>Tetap tenang:</strong> kucing cukup peka dengan suasana di sekitarnya. Kalau kita panik, dia ikut curiga.</li>
+        <li><strong>Pegang carrier dengan stabil:</strong> peluk di depan badan atau pegang dari bawah, jangan diayun-ayun seperti tas belanja.</li>
+        <li><strong>Tutup sebagian dengan kain tipis:</strong> banyak kucing merasa lebih aman kalau pemandangan di sekitarnya tidak terlalu ramai, asal udara tetap mengalir.</li>
+        <li><strong>Pastikan aman di kendaraan:</strong> taruh carrier di tempat yang stabil supaya tidak bergeser atau jatuh saat mengerem.</li>
+      </ul>
+
+      <h2>Yang sebaiknya dihindari</h2>
+      <p>Jangan memasukkan kucing ke carrier dengan cara mengejar, menyudutkan, atau memaksa sambil marah. Cara itu mungkin berhasil sekali, tapi biasanya membuat latihan berikutnya jauh lebih sulit. Jangan juga membuka pintu carrier di tempat terbuka saat tiba di tujuan, karena kucing yang kaget bisa kabur dengan sangat cepat.</p>
+
+      <h2>Kapan perlu bertanya ke dokter hewan?</h2>
+      <p>Kalau anabul terlihat sangat stres setiap kali bepergian, misalnya terus-menerus mengeong keras, muntah, atau terengah-engah, ceritakan ke dokter hewan. Mereka bisa membantu mencari tahu penyebabnya dan menyarankan langkah yang cocok untuk kucingmu. Jangan memberi obat atau suplemen penenang apa pun tanpa saran dokter hewan, ya.</p>
+
+      <h2>Penutup</h2>
+      <p>Membiasakan kucing dengan carrier memang butuh waktu, mungkin beberapa hari, mungkin beberapa minggu. Tapi usaha kecil ini bisa membuat setiap perjalanan ke dokter hewan, grooming, atau pindah rumah terasa jauh lebih ringan, baik buat anabul maupun buat punggungmu yang tidak perlu lagi merangkak ke kolong lemari.</p>
+      <p>Kami di Deholic Cattery, cattery British Shorthair di Jakarta Barat, senang berbagi tips sederhana seputar kehidupan bareng anabul. Mampir dan sapa kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "kucing-takut-suara-bising",
     title: "Petir, Bor Tetangga, dan Kembang Api: Bikin Anabul Tetap Tenang saat Rumah Bising",
     category: "Perilaku",
