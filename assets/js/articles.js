@@ -22,6 +22,64 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-nyaman-saat-ada-tamu",
+    title: "Rumah Ramai, Anabul Ngumpet? Cara Bikin Kucing Tetap Nyaman saat Ada Tamu",
+    category: "Perilaku",
+    excerpt:
+      "Tamu datang, anabul langsung hilang ke kolong kasur? Begini cara menyiapkan rumah supaya kucing tetap tenang saat rumah lagi ramai.",
+    date: "2026-10-12",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "heart",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Bel pintu berbunyi, suara orang mengobrol mulai terdengar, dan dalam hitungan detik anabul kesayanganmu sudah lenyap. Yang tersisa cuma sehelai bulu di sofa dan sepasang mata bulat yang mengintip dari kolong kasur. Sementara itu, tamumu bertanya dengan polos, "Lho, katanya punya kucing? Mana?"</p>
+      <p>Tenang, ini bukan berarti kucingmu antisosial atau tidak sayang sama kamu. Bagi banyak kucing, rumah yang tiba-tiba ramai itu seperti wilayah pribadinya mendadak diserbu orang asing yang berisik dan baunya aneh. Wajar kalau dia memilih mundur dulu. Tugas kita bukan memaksa dia ikut pesta, tapi memastikan dia tetap merasa aman di rumahnya sendiri.</p>
+
+      <h2>Kenapa kucing sering kabur saat ada tamu?</h2>
+      <p>Kucing umumnya menyukai rutinitas dan lingkungan yang bisa ditebak. Tamu membawa banyak hal baru sekaligus: suara yang lebih keras, langkah kaki yang tidak dikenal, bau parfum atau bau hewan lain, dan kadang tangan-tangan yang langsung ingin mengelus. Setiap kucing punya kadar keberanian yang berbeda. Ada yang langsung menyapa tamu seperti tuan rumah profesional, ada juga yang butuh waktu lama sebelum berani keluar. Keduanya sama-sama normal.</p>
+
+      <h2>Siapkan "zona aman" sebelum tamu datang</h2>
+      <p>Langkah paling sederhana dan paling berguna adalah menyiapkan satu ruangan atau sudut tenang khusus untuk anabul. Isinya bisa berupa:</p>
+      <ul>
+        <li><strong>Tempat tidur atau kardus favoritnya</strong>, supaya ada bau yang familiar.</li>
+        <li><strong>Air minum dan sedikit makanan</strong>, jadi dia tidak perlu melewati keramaian hanya untuk minum.</li>
+        <li><strong>Kotak pasir</strong>, terutama kalau tamunya akan lama, supaya dia tetap bisa buang air dengan tenang.</li>
+        <li><strong>Tempat sembunyi</strong> seperti kardus, carrier yang pintunya terbuka, atau rak yang tinggi.</li>
+      </ul>
+      <p>Kalau memungkinkan, tutup pintu ruangan itu sebagian dan beri tahu tamu bahwa ruangan tersebut adalah "kamar VIP" anabul yang sebaiknya tidak dimasuki. Percayalah, kucingmu akan menghargainya, walaupun tentu saja dia tidak akan bilang terima kasih.</p>
+
+      <h2>Biarkan kucing yang memutuskan</h2>
+      <p>Ini aturan emasnya: jangan menarik kucing keluar dari persembunyian hanya supaya tamu bisa melihatnya. Menggendong kucing yang sedang takut ke tengah keramaian biasanya justru membuatnya makin waspada pada kunjungan berikutnya. Kalau dia mau keluar sendiri, bagus. Kalau dia memilih tetap di kolong kasur sampai tamu pulang, itu juga tidak apa-apa.</p>
+      <p>Banyak kucing akan mengintip dulu dari kejauhan, lalu pelan-pelan mendekat kalau suasananya terasa aman. Beri dia kesempatan itu tanpa didesak.</p>
+
+      <h2>Briefing singkat untuk tamu</h2>
+      <p>Tamu yang tidak terbiasa dengan kucing kadang langsung menghampiri sambil berseru "Ih lucunyaaa!" lalu mengulurkan tangan ke kepala. Niatnya baik, tapi buat anabul yang pemalu, itu bisa terasa menakutkan. Kamu bisa titip beberapa pesan sederhana:</p>
+      <ul>
+        <li><strong>Tunggu kucing mendekat duluan.</strong> Duduk santai dan biarkan dia yang memulai.</li>
+        <li><strong>Sodorkan jari, jangan langsung mengelus.</strong> Biarkan dia mengendus dulu. Kalau dia menggosokkan pipinya, itu tanda boleh elus pelan.</li>
+        <li><strong>Hindari menatap tajam terlalu lama.</strong> Bagi sebagian kucing, tatapan lurus bisa terasa seperti tantangan. Kedipan pelan biasanya lebih bersahabat.</li>
+        <li><strong>Jangan mengejar atau menggendong</strong> tanpa izin kamu dan tanpa kucingnya terlihat nyaman.</li>
+      </ul>
+
+      <h2>Kalau tamunya anak-anak</h2>
+      <p>Anak-anak biasanya sangat antusias dengan kucing, dan itu menggemaskan. Supaya semuanya aman, dampingi mereka saat berinteraksi dengan anabul. Ajarkan cara mengelus yang lembut, misalnya di pipi atau punggung, dan jelaskan bahwa kalau kucing pergi, artinya dia sedang ingin sendiri dulu. Pengalaman positif seperti ini bagus untuk anak dan untuk kucingnya.</p>
+
+      <h2>Jaga pintu tetap aman</h2>
+      <p>Saat tamu keluar-masuk, pintu depan lebih sering terbuka. Kucing yang kaget bisa saja nekat lari keluar. Ingatkan tamu untuk menutup pintu, atau taruh kucing di zona amannya saat tamu sedang datang dan pulang. Perhatikan juga makanan di meja, karena tidak semua makanan manusia aman untuk kucing, dan tamu kadang tergoda memberi "sedikit saja".</p>
+
+      <h2>Setelah tamu pulang</h2>
+      <p>Begitu rumah kembali sepi, biarkan anabul keluar dengan sendirinya. Kembalikan rutinitas seperti biasa: jam makan, sesi main, dan waktu bermalas-malasan di sofa. Beberapa kucing mungkin butuh waktu sebentar untuk mengendus ke sana kemari, memeriksa apakah wilayahnya masih aman. Anggap saja dia sedang inspeksi pasca-acara.</p>
+
+      <h2>Kapan perlu bertanya ke dokter hewan?</h2>
+      <p>Kalau kucingmu terlihat sangat stres setiap kali ada orang lain di rumah, misalnya tidak mau makan dalam waktu lama, buang air sembarangan, atau terus bersembunyi sampai berhari-hari, ada baiknya konsultasi ke dokter hewan. Mereka bisa membantu mencari tahu apakah ada masalah kesehatan atau perilaku yang perlu ditangani.</p>
+
+      <h2>Penutup</h2>
+      <p>Tidak semua kucing harus jadi bintang tamu. Yang penting, anabul tahu bahwa rumahnya tetap tempat paling aman, seramai apa pun suasananya. Dengan zona aman, tamu yang pengertian, dan sedikit kesabaran, bukan tidak mungkin suatu hari dia sendiri yang datang menyapa tamumu sambil menggosokkan kepala ke kaki mereka.</p>
+      <p>Kami di Deholic Cattery, cattery British Shorthair di Jakarta Barat, senang berbagi tips sederhana seputar kehidupan bareng anabul. Mampir dan sapa kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "membiasakan-kucing-masuk-carrier",
     title: "Carrier Bukan Musuh: Cara Membiasakan Kucing Masuk Kandang Travel Tanpa Drama",
     category: "Perawatan",
