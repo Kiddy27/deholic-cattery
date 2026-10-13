@@ -22,6 +22,63 @@
 
 window.ARTICLES = [
   {
+    slug: "spot-jendela-berjemur-kucing",
+    title: "Kucing dan Jendela: Bikin Spot Berjemur yang Aman dan Seru buat Anabul",
+    category: "Gaya Hidup",
+    excerpt:
+      "Anabul betah nongkrong di jendela sambil berjemur? Begini cara menyiapkan spot jendela yang nyaman, seru, dan tetap aman untuk kucing rumahan.",
+    date: "2026-10-13",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "sparkle",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Pagi-pagi kamu mencari anabul ke seluruh rumah, ternyata dia sedang rebahan di depan jendela, mata setengah terpejam, bulu hangat kena sinar matahari, dan wajahnya seolah berkata, "Jangan ganggu, aku lagi liburan." Kalau kucingmu begitu, selamat, kamu memelihara penggemar berat jendela.</p>
+      <p>Bagi banyak kucing rumahan, jendela itu semacam televisi gratis sekaligus tempat spa. Ada burung lewat, daun bergoyang, tetangga jalan pagi, dan cahaya hangat untuk tidur siang. Kabar baiknya, dengan sedikit persiapan, kamu bisa menjadikan jendela sebagai spot favorit yang seru dan tetap aman.</p>
+
+      <h2>Kenapa kucing suka banget nongkrong di jendela?</h2>
+      <p>Kucing pada dasarnya hewan yang suka mengamati. Duduk di tempat yang agak tinggi sambil memantau sekitar memberi mereka rasa aman dan hiburan sekaligus. Jendela juga sering jadi tempat paling hangat di rumah saat pagi atau sore. Jadi jangan heran kalau anabul rela meninggalkan kasur empuk yang kamu beli demi sepetak lantai yang kena sinar matahari.</p>
+      <p>Untuk kucing indoor, pemandangan dari jendela bisa jadi salah satu sumber stimulasi yang menyenangkan. Mengamati gerakan di luar bisa membantu mengusir rasa bosan, apalagi saat kamu sedang sibuk kerja.</p>
+
+      <h2>Keamanan dulu, baru estetika</h2>
+      <p>Sebelum menata spot yang cantik, pastikan dulu jendelanya aman. Ini bagian yang paling penting, terutama kalau kamu tinggal di lantai atas atau apartemen.</p>
+      <ul>
+        <li><strong>Pasang kasa atau teralis yang kokoh.</strong> Kucing bisa saja melompat saat melihat burung atau kaget mendengar suara. Kasa nyamuk biasa kadang tidak cukup kuat menahan dorongan kucing, jadi pilih yang benar-benar terpasang erat.</li>
+        <li><strong>Jangan biarkan jendela terbuka lebar tanpa pengaman.</strong> Kalau ingin sirkulasi udara, buka sedikit saja dan pastikan celahnya tidak cukup lebar untuk diselipi kepala atau badan kucing.</li>
+        <li><strong>Rapikan tali tirai atau tali gorden.</strong> Tali yang menjuntai bisa jadi mainan yang menggoda, tapi juga berisiko membelit. Gulung atau ikat di tempat yang tinggi.</li>
+        <li><strong>Cek balkon juga.</strong> Kalau jendelanya mengarah ke balkon, pastikan pagar balkon tidak punya celah yang bisa diterobos anabul.</li>
+      </ul>
+
+      <h2>Bikin tempat duduk yang nyaman</h2>
+      <p>Kalau ambang jendelamu sempit, kucing mungkin harus duduk sambil menahan keseimbangan seperti pesenam. Kamu bisa bantu dengan beberapa pilihan sederhana:</p>
+      <ul>
+        <li><strong>Rak atau papan kecil di depan jendela</strong> yang dipasang kuat ke dinding.</li>
+        <li><strong>Cat tree atau menara kucing</strong> yang diletakkan dekat jendela, supaya dia bisa memantau dari ketinggian.</li>
+        <li><strong>Kursi atau meja kecil</strong> dengan alas empuk, kalau kamu ingin solusi tanpa beli apa-apa.</li>
+      </ul>
+      <p>Apa pun pilihannya, pastikan stabil dan tidak goyang saat dinaiki. Kucing biasanya kurang suka tempat yang terasa labil, dan kamu juga pasti tidak mau ada drama jatuh di tengah sesi berjemur.</p>
+
+      <h2>Jangan sampai kepanasan</h2>
+      <p>Matahari pagi memang enak, tapi siang hari di Indonesia bisa sangat terik, dan area dekat kaca bisa terasa jauh lebih panas dari bagian rumah lainnya. Beberapa hal yang bisa kamu lakukan:</p>
+      <ul>
+        <li><strong>Sediakan area teduh di dekatnya</strong>, supaya anabul bisa pindah sendiri kalau mulai gerah.</li>
+        <li><strong>Taruh air minum tidak jauh dari spot jendela.</strong> Siapa tahu dia malas jalan jauh setelah berjemur.</li>
+        <li><strong>Pakai tirai tipis atau kerai</strong> untuk meredam sinar di jam-jam paling panas.</li>
+      </ul>
+      <p>Perhatikan juga tanda-tanda kucing kepanasan, misalnya terengah-engah dengan mulut terbuka, tampak lemas, atau gelisah. Kalau itu terjadi, segera pindahkan dia ke tempat yang lebih sejuk, dan hubungi dokter hewan bila kondisinya tidak membaik. Kucing dengan bulu tebal atau kucing berwarna terang mungkin butuh perhatian ekstra, jadi kalau ragu, tanyakan saja ke dokter hewan langgananmu.</p>
+
+      <h2>Bikin pemandangannya makin seru</h2>
+      <p>Mau upgrade televisi alami anabul? Kalau ada halaman atau pot di luar jendela, tanaman yang bergoyang tertiup angin saja sudah cukup menarik perhatian. Sebagian pemilik juga memasang tempat makan burung di luar jendela. Kalau kamu mencobanya, perhatikan reaksi kucingmu. Ada kucing yang menikmatinya dengan santai, tapi ada juga yang jadi terlalu bersemangat sampai mengeong dan menggaruk kaca. Kalau dia terlihat frustrasi, kurangi saja rangsangannya dan ajak dia main pakai mainan tongkat supaya energinya tersalurkan.</p>
+
+      <h2>Kalau ada lebih dari satu kucing</h2>
+      <p>Spot jendela terbaik di rumah bisa jadi rebutan yang serius. Supaya tidak ada perang dingin antaranabul, sediakan lebih dari satu tempat duduk di dekat jendela atau di beberapa jendela berbeda. Dengan begitu, semua kebagian kursi VIP tanpa harus saling melotot.</p>
+
+      <h2>Penutup</h2>
+      <p>Spot jendela yang aman bisa jadi tempat favorit anabul untuk berjemur, mengamati dunia, dan tidur siang tanpa beban. Mulai dari memastikan jendela dan balkon aman, lalu tambahkan tempat duduk yang nyaman, area teduh, dan air minum di dekatnya. Setelah itu, siap-siap saja kalau kamu sering "kalah saing" dengan jendela.</p>
+      <p>Kami di Deholic Cattery, cattery British Shorthair di Jakarta Barat, senang berbagi tips sederhana seputar kehidupan bareng anabul. Mampir dan sapa kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "kucing-nyaman-saat-ada-tamu",
     title: "Rumah Ramai, Anabul Ngumpet? Cara Bikin Kucing Tetap Nyaman saat Ada Tamu",
     category: "Perilaku",
