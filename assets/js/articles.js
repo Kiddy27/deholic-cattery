@@ -22,6 +22,65 @@
 
 window.ARTICLES = [
   {
+    slug: "membawa-kucing-ke-vet-pertama-kali",
+    title: "Ke Vet Pertama Kali: Biar Anabul (dan Kamu) Nggak Panik",
+    category: "Perawatan",
+    excerpt:
+      "Mau bawa anabul ke dokter hewan untuk pertama kali? Ini panduan santai soal persiapan, barang bawaan, dan apa yang biasanya terjadi di klinik.",
+    date: "2026-10-14",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "shield",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Kunjungan pertama ke dokter hewan sering terasa seperti hari pertama sekolah, cuma bedanya yang deg-degan bukan cuma muridnya, tapi juga orang tuanya. Anabul mengeong protes di jalan, kamu sibuk memikirkan mau tanya apa, dan tiba-tiba sudah sampai di ruang tunggu dengan tangan sedikit gemetar. Tenang, itu wajar banget.</p>
+      <p>Kabar baiknya, dengan sedikit persiapan, kunjungan pertama ke vet bisa berjalan jauh lebih santai. Anggap saja ini perkenalan: anabul kenalan dengan dokternya, dan kamu dapat teman diskusi untuk urusan kesehatan si kecil ke depannya.</p>
+
+      <h2>Kenapa kunjungan pertama itu penting?</h2>
+      <p>Kunjungan pertama biasanya jadi kesempatan dokter hewan untuk mengenal kondisi umum kucingmu. Dari situ, kamu bisa ngobrol soal jadwal vaksin, obat cacing, makanan, dan pertanyaan lain yang selama ini cuma kamu simpan di kepala. Kalau kucingmu baru diadopsi, kunjungan ini juga membantu kamu punya gambaran awal tentang kesehatannya.</p>
+      <p>Selain itu, kunjungan saat anabul sedang sehat bisa membuat pengalaman ke klinik terasa lebih netral. Jadi dokter hewan tidak hanya identik dengan momen sakit atau darurat.</p>
+
+      <h2>Pilih klinik dan buat janji dulu</h2>
+      <p>Sebelum berangkat, luangkan waktu untuk memilih klinik yang lokasinya cukup terjangkau dari rumah. Perjalanan yang tidak terlalu jauh biasanya lebih nyaman untuk kucing. Kalau bisa, telepon atau hubungi klinik dulu untuk menanyakan jam praktik dan apakah perlu membuat janji.</p>
+      <p>Beberapa klinik juga punya jam yang lebih sepi. Kalau tersedia, pilih waktu itu supaya anabul tidak terlalu lama menunggu di ruang yang ramai dengan suara dan bau hewan lain.</p>
+
+      <h2>Barang yang sebaiknya dibawa</h2>
+      <p>Supaya tidak ada drama "aduh, ketinggalan", siapkan daftar kecil ini sehari sebelumnya:</p>
+      <ul>
+        <li><strong>Carrier yang aman dan tertutup.</strong> Jangan menggendong kucing tanpa carrier ke klinik, karena dia bisa kaget dan kabur. Kalau anabul sudah dibiasakan masuk carrier sebelumnya, perjalanan biasanya jauh lebih lancar.</li>
+        <li><strong>Alas atau handuk yang berbau rumah.</strong> Aroma yang familiar bisa membantu anabul merasa sedikit lebih tenang.</li>
+        <li><strong>Catatan kesehatan yang kamu punya.</strong> Misalnya buku vaksin, catatan obat cacing, atau informasi dari pemilik sebelumnya kalau kucingmu hasil adopsi.</li>
+        <li><strong>Daftar pertanyaan.</strong> Tulis di HP supaya tidak lupa begitu masuk ruang periksa.</li>
+        <li><strong>Info kebiasaan sehari-hari.</strong> Merek makanan, pola makan dan minum, serta kebiasaan di kotak pasir. Hal-hal kecil ini sering berguna saat ngobrol dengan dokter.</li>
+        <li><strong>Camilan favorit</strong>, kalau dokter mengizinkan, untuk hadiah kecil setelah pemeriksaan.</li>
+      </ul>
+
+      <h2>Bikin perjalanan lebih tenang</h2>
+      <p>Di perjalanan, banyak kucing akan mengeong panjang seolah sedang menyampaikan pidato protes. Itu hal yang cukup umum, jadi jangan langsung ikut panik. Beberapa hal sederhana yang bisa membantu:</p>
+      <ul>
+        <li><strong>Tutupi sebagian carrier dengan kain tipis</strong> supaya anabul tidak terlalu banyak melihat hal yang mengejutkan, tapi pastikan udara tetap mengalir.</li>
+        <li><strong>Letakkan carrier di posisi stabil</strong>, misalnya di lantai mobil atau dipangku dengan rapat, supaya tidak terguncang.</li>
+        <li><strong>Jaga suara tetap pelan dan santai.</strong> Ajak bicara dengan nada lembut. Kucing sering ikut membaca suasana hati pemiliknya.</li>
+        <li><strong>Hindari musik keras atau AC yang terlalu dingin</strong> langsung ke arah carrier.</li>
+      </ul>
+
+      <h2>Di ruang tunggu</h2>
+      <p>Ruang tunggu bisa jadi tempat yang cukup menegangkan buat kucing, apalagi kalau ada anjing yang sedang semangat menyapa semua orang. Usahakan carrier tetap tertutup dan letakkan di kursi atau pangkuanmu, bukan di lantai. Kalau memungkinkan, duduk agak menjauh dari hewan lain. Tahan dulu keinginan untuk membuka carrier dan memeluk anabul, karena di tempat asing, carrier justru bisa jadi "benteng" yang membuatnya merasa aman.</p>
+
+      <h2>Apa yang biasanya terjadi saat diperiksa?</h2>
+      <p>Setiap klinik dan dokter bisa punya cara yang berbeda, tapi pemeriksaan awal umumnya cukup sederhana. Dokter hewan mungkin akan menimbang berat badan, melihat mata, telinga, mulut, dan bulu, lalu memeriksa tubuh secara umum. Dokter juga biasanya akan bertanya tentang riwayat dan kebiasaan anabul di rumah.</p>
+      <p>Kalau anabul tampak takut, kamu bisa bertanya ke dokter apakah boleh membantu menenangkan atau mengelus kepalanya. Biarkan dokter dan perawat yang memegang kendali, karena mereka sudah terbiasa menangani kucing yang sedang gugup. Jangan sungkan juga untuk menanyakan hal yang menurutmu sepele. Untuk pemilik pemula, tidak ada pertanyaan yang terlalu "receh".</p>
+
+      <h2>Setelah pulang</h2>
+      <p>Sesampainya di rumah, buka carrier di ruangan yang tenang dan biarkan anabul keluar sendiri. Wajar kalau dia ingin menyendiri sebentar, tidur lebih lama, atau sedikit jutek padamu. Beri waktu, sediakan makanan dan air, dan tawarkan camilan kalau dia mau.</p>
+      <p>Kalau kamu punya lebih dari satu kucing, perkenalkan kembali pelan-pelan, karena bau klinik kadang membuat kucing lain bingung. Dan kalau ada perubahan yang membuatmu khawatir setelah kunjungan, misalnya dia tidak mau makan cukup lama atau tampak lemas, segera hubungi dokter hewanmu untuk bertanya.</p>
+
+      <h2>Penutup</h2>
+      <p>Kunjungan pertama ke dokter hewan tidak harus jadi momen menegangkan. Pilih klinik yang nyaman, siapkan barang bawaan dan daftar pertanyaan, jaga perjalanan tetap tenang, lalu beri anabul waktu istirahat setelah pulang. Lama-lama, kalian berdua akan lebih santai menghadapi kunjungan berikutnya.</p>
+      <p>Kami di Deholic Cattery, cattery British Shorthair di Jakarta Barat, senang berbagi tips sederhana seputar merawat anabul. Yuk, mampir dan ngobrol bareng kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "spot-jendela-berjemur-kucing",
     title: "Kucing dan Jendela: Bikin Spot Berjemur yang Aman dan Seru buat Anabul",
     category: "Gaya Hidup",
