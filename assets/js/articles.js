@@ -22,6 +22,59 @@
 
 window.ARTICLES = [
   {
+    slug: "rutinitas-harian-kucing",
+    title: "Alarm Berbulu Jam 5 Pagi: Kenapa Rutinitas Harian Bikin Kucing Lebih Tenang",
+    category: "Perilaku",
+    excerpt:
+      "Anabul suka membangunkanmu subuh-subuh? Ini cara santai menyusun jadwal makan, main, dan istirahat supaya kucing lebih tenang dan rumah lebih damai.",
+    date: "2026-10-15",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "paw",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Kalau kamu pernah dibangunkan jam lima pagi oleh kaki berbulu yang menepuk-nepuk pipi, atau suara meong yang makin lama makin dramatis di depan pintu kamar, selamat: kamu sudah kenal "alarm" paling setia di dunia. Alarm ini tidak bisa di-snooze, dan kadang malah naik volume kalau diabaikan.</p>
+      <p>Banyak pemilik kucing mengira anabul cuma rewel. Padahal, sering kali kucing sedang menagih sesuatu yang dia anggap sudah "jadwalnya". Di sinilah rutinitas harian berperan. Bukan untuk bikin hidupmu kaku, tapi supaya anabul tahu apa yang akan terjadi, dan kamu bisa tidur sedikit lebih nyenyak.</p>
+
+      <h2>Kenapa kucing suka hal yang bisa ditebak?</h2>
+      <p>Kucing pada umumnya adalah makhluk kebiasaan. Mereka cenderung merasa lebih aman ketika lingkungan dan kegiatan sehari-harinya bisa ditebak: makan kira-kira di jam yang sama, main di waktu yang sama, dan punya tempat tidur yang tidak tiba-tiba pindah. Perubahan mendadak memang tidak selalu jadi masalah, tapi untuk sebagian kucing, hal itu bisa membuatnya lebih waspada atau gelisah.</p>
+      <p>Rutinitas yang teratur membantu anabul "membaca" harinya. Dia tahu kapan waktunya makan, jadi tidak perlu terus-terusan protes. Dia tahu kapan waktunya main, jadi energinya tersalurkan. Hasilnya, banyak pemilik merasa kucingnya jadi lebih kalem dan tidak terlalu banyak menuntut.</p>
+
+      <h2>Jadwal makan: fondasi utama</h2>
+      <p>Untuk banyak kucing, makan adalah acara paling penting dalam sehari. Coba tentukan jam makan yang kurang lebih tetap, lalu usahakan untuk konsisten. Tidak harus tepat sampai hitungan menit, kok. Yang penting polanya jelas.</p>
+      <ul>
+        <li><strong>Pilih jam yang realistis untukmu.</strong> Kalau kamu biasa bangun jam enam, jangan bikin jadwal sarapan anabul jam lima. Nanti kamu sendiri yang menyesal.</li>
+        <li><strong>Jangan langsung memberi makan begitu dibangunkan.</strong> Kalau setiap kali dia mengeong subuh-subuh kamu langsung mengisi mangkuk, dia belajar bahwa strategi itu berhasil. Bangun, cuci muka, baru siapkan makanannya.</li>
+        <li><strong>Soal porsi dan frekuensi,</strong> setiap kucing bisa berbeda tergantung usia dan kondisinya. Kalau ragu, tanyakan ke dokter hewan berapa kali makan dan seberapa banyak yang cocok untuk anabulmu.</li>
+      </ul>
+
+      <h2>Waktu main yang terjadwal</h2>
+      <p>Banyak kucing cenderung lebih aktif di pagi hari dan menjelang malam. Kalau energinya tidak tersalurkan, jangan heran kalau tengah malam ada sesi lari-lari keliling rumah seperti sedang latihan maraton.</p>
+      <p>Coba sisihkan waktu main singkat setiap hari, misalnya sekali di pagi hari dan sekali di sore atau malam. Pakai mainan pancing atau bola kecil, biarkan dia mengejar, menerkam, dan "menangkap" buruannya. Setelah sesi main, beri makan atau camilan. Urutan main lalu makan ini sering membuat kucing merasa puas, lalu lanjut membersihkan diri dan tidur. Lumayan, kan, kalau bisa jadi trik supaya malammu lebih tenang?</p>
+
+      <h2>Jangan lupa jadwal "me time" anabul</h2>
+      <p>Rutinitas bukan cuma soal makan dan main. Kucing juga butuh waktu tenang untuk tidur, berjemur, atau sekadar memandangi dunia dari jendela. Pastikan dia punya tempat istirahat favorit yang tidak sering diganggu, terutama oleh tamu kecil yang gemas ingin memeluk.</p>
+      <p>Kotak pasir juga bagian dari rutinitas. Membersihkannya di jam yang kurang lebih sama setiap hari membantu menjaga kotak tetap nyaman dipakai, dan kamu juga jadi tidak lupa.</p>
+
+      <h2>Contoh rutinitas sederhana</h2>
+      <p>Ini cuma contoh, ya. Sesuaikan dengan jam kerja dan kebiasaan di rumahmu:</p>
+      <ul>
+        <li><strong>Pagi:</strong> sesi main singkat, lalu sarapan, lalu cek air minum.</li>
+        <li><strong>Siang:</strong> waktunya anabul tidur siang dengan khidmat. Kamu cukup jangan mengganggunya.</li>
+        <li><strong>Sore:</strong> bersihkan kotak pasir, sisir bulu sebentar kalau dia mau.</li>
+        <li><strong>Malam:</strong> sesi main yang lebih seru, lalu makan malam, lalu lampu mulai diredupkan.</li>
+      </ul>
+
+      <h2>Kalau rutinitas harus berubah</h2>
+      <p>Hidup tidak selalu sesuai rencana. Ada kalanya kamu pindah kerja, pindah rumah, atau sedang liburan. Kalau memungkinkan, ubah jadwal pelan-pelan, misalnya geser jam makan sedikit demi sedikit setiap beberapa hari, bukan langsung berubah drastis. Kalau anabul dititipkan atau dijaga orang lain, tuliskan jadwal hariannya supaya penjaganya bisa mengikuti.</p>
+      <p>Perhatikan juga perubahan perilaku yang tidak biasa. Kalau anabul tiba-tiba tidak mau makan, terlihat lesu, atau kebiasaan di kotak pasirnya berubah, jangan cuma menyalahkan jadwal yang berantakan. Lebih baik hubungi dokter hewan untuk memastikan semuanya baik-baik saja.</p>
+
+      <h2>Penutup</h2>
+      <p>Rutinitas harian adalah cara sederhana untuk bilang ke anabul, "Tenang, semuanya terkendali." Jadwal makan yang konsisten, waktu main yang rutin, dan tempat istirahat yang aman bisa membuat hari-hari bersama kucing terasa lebih damai. Siapa tahu, alarm berbulu jam lima pagi itu pelan-pelan mau mengalah jadi jam enam.</p>
+      <p>Kami di Deholic Cattery, cattery British Shorthair di Jakarta Barat, senang berbagi tips sederhana seputar merawat anabul. Yuk, mampir dan ngobrol bareng kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "membawa-kucing-ke-vet-pertama-kali",
     title: "Ke Vet Pertama Kali: Biar Anabul (dan Kamu) Nggak Panik",
     category: "Perawatan",
