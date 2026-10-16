@@ -22,6 +22,63 @@
 
 window.ARTICLES = [
   {
+    slug: "tips-memberi-nama-kucing",
+    title: "Si Mochi, Si Bos, atau Si Kentang? Tips Memberi Nama Kucing yang Gampang Dikenali",
+    category: "Gaya Hidup",
+    excerpt:
+      "Bingung kasih nama anabul? Ini tips memilih nama kucing yang lucu, gampang dipanggil, dan pelan-pelan dikenali, plus ide nama buat inspirasi.",
+    date: "2026-10-16",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "heart",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Anabul baru sudah datang, kotak pasir sudah siap, mangkuk sudah terisi. Lalu muncul pertanyaan paling sulit sedunia: "Namanya siapa, ya?" Tiba-tiba satu keluarga berubah jadi panitia rapat. Ada yang mau nama keren, ada yang mau nama makanan, dan ada adik kecil yang ngotot ingin memanggilnya "Kucing". Titik.</p>
+      <p>Tenang, memberi nama kucing seharusnya jadi bagian yang menyenangkan. Supaya prosesnya tidak berakhir dengan voting yang penuh drama, yuk simak beberapa tips sederhana berikut.</p>
+
+      <h2>Kenapa nama itu penting?</h2>
+      <p>Nama bukan cuma label di kartu vaksin. Nama adalah suara yang akan kamu ucapkan ratusan kali: saat memanggil makan, saat mengajak main, dan saat menemukan vas bunga yang tiba-tiba sudah ada di lantai. Banyak pemilik merasa kucingnya lama-lama bisa mengenali namanya sendiri, misalnya dengan menoleh, menggerakkan telinga, atau datang menghampiri. Walaupun begitu, setiap kucing berbeda. Ada yang responsif, ada juga yang dengar, paham, tapi memilih pura-pura tidak dengar. Namanya juga kucing.</p>
+
+      <h2>Pilih nama yang pendek dan mudah diucapkan</h2>
+      <p>Nama yang terdiri dari satu atau dua suku kata biasanya lebih gampang dipanggil sehari-hari. "Mochi", "Kopi", atau "Bobo" jauh lebih praktis daripada "Sir Reginald Bulu Abu-Abu Ketiga". Kalau kamu memang ingin nama panjang yang megah, tidak apa-apa, kok. Siapkan saja nama panggilan pendeknya, karena jujur saja, jam enam pagi sambil mengantuk kamu tidak akan sanggup menyebut nama lengkapnya.</p>
+      <p>Banyak orang juga menyarankan nama yang punya bunyi jelas dan sedikit "ceria", misalnya berakhiran vokal seperti "-i" atau "-o". Nama seperti ini enak dipanggil dengan nada riang, dan nada riang itu sendiri sering membuat panggilanmu terdengar lebih mengundang.</p>
+
+      <h2>Hindari nama yang mirip kata sehari-hari</h2>
+      <p>Coba pikirkan kata-kata yang sering diucapkan di rumah. Kalau kamu sering bilang "jangan" atau "nanti", nama seperti "Janji" atau "Nana" bisa bikin anabul bingung, atau malah bikin kamu sendiri bingung. Hindari juga nama yang terlalu mirip dengan nama hewan lain atau anggota keluarga di rumah. Kalau kakakmu bernama Rina dan kucingnya bernama Rino, siap-siap saja dua makhluk menoleh setiap kali kamu memanggil.</p>
+
+      <h2>Kenali kepribadiannya dulu</h2>
+      <p>Tidak harus langsung memberi nama di hari pertama. Ada yang memilih menunggu beberapa hari sambil mengamati tingkah anabul. Kucing yang kalem dan suka rebahan mungkin cocok dipanggil "Bantal". Yang suka manjat lemari dan memandangi semua orang dari atas mungkin pantas jadi "Bos". Yang tiap malam lari-lari tanpa alasan jelas? "Turbo" boleh juga.</p>
+      <p>Penampilan juga bisa jadi inspirasi. Bulu abu-abu yang lembut bisa jadi "Kabut" atau "Asap". Bulu oranye bisa jadi "Wortel" atau "Mangga". Mata bulat besar bisa jadi "Kelereng".</p>
+
+      <h2>Ide nama buat inspirasi</h2>
+      <p>Kalau masih buntu, ini beberapa kategori yang bisa kamu coba:</p>
+      <ul>
+        <li><strong>Nama makanan:</strong> Mochi, Kentang, Tahu, Onde, Cilok, Bakpao. Entah kenapa, kucing dengan nama makanan selalu terdengar lebih gemas.</li>
+        <li><strong>Nama minuman:</strong> Kopi, Latte, Matcha, Boba, Teh.</li>
+        <li><strong>Nama "manusia" yang lucu:</strong> Ujang, Siti, Bambang, Joko. Bonus: tetangga akan bingung saat kamu berteriak "Bambang, turun dari meja!"</li>
+        <li><strong>Nama alam:</strong> Awan, Embun, Senja, Kabut, Bintang.</li>
+        <li><strong>Nama bergaya keren:</strong> Luna, Milo, Oscar, Leo, Cleo.</li>
+      </ul>
+
+      <h2>Cara membiasakan anabul dengan namanya</h2>
+      <p>Setelah nama dipilih, saatnya memperkenalkannya. Caranya bisa santai saja:</p>
+      <ul>
+        <li><strong>Sebut namanya saat momen menyenangkan.</strong> Misalnya sebelum memberi makan, saat menawarkan camilan, atau ketika mengajak main. Harapannya, nama itu jadi identik dengan hal-hal yang dia suka.</li>
+        <li><strong>Pakai nada yang ramah.</strong> Panggil dengan suara lembut dan riang, bukan teriakan.</li>
+        <li><strong>Jangan pakai namanya untuk memarahi.</strong> Kalau setiap kali namanya disebut ada omelan, wajar kalau dia jadi malas datang saat dipanggil. Untuk menghentikan perilaku yang tidak diinginkan, lebih baik alihkan perhatiannya dengan mainan atau pindahkan dia dengan tenang.</li>
+        <li><strong>Konsisten satu nama.</strong> Boleh punya nama panggilan sayang, tapi usahakan semua orang di rumah memakai panggilan utama yang sama, setidaknya di awal.</li>
+        <li><strong>Sabar.</strong> Ada kucing yang cepat menangkap, ada yang butuh waktu lebih lama. Tidak perlu memaksa.</li>
+      </ul>
+
+      <h2>Kalau kucing adopsi sudah punya nama</h2>
+      <p>Kalau anabulmu datang dari penampungan, cattery, atau keluarga lain dan sudah punya nama, kamu tetap boleh menggantinya. Kalau ingin transisi yang lebih halus, kamu bisa memilih nama baru yang bunyinya mirip dengan nama lamanya, atau memakai keduanya bersamaan untuk sementara sebelum pelan-pelan beralih ke nama baru.</p>
+
+      <h2>Penutup</h2>
+      <p>Pada akhirnya, tidak ada nama yang salah selama kamu memanggilnya dengan penuh sayang. Mau "Mochi", "Bos", atau "Kentang", yang penting anabul tahu bahwa suara itu berarti hal-hal baik: makanan, mainan, dan orang yang sayang padanya. Dan kalau dia tetap cuek saat dipanggil? Ya sudah, mungkin dia sedang sibuk jadi kucing.</p>
+      <p>Kami di Deholic Cattery, cattery British Shorthair di Jakarta Barat, senang berbagi tips sederhana seputar kehidupan bersama anabul. Punya nama kucing yang lucu? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "rutinitas-harian-kucing",
     title: "Alarm Berbulu Jam 5 Pagi: Kenapa Rutinitas Harian Bikin Kucing Lebih Tenang",
     category: "Perilaku",
