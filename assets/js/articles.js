@@ -22,6 +22,62 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-suka-duduk-di-laptop",
+    title: "Rekan Kerja Berbulu: Kenapa Kucing Suka Duduk di Laptop dan Cara Bikin Spot Alternatif",
+    category: "Perilaku",
+    excerpt:
+      "Laptop diduduki, kertas ditiduri, rapat online diselingi ekor? Ini alasan kucing suka ikut kerja dan cara bikin spot alternatif yang dia mau pakai.",
+    date: "2026-10-17",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "paw",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Kamu baru saja membuka laptop, kopi masih hangat, daftar kerjaan sudah menunggu. Lalu datanglah dia. Pelan, anggun, penuh percaya diri, anabul melangkah ke atas keyboard, mengetik "jjjjjjjjkkkkkk" di dokumen penting, lalu duduk manis tepat di depan layar. Seolah berkata, "Rapatnya sudah selesai. Sekarang waktunya aku."</p>
+      <p>Kalau ini terdengar akrab, selamat, kamu resmi punya rekan kerja berbulu. Kabar baiknya, perilaku ini sangat umum dan biasanya bukan tanda kucingmu nakal. Yuk, kita bahas kenapa kucing begitu suka laptop dan kertas kerja, plus cara membuat tempat alternatif supaya kalian berdua sama-sama bisa "produktif".</p>
+
+      <h2>Kenapa sih kucing suka duduk di laptop?</h2>
+      <p>Tidak ada satu jawaban pasti, karena setiap kucing punya alasannya sendiri. Tapi ada beberapa kemungkinan yang sering disebut oleh pemilik kucing:</p>
+      <ul>
+        <li><strong>Hangat dan nyaman.</strong> Laptop yang menyala biasanya terasa hangat, dan banyak kucing memang suka mencari tempat yang hangat untuk rebahan. Bagi mereka, laptop mungkin terasa seperti bantal pemanas mini yang kebetulan bisa menampilkan email.</li>
+        <li><strong>Di situlah perhatianmu berada.</strong> Kucing itu pengamat yang jeli. Dia melihat kamu menatap benda kotak itu berjam-jam. Kalau mau dapat perhatian, posisi paling strategis tentu saja tepat di antara kamu dan layar.</li>
+        <li><strong>Ada bau kamu.</strong> Keyboard, mouse, dan tumpukan kertas yang sering kamu sentuh kemungkinan membawa aroma tubuhmu. Untuk banyak kucing, bau pemilik terasa menenangkan.</li>
+        <li><strong>Permukaan yang menarik.</strong> Kertas yang berkerisik, pulpen yang bisa didorong jatuh, kabel yang bergoyang. Meja kerja itu seperti taman bermain kecil.</li>
+        <li><strong>Sedang ingin ditemani.</strong> Kadang alasannya sederhana: dia cuma ingin dekat denganmu. Manis, kan? Walaupun timing-nya selalu pas saat deadline.</li>
+      </ul>
+
+      <h2>Kenapa sebaiknya tidak dibiarkan terus-terusan?</h2>
+      <p>Sesekali ditemani kucing saat bekerja memang menyenangkan. Tapi kalau laptop jadi kasur permanen, ada beberapa hal yang perlu diperhatikan:</p>
+      <ul>
+        <li><strong>Pekerjaan bisa kacau.</strong> Tombol yang terinjak bisa menghapus tulisan, mengirim pesan setengah jadi, atau tiba-tiba membuat kamu keluar dari rapat online.</li>
+        <li><strong>Laptop bisa kepanasan.</strong> Kalau bulu dan badan kucing menutupi lubang udara, laptop mungkin jadi lebih panas dari biasanya. Bulu yang rontok juga bisa ikut masuk ke sela-sela keyboard.</li>
+        <li><strong>Kabel dan barang kecil.</strong> Kucing yang suka menggigit kabel atau mainan karet gelang dan klip kertas perlu diawasi. Simpan barang kecil di laci dan rapikan kabel supaya tidak jadi mainan.</li>
+      </ul>
+
+      <h2>Cara bikin "spot kerja" alternatif untuk anabul</h2>
+      <p>Kuncinya bukan melarang kucing mendekat, tapi memberinya pilihan yang lebih menarik daripada keyboard. Berikut beberapa ide yang bisa dicoba:</p>
+      <ul>
+        <li><strong>Sediakan tempat di dekat meja.</strong> Taruh kasur kecil, selimut lembut, atau kardus di samping laptop atau di ujung meja. Dengan begitu, dia tetap bisa dekat denganmu tanpa harus duduk di atas pekerjaanmu.</li>
+        <li><strong>Tambahkan bau kamu.</strong> Letakkan kaus lama yang sudah kamu pakai di tempat itu. Siapa tahu spot barunya terasa sama "beraroma kamu" seperti keyboard.</li>
+        <li><strong>Buat lebih hangat dan nyaman.</strong> Pilih lokasi yang terkena sedikit sinar matahari pagi, atau beri alas yang empuk. Hindari memakai alat pemanas listrik tanpa pengawasan, ya.</li>
+        <li><strong>Siapkan "laptop palsu".</strong> Beberapa pemilik menaruh buku tebal, keyboard bekas yang sudah tidak dipakai, atau kardus pipih di samping laptop. Kadang kucing cukup puas duduk di benda yang mirip, asalkan posisinya dekat denganmu.</li>
+        <li><strong>Beri hadiah saat dia memakai spotnya.</strong> Saat anabul rebahan di tempat barunya, puji dengan suara lembut, elus sebentar, atau beri camilan kecil. Lama-lama, tempat itu bisa jadi favoritnya.</li>
+      </ul>
+
+      <h2>Penuhi "jatah perhatian" sebelum mulai kerja</h2>
+      <p>Banyak kucing naik ke laptop karena ingin perhatian. Jadi, coba ajak dia bermain sebentar sebelum kamu mulai bekerja. Lima sampai sepuluh menit main tongkat bulu atau kejar-kejaran bola bisa membantu menyalurkan energinya. Setelah capek bermain, kucing sering lebih memilih tidur siang daripada menginspeksi tabel kerjamu.</p>
+      <p>Saat jeda kerja, sempatkan juga mengelus atau mengajaknya ngobrol sebentar. Anggap saja ini rapat singkat dengan atasan berbulu.</p>
+
+      <h2>Kalau dia tetap naik ke laptop</h2>
+      <p>Tenang, ini wajar dan butuh waktu. Saat dia naik, angkat dan pindahkan dia dengan lembut ke spot alternatifnya, tanpa membentak atau memukul. Kalau perlu, ulangi berkali-kali dengan sabar. Saat kamu meninggalkan meja, tutup laptop atau kunci layarnya supaya tidak ada email misterius yang terkirim atas nama kucingmu.</p>
+      <p>Kalau anabul tiba-tiba jadi jauh lebih lengket, gelisah, atau perilakunya berubah drastis, tidak ada salahnya berkonsultasi dengan dokter hewan untuk memastikan semuanya baik-baik saja.</p>
+
+      <h2>Penutup</h2>
+      <p>Pada akhirnya, kucing yang duduk di laptop sebenarnya sedang bilang, "Aku mau dekat kamu." Dengan sedikit kreativitas, kamu bisa tetap bekerja dengan tenang sambil ditemani rekan kerja paling imut di rumah. Siapa tahu, dia malah jadi penyemangat terbaikmu, setidaknya sampai jam makan tiba.</p>
+      <p>Kami di Deholic Cattery, cattery British Shorthair di Jakarta Barat, suka berbagi cerita dan tips seputar hidup bersama anabul. Punya foto kucing yang sedang "ikut kerja"? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "tips-memberi-nama-kucing",
     title: "Si Mochi, Si Bos, atau Si Kentang? Tips Memberi Nama Kucing yang Gampang Dikenali",
     category: "Gaya Hidup",
