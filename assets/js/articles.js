@@ -22,6 +22,72 @@
 
 window.ARTICLES = [
   {
+    slug: "perawatan-gigi-kucing-pemula",
+    title: "Napas Anabul Bau? Kenalan dengan Perawatan Gigi Kucing Tanpa Paksaan",
+    category: "Perawatan",
+    excerpt:
+      "Bau mulut kucing bukan selalu soal makanan. Yuk kenalan dengan perawatan gigi pelan-pelan, tanpa paksaan, supaya anabul tetap nyaman.",
+    date: "2026-10-18",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "shield",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    content: `
+      <p>Kamu sedang rebahan bareng anabul. Dia mendekat, mengeong manis, lalu menghembuskan napas tepat di wajahmu. Aroma yang datang? Bukan aroma bunga mawar. Lebih dekat ke "ikan semalam yang belum dicuci". Kamu tertawa, tapi diam-diam bertanya: apa gigi kucing juga perlu dirawat, atau cukup dibiarkan saja?</p>
+      <p>Jawabannya: perawatan gigi kucing memang layak dikenalkan, tapi bukan dengan cara memaksa atau mendadak seperti di film dokter gigi. Kali ini kita bahas pendekatan yang lembut, pelan-pelan, dan ramah pemula. Bukan pengganti saran dokter hewan, ya. Kalau ada keraguan soal kondisi mulut kucingmu, konsultasikan dulu ke dokter hewan.</p>
+
+      <h2>Kenapa gigi kucing perlu diperhatikan?</h2>
+      <p>Kucing tidak bisa menyikat gigi sendiri, dan mereka pandai menyembunyikan rasa tidak nyaman. Kadang satu-satunya tanda yang kamu lihat adalah napas yang makin bau, air liur yang lebih banyak, atau dia jadi lebih pelan saat makan. Tidak semua bau mulut berarti ada masalah besar, tapi mulut yang tidak nyaman bisa membuat makan jadi kurang menyenangkan.</p>
+      <p>Perawatan di rumah, kalau dilakukan dengan sabar, bisa jadi kebiasaan baik jangka panjang. Tujuannya bukan membuat mulut "sempurna dalam semalam", melainkan membiasakan anabul merasa aman saat kamu menyentuh area wajah dan mulutnya.</p>
+
+      <h2>Tanda yang perlu kamu amati (tanpa panik)</h2>
+      <p>Perhatikan saja pola sehari-hari. Beberapa hal yang sering membuat pemilik mulai lebih waspada:</p>
+      <ul>
+        <li><strong>Bau mulut yang berubah.</strong> Bau "kucing" ringan setelah makan ikan memang biasa. Tapi kalau aromanya makin tajam atau tiba-tiba beda dari biasanya, patut dicatat.</li>
+        <li><strong>Perilaku makan berubah.</strong> Mengunyah di satu sisi, menjatuhkan makanan, atau mendekati mangkuk lalu pergi lagi.</li>
+        <li><strong>Air liur berlebih atau menggosok mulut.</strong> Kadang kucing mengusapkan mulut ke sofa atau karpet lebih sering dari biasanya.</li>
+        <li><strong>Gigi atau gusi terlihat kemerahan.</strong> Kalau kamu sempat melihat saat dia menguap, catat saja dan tanyakan ke dokter hewan di kunjungan berikutnya.</li>
+      </ul>
+      <p>Kalau anabul terlihat kesakitan, tidak mau makan sama sekali, atau perilakunya berubah drastis, jangan tunda. Segera hubungi dokter hewan.</p>
+
+      <h2>Persiapan sebelum "sikat gigi"</h2>
+      <p>Rahasia suksesnya bukan pasta gigi yang mahal, melainkan kepercayaan. Beberapa pemilik langsung menyikat di hari pertama, lalu heran kenapa kucing kabur. Lebih baik mulai dari langkah yang jauh lebih kecil:</p>
+      <ul>
+        <li><strong>Biasakan sentuh wajah.</strong> Saat dia tenang, elus pipi, dagu, dan area dekat mulut. Beri pujian lembut atau camilan kecil. Ulangi beberapa hari sampai dia rileks.</li>
+        <li><strong>Sentuh bibir dan gusi luar.</strong> Pelan angkat bibir atas dengan jari, hanya beberapa detik. Jangan membuka mulut lebar di tahap ini.</li>
+        <li><strong>Kenalkan rasa pasta gigi kucing.</strong> Pakai pasta gigi khusus kucing, bukan pasta gigi manusia. Oleskan sedikit di jari, biarkan dia menjilat. Kalau dia suka rasanya, setengah jalan sudah dilalui.</li>
+        <li><strong>Pilih alat yang lembut.</strong> Ada sikat jari (finger brush) berbahan lembut atau sikat kecil khusus kucing. Untuk pemula, jari bersih yang dibalut kain lembut sering lebih mudah diterima.</li>
+      </ul>
+
+      <h2>Langkah pelan-pelan saat mulai membersihkan</h2>
+      <p>Kalau anabul sudah nyaman disentuh di sekitar mulut, baru lanjut ke pembersihan singkat. Ingat: sesi pendek lebih baik daripada sesi panjang yang membuatnya trauma.</p>
+      <ul>
+        <li><strong>Pilih waktu yang tepat.</strong> Setelah bermain atau saat dia sedang ingin camilan biasanya lebih mudah. Hindari saat dia lapar banget, takut, atau baru saja marah karena dibawa ke kamar mandi.</li>
+        <li><strong>Mulai dari gigi samping luar.</strong> Fokus ke permukaan luar gigi geraham dan gigi taring. Bagian dalam mulut biasanya lebih sensitif, jadi bisa ditunda.</li>
+        <li><strong>Gerakan lembut, hitungan detik.</strong> Beberapa gerakan kecil saja sudah cukup di awal. Tutup sesi dengan camilan dan pujian, lalu biarkan dia pergi dengan perasaan "ternyata tidak menakutkan".</li>
+        <li><strong>Naikkan durasi bertahap.</strong> Kalau seminggu berjalan lancar, baru tambah beberapa detik. Jangan buru-buru mengejar "sempurna setiap hari".</li>
+      </ul>
+      <p>Kalau dia menolak, mundur satu langkah. Kembali ke elusan wajah dan jilatan pasta saja. Paksaan justru membuat perawatan gigi jadi musuh seumur hidup.</p>
+
+      <h2>Kalau menyikat masih terasa sulit</h2>
+      <p>Tidak semua kucing cocok dengan sikat di rumah, dan itu tidak berarti kamu gagal. Ada pilihan lain yang bisa dibicarakan dengan dokter hewan, misalnya camilan atau mainan yang membantu menjaga kebersihan mulut, atau jadwal pemeriksaan mulut saat kontrol rutin. Yang penting, jangan memakai obat, cairan, atau alat manusia tanpa arahan dokter hewan.</p>
+      <p>Air minum yang selalu segar dan pola makan yang sesuai juga mendukung kesehatan mulut secara umum, meski bukan pengganti perawatan atau pemeriksaan profesional.</p>
+
+      <h2>Kesalahan yang sering terjadi</h2>
+      <ul>
+        <li><strong>Memakai pasta gigi manusia.</strong> Kandungan di pasta gigi orang bisa berbahaya untuk kucing. Selalu pilih produk khusus hewan.</li>
+        <li><strong>Memaksa membuka mulut lebar.</strong> Trauma kecil hari ini bisa jadi drama besar bulan depan.</li>
+        <li><strong>Menunggu sampai bau sudah parah.</strong> Lebih baik mulai kebiasaan lembut dari sekarang, sambil tetap cek ke dokter hewan bila ada tanda yang mengganggu.</li>
+        <li><strong>Menyamakan semua kucing.</strong> Ada yang mudah diajari dalam seminggu, ada yang butuh sebulan. Sabar adalah skill utama pemiliknya.</li>
+      </ul>
+
+      <h2>Penutup</h2>
+      <p>Perawatan gigi kucing bukan soal jadi dokter gigi dadakan. Ini soal membangun kepercayaan: bahwa tanganmu aman, wajahnya boleh disentuh, dan sesi singkat itu diakhiri dengan hal yang menyenangkan. Mulai dari elusan, lanjut ke rasa pasta, baru ke gerakan lembut. Pelan-pelan saja.</p>
+      <p>Kalau napas anabul masih membuatmu bergumam "waduh", anggap itu pengingat manis untuk mulai kenalan dengan mulutnya. Lebih baik sesi sepuluh detik yang damai daripada sepuluh menit yang penuh kejaran di bawah meja.</p>
+      <p>Punya tips sendiri saat mengajak kucing "ke dokter gigi versi rumah"? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery. Kami suka dengar cerita perjuangan (dan kemenangan kecil) para pemilik anabul.</p>
+    `,
+  },
+  {
     slug: "kucing-suka-duduk-di-laptop",
     title: "Rekan Kerja Berbulu: Kenapa Kucing Suka Duduk di Laptop dan Cara Bikin Spot Alternatif",
     category: "Perilaku",
