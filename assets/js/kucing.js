@@ -1,43 +1,51 @@
-/* Halaman adopsi & profil kucing. Dimuat sebelum main.js agar animasi .reveal ikut aktif. */
+/* Halaman adopsi & profil kucing. Dimuat sebelum main.js agar animasi .reveal ikut aktif.
+   createKucingTemplates() berupa fungsi string murni: dipakai browser DAN generator statis (tools/gen-static.py). */
 (function () {
   "use strict";
-  const DATA = window.KUCING || [];
-  const page = document.body.dataset.page || "";
-  const IG_DM = "https://ig.me/m/deholic.cattery";
-  const STATUS = {
-    tersedia: { label: "Tersedia", cls: "st-ok" },
-    dipesan: { label: "Sudah dipesan", cls: "st-hold" },
-    diadopsi: { label: "Sudah diadopsi", cls: "st-done" },
-  };
-  const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
-  const umur = (lahir) => {
-    if (!lahir) return "";
-    const b = new Date(lahir + "T00:00:00"), n = new Date();
-    let bln = (n.getFullYear() - b.getFullYear()) * 12 + (n.getMonth() - b.getMonth());
-    if (n.getDate() < b.getDate()) bln--;
-    if (bln < 1) return `${Math.max(0, Math.floor((n - b) / 864e5 / 7))} minggu`;
-    if (bln < 24) return `${bln} bulan`;
-    return `${Math.floor(bln / 12)} tahun`;
-  };
-  const tgl = (d) => new Date(d + "T00:00:00").toLocaleDateString("id-ID", { day: "numeric", month: "long", year: "numeric" });
-  const href = (k) => `kucing.html?nama=${encodeURIComponent(k.slug)}`;
-  const foto = (k, cls = "") =>
-    k.foto && k.foto.length
-      ? `<img class="${cls}" src="${esc(k.foto[0])}" alt="${esc(k.alt || k.nama)}" width="800" height="800" loading="lazy" decoding="async">`
-      : `<div class="${cls} foto-kosong" role="img" aria-label="Belum ada foto ${esc(k.nama)}"><img src="assets/img/hero-cat-bsh.svg" alt="" width="160" height="160"><span>Foto contoh</span></div>`;
-  const contohTag = (k) => (k.contoh ? '<span class="tag tag-sample">Contoh</span>' : "");
-  const statusTag = (k) => (STATUS[k.status] ? `<span class="tag ${STATUS[k.status].cls}">${STATUS[k.status].label}</span>` : "");
 
-  const PAW_SVG = '<svg class="stamp-paw" viewBox="0 0 200 190" aria-hidden="true" focusable="false"><g><ellipse cx="36" cy="74" rx="19" ry="25" transform="rotate(-22 36 74)"/><ellipse cx="77" cy="34" rx="21" ry="27" transform="rotate(-6 77 34)"/><ellipse cx="123" cy="34" rx="21" ry="27" transform="rotate(6 123 34)"/><ellipse cx="164" cy="74" rx="19" ry="25" transform="rotate(22 164 74)"/><path d="M100 90C142 90 182 118 182 151C182 179 153 188 129 181C115 177 109 173 100 173C91 173 85 177 71 181C47 188 18 179 18 151C18 118 58 90 100 90Z"/></g></svg>';
-  const stamp = (k) => (k.status === "diadopsi" ? `<span class="stamp">${PAW_SVG}<span class="stamp-teks">Adopted</span></span>` : "");
-  function kartu(k) {
-    return `
+  function createKucingTemplates(opts) {
+    const root = opts.root || ""; // "" = halaman di root (relatif), "/" = halaman statis /kucing/<slug>/
+    const DATA = opts.data || [];
+    const now = opts.now || new Date();
+    const IG_DM = "https://ig.me/m/deholic.cattery";
+    const STATUS = {
+      tersedia: { label: "Tersedia", cls: "st-ok" },
+      dipesan: { label: "Sudah dipesan", cls: "st-hold" },
+      diadopsi: { label: "Sudah diadopsi", cls: "st-done" },
+    };
+    const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+    const umur = (lahir, n = now) => {
+      if (!lahir) return "";
+      const b = new Date(lahir + "T00:00:00");
+      let bln = (n.getFullYear() - b.getFullYear()) * 12 + (n.getMonth() - b.getMonth());
+      if (n.getDate() < b.getDate()) bln--;
+      if (bln < 1) return `${Math.max(0, Math.floor((n - b) / 864e5 / 7))} minggu`;
+      if (bln < 24) return `${bln} bulan`;
+      return `${Math.floor(bln / 12)} tahun`;
+    };
+    // umur dibungkus span[data-lahir] agar dihitung ulang di browser (halaman statis tidak "membeku").
+    const umurSpan = (lahir) => (lahir ? `<span data-lahir="${esc(lahir)}">${umur(lahir)}</span>` : "");
+    const tgl = (d) => new Date(d + "T00:00:00").toLocaleDateString("id-ID", { day: "numeric", month: "long", year: "numeric" });
+    const src = (p) => (/^(https?:)?\/\//.test(p) || String(p).startsWith("/") ? p : root + p);
+    const href = (k) => `${root}kucing/${encodeURIComponent(k.slug)}/`;
+    const adopsi = `${root}adopsi.html`;
+    const foto = (k, cls = "") =>
+      k.foto && k.foto.length
+        ? `<img class="${cls}" src="${esc(src(k.foto[0]))}" alt="${esc(k.alt || k.nama)}" width="800" height="800" loading="lazy" decoding="async">`
+        : `<div class="${cls} foto-kosong" role="img" aria-label="Belum ada foto ${esc(k.nama)}"><img src="${root}assets/img/hero-cat-bsh.svg" alt="" width="160" height="160"><span>Foto contoh</span></div>`;
+    const contohTag = (k) => (k.contoh ? '<span class="tag tag-sample">Contoh</span>' : "");
+    const statusTag = (k) => (STATUS[k.status] ? `<span class="tag ${STATUS[k.status].cls}">${STATUS[k.status].label}</span>` : "");
+
+    const PAW_SVG = '<svg class="stamp-paw" viewBox="0 0 200 190" aria-hidden="true" focusable="false"><g><ellipse cx="36" cy="74" rx="19" ry="25" transform="rotate(-22 36 74)"/><ellipse cx="77" cy="34" rx="21" ry="27" transform="rotate(-6 77 34)"/><ellipse cx="123" cy="34" rx="21" ry="27" transform="rotate(6 123 34)"/><ellipse cx="164" cy="74" rx="19" ry="25" transform="rotate(22 164 74)"/><path d="M100 90C142 90 182 118 182 151C182 179 153 188 129 181C115 177 109 173 100 173C91 173 85 177 71 181C47 188 18 179 18 151C18 118 58 90 100 90Z"/></g></svg>';
+    const stamp = (k) => (k.status === "diadopsi" ? `<span class="stamp">${PAW_SVG}<span class="stamp-teks">Adopted</span></span>` : "");
+    function kartu(k) {
+      return `
     <article class="kitten-card glass reveal${k.status === "diadopsi" ? " is-done" : ""}">
       <a class="kitten-foto" href="${href(k)}" tabindex="-1" aria-hidden="true">${foto(k)}${stamp(k)}</a>
       <div class="kitten-body">
         <div class="tags">${statusTag(k)}${contohTag(k)}</div>
         <h3><a href="${href(k)}">${esc(k.nama)}</a></h3>
-        <p class="kitten-meta">${esc(k.kelamin)} · ${esc(k.warna)} · ${umur(k.lahir)}</p>
+        <p class="kitten-meta">${esc(k.kelamin)} · ${esc(k.warna)} · ${umurSpan(k.lahir)}</p>
         <p class="muted">${esc(k.sifat)}</p>
         <div class="kitten-aksi">
           <a class="btn btn-small btn-ghost" href="${href(k)}">Lihat profil</a>
@@ -45,7 +53,61 @@
         </div>
       </div>
     </article>`;
+    }
+    const indukKartu = (k) => `
+        <a class="value glass reveal cat-card induk-link" href="${href(k)}">
+          ${foto(k)}
+          <h3>${esc(k.nama)}</h3>
+        </a>`;
+    const title = (k) => `${k.nama}${k.peran === "kitten" ? " — Kitten British Shorthair" : ""} — Deholic Cattery`;
+    const description = (k) => k.sifat || `Profil ${k.nama}, kucing British Shorthair di Deholic Cattery.`;
+    function profilInner(k) {
+      const rows = [
+        ["Peran", k.peran === "induk" ? "Induk" : "Kitten"],
+        ["Jenis kelamin", esc(k.kelamin)],
+        ["Warna bulu", esc(k.warna)],
+        ["Tanggal lahir", k.lahir && `${tgl(k.lahir)} (${umurSpan(k.lahir)})`],
+        ["Vaksin", esc(k.vaksin)],
+        ["Obat cacing", esc(k.cacing)],
+        ["Harga", k.status === "diadopsi" ? "" : esc(k.harga)],
+      ].filter((r) => r[1]);
+      const lainnya = DATA.filter((x) => x.peran === "kitten" && x.slug !== k.slug && x.status === "tersedia");
+      return `
+      <section class="page-hero">
+        <div class="container profil-grid">
+          <div class="reveal">
+            <div class="profil-foto glass">${foto(k)}${stamp(k)}</div>
+            ${k.foto && k.foto.length > 1 ? `<div class="galeri" role="group" aria-label="Foto ${esc(k.nama)}">${k.foto.map((f, i) => `<button type="button" class="galeri-thumb" aria-pressed="${i === 0}" data-i="${i}"><img src="${esc(src(f))}" alt="${esc((k.altFoto && k.altFoto[i]) || k.nama)}" width="120" height="120" loading="lazy"></button>`).join("")}</div>` : ""}
+          </div>
+          <div class="reveal">
+            <p class="eyebrow"><a href="${adopsi}">${k.peran === "induk" ? "Induk Deholic Cattery" : "Kitten Deholic Cattery"}</a></p>
+            <div class="tags">${statusTag(k)}${contohTag(k)}</div>
+            <h1>${esc(k.nama)}</h1>
+            <p class="lead">${esc(k.deskripsi || k.sifat || "Profil lengkap segera hadir.")}</p>
+            <dl class="profil-data">${rows.map(([a, b]) => `<div><dt>${a}</dt><dd>${b}</dd></div>`).join("")}</dl>
+            <div class="kitten-aksi">
+              ${k.status === "tersedia" ? `<a class="btn" href="${IG_DM}" target="_blank" rel="noopener">Tanya ${esc(k.nama)} via DM Instagram <span aria-hidden="true">→</span></a>` : ""}
+              <a class="btn btn-ghost" href="${adopsi}">Semua kitten</a>
+            </div>
+            ${k.contoh ? '<p class="muted"><small>Profil ini masih contoh untuk uji tampilan; datanya fiktif.</small></p>' : ""}
+          </div>
+        </div>
+      </section>
+      ${lainnya.length ? `<section class="section tight"><div class="container"><h2 class="cat-title reveal">Kitten lain yang tersedia</h2><div class="kitten-grid">${lainnya.map(kartu).join("")}</div></div></section>` : ""}`;
+    }
+    return { esc, umur, href, foto, kartu, indukKartu, profilInner, title, description, src };
   }
+
+  if (typeof document === "undefined") {
+    if (typeof module !== "undefined" && module.exports) module.exports = { createKucingTemplates };
+    return;
+  }
+
+  const DATA = window.KUCING || [];
+  const page = document.body.dataset.page || "";
+  const root = document.body.dataset.root || "";
+  const K = createKucingTemplates({ root, data: DATA });
+  const esc = K.esc;
 
   function renderAdopsi() {
     const grid = document.getElementById("kitten-grid");
@@ -59,7 +121,7 @@
     const draw = () => {
       const list = aktif === "semua" ? kittens : kittens.filter((k) => k.status === aktif);
       grid.innerHTML = list.length
-        ? list.map(kartu).join("")
+        ? list.map(K.kartu).join("")
         : `<p class="muted empty">Saat ini belum ada kitten yang tersedia. Pantau Instagram <a href="https://www.instagram.com/deholic.cattery/" target="_blank" rel="noopener">@deholic.cattery</a> buat kabar kelahiran berikutnya!</p>`;
       grid.querySelectorAll(".reveal").forEach((n) => n.classList.add("in"));
     };
@@ -75,79 +137,42 @@
     }
     draw();
     const induk = document.getElementById("induk-grid");
-    if (induk) {
-      induk.innerHTML = DATA.filter((k) => k.peran === "induk").map((k) => `
-        <a class="value glass reveal cat-card induk-link" href="${href(k)}">
-          ${foto(k)}
-          <h3>${esc(k.nama)}</h3>
-        </a>`).join("");
-    }
+    if (induk) induk.innerHTML = DATA.filter((k) => k.peran === "induk").map(K.indukKartu).join("");
   }
 
+  /* URL lama kucing.html?nama=X → /kucing/X/ (halaman statis). Slug tak dikenal → pesan 404. */
   function renderProfil() {
     const el = document.getElementById("profil");
-    if (!el) return;
+    if (!el || el.hasAttribute("data-prerendered")) return;
     const slug = new URLSearchParams(location.search).get("nama");
     const k = DATA.find((x) => x.slug === slug);
     if (!k) {
       document.title = "Kucing tidak ditemukan — Deholic Cattery";
-      el.innerHTML = `<div class="container narrow notfound reveal"><p class="eyebrow">404</p><h1>Kucing tidak ditemukan</h1><p class="muted">Tautan mungkin salah atau profilnya sudah dipindahkan.</p><a class="btn" href="adopsi.html">Lihat semua kitten</a></div>`;
+      el.innerHTML = `<div class="container narrow notfound reveal"><p class="eyebrow">404</p><h1>Kucing tidak ditemukan</h1><p class="muted">Tautan mungkin salah atau profilnya sudah dipindahkan.</p><a class="btn" href="${root}adopsi.html">Lihat semua kitten</a></div>`;
       return;
     }
-    const setSeoMeta = (url, title, desc) => {
-    const set = (sel, attr, val) => { const m = document.querySelector(sel); if (m && val) m.setAttribute(attr, val); };
-    set('link[rel="canonical"]', "href", url); set('meta[property="og:url"]', "content", url);
-    set('meta[property="og:title"]', "content", title); set('meta[property="og:description"]', "content", desc);
-  };
-    document.title = `${k.nama}${k.peran === "kitten" ? " — Kitten British Shorthair" : ""} — Deholic Cattery`;
-    const desc = document.querySelector('meta[name="description"]');
-    if (desc) desc.setAttribute("content", k.sifat || `Profil ${k.nama}, kucing British Shorthair di Deholic Cattery.`);
-    setSeoMeta(`https://deholic.id/kucing.html?nama=${encodeURIComponent(k.slug)}`, document.title, desc && desc.getAttribute("content"));
-    const rows = [
-      ["Peran", k.peran === "induk" ? "Induk" : "Kitten"],
-      ["Jenis kelamin", k.kelamin],
-      ["Warna bulu", k.warna],
-      ["Tanggal lahir", k.lahir && `${tgl(k.lahir)} (${umur(k.lahir)})`],
-      ["Vaksin", k.vaksin],
-      ["Obat cacing", k.cacing],
-      ["Harga", k.status === "diadopsi" ? "" : k.harga],
-    ].filter((r) => r[1]);
-    const lainnya = DATA.filter((x) => x.peran === "kitten" && x.slug !== k.slug && x.status === "tersedia");
-    el.innerHTML = `
-      <section class="page-hero">
-        <div class="container profil-grid">
-          <div class="reveal">
-            <div class="profil-foto glass">${foto(k)}${stamp(k)}</div>
-            ${k.foto && k.foto.length > 1 ? `<div class="galeri" role="group" aria-label="Foto ${esc(k.nama)}">${k.foto.map((f, i) => `<button type="button" class="galeri-thumb" aria-pressed="${i === 0}" data-i="${i}"><img src="${esc(f)}" alt="${esc((k.altFoto && k.altFoto[i]) || k.nama)}" width="120" height="120" loading="lazy"></button>`).join("")}</div>` : ""}
-          </div>
-          <div class="reveal">
-            <p class="eyebrow"><a href="adopsi.html">${k.peran === "induk" ? "Induk Deholic Cattery" : "Kitten Deholic Cattery"}</a></p>
-            <div class="tags">${statusTag(k)}${contohTag(k)}</div>
-            <h1>${esc(k.nama)}</h1>
-            <p class="lead">${esc(k.deskripsi || k.sifat || "Profil lengkap segera hadir.")}</p>
-            <dl class="profil-data">${rows.map(([a, b]) => `<div><dt>${a}</dt><dd>${esc(b)}</dd></div>`).join("")}</dl>
-            <div class="kitten-aksi">
-              ${k.status === "tersedia" ? `<a class="btn" href="${IG_DM}" target="_blank" rel="noopener">Tanya ${esc(k.nama)} via DM Instagram <span aria-hidden="true">→</span></a>` : ""}
-              <a class="btn btn-ghost" href="adopsi.html">Semua kitten</a>
-            </div>
-            ${k.contoh ? '<p class="muted"><small>Profil ini masih contoh untuk uji tampilan; datanya fiktif.</small></p>' : ""}
-          </div>
-        </div>
-      </section>
-      ${lainnya.length ? `<section class="section tight"><div class="container"><h2 class="cat-title reveal">Kitten lain yang tersedia</h2><div class="kitten-grid">${lainnya.map(kartu).join("")}</div></div></section>` : ""}`;
+    const target = `/kucing/${encodeURIComponent(k.slug)}/`;
+    const url = `https://deholic.id${target}`;
+    document.title = K.title(k);
+    const c = document.querySelector('link[rel="canonical"]'); if (c) c.href = url;
+    const og = document.querySelector('meta[property="og:url"]'); if (og) og.content = url;
+    el.innerHTML = `<div class="container narrow notfound"><p class="eyebrow">Profil pindah alamat</p><h1>${esc(k.nama)}</h1><p class="muted">Profil ini sekarang ada di alamat baru. Kalau tidak otomatis terbuka, klik tombol di bawah.</p><a class="btn" href="${esc(target)}">Buka profil ${esc(k.nama)} <span aria-hidden="true">→</span></a></div>`;
+    location.replace(target);
   }
 
+  // Galeri foto profil: baca langsung dari thumbnail (tidak butuh data kucing).
   document.addEventListener("click", (e) => {
     const b = e.target.closest(".galeri-thumb");
     if (!b) return;
-    const k = DATA.find((x) => x.slug === new URLSearchParams(location.search).get("nama"));
     const big = document.querySelector(".profil-foto img");
-    if (!k || !big) return;
-    const i = +b.dataset.i;
-    big.src = k.foto[i];
-    big.alt = (k.altFoto && k.altFoto[i]) || k.alt || k.nama;
+    const t = b.querySelector("img");
+    if (!big || !t) return;
+    big.src = t.getAttribute("src");
+    big.alt = t.alt;
     document.querySelectorAll(".galeri-thumb").forEach((x) => x.setAttribute("aria-pressed", x === b));
   });
+  // Hitung ulang umur (halaman statis dibuat pada tanggal generate).
+  document.querySelectorAll("[data-lahir]").forEach((s) => { s.textContent = K.umur(s.dataset.lahir, new Date()); });
   if (page === "adopsi") renderAdopsi();
   if (page === "kucing") renderProfil();
   document.querySelectorAll(".kitten-grid .reveal").forEach((n) => n.classList.add("in"));

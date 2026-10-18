@@ -510,3 +510,8 @@ main > section:last-of-type { padding-bottom: clamp(64px, 7vw, 96px); }
   .share-end { padding: 20px; }
   .share-end .share-btn { padding-right: 14px; }
 }
+
+/* ---------- Halaman statis & daftar artikel ---------- */
+.more-wrap { display: flex; justify-content: center; margin-top: clamp(28px, 4vw, 44px); }
+a.chip { display: inline-block; text-decoration: none; }
+.grid > [hidden], .empty[hidden] { display: none !important; }

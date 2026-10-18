@@ -60,6 +60,7 @@
     <script data-goatcounter="https://deholic.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
   </head>
   <body data-page="home">
+    <script>if(/\/index\.html$/.test(location.pathname)&&history.replaceState){history.replaceState(null,"",location.pathname.replace(/index\.html$/,"")+location.search+location.hash)}</script>
     <a class="skip" href="#konten">Lewati ke konten</a>
     <div class="bg" aria-hidden="true"><span class="orb o1"></span><span class="orb o2"></span><span class="orb o3"></span><span class="bg-dots"></span></div>
     <header id="site-header"></header>
@@ -105,9 +106,12 @@
         <div class="container">
           <div class="section-head reveal">
             <div><p class="eyebrow">Arsip</p><h2 id="artikel-title">Artikel terbaru</h2></div>
-            <div class="filters" id="filters" role="tablist" aria-label="Filter kategori"></div>
+            <a class="btn btn-ghost btn-small" href="artikel/">Semua artikel &amp; kategori <span aria-hidden="true">→</span></a>
           </div>
           <div class="grid" id="grid"></div>
+          <div class="more-wrap" id="lihat-semua">
+            <a class="btn" href="artikel/">Lihat semua artikel <span aria-hidden="true">→</span></a>
+          </div>
         </div>
       </section>
 

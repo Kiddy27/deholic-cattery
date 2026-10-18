@@ -6,19 +6,55 @@ Situs blog statis Deholic Cattery (HTML + CSS + sedikit JavaScript) untuk menerb
 
 ```
 kucing-site/
-├── index.html          → Beranda (hero, sorotan, grid artikel + filter kategori)
-├── article.html        → Template halaman artikel (dibuka lewat article.html?slug=...)
-├── tentang.html        → Halaman Tentang
+├── index.html              → Beranda (hero, sorotan, 9 artikel terbaru + tombol "Lihat semua artikel")
+├── artikel/                → ★ DIBUAT OTOMATIS oleh tools/gen-static.py (jangan diedit manual)
+│   ├── index.html          → /artikel/ — semua artikel + chip filter kategori (/artikel/?kategori=Perawatan)
+│   └── <slug>/index.html   → /artikel/<slug>/ — satu halaman HTML statis per artikel
+├── kucing/<slug>/index.html→ /kucing/<slug>/ — profil kucing statis (DIBUAT OTOMATIS)
+├── article.html            → URL lama article.html?slug=X → langsung dialihkan ke /artikel/X/
+├── kucing.html             → URL lama kucing.html?nama=X → langsung dialihkan ke /kucing/X/
+├── adopsi.html             → Daftar kitten & induk
+├── tentang.html            → Halaman Tentang
+├── sitemap.xml             → dibuat /workspace/tools/gen-sitemap.py
+├── tools/gen-static.py     → generator halaman statis (Python 3 + node, tanpa dependensi)
 ├── assets/
-│   ├── css/style.css   → Seluruh gaya tampilan
-│   ├── js/articles.js  → ★ DATA SEMUA ARTIKEL (edit di sini)
-│   ├── js/main.js      → Header/footer bersama, render kartu & artikel, animasi
-│   └── img/            → favicon, ilustrasi hero, logo, foto kucing
-│       └── artikel/    → gambar sampul artikel (<slug>.webp)
+│   ├── css/                → style.css, theme-british.css, theme-dark.css
+│   ├── js/articles.js      → ★ DATA SEMUA ARTIKEL (edit di sini)
+│   ├── js/kucing-data.js   → ★ DATA KUCING
+│   ├── js/main.js          → templat HTML bersama (createTemplates) + header/footer, tema, bagikan, filter
+│   ├── js/kucing.js        → templat & perilaku halaman adopsi/profil kucing
+│   └── img/                → favicon, logo, foto kucing, artikel/<slug>.webp (sampul)
 └── README.md
 ```
 
-Header dan footer dibuat sekali di `assets/js/main.js` (fungsi `renderChrome`) dan dipakai di semua halaman.
+### Halaman statis (penting untuk SEO)
+
+Setiap artikel dan profil kucing punya file HTML sendiri yang sudah berisi judul, meta description,
+canonical (`https://deholic.id/artikel/<slug>/`), tag OG/Twitter (og:image = sampul artikel), JSON-LD
+`BlogPosting` + `BreadcrumbList`, dan seluruh isi artikel — Google bisa membacanya tanpa menjalankan JavaScript.
+
+- Templat HTML ada di **satu tempat**: `createTemplates()` di `assets/js/main.js` dan `createKucingTemplates()`
+  di `assets/js/kucing.js`. Generator memanggil templat yang sama lewat node, jadi tampilan halaman statis
+  identik dengan render di browser. Di halaman statis (`data-prerendered`), `main.js` hanya menambahkan perilaku
+  (tema gelap/terang, menu, tombol bagikan, filter, bilah progres) tanpa mengganti isi.
+- Halaman statis memakai path absolut (`/assets/...`, `data-root="/"`), karena situs berada di root domain.
+  Karena itu buka situs lewat server lokal (lihat di bawah), bukan klik ganda file.
+- Tautan lama di isi artikel (`article.html?slug=X`, `kucing.html?nama=X`) otomatis diubah ke `/artikel/X/` /
+  `/kucing/X/` saat generate, jadi file antrian lama tetap aman.
+- Artikel dengan `sample: true` tidak dibuat halaman statisnya (tetap tampil lewat `article.html?slug=`, noindex).
+  Kucing `contoh: true` tetap dibuat halamannya tetapi diberi `noindex` dan tidak masuk sitemap.
+
+**Regenerasi** (wajib setiap kali `articles.js`, `kucing-data.js`, templat di `main.js`/`kucing.js` berubah):
+
+```bash
+cd kucing-site
+python3 tools/gen-static.py                 # tulis ulang artikel/ dan kucing/ (hapus slug yang sudah tidak ada)
+python3 /workspace/tools/gen-sitemap.py     # perbarui sitemap.xml (DEHOLIC_SITE=$PWD bila bukan /workspace/kucing-site)
+git add -A artikel kucing sitemap.xml
+```
+
+Rutinitas harian `/workspace/tools/publish-today.py` sudah otomatis menjalankan keduanya dan meng-commit hasilnya
+bersama artikel baru, lalu memeriksa `https://deholic.id/artikel/<slug>/` (status 200 + judul ada di HTML mentah).
 
 ## Cara menambah artikel baru
 
@@ -50,7 +86,7 @@ Header dan footer dibuat sekali di `assets/js/main.js` (fungsi `renderChrome`) d
 },
 ```
 
-4. Simpan, lalu muat ulang browser. Artikel otomatis muncul di grid beranda, footer kategori, dan bisa dibuka di `article.html?slug=kucing-dan-musim-hujan`.
+4. Simpan, lalu jalankan `python3 tools/gen-static.py` (dan gen-sitemap). Artikel muncul di beranda (9 terbaru), di `/artikel/`, footer kategori, dan punya halaman sendiri `/artikel/kucing-dan-musim-hujan/`.
 
 Tips:
 - Pastikan setiap blok diakhiri koma `},` dan `slug` tidak sama dengan artikel lain.
@@ -61,7 +97,7 @@ Tips:
 - Simpan gambar di `assets/img/artikel/<slug>.webp`, lalu isi `image: "assets/img/artikel/<slug>.webp"` (path relatif dari root situs).
 - Format yang disarankan: WebP lanskap **1200×750 px (16:10)**, kualitas ±80, ukuran di bawah ±150 KB. Gaya ilustrasi saat ini: pastel lembut, flat ala buku anak, kucing British Shorthair abu-abu bermata tembaga, tanpa teks di gambar.
 - `imageAlt` berisi deskripsi singkat isi gambar untuk pembaca layar. Jika kosong, alt memakai judul artikel.
-- Gambar tampil di kartu artikel (lazy-load), blok "Sorotan", header halaman artikel, dan dipakai sebagai `og:image` saat halaman artikel dibuka.
+- Gambar tampil di kartu artikel (lazy-load), blok "Sorotan", header halaman artikel, dan dipakai sebagai `og:image` di halaman statis artikel.
 - Jika `image` tidak diisi, sampul otomatis memakai sampul ikon + gradien dari `icon` dan `accent` seperti biasa.
 - Artikel antrian (`/workspace/drafts/antrian/YYYY-MM-DD-slug.js`) boleh memakai `image`; simpan gambarnya di `/workspace/drafts/antrian/img/<slug>.webp`. Skrip `publish-today.py` menyalinnya ke `assets/img/artikel/` dan ikut meng-commit. Jika gambar tidak ditemukan, artikel tetap terbit tanpa gambar.
 
@@ -73,12 +109,13 @@ python3 -m http.server 8080
 # buka http://localhost:8080
 ```
 
-(Membuka `index.html` langsung dengan klik ganda juga berfungsi.)
+(Halaman statis memakai path absolut `/...`, jadi gunakan server lokal; klik ganda file tidak lagi didukung penuh.)
 
 ## Publikasi
 
 - **Netlify:** seret folder `kucing-site` ke https://app.netlify.com/drop
-- **GitHub Pages:** unggah isi folder ke repositori, lalu aktifkan Pages di *Settings → Pages*.
+- **GitHub Pages:** repo `Kiddy27/deholic-cattery` (domain https://deholic.id lewat file `CNAME`). Pastikan folder `artikel/` dan `kucing/` hasil generator ikut di-commit.
+- Setelah struktur URL berubah, kirim ulang `https://deholic.id/sitemap.xml` di Google Search Console.
 
 ## Kredit & lisensi aset
 
