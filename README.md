@@ -2,8 +2,6 @@
 
 Situs blog statis Deholic Cattery (HTML + CSS + sedikit JavaScript) untuk menerbitkan artikel tentang anabul kucing. Tampilannya terang dan ceria: latar krem, aksen pastel, dan dekorasi jejak kaki kucing. Tidak perlu *build step*: cukup buka `index.html` di browser, atau unggah seluruh folder ke Netlify, GitHub Pages, Vercel, atau hosting statis lainnya.
 
-> **Catatan:** keenam artikel yang ada saat ini adalah **konten contoh** (bertanda "Contoh"). Silakan ganti atau hapus dan isi dengan tulisanmu sendiri.
-
 ## Struktur folder
 
 ```
@@ -15,7 +13,8 @@ kucing-site/
 │   ├── css/style.css   → Seluruh gaya tampilan
 │   ├── js/articles.js  → ★ DATA SEMUA ARTIKEL (edit di sini)
 │   ├── js/main.js      → Header/footer bersama, render kartu & artikel, animasi
-│   └── img/            → favicon.svg & hero-cat.svg (ilustrasi buatan sendiri)
+│   └── img/            → favicon, ilustrasi hero, logo, foto kucing
+│       └── artikel/    → gambar sampul artikel (<slug>.webp)
 └── README.md
 ```
 
@@ -37,9 +36,10 @@ Header dan footer dibuat sekali di `assets/js/main.js` (fungsi `renderChrome`) d
   readTime: 4,                              // menit
   author: "Fransdiky",
   icon: "paw",                              // paw | bowl | eye | home | shield | sparkle | heart
-  accent: ["#ffc6da", "#ffd9bd"],           // dua warna pastel gradien sampul
-  featured: false,                          // true = tampil di "Sorotan" (pilih satu saja)
-  sample: false,                            // true = muncul label "Contoh"
+  accent: ["#ffc6da", "#ffd9bd"],           // dua warna pastel gradien sampul (dipakai jika tanpa image)
+  image: "assets/img/artikel/kucing-dan-musim-hujan.webp", // opsional: gambar sampul
+  imageAlt: "Ilustrasi kucing abu-abu menatap hujan dari jendela", // opsional: deskripsi gambar (alt)
+  featured: false,                          // true = tampil di "Sorotan" (pilih satu saja; jika tidak ada, artikel terbaru)
   content: `
     <p>Paragraf pembuka...</p>
     <h2>Subjudul</h2>
@@ -55,7 +55,15 @@ Header dan footer dibuat sekali di `assets/js/main.js` (fungsi `renderChrome`) d
 Tips:
 - Pastikan setiap blok diakhiri koma `},` dan `slug` tidak sama dengan artikel lain.
 - Isi `content` memakai tanda backtick `` ` `` sehingga boleh beberapa baris. Hindari menulis backtick di dalam isi artikel.
-- Untuk menghapus label "Contoh" dan catatan konten sampel, ubah `sample: true` menjadi `false` (dan hapus kalimat catatan di `index.html` bagian `sample-banner` bila semua artikel sudah asli).
+
+### Gambar sampul (`image`, opsional)
+
+- Simpan gambar di `assets/img/artikel/<slug>.webp`, lalu isi `image: "assets/img/artikel/<slug>.webp"` (path relatif dari root situs).
+- Format yang disarankan: WebP lanskap **1200×750 px (16:10)**, kualitas ±80, ukuran di bawah ±150 KB. Gaya ilustrasi saat ini: pastel lembut, flat ala buku anak, kucing British Shorthair abu-abu bermata tembaga, tanpa teks di gambar.
+- `imageAlt` berisi deskripsi singkat isi gambar untuk pembaca layar. Jika kosong, alt memakai judul artikel.
+- Gambar tampil di kartu artikel (lazy-load), blok "Sorotan", header halaman artikel, dan dipakai sebagai `og:image` saat halaman artikel dibuka.
+- Jika `image` tidak diisi, sampul otomatis memakai sampul ikon + gradien dari `icon` dan `accent` seperti biasa.
+- Artikel antrian (`/workspace/drafts/antrian/YYYY-MM-DD-slug.js`) boleh memakai `image`; simpan gambarnya di `/workspace/drafts/antrian/img/<slug>.webp`. Skrip `publish-today.py` menyalinnya ke `assets/img/artikel/` dan ikut meng-commit. Jika gambar tidak ditemukan, artikel tetap terbit tanpa gambar.
 
 ## Menjalankan secara lokal
 
@@ -74,6 +82,7 @@ python3 -m http.server 8080
 
 ## Kredit & lisensi aset
 
-- Ilustrasi kucing (`hero-cat.svg`), favicon, kucing "mengintip" di footer, ikon, jejak kaki, dan sampul artikel dibuat sendiri dengan SVG/CSS — tidak ada foto atau gambar berhak cipta pihak ketiga.
+- Ilustrasi kucing (`hero-cat.svg`), favicon, kucing "mengintip" di footer, ikon, jejak kaki, dan sampul ikon (fallback) dibuat sendiri dengan SVG/CSS.
+- Gambar sampul artikel di `assets/img/artikel/` adalah ilustrasi yang dibuat dengan generator gambar AI khusus untuk situs ini (tanpa foto pihak ketiga).
 - Font: [Fredoka](https://fonts.google.com/specimen/Fredoka) (judul) dan [Nunito](https://fonts.google.com/specimen/Nunito) (teks) via Google Fonts (SIL Open Font License).
 - Ingin memakai foto? Simpan file secara lokal di `assets/img/` (jangan *hotlink*) dan cantumkan atribusinya di sini dan di footer.

@@ -27,14 +27,22 @@
   const link = (a) => `${root}article.html?slug=${encodeURIComponent(a.slug)}`;
 
   const CAT_HEAD = '<svg class="cover-head" viewBox="0 0 100 100" aria-hidden="true"><path d="M17 44 L14 10 Q14 6 18 8 L40 24 Q50 21 60 24 L82 8 Q86 6 86 10 L83 44 Q92 60 84 74 Q72 94 50 94 Q28 94 16 74 Q8 60 17 44 Z"/><path class="ear" d="M21 32 L20 17 L32 25 Z M79 32 L80 17 L68 25 Z"/></svg>';
-  const cover = (a, size = "") => {
+  /* Sampul: pakai gambar (a.image) bila ada; tanpa image → sampul ikon + gradien (fallback). */
+  const imgSrc = (p) => (/^(https?:)?\/\//.test(p) || p.startsWith("/") ? p : root + p);
+  const imgAlt = (a) => a.imageAlt || `Ilustrasi sampul artikel: ${a.title}`;
+  const cover = (a, size = "", opts = {}) => {
+    if (a.image) {
+      const lazy = opts.eager ? 'loading="eager" fetchpriority="high"' : 'loading="lazy"';
+      return `<div class="cover cover-img ${size}">
+      <img src="${esc(imgSrc(a.image))}" alt="${esc(imgAlt(a))}" width="1200" height="750" ${lazy} decoding="async" />
+    </div>`;
+    }
     const [c1, c2] = a.accent || ["#ffc6da", "#ffd9bd"];
     return `<div class="cover ${size}" style="--c1:${esc(c1)};--c2:${esc(c2)}" aria-hidden="true">
       <span class="cover-paws"></span><span class="cover-blob"></span>
       <span class="cover-badge">${CAT_HEAD}${icon(a.icon, "cover-icon")}<span class="blush l"></span><span class="blush r"></span></span>
     </div>`;
   };
-  const sampleTag = (a) => (a.sample ? '<span class="tag tag-sample" title="Konten contoh — silakan ganti">Contoh</span>' : "");
 
   /* ---------- Header & footer bersama ---------- */
   function renderChrome() {
@@ -93,8 +101,8 @@
           </div>
         </div>
         <div class="container footer-bottom">
-          <p>© ${new Date().getFullYear()} Deholic Cattery. Artikel bertanda “Contoh” adalah konten sampel.</p>
-          <p>Ilustrasi & ikon: SVG buatan sendiri — tanpa gambar berhak cipta pihak ketiga.</p>
+          <p>© ${new Date().getFullYear()} Deholic Cattery.</p>
+          <p>Ilustrasi, ikon & sampul artikel dibuat khusus untuk Deholic Cattery.</p>
         </div>`;
     }
   }
@@ -105,7 +113,7 @@
       <a class="card-link" href="${link(a)}" aria-label="${esc(a.title)}"></a>
       ${cover(a)}
       <div class="card-body">
-        <div class="tags"><span class="tag">${esc(a.category)}</span>${sampleTag(a)}</div>
+        <div class="tags"><span class="tag">${esc(a.category)}</span></div>
         <h3>${esc(a.title)}</h3>
         <p>${esc(a.excerpt)}</p>
         <div class="meta"><span>${fmtDate(a.date)}</span><span class="dot"></span><span>${a.readTime} menit baca</span></div>
@@ -127,7 +135,7 @@
         <article class="featured glass reveal">
           ${cover(featured, "cover-lg")}
           <div class="featured-body">
-            <div class="tags"><span class="tag tag-glow">Sorotan</span><span class="tag">${esc(featured.category)}</span>${sampleTag(featured)}</div>
+            <div class="tags"><span class="tag tag-glow">Sorotan</span><span class="tag">${esc(featured.category)}</span></div>
             <h3><a href="${link(featured)}">${esc(featured.title)}</a></h3>
             <p>${esc(featured.excerpt)}</p>
             <div class="meta"><span>${esc(featured.author)}</span><span class="dot"></span><span>${fmtDate(featured.date)}</span><span class="dot"></span><span>${featured.readTime} menit baca</span></div>
@@ -192,6 +200,13 @@
     const set = (sel, attr, val) => { const m = document.querySelector(sel); if (m && val) m.setAttribute(attr, val); };
     set('link[rel="canonical"]', "href", url); set('meta[property="og:url"]', "content", url);
     set('meta[property="og:title"]', "content", title); set('meta[property="og:description"]', "content", desc);
+    if (a.image) {
+      const abs = new URL(a.image, "https://deholic.id/").href;
+      set('meta[property="og:image"]', "content", abs);
+      set('meta[property="og:image:width"]', "content", "1200");
+      set('meta[property="og:image:height"]', "content", "750");
+      set('meta[name="twitter:image"]', "content", abs);
+    }
   };
     document.title = `${a.title} — Deholic Cattery`;
     const desc = document.querySelector('meta[name="description"]');
@@ -206,7 +221,7 @@
       <header class="article-hero">
         <div class="container narrow">
           <nav class="crumbs" aria-label="Breadcrumb"><a href="${root}index.html">Beranda</a><span>/</span><a href="${root}index.html?kategori=${encodeURIComponent(a.category)}#artikel">${esc(a.category)}</a></nav>
-          <div class="tags"><span class="tag">${esc(a.category)}</span>${sampleTag(a)}</div>
+          <div class="tags"><span class="tag">${esc(a.category)}</span></div>
           <h1>${esc(a.title)}</h1>
           <p class="lead">${esc(a.excerpt)}</p>
           <div class="byline">
@@ -214,10 +229,9 @@
             <div><strong>${esc(a.author)}</strong><span class="muted">${fmtDate(a.date)} · ${a.readTime} menit baca</span></div>
           </div>
         </div>
-        <div class="container mid">${cover(a, "cover-xl")}</div>
+        <div class="container mid">${cover(a, "cover-xl", { eager: true })}</div>
       </header>
       <div class="container narrow">
-        ${a.sample ? '<aside class="notice" role="note"><strong>Konten contoh.</strong> Artikel ini adalah tulisan sampel — ganti dengan tulisanmu sendiri di <code>assets/js/articles.js</code>.</aside>' : ""}
         <div class="prose">${a.content}</div>
         <nav class="pager" aria-label="Artikel sebelumnya dan berikutnya">
           ${prev ? `<a class="glass" href="${link(prev)}"><span class="muted">← Sebelumnya</span><strong>${esc(prev.title)}</strong></a>` : "<span></span>"}

@@ -16,7 +16,9 @@
    - icon      : paw | bowl | eye | home | shield | sparkle | heart
    - accent    : dua warna gradien sampul, mis. ["#ffc6da", "#ffd9bd"] (warna pastel paling cocok)
    - featured  : true untuk dijadikan "Sorotan" di beranda (pilih satu)
-   - sample    : true = konten contoh (tampil label "Contoh"). Hapus/false untuk artikel asli.
+   - image     : (opsional) gambar sampul, mis. "assets/img/artikel/<slug>.webp" (WebP ±1200×750).
+                 Tanpa image → sampul ikon + gradien dari icon/accent.
+   - imageAlt  : (opsional) deskripsi gambar untuk alt text; default memakai judul.
    - content   : isi artikel dalam HTML (<p>, <h2>, <ul>, <blockquote>, dll.)
    ========================================================= */
 
@@ -32,6 +34,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "shield",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/perawatan-gigi-kucing-pemula.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga tersenyum di atas selimut, di samping sikat gigi dan pasta gigi khusus kucing",
     content: `
       <p>Kamu sedang rebahan bareng anabul. Dia mendekat, mengeong manis, lalu menghembuskan napas tepat di wajahmu. Aroma yang datang? Bukan aroma bunga mawar. Lebih dekat ke "ikan semalam yang belum dicuci". Kamu tertawa, tapi diam-diam bertanya: apa gigi kucing juga perlu dirawat, atau cukup dibiarkan saja?</p>
       <p>Jawabannya: perawatan gigi kucing memang layak dikenalkan, tapi bukan dengan cara memaksa atau mendadak seperti di film dokter gigi. Kali ini kita bahas pendekatan yang lembut, pelan-pelan, dan ramah pemula. Bukan pengganti saran dokter hewan, ya. Kalau ada keraguan soal kondisi mulut kucingmu, konsultasikan dulu ke dokter hewan.</p>
@@ -98,6 +102,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "paw",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-suka-duduk-di-laptop.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu rebahan di atas keyboard laptop di meja kerja, dengan cangkir kopi dan kasur kucing kosong di sebelahnya",
     content: `
       <p>Kamu baru saja membuka laptop, kopi masih hangat, daftar kerjaan sudah menunggu. Lalu datanglah dia. Pelan, anggun, penuh percaya diri, anabul melangkah ke atas keyboard, mengetik "jjjjjjjjkkkkkk" di dokumen penting, lalu duduk manis tepat di depan layar. Seolah berkata, "Rapatnya sudah selesai. Sekarang waktunya aku."</p>
       <p>Kalau ini terdengar akrab, selamat, kamu resmi punya rekan kerja berbulu. Kabar baiknya, perilaku ini sangat umum dan biasanya bukan tanda kucingmu nakal. Yuk, kita bahas kenapa kucing begitu suka laptop dan kertas kerja, plus cara membuat tempat alternatif supaya kalian berdua sama-sama bisa "produktif".</p>
@@ -154,6 +160,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "heart",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/tips-memberi-nama-kucing.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu berkalung liontin hati sedang berpikir, dikelilingi gelembung berisi mochi, kentang, mahkota, dan hati",
     content: `
       <p>Anabul baru sudah datang, kotak pasir sudah siap, mangkuk sudah terisi. Lalu muncul pertanyaan paling sulit sedunia: "Namanya siapa, ya?" Tiba-tiba satu keluarga berubah jadi panitia rapat. Ada yang mau nama keren, ada yang mau nama makanan, dan ada adik kecil yang ngotot ingin memanggilnya "Kucing". Titik.</p>
       <p>Tenang, memberi nama kucing seharusnya jadi bagian yang menyenangkan. Supaya prosesnya tidak berakhir dengan voting yang penuh drama, yuk simak beberapa tips sederhana berikut.</p>
@@ -211,6 +219,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "paw",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/rutinitas-harian-kucing.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu menepuk bantal di kasur saat matahari terbit, dengan jam weker di meja dan mangkuk makan di lantai",
     content: `
       <p>Kalau kamu pernah dibangunkan jam lima pagi oleh kaki berbulu yang menepuk-nepuk pipi, atau suara meong yang makin lama makin dramatis di depan pintu kamar, selamat: kamu sudah kenal "alarm" paling setia di dunia. Alarm ini tidak bisa di-snooze, dan kadang malah naik volume kalau diabaikan.</p>
       <p>Banyak pemilik kucing mengira anabul cuma rewel. Padahal, sering kali kucing sedang menagih sesuatu yang dia anggap sudah "jadwalnya". Di sinilah rutinitas harian berperan. Bukan untuk bikin hidupmu kaku, tapi supaya anabul tahu apa yang akan terjadi, dan kamu bisa tidur sedikit lebih nyenyak.</p>
@@ -264,6 +274,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "shield",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/membawa-kucing-ke-vet-pertama-kali.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu duduk tenang di atas handuk di meja periksa klinik hewan, dengan carrier terbuka, stetoskop, dan toples camilan",
     content: `
       <p>Kunjungan pertama ke dokter hewan sering terasa seperti hari pertama sekolah, cuma bedanya yang deg-degan bukan cuma muridnya, tapi juga orang tuanya. Anabul mengeong protes di jalan, kamu sibuk memikirkan mau tanya apa, dan tiba-tiba sudah sampai di ruang tunggu dengan tangan sedikit gemetar. Tenang, itu wajar banget.</p>
       <p>Kabar baiknya, dengan sedikit persiapan, kunjungan pertama ke vet bisa berjalan jauh lebih santai. Anggap saja ini perkenalan: anabul kenalan dengan dokternya, dan kamu dapat teman diskusi untuk urusan kesehatan si kecil ke depannya.</p>
@@ -323,6 +335,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "sparkle",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/spot-jendela-berjemur-kucing.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu tidur nyenyak di bantalan jendela yang terkena sinar matahari, dengan kasa pengaman dan dua burung kecil di luar",
     content: `
       <p>Pagi-pagi kamu mencari anabul ke seluruh rumah, ternyata dia sedang rebahan di depan jendela, mata setengah terpejam, bulu hangat kena sinar matahari, dan wajahnya seolah berkata, "Jangan ganggu, aku lagi liburan." Kalau kucingmu begitu, selamat, kamu memelihara penggemar berat jendela.</p>
       <p>Bagi banyak kucing rumahan, jendela itu semacam televisi gratis sekaligus tempat spa. Ada burung lewat, daun bergoyang, tetangga jalan pagi, dan cahaya hangat untuk tidur siang. Kabar baiknya, dengan sedikit persiapan, kamu bisa menjadikan jendela sebagai spot favorit yang seru dan tetap aman.</p>
@@ -380,6 +394,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "heart",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-nyaman-saat-ada-tamu.webp",
+    imageAlt: "Ilustrasi ruang tamu dengan teh, kue, dan deretan sepatu tamu di dekat pintu, sementara kucing British Shorthair abu-abu mengintip tenang dari rumah-rumahan kucing berselimut",
     content: `
       <p>Bel pintu berbunyi, suara orang mengobrol mulai terdengar, dan dalam hitungan detik anabul kesayanganmu sudah lenyap. Yang tersisa cuma sehelai bulu di sofa dan sepasang mata bulat yang mengintip dari kolong kasur. Sementara itu, tamumu bertanya dengan polos, "Lho, katanya punya kucing? Mana?"</p>
       <p>Tenang, ini bukan berarti kucingmu antisosial atau tidak sayang sama kamu. Bagi banyak kucing, rumah yang tiba-tiba ramai itu seperti wilayah pribadinya mendadak diserbu orang asing yang berisik dan baunya aneh. Wajar kalau dia memilih mundur dulu. Tugas kita bukan memaksa dia ikut pesta, tapi memastikan dia tetap merasa aman di rumahnya sendiri.</p>
@@ -438,6 +454,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "home",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/membiasakan-kucing-masuk-carrier.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu mendekati carrier terbuka beralas selimut empuk, mengikuti jejak camilan di lantai",
     content: `
       <p>Begitu kandang travel dikeluarkan dari gudang, suasana rumah langsung berubah jadi film aksi. Anabul yang tadinya tidur pulas mendadak punya kekuatan super: menghilang ke kolong lemari, menempel di sudut paling jauh, atau berubah jadi gumpalan bulu yang kaku dengan empat kaki terbuka lebar di depan pintu carrier. Lima belas menit kemudian, kamu sudah berkeringat, dan janji ke dokter hewan atau grooming sudah hampir telat.</p>
       <p>Kalau ini terdengar familiar, tenang dulu. Banyak kucing tidak suka carrier bukan karena carrier-nya seram, tapi karena benda itu biasanya cuma muncul sebelum hal-hal yang kurang menyenangkan. Kabar baiknya, kesan itu bisa diubah pelan-pelan.</p>
@@ -498,6 +516,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "shield",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-takut-suara-bising.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu meringkuk aman di tempat tidur gua berselimut, sementara di luar jendela hujan dan petir",
     content: `
       <p>Langit mendung, lalu tiba-tiba terdengar suara petir menggelegar. Dalam sepersekian detik, anabul yang tadinya rebahan santai di sofa sudah lenyap. Sepuluh menit kemudian kamu menemukannya di kolong tempat tidur, mata bulat besar, badan menempel ke lantai seperti sedang menyamar jadi karpet. Kalau adegan ini terasa akrab, tenang, kamu tidak sendirian.</p>
       <p>Telinga kucing umumnya jauh lebih peka daripada telinga kita. Suara yang buat kita cuma "agak berisik" bisa terasa jauh lebih mengagetkan buat mereka. Kabar baiknya, ada banyak cara sederhana untuk membantu anabul melewati hari-hari bising dengan lebih tenang.</p>
@@ -562,6 +582,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "sparkle",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/mainan-stimulasi-kucing-indoor.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu melompat mengejar mainan bulu, dikelilingi puzzle feeder, bola-bola, terowongan, dan cat tree",
     content: `
       <p>Jam tiga pagi. Rumah sunyi. Tiba-tiba terdengar suara gedebak-gedebuk dari ruang tengah, disusul suara sesuatu jatuh dari meja. Kamu keluar kamar dan menemukan anabul sedang berlari dari ujung ke ujung rumah seperti dikejar deadline. Kalau ini sering terjadi, bisa jadi anabulmu sedang menyampaikan pesan sederhana: "Hooman, aku bosan."</p>
       <p>Kucing yang tinggal di dalam rumah memang lebih terlindung dari banyak risiko di luar. Tapi dunia mereka juga jadi lebih kecil. Di sinilah tugas kita: membuat rumah tetap terasa seru, tanpa harus mengubahnya jadi taman bermain mahal.</p>
@@ -626,6 +648,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "home",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/memilih-tempat-tidur-kucing.webp",
+    imageAlt: "Ilustrasi kasur kucing berenda yang kosong, sementara kucing British Shorthair abu-abu justru duduk puas di dalam kardus di sebelahnya",
     content: `
       <p>Kamu sudah scroll marketplace berjam-jam, membandingkan warna, membaca ulasan, lalu akhirnya check out kasur kucing paling empuk dan paling estetik. Paket datang, kasur ditata rapi, kamu memanggil anabul dengan penuh harap. Dia datang, mengendus kasurnya sebentar, lalu dengan mantap masuk ke... kardus bekas paketnya. Kasurnya? Dilewati begitu saja, seperti mantan.</p>
       <p>Kalau ini terdengar akrab, kamu tidak sendirian. Kucing memang punya pendapat yang kuat soal tempat tidur. Kabar baiknya, dengan sedikit pengamatan, kamu bisa memilih tempat tidur yang jauh lebih mungkin dipakai, bukan cuma jadi pajangan.</p>
@@ -692,6 +716,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "bowl",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/tips-air-minum-kucing-rumahan.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu minum dari mangkuk keramik lebar di samping air mancur kucing kecil",
     content: `
       <p>Kamu sudah menyiapkan mangkuk air yang bersih, diisi penuh, ditaruh rapi di samping mangkuk makan. Lalu anabul lewat, melirik sebentar, dan... memilih minum dari gelas kopimu yang ketinggalan di meja. Atau dari keran wastafel. Atau dari genangan air bekas siram tanaman. Selamat, kamu resmi bergabung dengan klub hooman yang bingung kenapa kucing begitu pemilih soal air.</p>
       <p>Tenang, ini cerita yang sangat umum. Banyak kucing memang tidak terlihat "rajin minum" seperti anjing yang langsung menyeruput air sampai lantai basah. Kabar baiknya, ada beberapa trik sederhana yang bisa membuat air minum jadi lebih menarik di mata (dan kumis) mereka.</p>
@@ -753,6 +779,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "heart",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/mengenal-british-shorthair.webp",
+    imageAlt: "Ilustrasi potret kucing British Shorthair abu-abu berpipi bulat dan bermata tembaga duduk di atas bantal bundar, dengan sikat bulu dan bola mainan",
     content: `
       <p>Pernah lihat kucing yang wajahnya bulat, matanya besar, tubuhnya seperti boneka yang bisa berjalan sendiri? Itu kemungkinan besar British Shorthair, atau yang sering disingkat BSH. Ras ini sering bikin orang bilang "aduh lucu banget", lalu dua detik kemudian bertanya, "emang dia selalu semahal itu diamnya?"</p>
       <p>Artikel ini buat kamu yang baru mulai penasaran. Bukan ensiklopedia panjang, melainkan kenalan santai: seperti apa wataknya, kenapa bulunya terasa mewah, dan apa yang perlu disiapkan kalau suatu hari kamu ingin hidup bareng si boneka hidup ini.</p>
@@ -811,6 +839,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "paw",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/scratching-post-kucing-biar-dipakai.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu berdiri mencakar tiang garukan tali sisal yang diletakkan di samping sofa",
     content: `
       <p>Kamu sudah survei berhari-hari, membandingkan model, lalu akhirnya membeli scratching post yang cantik. Dipasang di sudut ruang tamu, difoto, dipamerkan ke grup keluarga. Lalu anabul lewat di depannya tanpa menoleh sedikit pun, dan langsung mengasah kuku di sandaran sofa. Sakit, tapi bukan di kulit. Di hati.</p>
       <p>Tenang, ini kisah yang sangat umum di kalangan hooman. Scratching post yang dicuekin biasanya bukan karena kucingmu keras kepala, tapi karena ada yang belum pas: bentuknya, bahannya, atau lokasinya. Yuk kita bahas pelan-pelan supaya tiang garukan itu benar-benar dipakai, bukan cuma jadi pajangan mahal.</p>
@@ -885,6 +915,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "eye",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/arti-suara-kucing-meong-dengkur-desis.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu mengeong, dikelilingi gelombang suara, not musik, hati, dan gelembung percakapan",
     content: `
       <p>Rumah dengan kucing jarang benar-benar sunyi. Ada meong pendek di depan kulkas, dengkur lembut di pangkuan, kadang desis singkat saat main terlalu kasar. Buat pemilik pemula, semua suara itu sering terdengar sama: "anabul lagi ngomong." Padahal tiap bunyi punya nuansa sendiri. Belum tentu marah, belum tentu lapar, dan belum tentu minta dipeluk seketika.</p>
       <p>Ini bukan kamus ilmiah, melainkan panduan santai: kapan meong berarti "perhatikan aku", kapan dengkur berarti nyaman, dan kapan desis artinya "berhenti dulu". Kalau suara berubah drastis atau kucing terlihat kesakitan, itu wilayah dokter hewan, bukan tebak-tebakan di sofa.</p>
@@ -945,6 +977,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "paw",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/potong-kuku-kucing-tanpa-drama.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu rebahan santai di atas handuk dengan satu kaki terjulur, di samping gunting kuku kucing dan semangkuk camilan",
     content: `
       <p>Ada momen di rumah yang membuat waktu seakan melambat: kamu membawa gunting kuku, kucing langsung menghilang ke bawah sofa. Seolah ia punya radar khusus untuk benda kecil yang mengkilap. Padahal potong kuku bukan hukuman. Ini perawatan biasa supaya kaki anabul nyaman, sofa tetap utuh, dan lenganmu tidak jadi papan goresan berjalan.</p>
       <p>Kabar baiknya, drama itu bisa dikurangi. Kuncinya bukan mengejar, melainkan menyiapkan suasana yang tenang, memotong sedikit demi sedikit, dan berhenti sebelum kucing panik. Yuk mulai dari dasar yang ramah pemula.</p>
@@ -1013,6 +1047,8 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "home",
     accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/panduan-kotak-pasir-kucing.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu duduk di samping kotak pasir bersih yang lega beserta sekopnya, di sudut ruangan yang tenang",
     content: `
       <p>Kalau kucing punya ulasan bintang lima untuk fasilitas rumah, kotak pasir pasti masuk daftar teratas. Bagi kita, ini cuma wadah berisi pasir. Bagi kucing, ini toilet pribadi yang harus bersih, tenang, dan sesuai selera. Kalau ada yang tidak cocok, ia tidak akan menulis keluhan. Ia akan langsung memilih keset kamar mandimu.</p>
       <p>Supaya drama itu tidak terjadi, yuk kenalan dengan dasar-dasar kotak pasir yang bikin anabul betah dan rumah tetap wangi.</p>
@@ -1070,8 +1106,9 @@ window.ARTICLES = [
     author: "Tim Deholic Cattery",
     icon: "sparkle",
     featured: false,
-    sample: false,
     accent: ["#ffe3a8", "#d4c5ff"],
+    image: "assets/img/artikel/kebiasaan-aneh-kucing-yang-normal.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu mengulen selimut di dalam kardus, dengan mainan tikus di lantai dan cangkir di meja kecil",
     content: `
       <p>Kalau kamu baru tinggal serumah dengan kucing, pasti ada saatnya kamu menatap anabul dan bertanya dalam hati, "Kamu kenapa, sih?" Ia menatap tembok kosong lama sekali, menolak kasur empuk yang baru kamu beli demi kardus bekas paket, lalu tiba-tiba lari keliling rumah seperti dikejar tagihan.</p>
       <p>Kabar baiknya, sebagian besar tingkah ajaib ini normal. Berikut tujuh kebiasaan yang sering bikin pemilik pemula garuk-garuk kepala, lengkap dengan penjelasan sederhananya.</p>
@@ -1111,223 +1148,6 @@ window.ARTICLES = [
 
       <h2>Penutup</h2>
       <p>Hidup bersama kucing berarti menerima bahwa sesekali gelasmu akan jatuh dan tidurmu terganggu oleh balapan pukul tiga pagi. Tapi di balik semua itu, ada makhluk kecil yang memilih tidur di dekatmu dan mengulen pangkuanmu dengan sepenuh hati. Rasanya, itu pertukaran yang adil. Nah, kebiasaan aneh apa yang paling sering dilakukan anabulmu?</p>
-    `,
-  },
-  {
-    slug: "memahami-bahasa-tubuh-kucing",
-    title: "Memahami Bahasa Tubuh Kucing: Membaca Ekor, Telinga, dan Mata",
-    category: "Perilaku",
-    excerpt:
-      "Kucing jarang 'bicara' dengan suara, tetapi tubuhnya bercerita banyak. Kenali sinyal-sinyal kecil agar hubunganmu dengan anabul makin dekat.",
-    date: "2026-09-28",
-    readTime: 6,
-    author: "Tim Deholic Cattery",
-    icon: "paw",
-    accent: ["#d4c5ff", "#a8d8ff"],
-    featured: true,
-    sample: true,
-    content: `
-      <p>Kucing adalah komunikator yang halus. Alih-alih menggonggong atau melompat kegirangan, mereka menyampaikan perasaan lewat posisi ekor, arah telinga, bentuk pupil, hingga cara mereka berbaring. Memahami sinyal ini membantu kita tahu kapan anabul ingin dimanja dan kapan ia butuh ruang.</p>
-
-      <h2>Ekor: barometer suasana hati</h2>
-      <p>Ekor yang tegak dengan ujung sedikit melengkung umumnya menandakan kucing merasa nyaman dan ramah. Sebaliknya, ekor yang dikibas-kibaskan dengan cepat atau dipukul-pukulkan ke lantai sering berarti ia sedang kesal atau terlalu terstimulasi.</p>
-      <ul>
-        <li><strong>Tegak lurus:</strong> percaya diri, senang menyapa.</li>
-        <li><strong>Mengembang (seperti sikat botol):</strong> kaget atau merasa terancam.</li>
-        <li><strong>Melingkar di tubuh:</strong> sedang santai atau ingin menyendiri.</li>
-      </ul>
-
-      <h2>Telinga: antena yang jujur</h2>
-      <p>Telinga yang menghadap ke depan menunjukkan rasa ingin tahu. Bila telinga diputar ke samping atau dilipat rata ke belakang, itu tanda ketidaknyamanan — saat seperti ini, sebaiknya beri kucing jarak.</p>
-
-      <h2>Mata dan "kedipan pelan"</h2>
-      <p>Kedipan mata yang lambat sering dianggap sebagai tanda kepercayaan. Coba balas dengan kedipan pelan juga — banyak pemilik merasa cara ini membuat kucing lebih rileks di dekat mereka. Pupil yang tiba-tiba membesar bisa berarti bersemangat, takut, atau sedang dalam mode berburu, jadi perhatikan juga konteksnya.</p>
-
-      <blockquote>Bahasa tubuh selalu dibaca sebagai satu kesatuan. Satu sinyal saja bisa menyesatkan; lihat ekor, telinga, mata, dan postur sekaligus.</blockquote>
-
-      <h2>Postur tubuh</h2>
-      <p>Kucing yang berguling memperlihatkan perutnya sedang menunjukkan rasa aman — tetapi itu belum tentu undangan untuk mengelus perut. Banyak kucing justru tidak suka disentuh di area tersebut. Biarkan anabul yang menentukan batasnya.</p>
-
-      <h2>Kapan perlu waspada?</h2>
-      <p>Perubahan perilaku yang mendadak — misalnya kucing yang biasanya ramah jadi sering bersembunyi atau agresif — bisa menjadi tanda ia sedang tidak enak badan. Jika perubahan itu berlangsung lebih dari beberapa hari, konsultasikan dengan dokter hewan.</p>
-    `,
-  },
-  {
-    slug: "merawat-bulu-kucing",
-    title: "Merawat Bulu Kucing: Rutinitas Sederhana agar Tetap Lembut dan Berkilau",
-    category: "Perawatan",
-    excerpt:
-      "Menyisir bukan sekadar soal penampilan. Rutinitas grooming yang konsisten membantu mengurangi bulu rontok dan menjadi momen bonding yang menyenangkan.",
-    date: "2026-09-24",
-    readTime: 5,
-    author: "Tim Deholic Cattery",
-    icon: "sparkle",
-    accent: ["#ffc6da", "#ffd9bd"],
-    sample: true,
-    content: `
-      <p>Kucing memang dikenal rajin menjilati tubuhnya sendiri, tetapi bantuan dari pemilik tetap penting — terutama untuk kucing berbulu panjang, kucing yang sudah tua, atau saat musim rontok.</p>
-
-      <h2>Pilih sisir yang tepat</h2>
-      <p>Kucing berbulu pendek biasanya cukup dengan sisir karet atau sikat berbulu halus. Kucing berbulu panjang membutuhkan sisir bergigi lebih jarang untuk mengurai kusut, lalu sisir bergigi rapat untuk merapikan.</p>
-
-      <h2>Bangun rutinitas yang menyenangkan</h2>
-      <ul>
-        <li>Mulai dengan sesi singkat, lalu tambah durasinya perlahan.</li>
-        <li>Sisir searah pertumbuhan bulu dengan gerakan lembut.</li>
-        <li>Pilih waktu saat kucing sedang santai, misalnya setelah makan.</li>
-        <li>Akhiri dengan pujian atau camilan kecil agar ia mengingatnya sebagai hal positif.</li>
-      </ul>
-
-      <h2>Bagaimana dengan mandi?</h2>
-      <p>Sebagian besar kucing tidak perlu sering dimandikan. Mandi biasanya hanya diperlukan bila bulunya sangat kotor atau atas saran dokter hewan. Gunakan sampo khusus kucing — jangan sampo manusia — dan pastikan tubuhnya benar-benar kering setelahnya.</p>
-
-      <blockquote>Sesi menyisir juga kesempatan emas untuk memeriksa kulit: perhatikan kutu, luka, benjolan, atau area kemerahan.</blockquote>
-
-      <h2>Tanda yang perlu diperhatikan</h2>
-      <p>Bulu yang tiba-tiba kusam, rontok berlebihan hingga terlihat botak, atau kucing yang berhenti merawat dirinya sendiri bisa menjadi petunjuk adanya masalah kesehatan. Jika kamu melihat hal ini, ada baiknya memeriksakan anabul ke dokter hewan.</p>
-    `,
-  },
-  {
-    slug: "makanan-sehat-untuk-kucing",
-    title: "Makanan Sehat untuk Kucing: Dasar-Dasar yang Perlu Kamu Ketahui",
-    category: "Nutrisi",
-    excerpt:
-      "Kucing adalah karnivora sejati. Pahami kebutuhan dasarnya, pentingnya air minum, dan makanan manusia yang sebaiknya dijauhkan dari mangkuknya.",
-    date: "2026-09-19",
-    readTime: 7,
-    author: "Tim Deholic Cattery",
-    icon: "bowl",
-    accent: ["#bdf2dc", "#c8e9ff"],
-    sample: true,
-    content: `
-      <p>Apa yang masuk ke mangkuk anabul berpengaruh besar pada energi, bulu, dan kesehatannya dalam jangka panjang. Kabar baiknya, prinsip dasarnya cukup sederhana.</p>
-
-      <h2>Kucing adalah karnivora</h2>
-      <p>Tubuh kucing dirancang untuk mendapatkan nutrisi utama dari protein hewani. Karena itu, pilihlah makanan kucing komersial yang diformulasikan "lengkap dan seimbang" sesuai tahap usianya — anak kucing, dewasa, atau senior.</p>
-
-      <h2>Basah, kering, atau kombinasi?</h2>
-      <p>Makanan kering praktis dan tahan lama, sedangkan makanan basah membantu menambah asupan cairan. Banyak pemilik memilih kombinasi keduanya. Yang terpenting adalah kualitas makanan dan porsi yang sesuai dengan kebutuhan kucingmu.</p>
-
-      <h2>Jangan lupakan air</h2>
-      <ul>
-        <li>Sediakan air bersih yang selalu diganti setiap hari.</li>
-        <li>Letakkan mangkuk air terpisah dari tempat makan dan kotak pasir.</li>
-        <li>Sebagian kucing lebih suka air mengalir — air mancur khusus kucing bisa dicoba.</li>
-      </ul>
-
-      <h2>Makanan manusia yang sebaiknya dihindari</h2>
-      <p>Beberapa makanan yang aman bagi kita bisa berbahaya bagi kucing, misalnya bawang merah, bawang putih, cokelat, anggur dan kismis, serta minuman beralkohol atau berkafein. Susu sapi juga sering membuat perut kucing dewasa tidak nyaman.</p>
-
-      <blockquote>Setiap kucing unik. Untuk menentukan jenis makanan dan porsi yang tepat — apalagi jika kucingmu punya kondisi kesehatan tertentu — diskusikan dengan dokter hewan.</blockquote>
-
-      <h2>Mengganti makanan secara bertahap</h2>
-      <p>Jika ingin beralih ke merek atau jenis makanan baru, campurkan sedikit demi sedikit dengan makanan lama selama beberapa hari. Perubahan mendadak bisa memicu gangguan pencernaan.</p>
-    `,
-  },
-  {
-    slug: "tips-untuk-pemilik-kucing-pertama",
-    title: "Tips untuk Pemilik Kucing Pertama: Persiapan Sebelum Anabul Datang",
-    category: "Pemula",
-    excerpt:
-      "Baru pertama kali memelihara kucing? Berikut daftar persiapan dan kebiasaan sederhana agar hari-hari pertama terasa tenang bagi kalian berdua.",
-    date: "2026-09-14",
-    readTime: 6,
-    author: "Tim Deholic Cattery",
-    icon: "heart",
-    accent: ["#ffbccd", "#e3cfff"],
-    sample: true,
-    content: `
-      <p>Membawa pulang kucing pertama adalah momen yang membahagiakan. Sedikit persiapan akan membuat masa adaptasinya jauh lebih mulus — baik untuk anabul maupun untukmu.</p>
-
-      <h2>Perlengkapan dasar</h2>
-      <ul>
-        <li>Tempat makan dan minum yang mudah dibersihkan.</li>
-        <li>Kotak pasir beserta pasirnya, diletakkan di sudut yang tenang.</li>
-        <li>Tempat tidur atau selimut yang nyaman.</li>
-        <li>Garukan (scratching post) agar sofa tetap aman.</li>
-        <li>Mainan sederhana dan kandang/tas untuk dibawa ke dokter hewan.</li>
-      </ul>
-
-      <h2>Siapkan "ruang aman"</h2>
-      <p>Di hari-hari pertama, lingkungan baru bisa terasa menakutkan. Siapkan satu ruangan kecil berisi semua kebutuhannya. Biarkan kucing menjelajah dengan ritmenya sendiri sebelum diperkenalkan ke seluruh rumah.</p>
-
-      <h2>Bersabar dan beri waktu</h2>
-      <p>Wajar jika kucing bersembunyi atau belum mau dipegang. Duduklah di dekatnya, bicara dengan suara lembut, dan biarkan ia yang mendekat lebih dulu. Kepercayaan dibangun pelan-pelan.</p>
-
-      <blockquote>Jadwalkan kunjungan pertama ke dokter hewan sejak awal untuk pemeriksaan umum, serta diskusi tentang vaksin, obat cacing, dan sterilisasi.</blockquote>
-
-      <h2>Kebiasaan kecil yang berdampak besar</h2>
-      <p>Beri makan pada jam yang kurang lebih sama setiap hari, bersihkan kotak pasir secara rutin, dan luangkan waktu bermain setiap hari. Rutinitas yang konsisten membuat kucing merasa aman.</p>
-    `,
-  },
-  {
-    slug: "kesehatan-dan-vaksin-kucing",
-    title: "Kesehatan & Vaksin: Menjaga Anabul Tetap Prima",
-    category: "Kesehatan",
-    excerpt:
-      "Pemeriksaan rutin, vaksinasi, dan perawatan pencegahan adalah investasi terbaik untuk umur panjang kucingmu. Ini gambaran umumnya.",
-    date: "2026-09-08",
-    readTime: 6,
-    author: "Tim Deholic Cattery",
-    icon: "shield",
-    accent: ["#b3e0ff", "#c4f3e2"],
-    sample: true,
-    content: `
-      <p>Kucing pandai menyembunyikan rasa sakit. Itulah sebabnya perawatan pencegahan dan pemeriksaan berkala sangat berharga — masalah bisa terdeteksi sebelum menjadi serius.</p>
-
-      <h2>Mengapa vaksin penting?</h2>
-      <p>Vaksin membantu melindungi kucing dari sejumlah penyakit menular yang bisa berbahaya. Jenis vaksin dan jadwalnya dapat berbeda untuk setiap kucing, tergantung usia, riwayat kesehatan, dan gaya hidupnya (misalnya kucing rumahan atau yang sering keluar rumah).</p>
-      <p><strong>Dokter hewan adalah sumber terbaik</strong> untuk menentukan jadwal vaksinasi yang tepat bagi anabulmu.</p>
-
-      <h2>Perawatan pencegahan lainnya</h2>
-      <ul>
-        <li><strong>Obat cacing dan antikutu</strong> sesuai anjuran dokter hewan.</li>
-        <li><strong>Sterilisasi</strong> — diskusikan manfaat dan waktu yang tepat.</li>
-        <li><strong>Kesehatan gigi</strong> — perhatikan bau mulut atau kesulitan mengunyah.</li>
-        <li><strong>Pemeriksaan berkala</strong>, termasuk saat kucing tampak sehat.</li>
-      </ul>
-
-      <h2>Tanda-tanda kucing perlu diperiksa</h2>
-      <p>Segera hubungi dokter hewan bila kucing tidak mau makan, terlihat sangat lesu, muntah atau diare berulang, kesulitan buang air kecil, sesak napas, atau mengalami perubahan perilaku yang mencolok.</p>
-
-      <blockquote>Simpan catatan kesehatan anabul — tanggal vaksin, obat cacing, dan hasil pemeriksaan — dalam satu buku atau aplikasi agar mudah dilacak.</blockquote>
-
-      <h2>Penutup</h2>
-      <p>Artikel ini bersifat informasi umum dan bukan pengganti konsultasi medis. Setiap kucing berbeda; keputusan medis sebaiknya selalu diambil bersama dokter hewan terpercaya.</p>
-    `,
-  },
-  {
-    slug: "membuat-rumah-ramah-kucing",
-    title: "Membuat Rumah Ramah Kucing: Ruang Vertikal, Mainan, dan Ketenangan",
-    category: "Gaya Hidup",
-    excerpt:
-      "Kucing rumahan tetap butuh tantangan dan tempat bersembunyi. Ide-ide sederhana untuk menciptakan rumah yang nyaman dan memperkaya hari-hari anabul.",
-    date: "2026-09-02",
-    readTime: 5,
-    author: "Tim Deholic Cattery",
-    icon: "home",
-    accent: ["#ffe3a8", "#ffc6da"],
-    sample: true,
-    content: `
-      <p>Bagi kucing, rumah bukan hanya tempat tinggal — melainkan seluruh wilayah kekuasaannya. Lingkungan yang menarik membantu kucing tetap aktif, percaya diri, dan jauh dari rasa bosan.</p>
-
-      <h2>Manfaatkan ruang vertikal</h2>
-      <p>Kucing senang mengamati dunia dari tempat tinggi. Rak dinding, menara kucing (cat tree), atau sekadar ambang jendela yang aman bisa menjadi tempat favorit untuk bersantai dan mengawasi sekitar.</p>
-
-      <h2>Tempat bersembunyi</h2>
-      <p>Kardus sederhana sering kali menjadi mainan terbaik. Sediakan beberapa sudut tertutup yang tenang agar kucing punya tempat untuk menenangkan diri ketika rumah sedang ramai.</p>
-
-      <h2>Waktu bermain setiap hari</h2>
-      <ul>
-        <li>Mainan tongkat berbulu meniru gerakan mangsa dan memancing naluri berburu.</li>
-        <li>Puzzle feeder membuat waktu makan lebih menantang.</li>
-        <li>Rotasi mainan secara berkala agar tetap terasa baru.</li>
-      </ul>
-
-      <blockquote>Akhiri sesi bermain dengan membiarkan kucing "menangkap" mainannya. Rasa berhasil itu penting bagi pemburu kecil di rumahmu.</blockquote>
-
-      <h2>Keamanan rumah</h2>
-      <p>Periksa tanaman hias — beberapa jenis, seperti bunga lili, beracun bagi kucing. Simpan tali, karet gelang, dan benda kecil di tempat tertutup, serta pastikan jendela atau balkon aman dari risiko jatuh.</p>
     `,
   },
 ];
