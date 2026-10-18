@@ -4,12 +4,15 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#fff8f1" />
+    <!-- Tema terang/gelap: dipasang sebelum CSS agar tidak berkedip -->
+    <script>(function(){var t=null;try{t=localStorage.getItem("deholic-tema")}catch(e){}if(t!=="dark"&&t!=="light"){t=window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"}var d=document.documentElement;d.setAttribute("data-theme",t);d.style.colorScheme=t;var m=document.querySelector('meta[name="theme-color"]');if(m)m.setAttribute("content",t==="dark"?"#241f25":"#fff8f1")})();</script>
     <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="assets/css/style.css" />
-  <link rel="stylesheet" href="assets/css/theme-british.css" />
+    <link rel="stylesheet" href="assets/css/theme-british.css" />
+    <link rel="stylesheet" href="assets/css/theme-dark.css" />
     <title>Kitten British Shorthair Jakarta Barat — Deholic Cattery</title>
     <meta name="description" content="Kenalan dengan kitten British Shorthair dari Deholic Cattery di Jakarta Barat: umur, warna bulu, sifat, dan status adopsi." />
     <link rel="canonical" href="https://deholic.id/adopsi.html" />

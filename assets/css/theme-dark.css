@@ -1,0 +1,157 @@
+/* =========================================================
+   Deholic Cattery — Mode gelap
+   Aktif saat <html data-theme="dark"> (diatur skrip kecil di <head>
+   sebelum CSS dirender, lalu oleh tombol tema di header).
+   Palet: arang hangat (bukan hitam pekat) + aksen peach & lilac lembut.
+   Semua teks dijaga kontras ≥ 4.5:1 (WCAG AA).
+   ========================================================= */
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #1f1b20;
+  --bg-2: #262127;
+  --surface: #2b252c;
+  --surface-2: #342d35;
+  --ink: #f7eee8;
+  --text: #e9dfd9;
+  --muted: #c4b7bd;
+  --line: #3e363f;
+  --line-strong: #51465a;
+  --pink: #f4a98a;
+  --pink-soft: #45322f;
+  --pink-ink: #ffc09c;
+  --peach: #f6b98f;
+  --peach-soft: #3d2f2a;
+  --lilac: #c3b1f0;
+  --lilac-soft: #36304b;
+  --lilac-ink: #cfbfff;
+  --mint: #8fd6be;
+  --mint-soft: #263833;
+  --blue: #9cc3e6;
+  --butter: #f2c98f;
+  --on-accent: #241e25;   /* teks gelap di atas tombol/gradien pastel */
+  --grad: linear-gradient(110deg, #f6b48e 0%, #f3c4b4 50%, #c9b8f5 100%);
+  --grad-text: linear-gradient(100deg, #ffc29e 0%, #f4b8cf 50%, #cbbaff 100%);
+  --shadow: 0 14px 34px -16px rgba(0, 0, 0, 0.6), 0 2px 6px rgba(0, 0, 0, 0.25);
+  --shadow-hover: 0 24px 50px -18px rgba(0, 0, 0, 0.7), 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+[data-theme="dark"] body { background: var(--bg); }
+[data-theme="dark"] ::selection { background: #6a4a40; color: #fff; }
+[data-theme="dark"] .skip { background: var(--peach); color: var(--on-accent); }
+[data-theme="dark"] code { background: var(--peach-soft); color: var(--pink-ink); }
+
+/* Latar */
+[data-theme="dark"] .bg { background: linear-gradient(180deg, #241f25 0%, var(--bg) 40%, #1d1a1f 100%); }
+[data-theme="dark"] .o1 { background: #4a3238; opacity: 0.55; }
+[data-theme="dark"] .o2 { background: #352f4d; opacity: 0.6; }
+[data-theme="dark"] .o3 { background: #27383a; opacity: 0.45; }
+[data-theme="dark"] .bg-dots { background-image: radial-gradient(rgba(255, 236, 225, 0.06) 1.4px, transparent 1.6px); }
+[data-theme="dark"] .paw-trail span { opacity: 0.22; }
+
+/* Kartu */
+[data-theme="dark"] .glass { background: rgba(43, 37, 44, 0.9); border-color: var(--line); }
+[data-theme="dark"] .card,
+[data-theme="dark"] .featured,
+[data-theme="dark"] .value,
+[data-theme="dark"] .kitten-card,
+[data-theme="dark"] .pager a { background: var(--surface); }
+[data-theme="dark"] .card:hover { border-color: #5b4750; }
+[data-theme="dark"] .card::before { background: radial-gradient(360px circle at var(--mx, 50%) var(--my, 0%), rgba(246, 180, 142, 0.1), transparent 50%); }
+
+/* Tipografi */
+[data-theme="dark"] .hl { background: linear-gradient(transparent 62%, rgba(246, 180, 142, 0.38) 62%, rgba(246, 180, 142, 0.38) 90%, transparent 90%); }
+[data-theme="dark"] .featured-body h3 a { background-image: linear-gradient(rgba(246, 180, 142, 0.4), rgba(246, 180, 142, 0.4)); }
+
+/* Tombol */
+[data-theme="dark"] .btn { color: var(--on-accent); box-shadow: 0 10px 22px -10px rgba(0, 0, 0, 0.7), inset 0 -3px 0 rgba(0, 0, 0, 0.08), inset 0 2px 0 rgba(255, 255, 255, 0.45); }
+[data-theme="dark"] .btn:hover { box-shadow: 0 16px 30px -12px rgba(201, 184, 245, 0.35), inset 0 -3px 0 rgba(0, 0, 0, 0.08), inset 0 2px 0 rgba(255, 255, 255, 0.45); }
+[data-theme="dark"] .btn-ghost { background: var(--surface-2); color: var(--ink); border-color: var(--line-strong); box-shadow: 0 6px 16px -10px rgba(0, 0, 0, 0.6); }
+[data-theme="dark"] .btn-ghost:hover { border-color: var(--peach); }
+[data-theme="dark"] .chip { background: var(--surface); border-color: var(--line-strong); color: var(--muted); }
+[data-theme="dark"] .chip:hover { color: var(--ink); border-color: var(--peach); }
+[data-theme="dark"] .chip[aria-selected="true"],
+[data-theme="dark"] .filters .chip[aria-pressed="true"] { color: var(--on-accent); background: var(--grad); border-color: transparent; }
+
+/* Header & navigasi */
+[data-theme="dark"] .site-header { background: rgba(36, 31, 37, 0.92); border-bottom-color: #3a333b; }
+[data-theme="dark"] .site-header.scrolled { background: rgba(36, 31, 37, 0.9); box-shadow: 0 10px 30px -20px rgba(0, 0, 0, 0.7); }
+[data-theme="dark"] .site-header.open { background: #241f25; }
+[data-theme="dark"] .nav-links a:not(.btn):hover { background: var(--surface-2); color: var(--ink); }
+[data-theme="dark"] .nav-links a[aria-current="page"] { background: var(--surface-2); color: var(--ink); box-shadow: 0 4px 12px -6px rgba(0, 0, 0, 0.6); }
+[data-theme="dark"] .nav-toggle,
+[data-theme="dark"] .theme-toggle { background: var(--surface-2); border-color: var(--line-strong); }
+[data-theme="dark"] .theme-toggle { color: var(--butter); }
+@media (max-width: 860px) {
+  [data-theme="dark"] .nav-links { background: #241f25; border-bottom-color: #3a333b; box-shadow: 0 24px 40px -24px rgba(0, 0, 0, 0.8); }
+}
+/* Logo: garis tepinya gelap, jadi beri latar terang membulat yang lembut */
+[data-theme="dark"] .brand img.brand-logo { background: radial-gradient(closest-side, rgba(255, 241, 230, 0.92) 70%, rgba(255, 241, 230, 0) 100%); border-radius: 50%; filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.45)); }
+
+/* Hero */
+[data-theme="dark"] .pill { background: var(--surface); border-color: var(--line-strong); }
+[data-theme="dark"] .hero-stats div:nth-child(1),
+[data-theme="dark"] .hero-stats div:nth-child(2),
+[data-theme="dark"] .hero-stats div:nth-child(3) { background: var(--surface); border-color: var(--line); }
+[data-theme="dark"] .hero-stats div:nth-child(1) { background: var(--peach-soft); }
+[data-theme="dark"] .hero-stats div:nth-child(2) { background: var(--lilac-soft); }
+[data-theme="dark"] .hero-stats div:nth-child(3) { background: var(--mint-soft); }
+[data-theme="dark"] .hero-frame::before { background: radial-gradient(circle at 30% 25%, rgba(255, 240, 230, 0.35) 0%, transparent 38%), linear-gradient(140deg, #6e5c66 0%, #75646a 45%, #5f5876 100%); box-shadow: 0 30px 60px -30px rgba(0, 0, 0, 0.7), inset 0 -10px 30px rgba(201, 184, 245, 0.18); }
+[data-theme="dark"] .hero-frame::after { border-color: #5d5260; }
+[data-theme="dark"] .float-card { background: var(--surface-2); border-color: var(--line-strong); }
+
+/* Tag & status */
+[data-theme="dark"] .tag-glow { color: #ffe2a6; background: #4a3c22; }
+[data-theme="dark"] .st-ok { color: #b9ecd0; background: #23402f; }
+[data-theme="dark"] .st-hold { color: #ffe2a6; background: #4a3c22; }
+[data-theme="dark"] .st-done { color: #d9dee5; background: #3a3f47; }
+
+/* Sampul & gambar: diredupkan sedikit agar tidak menyilaukan */
+[data-theme="dark"] .cover { filter: brightness(0.9) saturate(0.95); }
+[data-theme="dark"] .cover-img { background: #39323a; filter: none; }
+[data-theme="dark"] .cover-img img,
+[data-theme="dark"] .cat-card img,
+[data-theme="dark"] .kitten-foto img,
+[data-theme="dark"] .profil-foto img { filter: brightness(0.92); }
+[data-theme="dark"] .kitten-card.is-done .kitten-foto img { filter: grayscale(0.6) brightness(0.85); opacity: 0.85; }
+[data-theme="dark"] .kitten-foto,
+[data-theme="dark"] .profil-foto,
+[data-theme="dark"] .galeri-thumb { background: #39323a; }
+[data-theme="dark"] .foto-kosong { color: var(--muted); }
+
+/* CTA */
+[data-theme="dark"] .cta { background: linear-gradient(120deg, #3b2c30 0%, #3a2f2b 50%, #312c42 100%); border-color: var(--line-strong); }
+[data-theme="dark"] .cta::after { opacity: 0.12; }
+
+/* Artikel */
+[data-theme="dark"] .avatar { color: var(--on-accent); box-shadow: 0 0 0 4px var(--surface), 0 6px 14px -6px rgba(0, 0, 0, 0.6); }
+[data-theme="dark"] .prose blockquote { background: linear-gradient(120deg, #3a2e2b, #3a2c33); border-color: var(--line-strong); color: var(--ink); }
+[data-theme="dark"] .prose blockquote::before { background-color: var(--surface-2); box-shadow: 0 6px 14px -8px rgba(0, 0, 0, 0.7); }
+[data-theme="dark"] .prose a { color: var(--pink-ink); }
+
+/* Footer */
+[data-theme="dark"] .site-footer { background: #241f25; border-top-color: #3a333b; }
+[data-theme="dark"] .footer-bottom { border-top-color: #4a404b; color: var(--muted); }
+[data-theme="dark"] .site-footer .footer-title { color: var(--pink-ink); }
+[data-theme="dark"] .site-footer ul a { color: var(--text); }
+[data-theme="dark"] .site-footer ul a:hover { color: var(--pink-ink); }
+[data-theme="dark"] .site-footer .footer-grid p { color: var(--muted); }
+[data-theme="dark"] .peek-head,
+[data-theme="dark"] .peek-paw { fill: #8f99a5; stroke: #15121a; }
+[data-theme="dark"] .peek-eye { fill: #15121a; }
+[data-theme="dark"] .peek-mouth { stroke: #15121a; }
+
+/* Adopsi & profil */
+[data-theme="dark"] .profil-data { background: var(--surface); border-color: var(--line); }
+[data-theme="dark"] .galeri-thumb[aria-pressed="true"] { border-color: var(--lilac-ink); }
+[data-theme="dark"] .stamp { filter: drop-shadow(0 6px 10px rgba(0, 0, 0, 0.55)); }
+[data-theme="dark"] .stamp-paw g { fill: #b5372a; stroke: #f7eee8; }
+
+/* Tombol bagikan */
+[data-theme="dark"] .share-btn { background: var(--surface); border-color: var(--line-strong); }
+[data-theme="dark"] .share-wa { --sb-bg: #21392b; --sb-fg: #86e0a8; }
+[data-theme="dark"] .share-fb { --sb-bg: #24304a; --sb-fg: #a9c3f7; }
+[data-theme="dark"] .share-x  { --sb-bg: #343038; --sb-fg: #f1edf3; }
+[data-theme="dark"] .share-tg { --sb-bg: #1f3442; --sb-fg: #93d2f5; }
+[data-theme="dark"] .share-copy { --sb-bg: var(--peach-soft); --sb-fg: var(--pink-ink); }
+[data-theme="dark"] .share-native { --sb-bg: var(--lilac-soft); --sb-fg: var(--lilac-ink); }
+[data-theme="dark"] .share-end { background: linear-gradient(120deg, #3a2e2b, #322c40); border-color: var(--line-strong); }
+[data-theme="dark"] .toast { background: var(--ink); color: var(--on-accent); }
