@@ -24,6 +24,66 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-suka-kantong-plastik-dan-tali",
+    title: "Kresek, Karet Rambut, dan Tali Sepatu: Kenapa Kucing Suka Mainan Terlarang?",
+    category: "Perilaku",
+    excerpt:
+      "Mainan mahal dicuekin, kresek belanjaan malah jadi rebutan. Yuk pahami kenapa anabul suka benda terlarang dan cara menyimpannya dengan aman.",
+    date: "2026-10-19",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "shield",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-suka-kantong-plastik-dan-tali.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu mengintip dari dalam kantong plastik belanja di lantai, dengan tali sepatu dan karet rambut di dekatnya serta kotak penyimpanan bertutup di rak",
+    content: `
+      <p>Kamu baru pulang belanja, menaruh kantong kresek di lantai, lalu berbalik sebentar untuk menyimpan sayur di kulkas. Begitu menoleh lagi, kresek itu sudah bergerak sendiri. Kresek-kresek-kresek. Dari dalamnya muncul dua telinga dan sepasang mata bulat yang seolah berkata, "Ini rumahku sekarang."</p>
+      <p>Lucu? Banget. Tapi di balik momen menggemaskan itu, ada beberapa benda rumah tangga yang sebaiknya tidak jadi mainan anabul tanpa pengawasan. Kantong plastik, karet rambut, benang, tali sepatu, sampai pita kado sering jadi favorit kucing. Kali ini kita bahas kenapa mereka suka, dan bagaimana menyimpannya supaya rumah tetap seru tapi aman.</p>
+
+      <h2>Kenapa kucing tergila-gila sama benda "terlarang"?</h2>
+      <p>Dari sudut pandang kucing, benda-benda ini adalah paket lengkap hiburan. Coba lihat satu per satu:</p>
+      <ul>
+        <li><strong>Suaranya menarik.</strong> Bunyi kresek-kresek plastik itu ramai dan tidak bisa ditebak. Buat kucing yang naluri berburunya kuat, suara kecil yang berubah-ubah terasa seperti ada "sesuatu" yang patut diselidiki.</li>
+        <li><strong>Gerakannya hidup.</strong> Tali, benang, dan pita bergoyang mengikuti angin atau sentuhan kaki. Gerakannya mirip ekor mangsa kecil yang kabur, jadi wajar kalau anabul langsung pasang mode pemburu.</li>
+        <li><strong>Teksturnya enak digigit.</strong> Ada kucing yang senang mengunyah atau menjilat plastik. Alasannya bisa macam-macam, dari tekstur, bau sisa makanan, sampai sekadar iseng.</li>
+        <li><strong>Gratis dan selalu ada.</strong> Mainan dari toko kadang disimpan di laci, sementara karet rambut tergeletak di meja setiap hari. Yang paling sering ditemui, ya, itu yang paling sering dimainkan.</li>
+      </ul>
+      <p>Jadi bukan berarti kucingmu nakal. Ia cuma melakukan hal yang sangat kucing: mengejar, menerkam, dan menyelidiki apa pun yang bergerak dan berbunyi.</p>
+
+      <h2>Kenapa perlu hati-hati?</h2>
+      <p>Masalahnya bukan di permainannya, tapi di risikonya. Benda tipis dan panjang seperti benang, tali, atau pita bisa saja tertelan saat kucing asyik menggigit. Lidah kucing punya permukaan kasar yang mengarah ke belakang, sehingga benda seperti benang kadang lebih mudah tertarik masuk daripada dimuntahkan.</p>
+      <p>Kantong plastik juga punya risikonya sendiri. Kepala bisa tersangkut di pegangan kresek, atau anabul panik karena kresek "mengejarnya" saat ia lari. Potongan plastik yang tergigit pun sebaiknya tidak sampai tertelan.</p>
+      <p>Satu hal penting: kalau kamu curiga anabul menelan benang, tali, karet, atau plastik, atau kamu melihat ujung benang keluar dari mulut atau bokongnya, <strong>jangan ditarik sendiri</strong>. Segera hubungi dokter hewan. Begitu juga kalau ia tiba-tiba muntah berulang, lemas, atau tidak mau makan. Lebih baik bertanya dan ternyata tidak apa-apa, daripada menunggu terlalu lama.</p>
+
+      <h2>Cara menyimpan biar aman (dan tetap waras)</h2>
+      <p>Kabar baiknya, sebagian besar risiko bisa dikurangi dengan kebiasaan kecil di rumah:</p>
+      <ul>
+        <li><strong>Lipat dan simpan kresek.</strong> Setelah belanja, lipat kantong plastik dan simpan di laci atau wadah tertutup. Kalau mau dipakai ulang sebagai kantong sampah, gunting dulu pegangannya supaya tidak jadi "kalung" dadakan.</li>
+        <li><strong>Karet rambut punya rumah sendiri.</strong> Siapkan wadah kecil bertutup di meja rias atau dekat pintu. Biasakan semua anggota rumah menaruhnya di situ.</li>
+        <li><strong>Peralatan jahit dan kerajinan masuk kotak.</strong> Benang, jarum, pita, dan tali rafia sebaiknya disimpan di kotak yang tertutup rapat, apalagi kalau anabul jago membuka laci.</li>
+        <li><strong>Waspada musim kado.</strong> Saat membungkus hadiah atau dekorasi pesta, pita dan tali berserakan di mana-mana. Bereskan segera setelah selesai.</li>
+        <li><strong>Cek kolong sofa sesekali.</strong> Kucing suka "menimbun" harta karun di bawah perabot. Siapa tahu karet rambut yang hilang minggu lalu ada di sana.</li>
+      </ul>
+
+      <h2>Ganti dengan versi yang lebih aman</h2>
+      <p>Melarang saja biasanya kurang ampuh. Kucing butuh penyaluran naluri berburunya, jadi tawarkan alternatif yang sama serunya:</p>
+      <ul>
+        <li><strong>Mainan tongkat bulu atau tali yang diawasi.</strong> Sensasi mengejar ekor mangsa tetap dapat, tapi kamu yang pegang kendali. Setelah selesai main, simpan tongkatnya di tempat tertutup.</li>
+        <li><strong>Mainan berbunyi kresek khusus kucing.</strong> Ada mainan yang di dalamnya diberi lapisan yang berbunyi saat ditepuk. Pilih yang ukurannya cukup besar dan jahitannya rapi.</li>
+        <li><strong>Kardus dan kantong kertas.</strong> Buat kucing yang hobi masuk kresek, kantong kertas tanpa pegangan atau kardus bisa jadi pengganti yang menyenangkan. Tetap awasi kalau ia mulai mencabik-cabik dan memakan potongannya.</li>
+      </ul>
+      <p>Rutin ajak main sebentar setiap hari juga membantu. Kucing yang energinya tersalurkan cenderung tidak terlalu sibuk mencari "proyek" sendiri di sudut rumah.</p>
+
+      <h2>Kalau anabul terus mengunyah plastik</h2>
+      <p>Sesekali penasaran itu wajar. Tapi kalau kucingmu terlihat sering sekali menjilat atau mengunyah benda bukan makanan, seperti plastik, kain, atau kabel, ada baiknya ceritakan ke dokter hewan. Kebiasaan seperti ini bisa punya banyak penyebab, dan dokter hewan bisa membantu mencari tahu apakah ada hal yang perlu diperhatikan.</p>
+
+      <h2>Penutup</h2>
+      <p>Kucing dan kresek mungkin pasangan paling ikonik di dunia per-anabul-an. Kita tidak perlu jadi polisi yang galak, cukup jadi teman serumah yang rapi: simpan benda-benda berisiko, sediakan mainan pengganti, dan luangkan waktu untuk main bareng.</p>
+      <p>Toh, anabul tetap akan menemukan cara untuk membuatmu tertawa. Kalau bukan dengan kresek, mungkin dengan kardus paket yang baru datang. Dan yang itu, silakan saja.</p>
+      <p>Punya cerita anabul yang hobi "mencuri" karet rambut atau tidur di kantong belanja? Bagikan ke kami di Instagram atau TikTok @deholic.cattery. Kami siap ikut gemas.</p>
+    `,
+  },
+  {
     slug: "perawatan-gigi-kucing-pemula",
     title: "Napas Anabul Bau? Kenalan dengan Perawatan Gigi Kucing Tanpa Paksaan",
     category: "Perawatan",
