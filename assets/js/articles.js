@@ -24,6 +24,62 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-suka-menjatuhkan-barang-dari-meja",
+    title: "Gelas Jatuh, Anabul Menatap Tanpa Dosa: Kenapa Kucing Suka Menjatuhkan Barang?",
+    category: "Perilaku",
+    excerpt:
+      "Pulpen, tutup botol, sampai gelas kopi didorong pelan-pelan ke tepi meja. Yuk pahami kenapa anabul hobi begini dan cara menata meja supaya aman.",
+    date: "2026-10-20",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "paw",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-suka-menjatuhkan-barang-dari-meja.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu duduk di meja sambil mendorong cangkir kopi ke tepi dengan kaki depannya, di dekat pulpen dan tutup botol",
+    content: `
+      <p>Adegannya selalu sama. Kucingmu naik ke meja, duduk manis di sebelah gelas, lalu menatap matamu. Satu kaki depan terangkat pelan. Tuk. Gelas bergeser sedikit. Tuk. Bergeser lagi. Kamu bilang, "Jangan, ya..." dan dia tetap menatapmu sambil mendorong terakhir kali. Prang.</p>
+      <p>Kalau kamu pernah mengalami ini, selamat, kamu resmi tinggal bersama kucing. Hobi menjatuhkan barang dari meja memang salah satu kelakuan anabul yang paling sering dibicarakan pemiliknya. Kesannya iseng, bahkan sengaja bikin kesal. Tapi sebenarnya ada beberapa alasan yang cukup masuk akal dari sudut pandang kucing.</p>
+
+      <h2>Kenapa kucing suka mendorong barang sampai jatuh?</h2>
+      <p>Setiap kucing punya alasannya sendiri, dan sering kali alasannya campuran. Beberapa kemungkinan yang umum:</p>
+      <ul>
+        <li><strong>Naluri berburu sedang menyala.</strong> Menepuk-nepuk benda kecil mirip dengan cara kucing "menguji" mangsa: disentuh, dilihat reaksinya, disentuh lagi. Benda yang bergeser dan jatuh terasa seperti mangsa yang mencoba kabur.</li>
+        <li><strong>Penasaran.</strong> Kucing suka menyelidiki benda baru dengan kakinya. Tutup botol yang menggelinding atau pulpen yang jatuh berbunyi "tak" itu jawaban yang memuaskan untuk pertanyaan "ini apa, sih?"</li>
+        <li><strong>Mencari perhatian.</strong> Ini yang paling sering terjadi. Begitu barang jatuh, kamu langsung menoleh, bangun dari kursi, dan bicara padanya. Buat kucing, itu hadiah. Lain kali ia bosan, ia tahu tombol mana yang harus ditekan.</li>
+        <li><strong>Bosan dan energinya berlebih.</strong> Kucing indoor yang kurang kegiatan kadang "bikin acara sendiri". Meja penuh barang adalah taman bermain yang sangat menggoda.</li>
+        <li><strong>Barangnya menghalangi.</strong> Kadang alasannya sesederhana itu: ia ingin rebahan di tempat yang ada remote TV-nya. Remote harus pergi.</li>
+      </ul>
+      <p>Jadi, anabul bukan sedang membalas dendam. Ia cuma melakukan hal yang sangat kucing, dan kebetulan meja kita jadi panggungnya.</p>
+
+      <h2>Kalau soal perhatian, jangan panik duluan</h2>
+      <p>Coba perhatikan polanya. Apakah barang biasanya jatuh saat kamu sibuk di depan laptop, sedang menelepon, atau saat jam makannya sudah dekat? Kalau iya, besar kemungkinan anabulmu sedang bilang, "Halo, aku di sini."</p>
+      <p>Cara menanggapinya: usahakan tetap kalem. Bereskan barangnya tanpa banyak drama, lalu alihkan perhatiannya ke kegiatan lain, misalnya mainan atau sesi elus singkat. Kalau setiap kali barang jatuh langsung disambut heboh, anabul bisa belajar bahwa "jatuhkan barang" sama dengan "manusia datang".</p>
+      <p>Memarahi atau membentak juga sebaiknya dihindari. Selain tidak menyelesaikan akar masalahnya, kucing bisa jadi takut atau malah makin tertarik karena tetap saja dapat reaksi. Kebiasaan yang mirip juga sering muncul pada kucing yang hobi menduduki keyboard, seperti kami bahas di artikel <a href="article.html?slug=kucing-suka-duduk-di-laptop">kenapa kucing suka duduk di laptop</a>.</p>
+
+      <h2>Tata meja supaya tidak ada "korban"</h2>
+      <p>Mengubah kebiasaan kucing butuh waktu, tapi menata meja bisa dilakukan hari ini juga. Beberapa ide sederhana:</p>
+      <ul>
+        <li><strong>Simpan yang mudah pecah.</strong> Gelas kaca, vas, dan pajangan keramik sebaiknya tidak ditaruh di tepi meja. Kalau ada anabul yang hobi mendorong, pindahkan ke lemari tertutup atau bagian tengah meja.</li>
+        <li><strong>Pakai gelas bertutup atau tumbler.</strong> Untuk minum di meja kerja, tumbler yang lebih berat dan bertutup jauh lebih aman daripada gelas tipis. Bonus: kopimu tidak jadi "kopi rasa bulu".</li>
+        <li><strong>Benda kecil masuk wadah.</strong> Karet rambut, tutup botol, anting, dan obat-obatan sebaiknya disimpan di wadah tertutup. Benda kecil yang jatuh bisa berakhir di mulut anabul. Soal ini, artikel <a href="article.html?slug=kucing-suka-kantong-plastik-dan-tali">kenapa kucing suka mainan terlarang</a> membahas lebih lengkap cara menyimpannya.</li>
+        <li><strong>Jangan biarkan pecahan tertinggal.</strong> Kalau ada yang terlanjur pecah, jauhkan anabul dulu sebelum membersihkan. Sapu sampai bersih, termasuk kolong meja, supaya kakinya tidak terluka.</li>
+        <li><strong>Sediakan spot yang lebih menarik.</strong> Kalau anabul suka naik meja karena ingin dekat denganmu, taruh alas empuk atau kardus di kursi sebelah atau di rak dekat meja. Kadang ia cuma butuh tempat duduk "VIP".</li>
+      </ul>
+
+      <h2>Salurkan energinya ke tempat yang benar</h2>
+      <p>Kucing yang energinya tersalurkan biasanya tidak terlalu sibuk mencari hiburan di atas meja. Ajak main dengan mainan tongkat bulu, bola kecil yang aman, atau mainan puzzle berisi camilan. Beberapa kucing juga senang punya "barang khusus" yang boleh didorong dan dikejar, misalnya bola ringan di lantai.</p>
+      <p>Jadwal main yang rutin juga membantu, misalnya sebentar di pagi hari dan sebentar di malam hari. Ide-ide mainannya bisa kamu intip di artikel <a href="article.html?slug=mainan-stimulasi-kucing-indoor">mainan dan stimulasi untuk kucing indoor</a>.</p>
+
+      <h2>Kapan perlu bertanya ke dokter hewan?</h2>
+      <p>Hobi menjatuhkan barang umumnya bagian dari perilaku normal kucing. Tapi kalau anabul tiba-tiba berubah jadi jauh lebih gelisah, susah tenang, sering mengeong di malam hari, atau ada perubahan lain pada makan, minum, dan kebiasaan ke kotak pasirnya, tidak ada salahnya berkonsultasi ke dokter hewan. Perubahan perilaku yang mendadak kadang punya penyebab lain yang perlu dicek.</p>
+
+      <h2>Penutup</h2>
+      <p>Pada akhirnya, kucing yang mendorong barang dari meja itu sedang bermain, menyelidiki, atau minta ditemani. Tugas kita bukan menghentikan sifat kucingnya, tapi membuat rumah lebih aman dan memberi pilihan kegiatan yang lebih seru.</p>
+      <p>Jadi lain kali kamu melihat kaki mungil itu mulai mendorong pulpen ke tepi meja, tarik napas, selamatkan gelasnya dulu, lalu ambil mainannya. Siapa tahu sebenarnya ia cuma kangen diajak main.</p>
+      <p>Anabulmu punya "korban" favorit di atas meja? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery. Kami siap ikut tertawa, sambil memegangi gelas.</p>
+    `,
+  },
+  {
     slug: "kucing-suka-kantong-plastik-dan-tali",
     title: "Kresek, Karet Rambut, dan Tali Sepatu: Kenapa Kucing Suka Mainan Terlarang?",
     category: "Perilaku",
