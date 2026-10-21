@@ -24,6 +24,70 @@
 
 window.ARTICLES = [
   {
+    slug: "menjaga-kucing-tetap-sejuk-saat-panas",
+    title: "Jakarta Lagi Gerah, Anabul Rebahan di Lantai: Cara Menjaga Kucing Tetap Sejuk",
+    category: "Perawatan",
+    excerpt:
+      "Siang terik, anabul tiba-tiba jadi karpet di lantai kamar mandi. Yuk atur kipas, AC, dan sudut rumah supaya kucing tetap sejuk dan nyaman.",
+    date: "2026-10-21",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "home",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/menjaga-kucing-tetap-sejuk-saat-panas.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga rebahan santai di lantai keramik yang sejuk, di dekat mangkuk air dan kipas angin berdiri yang mengarah ke samping, dengan tirai tipis menutupi jendela yang terang",
+    content: `
+      <p>Jam dua siang di Jakarta. Kipas sudah berputar paling kencang, es teh sudah habis setengah, dan kamu mencari-cari anabul yang dari tadi tidak kelihatan. Ternyata ia sedang rebahan selebar-lebarnya di lantai kamar mandi, perut menempel ke keramik, ekspresinya seperti berkata, "Jangan ganggu, aku sedang mencair."</p>
+      <p>Kucing memang pintar mencari tempat sejuk sendiri. Tapi saat cuaca lagi panas-panasnya, tidak ada salahnya kita bantu sedikit. Rumah yang adem bikin anabul lebih nyaman, dan jujur saja, bikin kita juga lebih betah di rumah.</p>
+
+      <h2>Kenapa kucing perlu dibantu saat cuaca panas?</h2>
+      <p>Kucing tidak berkeringat seperti manusia. Mereka mengandalkan cara lain untuk mendinginkan badan, misalnya mencari permukaan yang dingin, banyak tidur, dan menjilati bulunya. Masalahnya, kalau seluruh rumah terasa pengap, pilihan tempat sejuknya jadi terbatas.</p>
+      <p>Kucing berbulu tebal dan padat, seperti British Shorthair, juga bisa terlihat lebih "berat" saat siang terik. Jadi tugas kita sederhana: sediakan banyak pilihan tempat adem, air yang cukup, dan biarkan anabul memilih sendiri mana yang paling nyaman.</p>
+
+      <h2>Kipas angin: teman baik, asal diatur</h2>
+      <ul>
+        <li><strong>Arahkan ke ruangan, bukan langsung ke kucing.</strong> Angin yang menyapu ruangan membantu sirkulasi udara. Kucing biasanya akan mendekat sendiri kalau ia mau.</li>
+        <li><strong>Pastikan stabil dan bertutup rapat.</strong> Kipas yang goyang mudah tersenggol kucing yang lewat. Pastikan juga pelindung baling-balingnya rapat supaya kaki penasaran tidak bisa masuk.</li>
+        <li><strong>Rapikan kabelnya.</strong> Kabel yang menjuntai sering dianggap mainan. Ikat atau tutup dengan pelindung kabel, ya. Soal anabul yang hobi menggigit tali dan kabel, artikel <a href="/artikel/kucing-suka-kantong-plastik-dan-tali/">kenapa kucing suka mainan terlarang</a> membahasnya lebih lengkap.</li>
+      </ul>
+
+      <h2>AC: sejuk boleh, kedinginan jangan</h2>
+      <p>Kalau di rumah ada AC, anabul pasti senang. Beberapa hal kecil supaya tetap nyaman:</p>
+      <ul>
+        <li><strong>Jangan taruh tempat tidurnya tepat di bawah embusan AC.</strong> Angin dingin yang terus-menerus mengenai badan tidak enak juga buat kucing.</li>
+        <li><strong>Atur suhu yang nyaman untuk manusia juga.</strong> Kalau kamu sendiri sudah menggigil dan mencari selimut, kemungkinan anabul juga merasa terlalu dingin.</li>
+        <li><strong>Biarkan ia bisa pindah ruangan.</strong> Sisakan pintu yang terbuka atau sudut yang tidak terlalu dingin, supaya anabul bisa memilih sendiri suhu yang ia suka.</li>
+      </ul>
+
+      <h2>Bikin sudut adem di rumah</h2>
+      <p>Tanpa AC pun, rumah bisa dibuat lebih nyaman untuk kucing. Beberapa ide yang gampang:</p>
+      <ul>
+        <li><strong>Tutup tirai saat matahari sedang terik.</strong> Spot jendela yang biasanya jadi tempat favorit berjemur bisa berubah jadi oven di siang hari. Tips menata spot jendela yang aman ada di artikel <a href="/artikel/spot-jendela-berjemur-kucing/">bikin spot berjemur yang aman untuk kucing</a>.</li>
+        <li><strong>Sediakan permukaan dingin.</strong> Lantai keramik, ubin, atau alas pendingin khusus hewan bisa jadi tempat rebahan favorit. Kalau kasurnya tebal dan berbulu, coba ganti sementara dengan alas tipis berbahan katun.</li>
+        <li><strong>Buka akses ke ruangan yang paling adem.</strong> Kalau kamar mandi atau lorong adalah ruangan paling sejuk, pastikan anabul bisa masuk dengan aman. Ember berisi air dan cairan pembersih sebaiknya disimpan dulu.</li>
+        <li><strong>Lap bulunya dengan kain lembap.</strong> Beberapa kucing suka diusap pelan dengan kain basah yang sudah diperas. Kalau anabulmu tidak suka, jangan dipaksa.</li>
+      </ul>
+
+      <h2>Air minum harus siap di mana-mana</h2>
+      <p>Saat cuaca panas, akses ke air bersih jadi makin penting. Taruh beberapa mangkuk air di sudut berbeda, ganti airnya lebih sering supaya tetap segar, dan jauhkan mangkuk dari sinar matahari langsung. Beberapa kucing juga lebih semangat minum dari air mancur khusus kucing. Ide lengkapnya ada di artikel <a href="/artikel/tips-air-minum-kucing-rumahan/">tips air minum untuk kucing rumahan</a>.</p>
+
+      <h2>Hal-hal yang sebaiknya dihindari</h2>
+      <ul>
+        <li><strong>Mencukur bulu tanpa saran ahli.</strong> Bulu kucing juga berfungsi melindungi kulitnya. Kalau kamu berpikir untuk mencukur, tanyakan dulu ke dokter hewan atau groomer yang berpengalaman.</li>
+        <li><strong>Menyiram atau memandikan mendadak.</strong> Kebanyakan kucing tidak suka basah, dan bisa malah stres.</li>
+        <li><strong>Meninggalkan kucing di mobil atau ruangan tertutup yang panas.</strong> Walau "cuma sebentar", ruangan tertutup bisa cepat sekali jadi sangat panas.</li>
+        <li><strong>Mengajak main heboh di siang bolong.</strong> Geser sesi main ke pagi atau malam saat udara lebih adem.</li>
+      </ul>
+
+      <h2>Kapan perlu segera ke dokter hewan?</h2>
+      <p>Kucing yang kepanasan bisa menunjukkan tanda-tanda yang perlu diwaspadai, misalnya bernapas dengan mulut terbuka atau terengah-engah, sangat lemas, gelisah, ngiler, atau terlihat sempoyongan. Kucing yang terengah-engah bukan hal yang biasa. Kalau kamu melihat tanda-tanda seperti ini, pindahkan anabul ke tempat yang sejuk dan segera hubungi dokter hewan untuk mendapat arahan.</p>
+
+      <h2>Penutup</h2>
+      <p>Menjaga kucing tetap sejuk sebenarnya bukan hal yang ribet. Cukup sediakan pilihan tempat adem, air yang segar, dan atur kipas atau AC dengan bijak. Sisanya biar anabul yang memutuskan, karena ujung-ujungnya ia tetap akan memilih lantai kamar mandi.</p>
+      <p>Di mana spot adem favorit anabulmu saat cuaca panas? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery. Siapa tahu jawabannya bikin kita semua ikut pengin rebahan di lantai.</p>
+    `,
+  },
+  {
     slug: "kucing-suka-menjatuhkan-barang-dari-meja",
     title: "Gelas Jatuh, Anabul Menatap Tanpa Dosa: Kenapa Kucing Suka Menjatuhkan Barang?",
     category: "Perilaku",
