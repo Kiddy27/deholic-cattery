@@ -24,6 +24,65 @@
 
 window.ARTICLES = [
   {
+    slug: "menyambut-kucing-baru-di-rumah",
+    title: "Anabul Baru Datang, Langsung Ngumpet di Kolong Kasur? Cara Menyambut Kucing Baru Tanpa Drama",
+    category: "Pemula",
+    excerpt:
+      "Hari pertama kucing baru di rumah sering diwarnai drama kolong kasur. Yuk siapkan ruang aman, rutinitas, dan kesabaran supaya anabul cepat betah.",
+    date: "2026-10-22",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "heart",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/menyambut-kucing-baru-di-rumah.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga mengintip malu-malu dari dalam kardus di sudut kamar yang tenang, ditemani mangkuk air, kotak pasir kecil, dan selimut lembut, dengan cahaya pagi yang hangat",
+    content: `
+      <p>Kamu sudah membayangkan momen ini berminggu-minggu. Carrier dibuka, kamu siap menyambut dengan pelukan hangat, lalu... wus! Anabul baru melesat masuk ke kolong kasur dan tidak keluar sampai malam. Yang kelihatan cuma sepasang mata bulat yang menatap dari kegelapan, seolah berkata, "Kamu siapa? Ini di mana? Aku mau pulang."</p>
+      <p>Tenang, ini bukan tanda ia tidak suka kamu. Buat kucing, pindah rumah itu perubahan besar: bau baru, suara baru, orang baru, semuanya sekaligus. Kabar baiknya, dengan persiapan yang pas dan sedikit kesabaran, kebanyakan kucing pelan-pelan akan merasa betah.</p>
+
+      <h2>Sebelum anabul datang: siapkan "markas kecil"</h2>
+      <p>Daripada langsung melepas kucing ke seluruh rumah, siapkan satu ruangan yang tenang sebagai markas awalnya. Kamar tidur yang jarang dilewati orang atau ruang kerja yang tidak terlalu ramai biasanya cocok. Ruangan kecil terasa lebih aman dan lebih mudah "dikuasai" oleh kucing yang masih deg-degan.</p>
+      <p>Isi markas kecil itu dengan kebutuhan dasarnya:</p>
+      <ul>
+        <li><strong>Air minum dan makanan</strong>, ditaruh agak berjauhan dari kotak pasir.</li>
+        <li><strong>Kotak pasir</strong> di sudut yang tenang. Kalau masih bingung memilih dan menaruhnya, intip artikel <a href="/artikel/panduan-kotak-pasir-kucing/">panduan kotak pasir kucing</a>.</li>
+        <li><strong>Tempat sembunyi</strong>, misalnya kardus yang diberi lubang atau tempat tidur bertutup. Kucing yang bisa bersembunyi justru biasanya lebih cepat merasa aman.</li>
+        <li><strong>Alas lembut dan satu-dua mainan sederhana.</strong> Tidak perlu langsung lengkap, yang penting nyaman.</li>
+      </ul>
+      <p>Jangan lupa cek keamanan ruangan: tutup celah kecil di balik lemari, rapikan kabel, dan pastikan jendela tidak bisa dibuka sembarangan.</p>
+
+      <h2>Hari pertama: biarkan ia yang memimpin</h2>
+      <p>Saat tiba, taruh carrier di dalam markas kecil, buka pintunya, lalu biarkan kucing keluar sendiri kapan pun ia siap. Tidak perlu ditarik atau dibujuk keluar. Kalau perjalanan ke rumah terasa jadi drama tersendiri, tips di artikel <a href="/artikel/membiasakan-kucing-masuk-carrier/">membiasakan kucing masuk carrier</a> bisa membantu untuk perjalanan berikutnya.</p>
+      <p>Beberapa hal kecil yang bikin hari pertama lebih mulus:</p>
+      <ul>
+        <li><strong>Duduk tenang di lantai.</strong> Posisi yang rendah terasa kurang mengintimidasi. Baca buku atau main HP saja, biarkan anabul mengamati dari jauh.</li>
+        <li><strong>Bicara pelan dan lembut.</strong> Suaramu jadi salah satu hal pertama yang ia kenali dari rumah barunya.</li>
+        <li><strong>Ulurkan jari, jangan langsung memeluk.</strong> Kalau ia mendekat dan mengendus, itu sudah kemajuan besar. Kalau ia mundur, hormati keputusannya.</li>
+        <li><strong>Batasi tamu dulu.</strong> Godaan pamer anabul baru ke seluruh keluarga dan teman memang besar, tapi sabar sebentar ya.</li>
+      </ul>
+
+      <h2>Hari-hari berikutnya: rutinitas adalah sahabat</h2>
+      <p>Setiap kucing punya kecepatan sendiri. Ada yang sudah berani menjelajah dalam hitungan jam, ada juga yang butuh beberapa hari atau lebih. Selama ia mau makan, minum, dan memakai kotak pasirnya, tidak perlu terburu-buru.</p>
+      <p>Bantu ia merasa aman dengan jadwal yang bisa ditebak: makan di jam yang kurang lebih sama, sesi main singkat di waktu yang sama, dan suasana rumah yang tidak berubah-ubah. Kenapa jadwal yang teratur bisa bikin kucing lebih tenang, sudah kami bahas di artikel <a href="/artikel/rutinitas-harian-kucing/">rutinitas harian kucing</a>.</p>
+      <p>Kalau anabul sudah terlihat santai di markas kecilnya, misalnya mau rebahan terlentang, mendekat minta dielus, atau duduk manis menunggu di depan pintu, saatnya membuka akses ke ruangan lain sedikit demi sedikit. Biarkan ia menjelajah sambil tetap bisa kembali ke markasnya kapan saja.</p>
+
+      <h2>Hal-hal yang sebaiknya dihindari</h2>
+      <ul>
+        <li><strong>Memaksa keluar dari tempat persembunyian.</strong> Menarik kucing dari kolong kasur bisa bikin ia makin takut pada kamu.</li>
+        <li><strong>Langsung mengganti makanan.</strong> Kalau bisa, tanyakan ke pemilik atau tempat asalnya makanan apa yang biasa ia makan, lalu kalau mau mengganti, lakukan bertahap.</li>
+        <li><strong>Mempertemukan langsung dengan hewan lain di rumah.</strong> Perkenalan dengan kucing atau hewan lain sebaiknya pelan-pelan dan bertahap, jangan langsung dicampur di hari pertama.</li>
+        <li><strong>Terlalu banyak "acara".</strong> Mandi, potong kuku, dan foto studio bisa menunggu sampai ia betah.</li>
+      </ul>
+
+      <h2>Kapan perlu tanya dokter hewan?</h2>
+      <p>Wajar kalau kucing baru makan sedikit atau malu-malu di awal. Tapi kalau ia sama sekali tidak mau makan atau minum, tidak buang air, muntah, diare, atau terlihat sangat lemas, sebaiknya segera hubungi dokter hewan. Pemeriksaan kesehatan awal setelah kucing tiba di rumah juga ide yang bagus supaya kamu tahu kondisinya sejak awal.</p>
+
+      <h2>Penutup</h2>
+      <p>Menyambut kucing baru itu bukan lomba siapa yang paling cepat akrab. Sediakan ruang aman, jadwal yang teratur, dan banyak kesabaran. Suatu hari nanti, anabul yang dulu ngumpet di kolong kasur itu akan tidur pulas di atas bantalmu dan tidak mau pindah, dan kamu akan rindu masa-masa ia masih malu-malu.</p>
+      <p>Bagaimana cerita hari pertama anabulmu di rumah? Ngumpet di mana dia? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "menjaga-kucing-tetap-sejuk-saat-panas",
     title: "Jakarta Lagi Gerah, Anabul Rebahan di Lantai: Cara Menjaga Kucing Tetap Sejuk",
     category: "Perawatan",
