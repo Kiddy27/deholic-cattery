@@ -24,6 +24,55 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-suka-menguleni-bikin-roti",
+    title: "Toko Roti Berbulu Buka Lagi: Kenapa Kucing Suka Menguleni Selimut dan Pangkuanmu?",
+    category: "Perilaku",
+    excerpt:
+      "Anabul menekan-nekan selimut atau pahamu sambil mendengkur? Yuk kenalan dengan kebiasaan 'bikin roti' dan cara menanggapinya dengan santai.",
+    date: "2026-10-23",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "paw",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-suka-menguleni-bikin-roti.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga sedang menguleni selimut rajut lembut dengan kaki depannya sambil memejamkan mata puas, di atas sofa dengan cahaya sore yang hangat, gaya pastel",
+    content: `
+      <p>Kamu baru saja rebahan dengan selimut favorit, lalu anabul datang, naik ke pangkuan, dan mulai beraksi. Kaki depan kiri tekan, kaki depan kanan tekan, kiri lagi, kanan lagi. Matanya setengah terpejam, dengkurnya kencang seperti mesin kecil, dan wajahnya serius sekali. Selamat, toko roti berbulu di rumahmu baru saja buka.</p>
+      <p>Gerakan menekan-nekan bergantian ini sering disebut "menguleni" atau "bikin roti", karena memang mirip tukang roti yang sedang mengolah adonan. Lucu, kadang sedikit perih kalau kukunya ikut keluar, dan bikin banyak pemilik penasaran: sebenarnya anabul sedang apa sih?</p>
+
+      <h2>Apa sebenarnya yang sedang dilakukan anabul?</h2>
+      <p>Tidak ada satu jawaban pasti yang berlaku untuk semua kucing, tapi ada beberapa penjelasan yang sering disebut dan masuk akal:</p>
+      <ul>
+        <li><strong>Kebiasaan dari masa bayi.</strong> Anak kucing biasa menekan-nekan perut induknya saat menyusu. Banyak yang menduga kebiasaan ini terbawa sampai dewasa dan muncul lagi saat kucing merasa nyaman dan aman, semacam "mode bayi" yang menenangkan.</li>
+        <li><strong>Tanda sedang santai dan senang.</strong> Menguleni sering muncul barengan dengan dengkuran, mata sayu, dan badan rileks. Kalau anabul melakukannya di pangkuanmu, anggap saja itu pujian.</li>
+        <li><strong>Meninggalkan "tanda" bau.</strong> Telapak kaki kucing punya kelenjar bau. Saat menekan-nekan, ia mungkin sekaligus menandai tempat atau orang itu sebagai miliknya. Jadi ya, kamu resmi jadi properti anabul.</li>
+        <li><strong>Merapikan tempat tidur.</strong> Ada juga yang mengaitkannya dengan naluri menyiapkan tempat tidur yang empuk sebelum rebahan. Itulah kenapa ritual ini sering terjadi tepat sebelum anabul melingkar dan tidur.</li>
+      </ul>
+      <p>Menguleni termasuk salah satu kebiasaan kucing yang kelihatan aneh tapi sebenarnya wajar. Kalau kamu suka topik seperti ini, intip juga artikel <a href="/artikel/kebiasaan-aneh-kucing-yang-normal/">kebiasaan aneh kucing yang ternyata normal</a>.</p>
+
+      <h2>Kenapa kadang pakai kuku, bahkan sambil ngiler?</h2>
+      <p>Saat sedang asyik, sebagian kucing ikut mengeluarkan kukunya tanpa sadar. Bukan karena ingin menyakiti, tapi karena memang terbawa suasana. Ada juga anabul yang sampai ngiler sedikit atau mengisap ujung selimut. Selama ia terlihat santai dan sehat, biasanya ini cuma bagian dari ekspresi nyamannya.</p>
+      <p>Tidak semua kucing menguleni, dan itu juga normal. Ada yang rajin buka toko roti tiap malam, ada yang jarang sekali, ada yang tidak pernah sama sekali. Kucing yang tidak menguleni bukan berarti tidak sayang kamu, ia hanya punya cara lain untuk menunjukkannya.</p>
+      <p>Lokasinya pun bisa macam-macam: selimut, bantal sofa, tumpukan baju yang baru diangkat dari jemuran, sampai perut pemiliknya. Biasanya anabul memilih permukaan yang empuk dan beraroma familier, jadi jangan heran kalau baju kesayanganmu ikut jadi korban.</p>
+
+      <h2>Cara menanggapinya dengan santai</h2>
+      <p>Pada dasarnya, menguleni tidak perlu dihentikan. Tapi kalau pahamu mulai terasa seperti bantalan jarum, ada beberapa trik sederhana:</p>
+      <ul>
+        <li><strong>Siapkan "adonan" khusus.</strong> Taruh selimut tebal atau bantal kecil di pangkuan sebelum anabul naik. Ia tetap bisa menguleni, kamu tetap aman.</li>
+        <li><strong>Rawat kukunya secara rutin.</strong> Kuku yang dirapikan bikin sesi bikin roti jauh lebih bersahabat. Tipsnya ada di artikel <a href="/artikel/potong-kuku-kucing-tanpa-drama/">potong kuku kucing tanpa drama</a>.</li>
+        <li><strong>Alihkan dengan lembut, jangan dimarahi.</strong> Kalau ingin ia berhenti, pindahkan pelan-pelan ke selimut di sebelahmu. Membentak atau mendorong bisa bikin ia bingung, karena dari sudut pandangnya ia sedang menunjukkan rasa nyaman.</li>
+        <li><strong>Sediakan tempat favorit untuk menguleni.</strong> Selimut lembut atau kasur kucing yang empuk bisa jadi "toko roti" resminya. Kalau masih bingung memilih alas tidur yang pas, baca artikel <a href="/artikel/memilih-tempat-tidur-kucing/">cara memilih tempat tidur kucing</a>.</li>
+      </ul>
+
+      <h2>Kapan perlu diperhatikan lebih?</h2>
+      <p>Menguleni sendiri umumnya bukan masalah. Tapi kalau kamu melihat perubahan yang mencolok, misalnya anabul tiba-tiba menguleni atau mengisap kain terus-menerus sampai kainnya rusak atau tertelan, terlihat gelisah, atau ada perubahan lain seperti nafsu makan turun, sebaiknya konsultasikan ke dokter hewan. Mereka bisa membantu memastikan apakah ada hal lain yang perlu diperhatikan.</p>
+
+      <h2>Penutup</h2>
+      <p>Jadi, lain kali anabul datang dan mulai bikin roti di pangkuanmu, nikmati saja momennya. Siapkan selimut tebal, tarik napas, dan terima kenyataan bahwa kamu baru saja dipilih jadi adonan paling nyaman di rumah. Ini salah satu bentuk "aku betah di sini" versi kucing.</p>
+      <p>Anabulmu rajin buka toko roti juga? Di selimut, bantal, atau langsung di perutmu? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "menyambut-kucing-baru-di-rumah",
     title: "Anabul Baru Datang, Langsung Ngumpet di Kolong Kasur? Cara Menyambut Kucing Baru Tanpa Drama",
     category: "Pemula",
