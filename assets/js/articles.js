@@ -24,6 +24,52 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-suka-mengikuti-ke-kamar-mandi",
+    title: "Bodyguard Berbulu di Depan Pintu: Kenapa Kucing Suka Ikut ke Kamar Mandi?",
+    category: "Perilaku",
+    excerpt:
+      "Baru masuk kamar mandi, anabul sudah mengeong di balik pintu? Yuk cari tahu kenapa kucing suka jadi 'bodyguard' dan cara menanggapinya dengan santai.",
+    date: "2026-10-24",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "paw",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-suka-mengikuti-ke-kamar-mandi.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk tegak dan penasaran di depan pintu kamar mandi yang sedikit terbuka, dengan keset lembut dan handuk tergantung, suasana rumah yang hangat, gaya pastel",
+    content: `
+      <p>Kamu cuma mau ke kamar mandi sebentar. Pintu baru ditutup, lalu terdengar suara "meong?" dari luar. Disusul cakaran kecil di pintu, lalu bayangan kaki berbulu yang menyelinap dari celah bawah. Kalau pintunya kamu biarkan terbuka, anabul langsung masuk, duduk manis, dan menatapmu seperti satpam yang sedang bertugas jaga.</p>
+      <p>Tenang, kamu tidak sendirian. Banyak pemilik kucing yang merasa privasi di kamar mandi sudah tinggal kenangan sejak ada anabul di rumah. Tapi kenapa sih kucing segitu penasarannya dengan ruangan kecil yang satu ini?</p>
+
+      <h2>Kenapa anabul jadi "bodyguard" kamar mandi?</h2>
+      <p>Setiap kucing punya alasannya sendiri, dan kita tidak bisa benar-benar menanyakannya. Tapi ada beberapa dugaan yang sering disebut dan cukup masuk akal:</p>
+      <ul>
+        <li><strong>Pintu tertutup itu misteri besar.</strong> Banyak kucing tidak suka ada ruangan yang tidak bisa mereka cek. Begitu pintu ditutup, rasa penasarannya justru makin menjadi. "Ada apa di dalam? Kenapa aku tidak diajak?"</li>
+        <li><strong>Kamu sedang diam di satu tempat.</strong> Dari sudut pandang anabul, kamu yang duduk tenang di kamar mandi adalah kesempatan emas untuk minta perhatian. Tidak sibuk mengetik, tidak sedang masak, dan tidak bisa kabur ke mana-mana.</li>
+        <li><strong>Bagian dari rutinitas.</strong> Kalau kamu biasa ke kamar mandi lalu memberi makan atau bermain, anabul bisa saja mengaitkan keduanya. Kucing memang senang dengan pola yang bisa ditebak, seperti yang dibahas di artikel <a href="/artikel/rutinitas-harian-kucing/">kenapa rutinitas harian bikin kucing lebih tenang</a>.</li>
+        <li><strong>Ruangannya menarik.</strong> Ada keran yang menetes, lantai yang adem, wastafel yang pas untuk rebahan, dan aroma sabun yang asing. Bagi kucing, kamar mandi bisa terasa seperti wahana kecil yang seru.</li>
+        <li><strong>Ingin dekat denganmu.</strong> Sebagian kucing memang senang mengikuti pemiliknya dari ruangan ke ruangan. Mirip dengan kebiasaan <a href="/artikel/kucing-suka-duduk-di-laptop/">duduk di laptop</a>, anabul suka berada di tempat kamu berada.</li>
+      </ul>
+
+      <h2>Apakah ini perlu dikhawatirkan?</h2>
+      <p>Umumnya tidak. Mengikuti ke kamar mandi termasuk kebiasaan yang sangat lumrah dan sering kali hanya tanda bahwa anabul penasaran dan nyaman denganmu. Ada kucing yang melakukannya setiap hari, ada juga yang cuek saja. Keduanya sama-sama normal.</p>
+      <p>Yang perlu diperhatikan adalah kalau ada perubahan yang mencolok. Misalnya anabul tiba-tiba jadi sangat lengket dan gelisah setiap kali ditinggal, terus-menerus mengeong dengan keras, atau ada perubahan lain seperti nafsu makan dan kebiasaan buang air yang berbeda dari biasanya. Dalam situasi seperti itu, ada baiknya berkonsultasi ke dokter hewan supaya bisa dipastikan apakah ada hal lain yang perlu ditangani.</p>
+
+      <h2>Cara menanggapinya dengan santai</h2>
+      <p>Kamu bebas memilih: mau menerima satpam berbulu ini apa adanya, atau ingin sedikit privasi. Dua-duanya boleh. Berikut beberapa tips yang bisa dicoba:</p>
+      <ul>
+        <li><strong>Amankan kamar mandinya dulu.</strong> Kalau anabul boleh masuk, pastikan tutup kloset diturunkan, ember atau bak berisi air tidak bisa ia jatuhi, dan sabun, sampo, serta cairan pembersih disimpan di tempat yang tidak terjangkau.</li>
+        <li><strong>Jangan dimarahi.</strong> Membentak kucing yang mengeong di depan pintu biasanya tidak membuatnya paham, malah bisa bikin ia bingung atau cemas. Cukup abaikan dengan tenang kalau kamu tidak ingin kebiasaan itu makin menjadi.</li>
+        <li><strong>Beri kesibukan sebelum kamu masuk.</strong> Mainan puzzle, mainan isi camilan, atau sesi bermain singkat sebelumnya bisa membuat anabul lebih sibuk dan tidak terlalu peduli kamu ada di mana. Idenya bisa kamu intip di artikel <a href="/artikel/mainan-stimulasi-kucing-indoor/">ide mainan dan stimulasi untuk kucing indoor</a>.</li>
+        <li><strong>Sediakan spot nyaman di dekat pintu.</strong> Kalau ia tetap ingin menunggu, taruh keset empuk atau alas kecil di luar kamar mandi. Setidaknya sang bodyguard bisa berjaga dengan nyaman.</li>
+        <li><strong>Hargai yang ia cari.</strong> Kalau intinya ia ingin perhatian, luangkan waktu khusus untuk bermain dan mengelus di luar urusan kamar mandi. Kucing yang merasa cukup diperhatikan biasanya lebih santai saat kamu menghilang sebentar.</li>
+      </ul>
+
+      <h2>Penutup</h2>
+      <p>Jadi, kalau besok pagi ada sepasang mata bulat menunggumu di depan pintu kamar mandi, anggap saja itu layanan pengawalan pribadi gratis. Anabul cuma ingin tahu kamu baik-baik saja, dan mungkin sekalian menagih sarapan.</p>
+      <p>Anabulmu juga punya jadwal jaga di depan kamar mandi? Atau malah ikut masuk dan rebahan di wastafel? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "kucing-suka-menguleni-bikin-roti",
     title: "Toko Roti Berbulu Buka Lagi: Kenapa Kucing Suka Menguleni Selimut dan Pangkuanmu?",
     category: "Perilaku",
