@@ -24,6 +24,52 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-suka-tidur-di-tempat-aneh",
+    title: "Wastafel, Kardus Sempit, Keranjang Baju: Kenapa Kucing Suka Tidur di Tempat Aneh?",
+    category: "Perilaku",
+    excerpt:
+      "Kasur empuk dicuekin, anabul malah pulas di wastafel atau kardus mungil? Yuk cari tahu kenapa kucing suka tidur di tempat aneh dan cara bikin spot yang aman.",
+    date: "2026-10-25",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "home",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-suka-tidur-di-tempat-aneh.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga tidur meringkuk pulas di dalam keranjang baju berisi handuk bersih, di sebelahnya ada kardus kecil yang kosong, suasana rumah yang hangat, gaya pastel",
+    content: `
+      <p>Kamu baru saja membelikan anabul kasur bulat yang empuk, lengkap dengan bantal kecil. Hasilnya? Kasur itu dicium sebentar, lalu ditinggal. Beberapa jam kemudian, kamu menemukan si bulat tidur pulas di dalam wastafel, di kardus bekas paket yang jelas terlalu kecil, atau di atas tumpukan baju yang baru saja kamu lipat.</p>
+      <p>Selamat, kamu resmi tinggal bersama kucing. Tidur di tempat aneh adalah salah satu kebiasaan anabul yang paling bikin geleng-geleng kepala sekaligus gemas. Tapi sebenarnya ada alasan yang cukup masuk akal di baliknya.</p>
+
+      <h2>Kenapa tempat aneh justru jadi favorit?</h2>
+      <p>Kita tidak bisa menanyakannya langsung ke anabul, tapi ada beberapa dugaan yang sering disebut dan cocok dengan cara kucing melihat dunia:</p>
+      <ul>
+        <li><strong>Sempit itu terasa aman.</strong> Banyak kucing senang tempat yang memeluk tubuhnya dari beberapa sisi. Kardus mungil atau wastafel yang melengkung membuat anabul merasa terlindungi, karena tidak ada yang bisa mendekat diam-diam dari belakang.</li>
+        <li><strong>Suhunya pas.</strong> Wastafel dan lantai kamar mandi terasa adem saat cuaca gerah, sementara tumpukan baju atau selimut terasa hangat saat malam dingin. Kucing pintar sekali mencari suhu yang ia suka. Kalau kamu penasaran soal ini, intip juga artikel <a href="/artikel/menjaga-kucing-tetap-sejuk-saat-panas/">cara menjaga kucing tetap sejuk</a>.</li>
+        <li><strong>Baunya bau kamu.</strong> Keranjang baju, sweter yang tergeletak, atau bantalmu penuh dengan aromamu. Bagi anabul, itu bisa terasa menenangkan, seperti tidur sambil ditemani.</li>
+        <li><strong>Barang baru wajib dicek.</strong> Kardus yang baru datang adalah "properti baru" di wilayahnya. Masuk dan tidur di dalamnya mungkin cara anabul bilang, "Oke, ini sekarang punyaku."</li>
+        <li><strong>Ganti suasana.</strong> Sebagian kucing suka berpindah-pindah tempat tidur dari waktu ke waktu. Jadi kalau kasur favoritnya minggu lalu tiba-tiba dicuekin, itu belum tentu tanda ada masalah.</li>
+      </ul>
+
+      <h2>Kapan perlu diperhatikan?</h2>
+      <p>Umumnya kebiasaan ini normal dan lucu saja. Tapi ada baiknya kamu lebih waspada kalau anabul tiba-tiba sering bersembunyi di tempat tersembunyi dan susah ditemukan, terlihat lesu, tidak mau makan, atau ada perubahan lain yang mencolok dari kebiasaannya. Kadang kucing yang merasa tidak enak badan memilih menyendiri. Kalau kamu ragu, lebih tenang kalau berkonsultasi ke dokter hewan supaya bisa dicek langsung.</p>
+
+      <h2>Cara bikin spot tidur yang aman (dan tetap disukai)</h2>
+      <p>Daripada melawan selera anabul, lebih seru kalau kita ikuti saja sambil memastikan semuanya aman:</p>
+      <ul>
+        <li><strong>Cek dulu sebelum menyalakan alat.</strong> Biasakan melirik ke dalam mesin cuci, pengering, lemari, atau laci sebelum menutup dan menyalakannya. Kucing suka menyelinap ke ruang sempit tanpa suara.</li>
+        <li><strong>Amankan wastafel dan kamar mandi.</strong> Kalau wastafel jadi kamar tidur favorit, pastikan tidak ada sabun, pisau cukur, atau cairan pembersih di sekitarnya.</li>
+        <li><strong>Sediakan versi "resmi" dari tempat aneh itu.</strong> Suka kardus? Siapkan kardus bersih tanpa selotip dan staples, lalu alasi dengan kain lembut. Suka keranjang baju? Taruh keranjang kecil berisi handuk lama yang sudah kamu pakai supaya ada aromamu. Tips memilih alasnya ada di artikel <a href="/artikel/memilih-tempat-tidur-kucing/">cara memilih tempat tidur kucing</a>.</li>
+        <li><strong>Pilih lokasi yang tenang.</strong> Taruh spot tidur di sudut yang tidak dilalui banyak orang, atau dekat jendela yang kena sinar matahari pagi. Idenya bisa kamu lihat di artikel <a href="/artikel/spot-jendela-berjemur-kucing/">bikin spot berjemur yang aman</a>.</li>
+        <li><strong>Jangan paksa pindah.</strong> Mengangkat anabul yang sedang pulas lalu menaruhnya di kasur baru biasanya tidak membuatnya langsung suka. Biarkan ia menemukan sendiri, dan beri camilan atau elusan saat ia mencoba tempat baru.</li>
+        <li><strong>Sediakan lebih dari satu pilihan.</strong> Beberapa spot dengan suasana berbeda, misalnya satu yang tertutup, satu yang terbuka, satu yang adem, membuat anabul bisa memilih sesuai mood.</li>
+      </ul>
+
+      <h2>Penutup</h2>
+      <p>Jadi, kalau besok kamu menemukan anabul tidur dengan posisi melipat di dalam kardus sepatu, tidak perlu bingung. Bagi kucing, tempat terbaik untuk tidur bukan yang paling mahal, tapi yang paling pas di hati (dan di badan, walaupun kadang kelihatannya tidak muat).</p>
+      <p>Tempat tidur paling aneh anabulmu di mana? Wastafel, rak sepatu, atau jangan-jangan di dalam tas kerjamu? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "kucing-suka-mengikuti-ke-kamar-mandi",
     title: "Bodyguard Berbulu di Depan Pintu: Kenapa Kucing Suka Ikut ke Kamar Mandi?",
     category: "Perilaku",
