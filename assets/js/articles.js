@@ -24,6 +24,65 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-menggigit-pelan-saat-dielus",
+    title: "Lagi Dielus, Tiba-tiba Digigit: Kenapa Kucing Suka Love Bite dan Kapan Harus Berhenti?",
+    category: "Perilaku",
+    excerpt:
+      "Anabul mendengkur manja, lalu tiba-tiba menggigit pelan tanganmu? Yuk kenalan dengan love bite dan cara membaca tanda kucing sudah cukup dielus.",
+    date: "2026-10-26",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "heart",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-menggigit-pelan-saat-dielus.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga berbaring di pangkuan sambil menggigit pelan jari tangan manusia dengan ekspresi manja, sofa empuk dan cahaya sore yang hangat, gaya pastel",
+    content: `
+      <p>Sore yang damai. Anabul naik ke pangkuan, mendengkur pelan, matanya setengah terpejam. Kamu mengelus kepalanya, lalu punggungnya, lalu punggungnya lagi. Semua terasa sempurna, sampai tiba-tiba... <em>hap!</em> Tanganmu digigit. Tidak sampai luka, tapi cukup bikin kaget dan bertanya-tanya, "Barusan aku salah apa?"</p>
+      <p>Tenang, kamu tidak sendirian. Gigitan pelan di tengah sesi elus-elus ini sering disebut <strong>love bite</strong>, dan banyak pemilik kucing pernah mengalaminya. Kabar baiknya, biasanya ini bukan tanda anabul membencimu. Ia cuma sedang "ngomong" dengan caranya sendiri.</p>
+
+      <h2>Apa sebenarnya love bite itu?</h2>
+      <p>Love bite adalah gigitan ringan, biasanya tanpa tenaga penuh dan tanpa cakar, yang muncul saat kucing sedang dielus atau berinteraksi santai denganmu. Kadang terasa seperti cubitan kecil, kadang cuma gigi yang menempel sebentar lalu dilepas. Bentuknya beda-beda di tiap kucing, dan maknanya pun tidak selalu sama.</p>
+
+      <h2>Kenapa anabul melakukannya?</h2>
+      <p>Kita tidak bisa wawancara langsung dengan anabul, tapi ada beberapa penjelasan yang sering disebut:</p>
+      <ul>
+        <li><strong>"Oke, cukup dulu, ya."</strong> Ini alasan yang paling sering. Elusan yang awalnya enak bisa terasa berlebihan kalau berlangsung lama atau terus di area yang sama. Gigitan pelan jadi cara sopan anabul bilang ia sudah puas.</li>
+        <li><strong>Gaya bersosialisasi.</strong> Sebagian kucing saling menjilat dan menggigit kecil saat merapikan bulu satu sama lain. Bisa jadi anabul memperlakukanmu seperti teman sekamarnya sendiri.</li>
+        <li><strong>Terlalu bersemangat.</strong> Kucing yang sedang senang atau penuh energi kadang menyalurkannya lewat mulut, apalagi kucing muda yang masih suka main-main.</li>
+        <li><strong>Kebiasaan sejak kecil.</strong> Kalau dulu tangan manusia sering dipakai sebagai mainan, anabul bisa menganggap menggigit tangan itu bagian normal dari bermain.</li>
+      </ul>
+      <p>Kebiasaan ini mirip dengan tingkah unik lain yang sering bikin kita bingung, seperti yang dibahas di artikel <a href="/artikel/kebiasaan-aneh-kucing-yang-normal/">kebiasaan aneh kucing yang ternyata normal</a>.</p>
+
+      <h2>Tanda-tanda anabul sudah cukup dielus</h2>
+      <p>Love bite jarang datang tanpa peringatan. Biasanya anabul sudah memberi kode sebelumnya, hanya saja kode itu halus sekali. Coba perhatikan tanda-tanda berikut:</p>
+      <ul>
+        <li>Ujung ekor mulai mengibas atau ekor dipukul-pukulkan ke lantai.</li>
+        <li>Kulit di punggung tampak berkedut atau bergelombang.</li>
+        <li>Telinga berputar ke samping atau mulai mendatar.</li>
+        <li>Dengkuran berhenti, atau tubuhnya tiba-tiba jadi kaku.</li>
+        <li>Kepala menoleh cepat ke arah tanganmu.</li>
+      </ul>
+      <p>Kalau salah satu tanda ini muncul, itu saat yang pas untuk berhenti mengelus. Suara-suara kecil anabul juga bisa jadi petunjuk, dan kamu bisa belajar lebih jauh di artikel <a href="/artikel/arti-suara-kucing-meong-dengkur-desis/">arti suara kucing buat pemula</a>.</p>
+
+      <h2>Cara menanggapi love bite dengan santai</h2>
+      <ul>
+        <li><strong>Diam dan hentikan elusan.</strong> Jangan menarik tangan dengan cepat, karena gerakan mendadak bisa memancing naluri berburunya. Cukup diamkan tangan, lalu pelan-pelan jauhkan.</li>
+        <li><strong>Jangan dimarahi atau dipukul.</strong> Anabul tidak paham hukuman, yang ada malah ia jadi takut atau makin defensif.</li>
+        <li><strong>Elus di area favorit.</strong> Banyak kucing lebih suka dielus di pipi, dagu, dan pangkal telinga ketimbang perut atau pangkal ekor. Tapi setiap anabul punya selera sendiri, jadi amati mana yang paling bikin ia nyaman.</li>
+        <li><strong>Sesi singkat tapi sering.</strong> Daripada mengelus lama sekali, coba beberapa sesi pendek dan berhenti saat anabul masih menikmatinya.</li>
+        <li><strong>Biarkan anabul yang memulai.</strong> Kalau ia menyundulkan kepala ke tanganmu, itu undangan. Kalau ia menjauh, hormati keputusannya.</li>
+        <li><strong>Pakai mainan, bukan tangan.</strong> Kalau gigitannya lebih ke arah main, alihkan ke mainan tongkat atau boneka kecil supaya tanganmu tidak dianggap mangsa.</li>
+      </ul>
+
+      <h2>Kapan perlu lebih waspada?</h2>
+      <p>Love bite biasanya ringan dan tidak melukai. Tapi kalau gigitan anabul tiba-tiba jadi lebih keras, sampai berdarah, disertai desisan, atau muncul saat kamu menyentuh bagian tubuh tertentu, itu bisa jadi tanda lain, misalnya ia sedang tidak nyaman atau merasakan sakit. Perubahan perilaku yang mendadak sebaiknya dikonsultasikan ke dokter hewan supaya bisa dicek langsung. Dan kalau gigitan sampai melukai kulit, bersihkan lukanya dan pertimbangkan untuk memeriksakannya ke tenaga medis.</p>
+
+      <h2>Penutup</h2>
+      <p>Jadi, love bite bukan pengkhianatan di tengah momen romantis. Anggap saja itu cara anabul memberi masukan: "Terima kasih, layanannya bagus, tapi cukup sampai di sini dulu." Semakin kamu paham kodenya, semakin jarang tanganmu jadi korban. Sama seperti kebiasaan <a href="/artikel/kucing-suka-menguleni-bikin-roti/">menguleni pangkuanmu</a>, semua ini bagian dari bahasa cinta anabul yang unik.</p>
+      <p>Anabulmu tipe yang suka love bite juga? Bagian mana yang paling ia suka dielus? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "kucing-suka-tidur-di-tempat-aneh",
     title: "Wastafel, Kardus Sempit, Keranjang Baju: Kenapa Kucing Suka Tidur di Tempat Aneh?",
     category: "Perilaku",
