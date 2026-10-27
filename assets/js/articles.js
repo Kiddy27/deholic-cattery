@@ -24,6 +24,57 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-suka-menyundul-kepala",
+    title: "Duk! Disundul Kepala Berbulu: Kenapa Kucing Suka Head Bunting dan Gosok-Gosok di Kaki?",
+    category: "Perilaku",
+    excerpt:
+      "Anabul menyundulkan kepala ke wajahmu atau melingkar di kakimu sambil gosok-gosok? Yuk pahami arti head bunting dan cara membalasnya dengan manis.",
+    date: "2026-10-27",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "heart",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-suka-menyundul-kepala.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga menyundulkan kepalanya dengan manja ke pipi seseorang yang sedang duduk di lantai, ruang tamu cerah dan hangat, gaya pastel",
+    content: `
+      <p>Kamu baru pulang, belum sempat lepas sepatu, dan anabul sudah menunggu di depan pintu. Ia berjalan mendekat, lalu mulai berputar-putar di antara kakimu sambil menggosokkan badan, pipi, sampai ekornya. Setelah kamu duduk, ia naik dan... <em>duk!</em> Kepala bulatnya disundulkan ke dagumu. Rasanya seperti disambut panitia penyambutan pribadi yang sangat serius dengan tugasnya.</p>
+      <p>Tingkah menyundul kepala ini sering disebut <strong>head bunting</strong>, sementara gosok-gosok badan dan pipi ke kaki atau perabot biasa disebut <em>rubbing</em>. Keduanya termasuk bahasa kucing yang paling menggemaskan. Yuk kita bedah pelan-pelan apa maksudnya.</p>
+
+      <h2>Apa itu head bunting?</h2>
+      <p>Head bunting adalah saat kucing menyundulkan atau menempelkan dahi, pipi, atau sisi kepalanya ke sesuatu, entah itu wajahmu, tanganmu, kaki meja, atau sudut kardus kesayangannya. Ada yang melakukannya dengan lembut, ada juga yang semangat sampai kacamatamu miring. Gaya tiap anabul memang beda-beda.</p>
+
+      <h2>Kenapa anabul melakukannya?</h2>
+      <p>Kita tidak bisa minta penjelasan tertulis dari anabul, tapi ada beberapa alasan yang umum dibahas:</p>
+      <ul>
+        <li><strong>Menandai dengan aroma.</strong> Kucing punya kelenjar bau di area wajah, seperti pipi dan dahi. Saat menyundul atau menggosokkan kepala, ia meninggalkan aroma khasnya yang tidak tercium oleh hidung kita. Anggap saja ia sedang menempelkan stiker "punyaku" di kamu.</li>
+        <li><strong>Tanda akrab dan percaya.</strong> Kucing yang dekat satu sama lain sering saling menggosokkan kepala. Kalau anabul melakukannya padamu, besar kemungkinan ia menganggapmu bagian dari kelompoknya.</li>
+        <li><strong>Menyapa.</strong> Gosok-gosok di kaki saat kamu pulang bisa jadi versi kucing dari "Halo, akhirnya pulang juga!"</li>
+        <li><strong>Minta perhatian (atau makan).</strong> Jujur saja, kadang sundulan itu datang tepat menjelang jam makan. Anabul tahu cara ini ampuh bikin kamu menoleh.</li>
+        <li><strong>Bikin lingkungan terasa familiar.</strong> Rumah yang penuh aroma sendiri biasanya terasa lebih aman bagi kucing. Itulah kenapa anabul juga rajin gosok-gosok di sudut sofa atau kaki kursi.</li>
+      </ul>
+      <p>Kalau anabulmu juga hobi membuntutimu ke mana-mana, kebiasaan ini masih satu keluarga dengan yang dibahas di artikel <a href="/artikel/kucing-suka-mengikuti-ke-kamar-mandi/">kenapa kucing suka ikut ke kamar mandi</a>.</p>
+
+      <h2>Bedanya dengan menggosok karena hal lain</h2>
+      <p>Umumnya head bunting itu tanda positif. Tapi perhatikan juga konteksnya. Kalau anabul tiba-tiba terus-terusan menggosokkan kepala ke lantai atau dinding dengan cara yang terlihat tidak biasa, sering menggaruk telinga, menggeleng-gelengkan kepala, atau menekan kepalanya ke dinding dan diam saja, itu bukan lagi sapaan manis. Perilaku seperti itu sebaiknya segera dikonsultasikan ke dokter hewan supaya bisa diperiksa langsung.</p>
+
+      <h2>Cara membalas sundulan anabul</h2>
+      <ul>
+        <li><strong>Sodorkan tangan atau pipimu pelan-pelan.</strong> Biarkan anabul yang memutuskan mau menyundul seberapa lama. Jangan langsung memeluk erat, karena tidak semua kucing suka dipeluk.</li>
+        <li><strong>Elus di pipi dan pangkal telinga.</strong> Banyak kucing senang dielus di area wajah, karena ini memang area yang ia pakai untuk menyapa. Tetap amati responsnya, ya.</li>
+        <li><strong>Kedipkan mata pelan-pelan.</strong> Kedipan lambat sering dianggap sebagai sinyal santai dan bersahabat di mata kucing. Siapa tahu ia membalas kedipanmu.</li>
+        <li><strong>Tahu kapan berhenti.</strong> Sundulan manis bisa berlanjut ke sesi elus panjang, dan kadang berakhir dengan gigitan kecil. Kenali kodenya lewat artikel <a href="/artikel/kucing-menggigit-pelan-saat-dielus/">kenapa kucing suka love bite</a>.</li>
+        <li><strong>Jangan buru-buru mencuci semua kain kesayangannya.</strong> Selimut atau kasur yang sudah penuh aroma anabul bisa membantunya merasa di rumah. Tentu tetap dicuci rutin, tapi mungkin tidak semuanya sekaligus.</li>
+      </ul>
+
+      <h2>Kalau anabul jarang menyundul, apakah ia tidak sayang?</h2>
+      <p>Belum tentu. Setiap kucing punya cara sendiri untuk menunjukkan kedekatan. Ada yang suka menyundul, ada yang lebih suka tidur di dekatmu, ada yang cukup duduk di ruangan yang sama sambil pura-pura cuek. Kucing yang baru datang ke rumah juga biasanya butuh waktu untuk merasa aman sebelum mulai bermanja-manja. Tips menyambutnya ada di artikel <a href="/artikel/menyambut-kucing-baru-di-rumah/">cara menyambut kucing baru tanpa drama</a>. Yang penting, beri anabul ruang dan waktu, jangan dipaksa.</p>
+
+      <h2>Penutup</h2>
+      <p>Jadi lain kali kepalamu disundul atau kakimu dijadikan tiang gosok, terima saja dengan bangga. Itu bisa jadi cara anabul bilang, "Kamu aman, kamu milikku, dan omong-omong, mangkukku kosong." Momen kecil seperti ini yang bikin hidup bersama kucing terasa hangat.</p>
+      <p>Anabulmu tipe penyundul lembut atau penyundul bertenaga penuh? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "kucing-menggigit-pelan-saat-dielus",
     title: "Lagi Dielus, Tiba-tiba Digigit: Kenapa Kucing Suka Love Bite dan Kapan Harus Berhenti?",
     category: "Perilaku",
