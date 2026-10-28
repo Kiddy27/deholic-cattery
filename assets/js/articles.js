@@ -24,6 +24,58 @@
 
 window.ARTICLES = [
   {
+    slug: "kedipan-pelan-kucing-slow-blink",
+    title: "Kedip... Kedip... Pelan: Cara Ngobrol Santai dengan Anabul Lewat Slow Blink",
+    category: "Perilaku",
+    excerpt:
+      "Anabul menatapmu lalu memejamkan mata pelan-pelan? Itu bisa jadi sapaan santainya. Yuk kenalan dengan slow blink dan cara membalasnya.",
+    date: "2026-10-28",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "eye",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kedipan-pelan-kucing-slow-blink.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk santai di atas sofa sambil memejamkan mata setengah dengan pelan ke arah pemiliknya, cahaya sore yang lembut, gaya pastel",
+    content: `
+      <p>Kamu sedang rebahan di sofa, lalu sadar ada yang memperhatikan dari ujung ruangan. Anabul duduk rapi seperti roti tawar, menatapmu lekat-lekat. Lalu, pelan sekali, matanya menyipit... terpejam... dan terbuka lagi. Tidak ada suara, tidak ada drama. Tapi entah kenapa rasanya seperti baru saja dapat pesan rahasia.</p>
+      <p>Gerakan ini sering disebut <strong>slow blink</strong> atau kedipan pelan. Banyak pencinta kucing menyebutnya "ciuman mata" versi anabul. Yuk kita kenalan lebih dekat dengan cara ngobrol paling hemat energi di dunia perkucingan ini.</p>
+
+      <h2>Seperti apa slow blink itu?</h2>
+      <p>Slow blink berbeda dengan kedipan biasa yang cepat. Kucing biasanya menyipitkan mata, menutupnya perlahan, menahan sebentar, lalu membukanya lagi dengan santai. Kadang yang terjadi hanya mata setengah terpejam sambil menatapmu, seperti orang yang mengantuk tapi tetap mau kelihatan ramah. Wajahnya rileks, telinganya tidak menegang, dan badannya tampak nyaman.</p>
+
+      <h2>Apa artinya buat anabul?</h2>
+      <p>Kita tidak bisa mewawancarai kucing, jadi artinya tidak bisa dipastikan seratus persen. Tapi slow blink umumnya dipahami sebagai sinyal santai dan bersahabat. Beberapa alasan yang sering dibahas:</p>
+      <ul>
+        <li><strong>Tanda merasa aman.</strong> Menatap lurus tanpa berkedip bisa terasa menantang di dunia kucing. Sebaliknya, memejamkan mata di depan seseorang menunjukkan ia sedang tidak waspada. Kira-kira artinya, "Aku santai kok di dekatmu."</li>
+        <li><strong>Sapaan ramah.</strong> Kedipan pelan dari jauh bisa jadi cara anabul menyapa tanpa harus berdiri dari posisi rebahannya yang sudah pas.</li>
+        <li><strong>Meredakan suasana.</strong> Kucing kadang memakai kedipan pelan saat bertemu kucing atau orang lain, seolah bilang, "Tenang, aku nggak cari ribut."</li>
+      </ul>
+      <p>Slow blink ini satu paket dengan sinyal akrab lain, seperti menyundul kepala ke wajahmu. Kalau penasaran, bahas lengkapnya ada di artikel <a href="/artikel/kucing-suka-menyundul-kepala/">kenapa kucing suka head bunting</a>.</p>
+
+      <h2>Cara membalas kedipan anabul</h2>
+      <p>Kabar baiknya, kamu bisa ikut "ngobrol" dengan cara yang sama. Begini caranya:</p>
+      <ul>
+        <li><strong>Pilih momen santai.</strong> Coba saat anabul sedang rileks, misalnya rebahan atau duduk tenang, bukan saat ia sedang heboh berburu mainan.</li>
+        <li><strong>Lembutkan tatapanmu.</strong> Lihat ke arahnya dengan wajah santai, jangan melotot. Bayangkan kamu sedang menikmati angin sore.</li>
+        <li><strong>Sipitkan mata, lalu pejamkan perlahan.</strong> Tahan satu atau dua detik, lalu buka lagi dengan pelan. Boleh sambil sedikit memalingkan pandangan.</li>
+        <li><strong>Tunggu balasannya.</strong> Kalau anabul membalas kedipan, selamat, obrolan berhasil! Kalau ia cuek atau malah menguap, jangan tersinggung. Mungkin ia sedang sibuk jadi kucing.</li>
+        <li><strong>Jangan memaksa.</strong> Slow blink bukan trik yang harus berhasil setiap saat. Anggap saja ini salam kecil yang boleh dibalas, boleh juga tidak.</li>
+      </ul>
+
+      <h2>Berguna untuk kucing pemalu</h2>
+      <p>Kedipan pelan juga bisa jadi cara lembut untuk mendekati kucing yang masih malu-malu, misalnya anabul yang baru datang ke rumah. Daripada langsung meraih dan menggendongnya, duduk saja agak jauh, bicara pelan, dan sesekali beri slow blink. Biarkan ia yang memutuskan kapan mau mendekat. Tips lain soal ini ada di artikel <a href="/artikel/menyambut-kucing-baru-di-rumah/">cara menyambut kucing baru tanpa drama</a>.</p>
+      <p>Hal yang sama berlaku untuk kucing tetangga atau kucing teman yang baru kamu temui. Tatapan lembut dan kedipan pelan biasanya terasa jauh lebih sopan daripada menatap tajam sambil memanggil "pus pus pus" dengan penuh semangat.</p>
+
+      <h2>Kapan mata menyipit bukan sapaan?</h2>
+      <p>Tidak semua mata sipit berarti kucing sedang ramah. Kalau anabul sering menyipitkan atau memejamkan satu mata, matanya berair, merah, bengkak, keluar kotoran, atau ia terlihat tidak nyaman saat terkena cahaya, itu bisa jadi tanda ada yang perlu diperiksa. Dalam kondisi seperti itu, sebaiknya segera konsultasikan ke dokter hewan, ya. Slow blink yang sehat biasanya terjadi dengan kedua mata, wajah santai, dan badan yang rileks.</p>
+      <p>Perhatikan juga bahasa tubuh lainnya. Mata menyipit tapi telinga rata ke belakang, ekor mengibas keras, atau badan menegang adalah cerita yang berbeda. Membaca sinyal anabul memang paling enak kalau dilihat secara keseluruhan, termasuk dari suaranya. Panduannya bisa kamu baca di artikel <a href="/artikel/arti-suara-kucing-meong-dengkur-desis/">arti suara kucing buat pemula</a>.</p>
+
+      <h2>Penutup</h2>
+      <p>Di antara semua cara kucing berkomunikasi, slow blink mungkin yang paling tenang. Tidak perlu meong keras, tidak perlu menjatuhkan gelas dari meja. Cukup satu kedipan pelan, dan pesannya sampai: "Aku nyaman sama kamu." Jadi lain kali anabul menatapmu dari ujung sofa, coba balas dengan kedipan yang sama. Siapa tahu itu jadi obrolan favorit kalian berdua.</p>
+      <p>Anabulmu suka membalas kedipan atau malah pura-pura tidak lihat? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "kucing-suka-menyundul-kepala",
     title: "Duk! Disundul Kepala Berbulu: Kenapa Kucing Suka Head Bunting dan Gosok-Gosok di Kaki?",
     category: "Perilaku",
