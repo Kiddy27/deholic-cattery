@@ -24,6 +24,63 @@
 
 window.ARTICLES = [
   {
+    slug: "sesi-main-kucing-singkat-efektif",
+    title: "Main 10 Menit, Anabul Tidur Pulas: Tips Sesi Playtime yang Singkat tapi Efektif",
+    category: "Gaya Hidup",
+    excerpt:
+      "Nggak perlu main berjam-jam. Dengan sesi singkat yang tepat, anabul bisa puas berburu, lalu rebahan dengan bahagia. Begini caranya.",
+    date: "2026-10-29",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "sparkle",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/sesi-main-kucing-singkat-efektif.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga melompat riang mengejar mainan bulu di ujung tongkat di ruang tamu yang cerah, gaya pastel",
+    content: `
+      <p>Kamu pulang kerja, badan pegal, rencananya langsung rebahan. Tapi di depan pintu sudah ada yang menunggu: anabul dengan mata bulat, ekor tegak, dan energi seperti baru minum tiga gelas kopi. Malamnya, jam dua pagi, ia lari-lari di lorong seperti sedang ikut lomba balap. Kedengarannya familiar?</p>
+      <p>Kabar baiknya, kamu tidak harus jadi pelatih olahraga penuh waktu. Sesi main yang singkat tapi "pas" sering kali sudah cukup untuk bikin anabul puas. Kuncinya bukan seberapa lama, tapi bagaimana cara mainnya.</p>
+
+      <h2>Kenapa main itu penting buat kucing rumahan?</h2>
+      <p>Kucing pada dasarnya pemburu kecil. Di dalam rumah, tidak ada tikus atau burung yang perlu dikejar, jadi naluri berburunya butuh saluran lain. Bermain adalah cara aman untuk menyalurkan itu. Selain membantu anabul tetap aktif, waktu main bersama juga bisa mempererat hubungan kalian dan mengurangi tingkah "iseng karena bosan", seperti menyerang kaki yang lewat atau menjatuhkan barang dari meja.</p>
+      <p>Kalau kamu butuh ide mainan dan stimulasi lain selain sesi bersama, bahasannya ada di artikel <a href="/artikel/mainan-stimulasi-kucing-indoor/">ide mainan dan stimulasi untuk kucing indoor</a>.</p>
+
+      <h2>Rahasianya: main seperti sedang berburu</h2>
+      <p>Banyak orang main dengan cara mengibas-ngibaskan mainan di depan muka kucing tanpa henti. Anabul mungkin semangat sebentar, lalu bosan atau malah frustrasi. Coba ubah alurnya supaya mirip perburuan sungguhan:</p>
+      <ul>
+        <li><strong>Mengintai.</strong> Gerakkan mainan pelan-pelan menjauhi anabul, sembunyikan sebentar di balik kursi atau bantal. Mangsa sungguhan tidak pernah lompat ke muka pemburunya.</li>
+        <li><strong>Mengejar.</strong> Setelah ia fokus, buat mainan bergerak lebih cepat, berbelok, lalu berhenti tiba-tiba. Biarkan ia berlari dan melompat.</li>
+        <li><strong>Menerkam dan menangkap.</strong> Ini bagian yang sering terlupa. Biarkan anabul benar-benar berhasil menangkap mainannya beberapa kali. Rasanya pasti tidak enak kalau berburu terus tapi tidak pernah dapat apa-apa.</li>
+        <li><strong>"Makan" hasil buruan.</strong> Tutup sesi dengan camilan kecil atau jadwal makannya. Alurnya jadi lengkap: berburu, menangkap, makan, lalu biasanya... tidur siang.</li>
+      </ul>
+
+      <h2>Berapa lama dan seberapa sering?</h2>
+      <p>Tidak ada angka ajaib yang berlaku untuk semua kucing. Banyak pemilik merasa beberapa sesi pendek dalam sehari, misalnya sekitar sepuluh menit di pagi dan malam hari, lebih gampang dijalani daripada satu sesi panjang. Kucing muda biasanya lebih bertenaga, sedangkan kucing dewasa yang kalem mungkin sudah puas dengan beberapa terkaman saja.</p>
+      <p>Perhatikan tanda-tanda ia sudah cukup: napas mulai cepat, rebahan sambil hanya memukul mainan dengan satu kaki, atau tiba-tiba pergi minum dan menjilati badan. Itu saat yang tepat untuk menyudahi. Kalau anabul terlihat terengah-engah dengan mulut terbuka, hentikan dulu dan biarkan ia istirahat. Bila hal itu sering terjadi meski mainnya ringan, ada baiknya ditanyakan ke dokter hewan.</p>
+      <p>Menaruh sesi main di jam yang sama setiap hari juga membantu anabul tahu kapan waktunya heboh dan kapan waktunya santai. Soal ini, kamu bisa baca artikel <a href="/artikel/rutinitas-harian-kucing/">kenapa rutinitas harian bikin kucing lebih tenang</a>.</p>
+
+      <h2>Mainan yang cocok untuk main bareng</h2>
+      <ul>
+        <li><strong>Tongkat bulu atau tali pancing mainan.</strong> Favorit banyak kucing karena kamu bisa mengatur gerakannya seperti mangsa sungguhan. Simpan setelah dipakai supaya talinya tidak dikunyah saat tidak diawasi.</li>
+        <li><strong>Bola kecil atau tikus-tikusan.</strong> Cocok untuk dilempar pelan supaya anabul mengejar.</li>
+        <li><strong>Kardus dan terowongan.</strong> Jadi tempat sembunyi yang seru untuk sesi mengintai.</li>
+      </ul>
+      <p>Satu hal yang sebaiknya dihindari: menjadikan tangan atau kaki sebagai mainan. Lucu saat ia masih kecil, tapi kebiasaan menggigit dan mencakar tangan bisa terbawa sampai dewasa. Tips membaca sinyal gigitan saat dielus ada di artikel <a href="/artikel/kucing-menggigit-pelan-saat-dielus/">kenapa kucing suka love bite</a>.</p>
+
+      <h2>Kalau anabul cuek diajak main</h2>
+      <p>Tidak semua kucing langsung semangat, apalagi yang kalem atau sudah dewasa. Coba beberapa hal ini:</p>
+      <ul>
+        <li>Ganti jenis gerakan. Ada kucing yang suka mainan di lantai, ada yang lebih suka mainan "terbang".</li>
+        <li>Rotasi mainan. Simpan sebagian, keluarkan lagi beberapa hari kemudian supaya terasa baru.</li>
+        <li>Pilih waktu yang tepat. Banyak kucing lebih aktif menjelang pagi dan sore atau malam hari.</li>
+        <li>Sabar. Kadang ia hanya menonton dulu dengan mata serius. Itu juga bagian dari berburu, lho.</li>
+      </ul>
+
+      <h2>Penutup</h2>
+      <p>Sesi main tidak harus lama atau pakai mainan mahal. Sepuluh menit penuh perhatian, alur berburu yang lengkap, lalu camilan kecil sebagai penutup, sering sudah cukup untuk bikin anabul puas dan rumah lebih damai. Bonusnya, kamu juga ikut tertawa melihat gaya menerkamnya yang kadang meleset total.</p>
+      <p>Mainan apa yang paling bikin anabulmu heboh? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "kedipan-pelan-kucing-slow-blink",
     title: "Kedip... Kedip... Pelan: Cara Ngobrol Santai dengan Anabul Lewat Slow Blink",
     category: "Perilaku",
