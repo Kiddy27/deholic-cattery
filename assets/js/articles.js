@@ -24,6 +24,65 @@
 
 window.ARTICLES = [
   {
+    slug: "zoomies-kucing-tengah-malam",
+    title: "Jam 2 Pagi, Ada Balapan di Lorong: Kenapa Kucing Kena Zoomies dan Cara Menyikapinya",
+    category: "Perilaku",
+    excerpt:
+      "Tiba-tiba anabul lari kencang, lompat ke sofa, lalu ngerem di ujung lorong. Tenang, zoomies itu umumnya normal. Ini penjelasan dan tips menyikapinya.",
+    date: "2026-10-30",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "sparkle",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/zoomies-kucing-tengah-malam.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga berlari kencang dengan telinga ke belakang di lorong rumah yang remang-remang di malam hari, bulan terlihat dari jendela, gaya pastel",
+    content: `
+      <p>Rumah sudah sunyi, lampu sudah mati, kamu baru saja masuk ke mimpi indah. Lalu tiba-tiba: <em>duk-duk-duk-duk!</em> Ada suara langkah kecil berlari dari ujung lorong ke ujung lainnya, disusul bunyi sesuatu melompat ke sofa, lalu hening. Sepuluh detik kemudian, balapan dimulai lagi. Pelakunya? Tentu saja anabul kesayangan, dengan mata bulat dan ekor mengembang seperti sikat botol.</p>
+      <p>Fenomena ini akrab disebut <strong>zoomies</strong>. Kelihatannya seperti anabul tiba-tiba kerasukan, tapi pada banyak kucing sehat, ini termasuk tingkah yang wajar. Yuk, kenalan lebih dekat.</p>
+
+      <h2>Apa sih zoomies itu?</h2>
+      <p>Zoomies adalah sebutan santai untuk ledakan energi singkat: kucing berlari kencang tanpa alasan yang jelas, melompat ke sana kemari, kadang memanjat tirai atau meluncur di lantai licin sambil ngerem asal-asalan. Biasanya berlangsung sebentar, lalu selesai begitu saja, seolah tidak pernah terjadi apa-apa. Anabul pun kembali duduk manis sambil menjilati kaki dengan wajah tanpa dosa.</p>
+      <p>Kalau kamu pernah baca artikel kami tentang <a href="/artikel/kebiasaan-aneh-kucing-yang-normal/">kebiasaan aneh kucing yang ternyata normal</a>, zoomies ini bisa dibilang anggota senior di daftar itu.</p>
+
+      <h2>Kenapa sering terjadi di malam hari?</h2>
+      <p>Ada beberapa dugaan umum yang sering dibahas pemilik kucing dan para ahli perilaku hewan:</p>
+      <ul>
+        <li><strong>Jam aktif alami.</strong> Kucing cenderung aktif di waktu senja dan menjelang pagi. Jadi saat kamu siap tidur, sebagian anabul justru baru "bangun penuh".</li>
+        <li><strong>Energi yang belum tersalurkan.</strong> Kucing rumahan yang seharian banyak tidur dan sedikit main bisa punya tabungan tenaga yang akhirnya "meledak" sekaligus.</li>
+        <li><strong>Naluri berburu.</strong> Lari, mengendap, lalu menerkam bayangan sendiri adalah latihan berburu versi dalam ruangan.</li>
+        <li><strong>Lega atau senang.</strong> Banyak pemilik melihat zoomies muncul setelah anabul selesai makan, mandi, atau keluar dari kotak pasir. Seperti selebrasi kecil.</li>
+      </ul>
+      <p>Intinya, zoomies umumnya bukan tanda anabul nakal atau marah padamu. Ia cuma sedang jadi kucing.</p>
+
+      <h2>Cara menyikapinya biar tidur tetap nyenyak</h2>
+      <p>Menghentikan zoomies sepenuhnya mungkin tidak realistis, dan memang tidak perlu. Tapi kamu bisa membantu supaya ledakan energinya terjadi di jam yang lebih bersahabat.</p>
+      <ul>
+        <li><strong>Main sebelum tidur.</strong> Sesi main singkat di malam hari, dengan alur mengintai, mengejar, lalu menangkap, sering membantu menguras tenaga anabul. Tipsnya ada di artikel <a href="/artikel/sesi-main-kucing-singkat-efektif/">sesi playtime yang singkat tapi efektif</a>.</li>
+        <li><strong>Lanjutkan dengan makan.</strong> Banyak kucing cenderung santai dan mengantuk setelah makan. Coba jadwalkan porsi makan malamnya sesudah sesi main, tanpa menambah jatah hariannya.</li>
+        <li><strong>Buat rutinitas yang konsisten.</strong> Jam main, makan, dan tidur yang mirip setiap hari bisa membantu anabul tahu kapan waktunya heboh dan kapan waktunya rebahan. Bahasan lengkapnya ada di artikel <a href="/artikel/rutinitas-harian-kucing/">kenapa rutinitas harian bikin kucing lebih tenang</a>.</li>
+        <li><strong>Sediakan hiburan siang hari.</strong> Spot jendela, kardus, atau mainan yang dirotasi membantu anabul tidak terlalu bosan saat kamu sibuk.</li>
+        <li><strong>Jangan ikut heboh.</strong> Mengejar, berteriak, atau memberi camilan supaya ia diam bisa saja malah terasa seperti permainan seru. Lebih baik tenang dan biarkan ia selesai sendiri.</li>
+        <li><strong>Jangan dihukum.</strong> Memarahi atau menyemprot air tidak membuatnya paham, malah bisa bikin ia takut padamu.</li>
+      </ul>
+
+      <h2>Bikin "lintasan balap" yang lebih aman</h2>
+      <p>Karena zoomies hampir pasti akan tetap datang sesekali, ada baiknya rumah dibuat aman untuk sang pembalap:</p>
+      <ul>
+        <li>Singkirkan barang mudah pecah dari rak dan meja yang sering jadi jalur lompatan.</li>
+        <li>Pastikan rak atau tiang garukan stabil dan tidak mudah roboh saat dipanjat dengan semangat.</li>
+        <li>Rapikan kabel dan tali yang bisa tersangkut di kaki.</li>
+        <li>Kalau lantai sangat licin, karpet kecil yang tidak mudah bergeser bisa membantu anabul ngerem dengan lebih anggun.</li>
+      </ul>
+
+      <h2>Kapan perlu diperhatikan lebih serius?</h2>
+      <p>Pada umumnya zoomies tidak perlu dikhawatirkan. Tapi coba perhatikan kalau kamu melihat hal-hal yang terasa tidak biasa, misalnya anabul tiba-tiba sering gelisah dan hiperaktif padahal sebelumnya kalem, terus-menerus menjilati atau menggigit satu bagian tubuh, tampak kesakitan, mengeong keras berlebihan, atau ada perubahan nafsu makan dan kebiasaan di kotak pasir. Kucing yang lebih tua dan mendadak berubah perilakunya juga sebaiknya diperiksakan. Dalam situasi seperti ini, langkah terbaik adalah berkonsultasi ke dokter hewan supaya penyebabnya bisa dicek dengan tepat.</p>
+
+      <h2>Penutup</h2>
+      <p>Zoomies itu seperti konser dadakan: tidak diundang, berisik, tapi biasanya cepat selesai dan diam-diam bikin senyum. Dengan sesi main sebelum tidur, rutinitas yang teratur, dan rumah yang aman untuk berlari, kamu bisa tetap tidur cukup sementara anabul tetap bisa jadi dirinya sendiri.</p>
+      <p>Anabulmu biasanya kena zoomies jam berapa? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "sesi-main-kucing-singkat-efektif",
     title: "Main 10 Menit, Anabul Tidur Pulas: Tips Sesi Playtime yang Singkat tapi Efektif",
     category: "Gaya Hidup",
