@@ -24,6 +24,62 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-menunggu-di-depan-pintu",
+    title: "Satpam Berbulu di Balik Pintu: Kenapa Kucing Suka Menunggu Kamu Pulang?",
+    category: "Perilaku",
+    excerpt:
+      "Pintu baru dibuka, anabul sudah duduk manis menyambut. Kok bisa tahu kamu pulang? Ini penjelasan santai dan cara menyambutnya dengan hangat.",
+    date: "2026-10-31",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "home",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-menunggu-di-depan-pintu.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk manis di keset depan pintu rumah yang sedikit terbuka, cahaya sore hangat masuk, gaya pastel",
+    content: `
+      <p>Kunci baru saja diputar, pintu baru terbuka sedikit, dan di sana dia sudah menunggu: anabul kesayangan, duduk tegak di atas keset dengan ekor melingkar rapi, menatapmu seperti satpam yang sedang memeriksa tamu. "Dari mana saja? Sudah jam segini, lho." Kira-kira begitu arti tatapannya.</p>
+      <p>Banyak pemilik kucing mengalami momen ini. Ada yang anabulnya menunggu di balik pintu, ada yang nongkrong di jendela depan, ada juga yang langsung mengeong panjang seperti sedang laporan harian. Sebenarnya, kenapa sih kucing suka menunggu kita pulang? Yuk, kita bahas pelan-pelan.</p>
+
+      <h2>Kucing itu jago menghafal jadwal</h2>
+      <p>Kucing dikenal sebagai makhluk yang suka keteraturan. Jam makan, jam main, jam kamu berangkat, sampai jam kamu biasanya pulang, semuanya bisa jadi bagian dari "kalender" di kepala mungil mereka. Kalau setiap hari kamu pulang di jam yang mirip, jangan heran kalau anabul mulai bersiap sebelum pintu terbuka.</p>
+      <p>Itulah salah satu alasan rutinitas sangat berarti buat kucing. Bahasan lengkapnya ada di artikel kami tentang <a href="/artikel/rutinitas-harian-kucing/">kenapa rutinitas harian bikin kucing lebih tenang</a>.</p>
+
+      <h2>Telinga dan hidung yang selalu siaga</h2>
+      <p>Pendengaran kucing umumnya jauh lebih peka dibanding kita. Suara langkah kaki yang khas, bunyi pagar, motor yang berhenti di depan rumah, atau gemerincing kunci bisa saja jadi tanda bagi anabul bahwa "manusiaku datang!". Banyak pemilik bercerita bahwa kucing mereka sudah berjalan ke pintu sebelum bel berbunyi atau sebelum kunci dimasukkan.</p>
+      <p>Lucunya, kucing juga bisa belajar membedakan suara orang rumah dengan suara tamu. Anabul yang sigap menyambutmu bisa jadi justru kabur ke kolong kasur saat yang datang ternyata kurir paket.</p>
+
+      <h2>Jadi... dia kangen?</h2>
+      <p>Kemungkinan besar, kehadiranmu memang berarti buat anabul. Kucing sering dicap cuek, padahal banyak kucing rumahan yang punya ikatan erat dengan pemiliknya. Selain itu, kamu juga identik dengan hal-hal menyenangkan: makanan, mainan, elusan, dan pangkuan hangat.</p>
+      <p>Jujur saja, sebagian anabul mungkin menunggu di pintu karena perutnya sudah keroncongan dan kamu adalah "petugas katering" resmi. Tapi tidak apa-apa. Cinta dan makan malam memang sering datang bersamaan.</p>
+      <p>Perhatikan juga bahasa tubuhnya saat menyambut. Ekor tegak, badan menggesek kaki, atau sundulan kepala adalah sapaan yang ramah. Kalau penasaran soal sundulan ini, baca juga artikel <a href="/artikel/kucing-suka-menyundul-kepala/">kenapa kucing suka head bunting dan gosok-gosok di kaki</a>.</p>
+
+      <h2>Cara menyambut anabul dengan hangat</h2>
+      <ul>
+        <li><strong>Sapa dengan tenang.</strong> Ucapkan halo, jongkok sedikit, dan biarkan ia mengendus tangan atau sepatumu dulu. Banyak kucing senang memeriksa "bau luar" yang kamu bawa pulang.</li>
+        <li><strong>Cuci tangan sebelum mengelus panjang.</strong> Kebiasaan sederhana ini membantu menjaga kebersihan, apalagi kalau kamu baru dari tempat ramai atau habis memegang hewan lain.</li>
+        <li><strong>Sisihkan waktu sebentar.</strong> Lima menit mengelus atau main kecil setelah pulang bisa jadi momen favorit anabul. Tasnya bisa menunggu, anabulnya mungkin tidak.</li>
+        <li><strong>Jaga jadwal makan tetap teratur.</strong> Kalau anabul selalu menagih makan begitu kamu datang, pertimbangkan jadwal makan yang konsisten supaya ia tidak terlalu lama menunggu dengan perut kosong.</li>
+      </ul>
+
+      <h2>Hati-hati, satpam suka menyelinap</h2>
+      <p>Anabul yang setia menunggu di depan pintu kadang punya agenda tersembunyi: menyelinap keluar saat pintu terbuka. Untuk kucing indoor, ini bisa berisiko. Beberapa tips sederhana:</p>
+      <ul>
+        <li>Buka pintu pelan-pelan sambil melirik ke bawah. Satpam berbulu sering duduk tepat di jalur masuk.</li>
+        <li>Siapkan spot favorit yang agak jauh dari pintu, misalnya tempat duduk tinggi di dekat jendela, supaya ia punya pilihan lain untuk menunggu.</li>
+        <li>Biasakan sambutan terjadi di dalam rumah, misalnya dengan memberi elusan setelah pintu tertutup rapat.</li>
+        <li>Minta anggota keluarga dan tamu juga ingat untuk menutup pintu dengan cepat.</li>
+      </ul>
+
+      <h2>Kalau anabul terlihat gelisah saat ditinggal</h2>
+      <p>Menunggu di pintu dengan santai adalah hal yang manis. Tapi kalau anabul terlihat sangat gelisah setiap kali kamu pergi, misalnya mengeong terus-menerus, merusak barang, buang air di luar kotak pasir, menjilati tubuh berlebihan, atau nafsu makannya berubah, ada baiknya dicermati lebih jauh. Perubahan perilaku seperti ini bisa punya banyak penyebab, jadi langkah terbaik adalah berkonsultasi ke dokter hewan supaya bisa dicek dengan tepat.</p>
+      <p>Kucing yang suka membuntuti ke mana-mana di dalam rumah juga sering ditanyakan pemilik. Kami pernah membahasnya di artikel <a href="/artikel/kucing-suka-mengikuti-ke-kamar-mandi/">kenapa kucing suka ikut ke kamar mandi</a>.</p>
+
+      <h2>Penutup</h2>
+      <p>Pulang ke rumah setelah hari yang panjang memang terasa lebih ringan kalau ada yang menyambut di balik pintu, walaupun sambutannya kadang berupa omelan "meong" yang panjang. Balas penantiannya dengan sapaan hangat, elusan yang cukup, dan pintu yang tertutup rapat. Satpam berbulu pun bisa pensiun dari tugas jaga dengan hati senang, setidaknya sampai besok sore.</p>
+      <p>Anabulmu tipe penyambut di pintu, penunggu di jendela, atau yang pura-pura tidak peduli? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "zoomies-kucing-tengah-malam",
     title: "Jam 2 Pagi, Ada Balapan di Lorong: Kenapa Kucing Kena Zoomies dan Cara Menyikapinya",
     category: "Perilaku",
