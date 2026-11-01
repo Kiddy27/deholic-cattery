@@ -24,6 +24,57 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-chattering-lihat-burung",
+    title: "Ekekek! Kenapa Kucing Bersuara Aneh saat Melihat Burung di Jendela?",
+    category: "Perilaku",
+    excerpt:
+      "Anabul menatap burung di jendela sambil bersuara \"ekekek\" dan dagu bergetar? Ini penjelasan santai soal chattering dan cara menyalurkan naluri berburunya.",
+    date: "2026-11-01",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "eye",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-chattering-lihat-burung.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk di ambang jendela, menatap serius seekor burung kecil di dahan luar dengan mulut sedikit terbuka, gaya pastel",
+    content: `
+      <p>Pagi yang tenang. Kamu lagi menyeruput kopi, lalu terdengar suara aneh dari arah jendela: "ekekek... ekekek..." Kamu menoleh, dan ternyata itu anabul kesayangan. Matanya terkunci ke seekor burung di dahan pohon, ekornya berkedut, dagunya bergetar cepat seperti sedang mengunyah sesuatu yang tidak kelihatan. Apakah dia sedang kesurupan? Tenang, kemungkinan besar dia cuma sedang <em>chattering</em>.</p>
+      <p>Perilaku ini cukup sering ditemui pada kucing rumahan, dan biasanya bikin pemiliknya bingung antara mau tertawa atau mau merekam. Yuk, kita bahas pelan-pelan kenapa anabul bisa begitu.</p>
+
+      <h2>Apa itu chattering?</h2>
+      <p><em>Chattering</em> adalah sebutan untuk suara cepat dan terputus-putus yang keluar dari kucing, sering disertai rahang yang bergetar atau mulut yang membuka-tutup kecil. Suaranya beda-beda tiap kucing. Ada yang mirip "ekekek", ada yang seperti cicitan, ada juga yang hampir tidak bersuara, hanya dagunya yang bergetar.</p>
+      <p>Momen pemicunya hampir selalu sama: anabul melihat sesuatu yang menarik tapi tidak bisa dijangkau. Burung di luar jendela, cicak di plafon, serangga di balik kaca, atau tupai yang lewat di pagar tetangga. Kalau kamu penasaran dengan suara-suara lain anabul, baca juga artikel kami tentang <a href="/artikel/arti-suara-kucing-meong-dengkur-desis/">arti meong, dengkur, dan desis kucing</a>.</p>
+
+      <h2>Kenapa kucing melakukannya?</h2>
+      <p>Sejujurnya, para ahli perilaku kucing belum punya satu jawaban pasti. Tapi ada beberapa dugaan yang sering dibahas:</p>
+      <ul>
+        <li><strong>Naluri berburu yang sedang "menyala".</strong> Walaupun hidupnya nyaman dengan makanan tersedia, kucing tetap membawa naluri pemburu. Melihat mangsa yang bergerak bisa bikin semangatnya memuncak.</li>
+        <li><strong>Gemas karena tidak bisa menjangkau.</strong> Ada kaca, ada jarak, ada jendela tertutup. Banyak pemilik menganggap chattering sebagai luapan rasa gemas, semacam "Aduh, itu dia! Tapi kok nggak bisa diambil!"</li>
+        <li><strong>Latihan gerakan menggigit.</strong> Getaran rahang yang cepat sering dikaitkan dengan gerakan yang dipakai kucing saat menangkap mangsa. Anggap saja anabul sedang gladi resik.</li>
+      </ul>
+      <p>Apa pun alasannya, kabar baiknya: chattering umumnya adalah perilaku normal. Anabulmu tidak sedang marah padamu, dan burung di luar pun aman-aman saja di balik kaca.</p>
+
+      <h2>Perlu dihentikan nggak?</h2>
+      <p>Biasanya tidak perlu. Chattering adalah bagian dari cara kucing merespons dunia di sekitarnya. Justru, momen ini bisa jadi petunjuk bahwa anabul punya energi berburu yang ingin disalurkan. Daripada dilarang, lebih baik diberi jalan keluar yang aman.</p>
+      <p>Satu hal yang perlu diwaspadai adalah keamanan jendela. Kucing yang terlalu bersemangat bisa saja melompat ke arah kaca atau mencoba keluar lewat celah. Pastikan jendela yang sering dipakai anabul aman, misalnya dengan kawat atau jaring pengaman yang kokoh. Ide menata pojok jendela yang nyaman sekaligus aman ada di artikel <a href="/artikel/spot-jendela-berjemur-kucing/">bikin spot berjemur yang aman dan seru buat anabul</a>.</p>
+
+      <h2>Cara menyalurkan naluri berburunya</h2>
+      <ul>
+        <li><strong>Main "berburu" setelah sesi nonton burung.</strong> Ambil mainan tongkat berbulu, gerakkan seperti burung kecil yang terbang rendah atau bersembunyi, lalu biarkan anabul menangkapnya di akhir. Rasa puas "berhasil menangkap" itu penting.</li>
+        <li><strong>Tutup dengan camilan atau makan.</strong> Urutan berburu, menangkap, lalu makan terasa alami bagi banyak kucing dan sering bikin mereka lebih tenang setelahnya.</li>
+        <li><strong>Sesi singkat tapi rutin.</strong> Tidak perlu main berjam-jam. Beberapa sesi pendek setiap hari sudah bisa membantu. Tipsnya kami bahas di artikel <a href="/artikel/sesi-main-kucing-singkat-efektif/">sesi playtime yang singkat tapi efektif</a>.</li>
+        <li><strong>Rotasi mainan.</strong> Simpan sebagian mainan dan keluarkan bergantian supaya anabul tidak cepat bosan.</li>
+        <li><strong>Hati-hati dengan laser pointer.</strong> Kalau memakai laser, akhiri permainan dengan mainan yang bisa benar-benar ditangkap supaya anabul tidak frustrasi karena "mangsanya" selalu menghilang.</li>
+      </ul>
+
+      <h2>Kapan perlu diperhatikan lebih jauh?</h2>
+      <p>Chattering saat melihat burung umumnya bukan masalah. Tapi kalau getaran rahang atau suara aneh muncul tanpa pemicu yang jelas, terjadi sangat sering, atau disertai tanda lain seperti mengeluarkan air liur berlebihan, sulit makan, mengais-ngais mulut, atau tampak kesakitan, sebaiknya jangan ditebak sendiri. Bawa anabul ke dokter hewan supaya bisa diperiksa dengan tepat.</p>
+
+      <h2>Penutup</h2>
+      <p>Jadi, kalau lain kali kamu mendengar "ekekek" dari arah jendela, tidak perlu panik. Itu hanya pemburu kecil di rumahmu yang sedang bersemangat melihat "target" di luar sana. Rekam sebentar kalau mau, pastikan jendelanya aman, lalu ajak dia berburu mainan sampai puas. Burungnya senang, anabulnya senang, kamu pun dapat tontonan gratis.</p>
+      <p>Anabulmu tipe yang suka chattering, atau malah cuek saja melihat burung lewat? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "kucing-menunggu-di-depan-pintu",
     title: "Satpam Berbulu di Balik Pintu: Kenapa Kucing Suka Menunggu Kamu Pulang?",
     category: "Perilaku",
