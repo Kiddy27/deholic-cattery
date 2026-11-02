@@ -24,6 +24,59 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-membawa-hadiah-dan-menyembunyikan-mainan",
+    title: "Surprise! Ada Kaus Kaki di Kasurmu: Kenapa Kucing Suka Bawa \"Hadiah\" dan Sembunyikan Mainan?",
+    category: "Perilaku",
+    excerpt:
+      "Bangun tidur ada kaus kaki di bantal, mainan hilang di kolong sofa? Ini penjelasan santai kenapa anabul suka bawa \"hadiah\" dan cara menanggapinya.",
+    date: "2026-11-02",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "heart",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-membawa-hadiah-dan-menyembunyikan-mainan.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk bangga di samping tempat tidur, di depannya ada kaus kaki dan tikus mainan kecil yang baru ia bawa, gaya pastel",
+    content: `
+      <p>Pagi hari, kamu membuka mata dan menemukan sesuatu di samping bantal. Bukan sarapan, bukan surat cinta, melainkan sebelah kaus kaki yang kemarin kamu cari-cari. Di dekatnya, anabul duduk tegak dengan wajah bangga, seperti sedang menunggu tepuk tangan. Selamat, kamu baru saja menerima "hadiah" dari kucingmu.</p>
+      <p>Di sisi lain, ada juga misteri yang tidak kalah seru: mainan tikus favorit tiba-tiba lenyap, lalu ditemukan berminggu-minggu kemudian di kolong sofa bersama tiga karet rambut dan satu tutup botol. Kenapa sih anabul suka mengantar barang dan menimbun mainan? Yuk, kita bahas santai.</p>
+
+      <h2>Kenapa kucing membawa "hadiah"?</h2>
+      <p>Belum ada satu jawaban pasti yang disepakati semua ahli perilaku kucing, tapi ada beberapa dugaan yang sering dibahas dan masuk akal:</p>
+      <ul>
+        <li><strong>Naluri berburu yang ikut pulang ke rumah.</strong> Kucing rumahan tetap membawa naluri pemburu. Karena tidak ada tikus sungguhan, kaus kaki, ikat rambut, atau mainan pun jadi "mangsa" yang ditangkap lalu dibawa ke tempat yang dianggap aman.</li>
+        <li><strong>Membawa "tangkapan" ke markas.</strong> Banyak kucing suka membawa benda ke area yang terasa paling nyaman dan paling wangi dirinya, misalnya kasur atau dekat pemiliknya. Kalau kamu bagian dari "markas", wajar kalau hadiahnya mendarat di dekatmu.</li>
+        <li><strong>Cari perhatian.</strong> Kalau setiap kali membawa kaus kaki dia langsung diajak ngobrol, dipuji, atau dikejar sambil tertawa, anabul bisa belajar bahwa ini cara jitu untuk dapat perhatian. Pintar juga, ya.</li>
+        <li><strong>Ajakan bermain.</strong> Ada kucing yang membawa mainan lalu menjatuhkannya di depanmu, persis seperti bilang "Ayo lempar lagi!" Kalau anabulmu begini, selamat, kamu punya kucing yang hobi main lempar-tangkap.</li>
+      </ul>
+      <p>Satu hal yang perlu diingat: apa pun alasannya, kucing tidak sedang mengerjaimu. Dari sudut pandang anabul, ini perilaku yang wajar dan sering kali justru tanda ia merasa nyaman di rumah.</p>
+
+      <h2>Lalu, kenapa mainan suka disembunyikan?</h2>
+      <p>Kolong sofa, belakang lemari, bawah karpet, atau di dalam sepatu. Tempat penyimpanan rahasia anabul memang kreatif. Beberapa kemungkinan yang sering disebut:</p>
+      <ul>
+        <li><strong>Menyimpan "tangkapan" untuk nanti.</strong> Sebagian pemilik melihat anabulnya kembali ke "gudang" yang sama untuk mengambil mainan favorit.</li>
+        <li><strong>Mainan meluncur ke tempat sulit.</strong> Kadang bukan disembunyikan dengan sengaja. Mainan ditampar, meluncur ke kolong, lalu anabul menyerah. Hasilnya sama: harta karun di bawah sofa.</li>
+        <li><strong>Tempat aman dan tenang.</strong> Kucing suka bermain di area yang terlindung, jadi mainan sering ikut terbawa ke sudut-sudut sempit.</li>
+      </ul>
+
+      <h2>Cara menanggapinya dengan santai</h2>
+      <ul>
+        <li><strong>Jangan dimarahi.</strong> Memarahi kucing karena membawa hadiah biasanya tidak membuatnya paham, malah bisa bikin dia bingung atau jadi canggung di dekatmu. Terima saja dengan tenang, lalu simpan barangnya diam-diam.</li>
+        <li><strong>Salurkan naluri berburunya.</strong> Ajak main "berburu" dengan mainan tongkat berbulu, lalu biarkan dia menangkap mangsanya di akhir. Idenya kami bahas di artikel <a href="/artikel/sesi-main-kucing-singkat-efektif/">sesi playtime yang singkat tapi efektif</a>.</li>
+        <li><strong>Sediakan mainan yang memang boleh "dicuri".</strong> Tikus kain, bola ringan, atau mainan kecil yang aman bisa jadi alternatif supaya kaus kakimu tidak selalu jadi korban. Butuh inspirasi? Cek <a href="/artikel/mainan-stimulasi-kucing-indoor/">ide mainan dan stimulasi untuk kucing indoor</a>.</li>
+        <li><strong>Rajin "panen" di kolong sofa.</strong> Sesekali intip tempat-tempat rahasia anabul. Selain menemukan mainan yang hilang, kamu juga bisa membuang barang yang tidak aman.</li>
+        <li><strong>Rotasi mainan.</strong> Simpan sebagian mainan, keluarkan bergantian. Mainan "lama" yang muncul lagi sering terasa seperti baru.</li>
+      </ul>
+
+      <h2>Kapan perlu waspada?</h2>
+      <p>Kebanyakan hadiah dari anabul itu lucu dan tidak berbahaya. Yang perlu diperhatikan adalah <em>jenis</em> barangnya. Benang, tali, karet rambut, kantong plastik, atau benda kecil yang bisa tertelan sebaiknya disimpan jauh dari jangkauan, karena berisiko kalau sampai dikunyah atau ditelan. Penjelasannya ada di artikel <a href="/artikel/kucing-suka-kantong-plastik-dan-tali/">kenapa kucing suka mainan terlarang</a>.</p>
+      <p>Kalau kamu curiga anabul menelan sesuatu yang tidak seharusnya, atau ia tampak muntah berulang, lemas, tidak mau makan, atau perutnya terlihat tidak nyaman, jangan ditunggu atau ditebak sendiri. Segera hubungi dokter hewan.</p>
+
+      <h2>Penutup</h2>
+      <p>Jadi, lain kali kamu menemukan kaus kaki di bantal atau setumpuk mainan di kolong sofa, anggap saja itu bagian dari kehidupan seru bersama pemburu kecil di rumah. Simpan barang yang berbahaya, ajak dia berburu mainan yang aman, dan nikmati wajah bangganya setiap kali mengantar "hadiah".</p>
+      <p>Hadiah paling absurd apa yang pernah dibawakan anabulmu? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "kucing-chattering-lihat-burung",
     title: "Ekekek! Kenapa Kucing Bersuara Aneh saat Melihat Burung di Jendela?",
     category: "Perilaku",
