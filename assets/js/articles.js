@@ -24,6 +24,66 @@
 
 window.ARTICLES = [
   {
+    slug: "merawat-bulu-kucing",
+    title: "Bulu Rontok di Mana-Mana? Panduan Santai Menyisir dan Merawat Bulu Kucing di Rumah",
+    category: "Perawatan",
+    excerpt:
+      "Sofa penuh bulu, baju hitam jadi abu-abu? Ini panduan santai menyisir dan merawat bulu anabul di rumah, plus cara bikin sesi grooming jadi momen akrab.",
+    date: "2026-11-03",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "paw",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/merawat-bulu-kucing.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga berbaring santai di pangkuan sambil disisir pelan dengan sisir lembut, beberapa helai bulu melayang, gaya pastel",
+    content: `
+      <p>Kamu baru saja memakai baju hitam favorit, lalu duduk lima detik di sofa. Begitu berdiri, bajumu sudah berubah jadi abu-abu bertekstur. Selamat datang di dunia pemilik kucing, tempat bulu anabul bisa muncul di mana saja: di karpet, di keyboard, bahkan entah bagaimana di dalam kopi.</p>
+      <p>Kabar baiknya, bulu rontok itu bagian normal dari hidup bersama kucing. Kabar yang lebih baik lagi, dengan rutin menyisir di rumah, "salju bulu" ini bisa jauh lebih terkendali. Bonusnya, sesi grooming bisa jadi waktu akrab yang menyenangkan buat kamu dan anabul.</p>
+
+      <h2>Kenapa bulu kucing perlu disisir?</h2>
+      <p>Kucing memang terkenal rajin menjilati badannya sendiri. Tapi bantuan dari kita tetap berguna, misalnya untuk:</p>
+      <ul>
+        <li><strong>Mengangkat bulu mati</strong> sebelum berpindah ke sofa, kasur, dan bajumu.</li>
+        <li><strong>Mengurangi bulu yang tertelan</strong> saat anabul menjilati diri, yang bisa berujung pada hairball.</li>
+        <li><strong>Mencegah bulu kusut</strong>, terutama di area seperti ketiak, belakang telinga, dan perut.</li>
+        <li><strong>Mengecek kondisi tubuh.</strong> Sambil menyisir, kamu bisa sekalian melihat kalau ada kutu, luka kecil, benjolan, atau kulit yang tampak tidak biasa.</li>
+      </ul>
+      <p>Untuk ras berbulu pendek tapi tebal seperti British Shorthair, bulunya padat dan lembut sehingga bulu mati bisa "terselip" di lapisan bawah. Kalau penasaran dengan karakter ras ini, baca juga <a href="/artikel/mengenal-british-shorthair/">kenalan dengan British Shorthair</a>.</p>
+
+      <h2>Pilih alat yang pas</h2>
+      <p>Tidak perlu borong satu toko. Beberapa alat dasar yang umum dipakai:</p>
+      <ul>
+        <li><strong>Sisir bergigi rapat atau sedang</strong> untuk merapikan dan mengangkat bulu mati.</li>
+        <li><strong>Sikat karet atau sarung tangan grooming</strong> yang lembut. Banyak kucing berbulu pendek menyukainya karena rasanya mirip dielus.</li>
+        <li><strong>Sikat slicker</strong> (sikat dengan kawat halus) bisa membantu untuk bulu yang lebih tebal, tapi pakai dengan tekanan ringan supaya kulit tidak tergores.</li>
+      </ul>
+      <p>Mulailah dari satu alat yang paling lembut. Kalau anabul sudah nyaman, baru coba alat lain.</p>
+
+      <h2>Langkah menyisir tanpa drama</h2>
+      <ol>
+        <li><strong>Pilih waktu yang tepat.</strong> Momen terbaik biasanya saat anabul sedang santai atau mengantuk, misalnya setelah makan atau setelah sesi main. Hindari saat ia sedang lapar, takut, atau dalam mode "pemburu".</li>
+        <li><strong>Mulai dari area favorit.</strong> Kebanyakan kucing suka dielus di pipi, kepala, dan punggung. Sisir area itu dulu, searah tumbuhnya bulu.</li>
+        <li><strong>Sesi pendek saja.</strong> Satu sampai beberapa menit sudah cukup di awal. Lebih baik berhenti saat anabul masih senang daripada menunggu ia kesal.</li>
+        <li><strong>Hati-hati di area sensitif.</strong> Perut, kaki, dan ekor biasanya lebih sensitif. Kalau ia mulai mengibaskan ekor, telinga menekuk ke belakang, atau kulit punggungnya berkedut, itu tanda untuk rehat dulu.</li>
+        <li><strong>Akhiri dengan hal menyenangkan.</strong> Beri pujian, elusan, atau camilan kecil. Lama-lama sisir bisa jadi tanda "waktunya dimanja".</li>
+      </ol>
+      <p>Prinsipnya mirip dengan melatih kucing dipotong kukunya: pelan, sabar, dan penuh hadiah. Tipsnya ada di artikel <a href="/artikel/potong-kuku-kucing-tanpa-drama/">potong kuku kucing tanpa drama</a>.</p>
+
+      <h2>Seberapa sering?</h2>
+      <p>Untuk banyak kucing berbulu pendek, menyisir beberapa kali seminggu biasanya sudah membantu. Saat musim rontok, ketika bulu tampak berjatuhan lebih banyak dari biasanya, kamu bisa menyisir lebih sering. Kucing berbulu panjang umumnya butuh perhatian lebih rutin supaya tidak kusut. Yang terpenting adalah konsisten, bukan lama.</p>
+
+      <h2>Perlu dimandikan juga?</h2>
+      <p>Banyak kucing rumahan tidak perlu sering dimandikan karena mereka sudah rajin membersihkan diri. Mandi biasanya baru diperlukan kalau badannya kena sesuatu yang kotor atau lengket, atau atas saran dokter hewan. Kalau ragu, tanyakan dulu ke dokter hewan atau groomer yang berpengalaman.</p>
+
+      <h2>Kapan sebaiknya ke dokter hewan?</h2>
+      <p>Rontok biasa itu wajar. Tapi coba perhatikan kalau kamu melihat bulu menipis sampai ada area botak, kulit kemerahan atau bersisik, anabul menggaruk atau menjilati satu area terus-menerus, ada kutu, atau bulunya tiba-tiba kusam dan kasar. Tanda-tanda seperti ini sebaiknya diperiksakan ke dokter hewan, jangan ditebak sendiri. Kalau anabul belum pernah ke klinik, simak dulu <a href="/artikel/membawa-kucing-ke-vet-pertama-kali/">tips ke vet pertama kali</a>.</p>
+
+      <h2>Penutup</h2>
+      <p>Bulu kucing mungkin tidak akan pernah benar-benar hilang dari hidupmu, dan jujur saja, itu sudah jadi bagian dari "paket cinta" punya anabul. Tapi dengan sisir yang pas dan sesi singkat yang menyenangkan, sofa jadi lebih bersih, anabul lebih nyaman, dan kalian punya satu ritual kecil untuk makin akrab.</p>
+      <p>Anabulmu tim suka disisir atau tim kabur begitu lihat sisir? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "kucing-membawa-hadiah-dan-menyembunyikan-mainan",
     title: "Surprise! Ada Kaus Kaki di Kasurmu: Kenapa Kucing Suka Bawa \"Hadiah\" dan Sembunyikan Mainan?",
     category: "Perilaku",
