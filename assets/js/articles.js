@@ -24,6 +24,62 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-penasaran-cermin-dan-suara-hp",
+    title: "Siapa Kucing di Balik Kaca Itu? Kenapa Anabul Penasaran dengan Cermin dan Suara dari HP",
+    category: "Perilaku",
+    excerpt:
+      "Anabul menatap cermin lama-lama atau celingukan dengar suara meong dari HP? Ini alasan umumnya, plus cara menanggapinya dengan santai dan aman.",
+    date: "2026-11-04",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "eye",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-penasaran-cermin-dan-suara-hp.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk di depan cermin besar sambil memiringkan kepala dengan penasaran, sebuah ponsel tergeletak di lantai dekatnya, gaya pastel",
+    content: `
+      <p>Kamu sedang bersiap-siap di depan cermin, lalu tiba-tiba ada kepala berbulu ikut muncul di pantulan. Anabul menatap kucing lain di balik kaca itu, memiringkan kepala, mengendus kacanya, lalu mengintip ke belakang cermin seolah mencari "si penyusup". Beberapa menit kemudian, kamu iseng memutar video suara meong di HP, dan ia langsung celingukan ke segala arah. Detektif berbulu sedang bertugas.</p>
+      <p>Tingkah seperti ini lucu sekali untuk ditonton. Tapi kenapa sebenarnya kucing begitu penasaran dengan cermin dan suara dari HP? Yuk, kita bahas pelan-pelan.</p>
+
+      <h2>Cermin: teman baru, musuh, atau bukan siapa-siapa?</h2>
+      <p>Bagi kita, cermin itu benda biasa. Bagi kucing, cermin adalah benda aneh: ada sosok yang bergerak persis seperti dirinya, tapi tidak punya bau dan tidak bisa disentuh. Banyak kucing tampaknya tidak menganggap pantulan itu sebagai dirinya sendiri, sehingga reaksinya bisa macam-macam:</p>
+      <ul>
+        <li><strong>Penasaran.</strong> Menatap lama, mengendus kaca, atau menepuk pantulannya dengan kaki depan.</li>
+        <li><strong>Waspada.</strong> Badan sedikit merendah, ekor mengembang, atau bahkan mendesis ke arah cermin.</li>
+        <li><strong>Mencari di belakang.</strong> Mengintip ke balik cermin, karena "kucing itu pasti sembunyi di sana".</li>
+        <li><strong>Cuek total.</strong> Setelah beberapa kali, banyak kucing akhirnya bosan karena sosok di cermin tidak berbau dan tidak pernah mengajak main betulan.</li>
+      </ul>
+      <p>Hidung punya peran besar di dunia kucing. Sosok yang kelihatan tapi tidak tercium bisa terasa membingungkan, jadi wajar kalau reaksi pertamanya agak dramatis. Lama-kelamaan, kebanyakan anabul menganggap cermin sebagai bagian dari perabot biasa.</p>
+
+      <h2>Suara dari HP: "Siapa yang manggil aku?"</h2>
+      <p>Telinga kucing dikenal sangat peka, jadi wajar kalau suara meong, cicit burung, atau bunyi tikus mainan dari HP langsung menarik perhatiannya. Ia mungkin menegakkan telinga, menatap HP, mencari sumber suara di sekitar ruangan, atau menjawab dengan meong sendiri. Kalau kamu ingin tahu arti berbagai suara yang dikeluarkan anabul, baca juga <a href="/artikel/arti-suara-kucing-meong-dengkur-desis/">arti suara kucing untuk pemula</a>.</p>
+      <p>Video burung atau ikan di layar juga sering bikin kucing terpaku, bahkan sampai mengeluarkan suara "ekekek" yang khas. Fenomena ini pernah kami bahas di artikel <a href="/artikel/kucing-chattering-lihat-burung/">kenapa kucing bersuara aneh saat melihat burung</a>.</p>
+
+      <h2>Boleh nggak sih diisengin?</h2>
+      <p>Sedikit hiburan boleh-boleh saja, asalkan anabul tetap nyaman. Beberapa hal yang perlu diingat:</p>
+      <ul>
+        <li><strong>Hindari suara yang mengagetkan atau menakutkan.</strong> Suara kucing berkelahi, desisan keras, atau bunyi mendadak dengan volume tinggi bisa bikin anabul stres. Lucu buat kita belum tentu lucu buat dia.</li>
+        <li><strong>Perhatikan bahasa tubuhnya.</strong> Telinga menekuk ke belakang, ekor mengembang, badan merendah, atau ia kabur dan bersembunyi berarti waktunya berhenti.</li>
+        <li><strong>Jangan diulang terus-menerus.</strong> Kalau ia jelas-jelas tidak suka, cukup sekali saja. Kepercayaan anabul lebih berharga daripada satu video viral.</li>
+      </ul>
+      <p>Kalau anabulmu memang tipe yang gampang kaget, beri ia tempat sembunyi yang nyaman dan biarkan ia keluar sendiri saat sudah tenang.</p>
+
+      <h2>Jadikan rasa penasaran itu momen main</h2>
+      <p>Rasa penasaran adalah bagian dari naluri pemburu kucing. Daripada dibiarkan frustrasi, kamu bisa mengarahkannya jadi kegiatan seru:</p>
+      <ol>
+        <li><strong>Akhiri dengan "tangkapan" sungguhan.</strong> Video burung di layar tidak bisa ditangkap, dan ini bisa bikin sebagian kucing gemas sendiri. Setelah ia menonton, ajak main dengan mainan tongkat bulu dan biarkan ia benar-benar menangkapnya.</li>
+        <li><strong>Lindungi layarnya.</strong> Kalau anabul mulai menepuk-nepuk HP atau tablet, letakkan di posisi yang stabil atau sudahi tontonannya, supaya tidak ada gawai yang jatuh.</li>
+        <li><strong>Sesi singkat sudah cukup.</strong> Beberapa menit main aktif sering lebih memuaskan daripada lama menonton. Idenya ada di artikel <a href="/artikel/sesi-main-kucing-singkat-efektif/">tips playtime yang singkat tapi efektif</a>.</li>
+      </ol>
+
+      <h2>Kapan perlu diperhatikan lebih?</h2>
+      <p>Pada umumnya, penasaran dengan cermin dan suara itu wajar. Tapi kalau anabulmu tampak terus-menerus gelisah, sering menyerang pantulannya sampai stres, atau tiba-tiba tidak merespons suara sama sekali padahal biasanya responsif, ada baiknya ceritakan ke dokter hewan. Perubahan perilaku yang mendadak lebih baik diperiksakan daripada ditebak sendiri.</p>
+
+      <h2>Penutup</h2>
+      <p>Bagi anabul, rumah adalah tempat penuh misteri: ada kucing tanpa bau di balik kaca, ada suara meong dari kotak kecil yang kamu pegang. Wajar kalau ia ingin menyelidiki semuanya. Tugas kita cukup menemani, memastikan ia tetap nyaman, dan sesekali mengubah rasa penasarannya jadi waktu main yang seru.</p>
+      <p>Anabulmu tim galak sama cermin atau tim cuek? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "merawat-bulu-kucing",
     title: "Bulu Rontok di Mana-Mana? Panduan Santai Menyisir dan Merawat Bulu Kucing di Rumah",
     category: "Perawatan",
