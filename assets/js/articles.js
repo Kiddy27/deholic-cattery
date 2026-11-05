@@ -24,6 +24,59 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-tidur-di-atas-baju-kotor",
+    title: "Baju Kotor Jadi Kasur Favorit: Kenapa Kucing Suka Tidur di Atas Pakaian Bekas Pemiliknya?",
+    category: "Perilaku",
+    excerpt:
+      "Kaus bekas dipakai malah jadi kasur anabul? Ini alasan umum kucing suka bau pakaian pemiliknya, plus cara menyiasatinya tanpa drama.",
+    date: "2026-11-05",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "heart",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-tidur-di-atas-baju-kotor.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga tidur meringkuk nyaman di atas tumpukan kaus dan hoodie di dalam keranjang cucian, gaya pastel",
+    content: `
+      <p>Kamu baru pulang, melepas hoodie, lalu menaruhnya sebentar di kursi. Lima menit kemudian, hoodie itu sudah resmi berpindah kepemilikan. Di atasnya ada gumpalan berbulu yang tidur pulas, mendengkur pelan, dan menatapmu dengan ekspresi "Ada perlu apa, ya?" Padahal kasur kucing yang empuk dan baru dibeli minggu lalu masih kosong melompong di pojok kamar.</p>
+      <p>Kalau ini terjadi di rumahmu, tenang, kamu tidak sendirian. Banyak pemilik kucing punya cerita yang sama: keranjang baju kotor, kaus yang tergeletak di lantai, sampai seragam yang baru mau dicuci, semuanya bisa jadi kasur favorit anabul. Kenapa, sih?</p>
+
+      <h2>Bau kamu itu menenangkan</h2>
+      <p>Penciuman memegang peran besar dalam cara kucing memahami dunia. Pakaian yang baru kamu pakai menyimpan bau tubuhmu, dan bagi anabul yang sudah dekat denganmu, bau itu sering diasosiasikan dengan rasa aman. Tidur di atas bajumu bisa jadi cara ia merasa "dekat" denganmu, terutama saat kamu tidak ada di rumah.</p>
+      <p>Jadi, meskipun buat kita baju itu sudah masuk kategori "harus dicuci", buat kucing itu justru selimut paling berharga. Romantis sekaligus sedikit memalukan.</p>
+
+      <h2>Mencampur bau: "Ini punya kita berdua"</h2>
+      <p>Kucing juga suka meninggalkan baunya sendiri di barang-barang di sekitarnya, misalnya lewat gosok-gosok pipi dan kepala. Saat ia rebahan di bajumu, bau kalian berdua jadi bercampur. Bagi kucing, ini bisa membuat lingkungannya terasa lebih familiar dan "miliknya". Kebiasaan menandai lewat gosokan ini juga pernah kami bahas di artikel <a href="/artikel/kucing-suka-menyundul-kepala/">kenapa kucing suka head bunting</a>.</p>
+
+      <h2>Hangat, empuk, dan pas ukurannya</h2>
+      <p>Selain soal bau, ada alasan yang lebih sederhana: pakaian yang baru dilepas masih sedikit hangat, teksturnya lembut, dan kalau ditumpuk di keranjang, bentuknya jadi seperti sarang kecil yang pas untuk meringkuk. Kucing memang dikenal suka tempat yang hangat dan terasa terlindungi. Tidak heran kalau keranjang cucian sering ikut masuk daftar tempat tidur aneh favorit anabul, seperti yang kami ceritakan di artikel <a href="/artikel/kucing-suka-tidur-di-tempat-aneh/">kenapa kucing suka tidur di tempat aneh</a>.</p>
+
+      <h2>Perlu dilarang, nggak?</h2>
+      <p>Pada umumnya, kebiasaan ini tidak berbahaya. Tapi ada beberapa hal kecil yang perlu diperhatikan:</p>
+      <ul>
+        <li><strong>Bulu di mana-mana.</strong> Baju favoritmu bisa penuh bulu, apalagi kalau anabulmu sedang masa rontok. Siapkan lint roller dan rajin menyisir.</li>
+        <li><strong>Benda kecil di saku.</strong> Karet rambut, tali, atau plastik yang terselip di saku bisa jadi mainan berbahaya kalau dikunyah.</li>
+        <li><strong>Mesin cuci dan pengering.</strong> Kalau anabul suka tidur di tumpukan baju kotor, selalu cek tumpukan dan drum mesin sebelum menyalakannya. Kebiasaan kecil ini penting sekali.</li>
+        <li><strong>Pakaian yang terkena bahan kimia.</strong> Baju kerja yang terkena cairan pembersih, cat, atau bahan lain sebaiknya langsung disimpan di tempat tertutup.</li>
+      </ul>
+
+      <h2>Cara menyiasatinya tanpa drama</h2>
+      <p>Kalau kamu ingin baju tetap aman tapi anabul tetap bahagia, coba beberapa trik ini:</p>
+      <ol>
+        <li><strong>Pakai keranjang cucian bertutup.</strong> Cara paling simpel supaya tumpukan baju kotor tidak jadi kasur dadakan.</li>
+        <li><strong>Sumbangkan satu kaus lama.</strong> Pilih kaus bekas yang sudah tidak kamu pakai, pakai sebentar, lalu taruh di kasur kucingnya. Bau kamu ikut pindah ke tempat tidurnya sendiri. Kasur yang tadinya dicuekin bisa mendadak jadi menarik.</li>
+        <li><strong>Letakkan kasurnya di tempat strategis.</strong> Kucing sering memilih tempat yang hangat, agak tinggi, atau dekat dengan aktivitasmu. Tips lengkapnya ada di artikel <a href="/artikel/memilih-tempat-tidur-kucing/">cara memilih tempat tidur kucing</a>.</li>
+        <li><strong>Cuci kaus "sumbangan" secukupnya.</strong> Tetap jaga kebersihannya, tapi tidak perlu terlalu sering sampai baunya hilang total.</li>
+      </ol>
+
+      <h2>Kapan perlu diperhatikan lebih?</h2>
+      <p>Tidur di atas baju pemilik biasanya tanda sayang dan nyaman. Tapi kalau anabulmu tiba-tiba jadi sangat lengket dan gelisah saat kamu pergi, terus-menerus mengunyah atau menelan kain, atau mulai buang air di atas pakaian, sebaiknya konsultasikan ke dokter hewan. Perubahan perilaku seperti itu lebih baik diperiksakan daripada ditebak-tebak sendiri.</p>
+
+      <h2>Penutup</h2>
+      <p>Bagi anabul, tumpukan baju kotor bukan sekadar cucian. Itu adalah kasur hangat yang wangi "manusia kesayangan". Jadi, lain kali kamu menemukan hoodie-mu sudah diduduki tanpa izin, anggap saja itu pujian. Sedikit merepotkan, tapi tetap manis.</p>
+      <p>Barang apa yang paling sering "disita" anabulmu untuk tidur? Ceritakan ke kami di Instagram atau TikTok @deholic.cattery.</p>
+    `,
+  },
+  {
     slug: "kucing-penasaran-cermin-dan-suara-hp",
     title: "Siapa Kucing di Balik Kaca Itu? Kenapa Anabul Penasaran dengan Cermin dan Suara dari HP",
     category: "Perilaku",
