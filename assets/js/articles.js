@@ -24,6 +24,54 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-mengejar-ekor-dan-cahaya",
+    title: "Ekor Sendiri Dikira Musuh: Kenapa Kucing Suka Mengejar Ekor, Bayangan, dan Pantulan Cahaya?",
+    category: "Perilaku",
+    excerpt:
+      "Anabul muter-muter kejar ekor atau terkam pantulan cahaya di dinding? Ini alasan umumnya, plus cara main yang tetap aman dan seru.",
+    date: "2026-11-06",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "sparkle",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-mengejar-ekor-dan-cahaya.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga berjongkok siap menerkam titik pantulan cahaya matahari di lantai kayu, ekornya melengkung lucu, gaya pastel",
+    content: `
+      <p>Sore yang tenang. Kamu lagi santai minum teh, lalu sinar matahari memantul dari jam tanganmu dan membentuk titik kecil di dinding. Belum sempat kamu sadar, anabul sudah dalam posisi siaga: badan merendah, pantat goyang-goyang, mata membulat. Satu detik kemudian, <em>hap!</em> Dinding diterkam. Titik cahayanya pindah. Anabul bingung. Kamu tertawa.</p>
+      <p>Atau versi lainnya: kucing duduk manis, lalu tiba-tiba melirik ekornya sendiri seperti melihat orang asing, dan mulai berputar-putar mengejarnya. Lucu, tapi kadang bikin kita bertanya-tanya, "Ini normal nggak, sih?" Yuk, kita bahas pelan-pelan.</p>
+
+      <h2>Naluri pemburu yang selalu menyala</h2>
+      <p>Kucing rumahan boleh saja hidup nyaman dengan makanan yang sudah tersedia di mangkuk, tapi naluri berburunya tetap ada. Sesuatu yang kecil, bergerak cepat, dan berubah arah secara tiba-tiba adalah pemicu klasik untuk naluri ini. Titik cahaya, bayangan daun yang bergoyang, bahkan ujung ekor sendiri yang bergerak-gerak, semuanya masuk kategori "sepertinya bisa ditangkap".</p>
+      <p>Jadi, saat anabul menerkam bayangan, ia sebenarnya sedang berlatih keterampilan yang sama yang dipakai kucing untuk berburu: mengintai, mengendap, lalu melompat. Bedanya, buruannya tidak pernah bisa dimakan. Kasihan, tapi ya begitulah.</p>
+
+      <h2>Kenapa ekornya sendiri ikut jadi target?</h2>
+      <p>Mengejar ekor lebih sering terlihat pada anak kucing. Bagi kitten, dunia masih penuh hal baru, termasuk bagian tubuhnya sendiri. Ekor yang bergerak di ujung penglihatan bisa terlihat seperti mainan yang menantang. Ini bagian dari cara mereka belajar mengendalikan tubuh dan melatih koordinasi.</p>
+      <p>Pada kucing dewasa, sesekali mengejar ekor saat sedang iseng atau kelebihan energi umumnya juga bukan hal aneh. Kadang ini muncul bersamaan dengan momen lari-larian heboh yang pernah kami bahas di artikel <a href="/artikel/zoomies-kucing-tengah-malam/">zoomies kucing tengah malam</a>. Energi yang menumpuk memang suka mencari jalan keluar, dan ekor kebetulan selalu ada di dekatnya.</p>
+
+      <h2>Bayangan dan pantulan: misteri yang tak pernah selesai</h2>
+      <p>Pantulan cahaya dan bayangan punya daya tarik tersendiri karena gerakannya sulit ditebak. Kucing yang penasaran bisa menghabiskan waktu cukup lama mengamati dan mencoba menangkapnya. Rasa penasaran semacam ini juga mirip dengan reaksi anabul saat melihat "kucing lain" di kaca, seperti yang kami ceritakan di artikel <a href="/artikel/kucing-penasaran-cermin-dan-suara-hp/">kenapa anabul penasaran dengan cermin dan suara dari HP</a>.</p>
+      <p>Yang menarik, buruan ini tidak punya bau dan tidak bisa disentuh. Buat kucing, ini bisa jadi teka-teki seru, tapi juga bisa sedikit membuat frustrasi kalau permainannya tidak pernah ada ujungnya.</p>
+
+      <h2>Soal laser pointer: seru, tapi beri "akhir yang bahagia"</h2>
+      <p>Banyak pemilik kucing memakai laser pointer karena anabul langsung semangat. Tidak apa-apa, asal ada beberapa hal yang diperhatikan:</p>
+      <ul>
+        <li><strong>Jangan arahkan ke mata</strong>, baik mata kucing maupun manusia.</li>
+        <li><strong>Akhiri dengan buruan yang bisa ditangkap.</strong> Di akhir sesi, arahkan titik cahaya ke mainan atau camilan, lalu biarkan anabul "menangkap" benda itu. Dengan begitu, ia mendapat rasa puas seperti berhasil berburu.</li>
+        <li><strong>Selingi dengan mainan fisik</strong> seperti tongkat bulu atau bola kecil, supaya anabul juga bisa menggigit dan memeluk mangsanya.</li>
+        <li><strong>Buat sesi singkat.</strong> Beberapa menit yang intens biasanya lebih baik daripada main lama sampai kucing kelelahan atau bosan.</li>
+      </ul>
+      <p>Kalau kamu ingin pola main yang lebih terstruktur, coba intip tips di artikel <a href="/artikel/sesi-main-kucing-singkat-efektif/">sesi playtime yang singkat tapi efektif</a>. Prinsipnya sederhana: kejar, tangkap, makan, lalu tidur pulas.</p>
+
+      <h2>Kapan perlu lebih diperhatikan?</h2>
+      <p>Sebagian besar perilaku mengejar ekor dan cahaya adalah bagian dari bermain. Tapi ada kalanya kebiasaan ini perlu dilihat lebih teliti. Misalnya, kalau kucing mengejar ekornya terus-menerus sampai sulit dialihkan, menggigit ekornya hingga bulunya rontok atau kulitnya luka, terlihat kesakitan atau gelisah saat ekornya disentuh, atau tiba-tiba terobsesi pada bayangan sampai mengganggu makan dan tidurnya.</p>
+      <p>Hal-hal seperti ini bisa punya banyak penyebab, dan tidak bisa disimpulkan hanya dari pengamatan di rumah. Kalau kamu melihat tanda-tanda tersebut, sebaiknya konsultasikan ke dokter hewan supaya anabul bisa diperiksa dengan tepat. Lebih baik bertanya dan ternyata tidak apa-apa, daripada menunggu terlalu lama.</p>
+
+      <h2>Penutup: biarkan si pemburu kecil bersenang-senang</h2>
+      <p>Melihat anabul berputar-putar mengejar ekor atau menerkam pantulan cahaya memang salah satu hiburan gratis terbaik di rumah. Selama dilakukan dengan aman, perilaku ini bisa jadi cara kucing menyalurkan energi dan naluri alaminya. Tugas kita cukup menyediakan kesempatan bermain yang seru, memberi buruan yang bisa ditangkap, dan tetap peka kalau ada yang terasa tidak biasa.</p>
+      <p>Jadi, lain kali jam tanganmu memantulkan cahaya ke dinding, bersiaplah. Pemburu berbulu di rumahmu mungkin sudah lebih dulu siaga.</p>
+    `,
+  },
+  {
     slug: "kucing-tidur-di-atas-baju-kotor",
     title: "Baju Kotor Jadi Kasur Favorit: Kenapa Kucing Suka Tidur di Atas Pakaian Bekas Pemiliknya?",
     category: "Perilaku",
