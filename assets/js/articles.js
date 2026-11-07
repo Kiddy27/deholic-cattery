@@ -24,6 +24,55 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-tidur-di-dada-atau-kepala",
+    title: "Dada Jadi Kasur, Kepala Jadi Bantal: Kenapa Kucing Suka Tidur di Atas Badanmu Saat Malam?",
+    category: "Perilaku",
+    excerpt:
+      "Anabul tidur di dada atau menaruh kepala di wajahmu saat malam? Ini alasan umumnya, plus cara berbagi kasur yang tetap nyaman buat kalian berdua.",
+    date: "2026-11-07",
+    readTime: 6,
+    author: "Tim Deholic Cattery",
+    icon: "heart",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-tidur-di-dada-atau-kepala.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga tidur meringkuk di dada pemilik yang sedang berbaring di kasur dengan selimut pastel, suasana kamar malam yang hangat, gaya pastel",
+    content: `
+      <p>Jam sudah larut. Kamu baru saja mematikan lampu, menarik selimut, dan berniat tidur pulas. Belum sempat menghitung sampai tiga, ada suara langkah ringan di kasur. Satu detik kemudian, dada kamu berubah jadi kasur dadakan. Anabul naik, berputar sekali, lalu rebahan dengan ekspresi "Ini tempatku sekarang." Kadang versinya lebih ekstrem: wajahmu tiba-tiba tertutup bulu, hidungnya menempel di pipimu, dan napasmu terasa sedikit lebih sulit. Selamat malam, dari satpam berbulu yang sangat sayang.</p>
+      <p>Kalau ini rutin terjadi di rumahmu, kamu tidak sendirian. Banyak pemilik kucing punya cerita yang sama: kasur yang tadinya untuk manusia, malam-malam berubah jadi hotel bintang lima untuk anabul. Kenapa mereka memilih dada atau kepala, bukan bantal kosong di sebelahnya?</p>
+
+      <h2>Hangat, dekat, dan berdetak: kenapa dada jadi favorit</h2>
+      <p>Dada manusia punya kombinasi yang sulit ditolak. Ada kehangatan tubuh, ada gerakan naik-turun saat bernapas, dan ada detak jantung yang teratur. Bagi kucing yang sudah dekat dengan pemiliknya, sensasi itu bisa terasa menenangkan, mirip dengan rasa aman saat mereka masih kecil dan tidur dekat induknya.</p>
+      <p>Ditambah lagi, dada kamu penuh dengan baumu. Penciuman kucing sangat peka, dan bau pemilik sering diasosiasikan dengan rasa aman. Itu juga salah satu alasan kenapa banyak anabul lebih suka tidur di atas baju bekas daripada di kasur baru, seperti yang kami ceritakan di artikel <a href="/artikel/kucing-tidur-di-atas-baju-kotor/">kenapa kucing suka tidur di atas pakaian bekas pemiliknya</a>. Tidur di dada adalah versi "langsung dari sumbernya".</p>
+
+      <h2>Lalu kenapa ada yang pilih tidur di kepala?</h2>
+      <p>Posisi di atas kepala atau di samping wajah kadang terlihat lebih aneh, tapi tetap masuk akal dari sudut pandang kucing. Area bantal biasanya hangat karena baru dipakai. Wajah dan rambutmu juga menyimpan bau yang familiar. Beberapa kucing juga suka posisi yang agak tinggi di kasur, seolah ingin pantau sekeliling sambil tetap menempel ke kamu.</p>
+      <p>Tidak jarang, tidur di kepala datang bareng kebiasaan lain: menguleni selimut atau rambutmu dulu sebelum rebahan. Kebiasaan "bikin roti" itu sering muncul saat kucing merasa sangat nyaman, dan kami sudah bahas lebih panjang di artikel <a href="/artikel/kucing-suka-menguleni-bikin-roti/">kenapa kucing suka menguleni selimut dan pangkuan</a>. Jadi, kalau malam-malam ada pijatan mini di kepala sebelum anabul tidur, anggap saja itu ritual malamnya.</p>
+
+      <h2>Ini tanda sayang, atau cuma cari tempat enak?</h2>
+      <p>Jawaban singkatnya: bisa keduanya, dan keduanya oke. Kucing yang memilih tidur di tubuhmu biasanya merasa aman di dekatmu. Ia percaya kamu tidak akan tiba-tiba jadi ancaman. Di saat yang sama, tubuh manusia memang nyaman: hangat, empuk, dan "bergerak pelan" seperti bantal hidup.</p>
+      <p>Yang perlu diingat, tidak semua kucing suka tidur di badan pemilik. Ada yang lebih memilih sudut kasur, ada yang tidur di kaki, ada yang justru kabur kalau digendong terlalu lama. Selera tidur kucing memang beragam, sama seperti pilihan tempat aneh mereka yang pernah kami bahas di artikel <a href="/artikel/kucing-suka-tidur-di-tempat-aneh/">kenapa kucing suka tidur di tempat aneh</a>. Jadi, kalau anabulmu belum pernah naik ke dada, bukan berarti ia kurang sayang. Mungkin ia punya standar kasur sendiri.</p>
+
+      <h2>Cara berbagi kasur biar kalian berdua tetap nyaman</h2>
+      <p>Tidur bareng kucing memang manis, tapi paru-paru dan leher kamu juga penting. Berikut beberapa cara menyiasatinya tanpa drama:</p>
+      <ul>
+        <li><strong>Siapkan "zona anabul" di kasur.</strong> Taruh bantal kecil, handuk, atau kasur tipis di sisi tempat tidurmu. Kalau bisa, pakai kain yang sempat kamu pakai supaya baunya familiar.</li>
+        <li><strong>Alihkan pelan-pelan, jangan dorong kasar.</strong> Kalau dada terasa berat atau wajah tertutup, geser anabul ke samping dengan gerakan tenang sambil mengelus. Tiba-tiba mendorong atau mengangkat terlalu cepat bisa bikin ia tersinggung dan balik lagi dengan semangat lebih besar.</li>
+        <li><strong>Jaga kebersihan selimut dan bantal.</strong> Bulu, air liur, dan debu bisa menumpuk. Rajin ganti sarung bantal membantu kamu tetap nyaman, terutama kalau mudah bersin.</li>
+        <li><strong>Perhatikan kuku dan posisi.</strong> Kalau anabul suka menguleni sebelum tidur, potong kukunya secara rutin supaya pijatan malam tidak berakhir dengan goresan kecil.</li>
+        <li><strong>Sediakan alternatif di dekat kasur.</strong> Kursi di samping tempat tidur atau rak kecil dengan alas lembut bisa jadi opsi buat kucing yang ingin dekat tapi tidak harus di atas dada. Tips memilih spot tidur yang disukai juga bisa membantu: cari yang hangat, agak terlindungi, dan dekat denganmu.</li>
+        <li><strong>Tetapkan batas yang konsisten.</strong> Kalau kamu tidak nyaman tidur bareng, tidak apa-apa menutup pintu kamar di malam hari, asal anabul tetap punya tempat nyaman, air, dan kotak pasir di luar. Konsistensi lebih baik daripada aturan yang berubah-ubah tiap malam.</li>
+      </ul>
+
+      <h2>Kapan perlu lebih diperhatikan?</h2>
+      <p>Sebagian besar kebiasaan tidur di dada atau kepala adalah tanda nyaman. Tapi ada situasi yang layak dicermati. Misalnya, kalau anabul tiba-tiba jadi sangat lengket dan gelisah saat kamu bergerak, napasnya terdengar berat, ia sering batuk atau bersin di dekat wajahmu, atau ia mulai menggigit dan mencakar saat digeser. Perubahan perilaku yang mencolok lebih baik dikonsultasikan ke dokter hewan daripada ditebak sendiri di rumah.</p>
+      <p>Kalau kamu punya alergi atau gangguan pernapasan, tidur terlalu dekat dengan bulu dan wajah kucing juga bisa membuat malam jadi kurang nyenyak. Dalam kasus itu, mencari jarak yang lebih nyaman bukan berarti kurang sayang. Itu justru cara menjaga kalian berdua tetap sehat.</p>
+
+      <h2>Penutup: kasur untuk dua makhluk, satu hati</h2>
+      <p>Bagi anabul, dada dan kepala kamu bukan sekadar bagian tubuh. Itu adalah tempat hangat yang berbau "rumah". Jadi, lain kali kamu bangun dengan bulu di bibir atau beban lembut di dada, coba senyum dulu sebelum mengeluh. Kamu sedang jadi kasur favorit seseorang yang sangat pemilih.</p>
+      <p>Yang penting, cari pola tidur yang membuat kalian berdua tetap nyaman: cukup dekat untuk merasa aman, cukup longgar supaya napas dan leher tetap lega. Karena cinta malam hari yang paling manis adalah yang masih menyisakan ruang untuk menguap dengan tenang.</p>
+    `,
+  },
+  {
     slug: "kucing-mengejar-ekor-dan-cahaya",
     title: "Ekor Sendiri Dikira Musuh: Kenapa Kucing Suka Mengejar Ekor, Bayangan, dan Pantulan Cahaya?",
     category: "Perilaku",
