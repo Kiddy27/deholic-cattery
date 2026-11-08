@@ -24,6 +24,55 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-menjilat-tangan-atau-wajah",
+    title: "Spa Dadakan di Wajah: Kenapa Kucing Suka Menjilat Tangan dan Pipimu?",
+    category: "Perilaku",
+    excerpt:
+      "Anabul tiba-tiba menjilat tangan atau pipimu seperti lagi mandiin? Ini arti umumnya, plus cara menanggapinya biar tetap nyaman buat kalian berdua.",
+    date: "2026-11-08",
+    readTime: 5,
+    author: "Tim Deholic Cattery",
+    icon: "heart",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-menjilat-tangan-atau-wajah.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga menjilat punggung tangan pemilik dengan lembut, cahaya sore pastel yang hangat, gaya pastel",
+    content: `
+      <p>Kamu lagi rebahan di sofa, scrolling HP tanpa dosa. Anabul naik ke pangkuan, mendengkur, lalu mulai bekerja. Lidahnya yang kasar seperti amplas mini bergerak di punggung tanganmu. Belum selesai, ia naik lagi dan... basah. Pipimu, dagu, bahkan ujung hidung jadi target spa dadakan. Selamat datang di salon berbulu yang buka 24 jam tanpa janji temu.</p>
+      <p>Kalau ini sering terjadi di rumahmu, kamu tidak sendirian. Banyak pemilik kucing punya wajah yang pernah "dimandiin" tanpa diminta. Tapi kenapa anabul begitu semangat menjilat tangan atau wajah pemiliknya? Dan bagaimana cara menanggapinya tanpa membuat suasana jadi canggung?</p>
+
+      <h2>Bukan sekadar basah-basahan: menjilat sebagai bahasa sayang</h2>
+      <p>Di dunia kucing, menjilat sering jadi bagian dari perawatan sosial. Induk menjilat anaknya untuk membersihkan dan menenangkan. Kucing yang akrab juga saling menjilat di kepala atau leher sebagai tanda kedekatan. Jadi, ketika anabul menjilat tangan atau pipimu, besar kemungkinan ia menganggapmu bagian dari kelompoknya.</p>
+      <p>Ini masih satu keluarga dengan bahasa tubuh manis lainnya, seperti menyundul kepala atau menggosokkan pipi. Kalau anabulmu juga hobi sundul-sundul, kamu bisa baca lebih lanjut di artikel <a href="/artikel/kucing-suka-menyundul-kepala/">kenapa kucing suka head bunting</a>. Intinya sama: kamu sedang "diterima" dengan cara kucing.</p>
+
+      <h2>Kenapa tangan dan wajah yang jadi favorit?</h2>
+      <p>Tangan dan wajahmu menyimpan banyak bau yang familiar bagi kucing. Setelah kamu masak, pegang HP, atau cuci muka, aroma di kulit berubah-ubah. Bagi hidung kucing yang peka, itu bisa terasa menarik. Menjilat menjadi cara mereka "mengecek" dan sekaligus menandai ulang area itu dengan aroma mereka sendiri.</p>
+      <p>Wajah juga dekat dengan matamu, napasmu, dan suara lembut saat kamu bicara. Banyak kucing memilih spot yang paling dekat dengan perhatianmu. Menjilat pipi atau dahi kadang datang bareng elusan, dengkur, atau posisi rebahan di dada. Buat mereka, itu paket lengkap: dekat, hangat, dan sibuk merawat "keluarganya".</p>
+
+      <h2>Lidah kasar, sensasi aneh, tapi biasanya normal</h2>
+      <p>Lidah kucing memang terasa kasar karena ada tonjolan kecil yang membantu mereka merawat bulu. Itu sebabnya sesi "mandi" di tangan bisa terasa seperti digosok spons kasar versi mini. Bagi sebagian orang rasanya menggelitik dan lucu. Bagi yang lain, basah di wajah langsung bikin ingin ambil tisu.</p>
+      <p>Keduanya sah. Menyukai atau tidak menyukai dijilat tidak membuatmu pemilik yang kurang sayang. Yang penting, kamu tetap menghargai maksud anabul sambil menjaga batas nyamanmu sendiri. Kalau sesi elus-elus sering berlanjut ke gigitan pelan, kenali juga batasan itu di artikel <a href="/artikel/kucing-menggigit-pelan-saat-dielus/">kenapa kucing suka love bite</a>.</p>
+
+      <h2>Cara menanggapinya dengan santai</h2>
+      <p>Tidak perlu panik, tidak perlu drama, dan tidak perlu langsung kabur ke kamar mandi setiap kali lidah muncul. Coba pendekatan ini:</p>
+      <ul>
+        <li><strong>Terima sebentar, lalu alihkan pelan.</strong> Biarkan anabul menjilat beberapa detik sebagai balasan sapaan. Setelah itu, alihkan perhatiannya ke mainan, sikat bulu, atau camilan kecil supaya sesi tidak berlanjut ke seluruh wajah.</li>
+        <li><strong>Sodorkan tangan, bukan wajah.</strong> Kalau kamu kurang suka basah di pipi, tawarkan punggung tangan sebagai "area spa" resmi. Banyak kucing cukup puas dengan itu.</li>
+        <li><strong>Siapkan kain bersih di dekat tempat rebahan.</strong> Begitu selesai, usap pelan area yang basah. Hindari reaksi kaget atau mendorong wajah anabul terlalu kasar, karena bisa membuatnya bingung.</li>
+        <li><strong>Jaga kebersihan tangan dan wajahmu.</strong> Kalau baru pakai pelembap, sunscreen, atau produk beraroma kuat, lebih aman mengalihkan anabul dulu. Kulit dan lidah mereka sensitif terhadap bahan yang tidak seharusnya masuk mulut.</li>
+        <li><strong>Ganti arah ke perawatan bulu.</strong> Kadang anabul sedang mode "rawat-merawat". Ambil sisir lembut dan ajak sesi menyisir singkat. Tips santai merawat bulu di rumah ada di artikel <a href="/artikel/merawat-bulu-kucing/">panduan menyisir dan merawat bulu kucing</a>.</li>
+        <li><strong>Tetapkan batas yang konsisten.</strong> Kalau kamu tidak nyaman sama sekali, berdiri pelan, beri jarak, lalu alihkan dengan mainan. Lebih baik aturan yang jelas daripada sekali boleh, sekali ditolak dengan reaksi kaget.</li>
+      </ul>
+
+      <h2>Kapan perlu lebih diperhatikan?</h2>
+      <p>Menjilat tangan atau wajah pemilik umumnya bagian dari perilaku sosial yang wajar. Tapi ada situasi yang layak dicermati. Misalnya, kalau anabul tiba-tiba menjilat secara berlebihan sampai bulunya sendiri rontok di satu area, sering menjilat lantai atau benda aneh, napasnya berbau sangat tidak biasa, gusi terlihat merah, atau ia terlihat kesakitan saat membuka mulut. Perubahan mencolok seperti itu lebih aman dikonsultasikan ke dokter hewan daripada ditebak sendiri.</p>
+      <p>Begitu juga dari sisi kamu. Kalau kulit mudah iritasi, ada luka kecil di tangan, atau kamu sedang tidak enak badan, tidak apa-apa menjaga jarak dulu. Sayang pada anabul tidak berarti harus menerima setiap jilatan sampai basah kuyup.</p>
+
+      <h2>Penutup: salon berbulu yang penuh arti</h2>
+      <p>Bagi anabul, menjilat tangan atau wajahmu sering kali artinya sederhana: kamu dekat, kamu aman, dan kamu layak dirawat. Versi kucing dari "Aku sayang kamu" memang kadang datang dalam bentuk lidah basah dan sedikit lengket. Lucu, agak merepotkan, tapi hangat.</p>
+      <p>Jadi lain kali spa dadakan dibuka tanpa izin, senyum dulu sebelum mengeluh. Terima sebentar, usap pelan, lalu arahkan ke aktivitas yang kalian berdua sukai. Karena hidup dengan kucing memang sering basah, berbulu, dan penuh kejutan manis di waktu yang paling tidak terduga.</p>
+    `,
+  },
+  {
     slug: "kucing-tidur-di-dada-atau-kepala",
     title: "Dada Jadi Kasur, Kepala Jadi Bantal: Kenapa Kucing Suka Tidur di Atas Badanmu Saat Malam?",
     category: "Perilaku",
