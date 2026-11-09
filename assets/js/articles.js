@@ -24,6 +24,55 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-klaim-barang-baru-atau-tas-belanja",
+    title: "Tas Belanja Jadi Tahta: Kenapa Kucing Langsung Duduk di Atas Barang Baru?",
+    category: "Perilaku",
+    excerpt:
+      "Baru pulang belanja, anabul sudah duduk di atas tas atau baju baru? Ini arti klaim dadakan itu, plus cara menyiasatinya tanpa drama.",
+    date: "2026-11-09",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "sparkle",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-klaim-barang-baru-atau-tas-belanja.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk tenang di atas tas belanja kertas, cahaya sore pastel yang hangat, gaya pastel",
+    content: `
+      <p>Kamu baru saja pulang belanja. Tas kertas masih di lantai, baju baru masih dalam plastik, kotak sepatu belum dibuka. Lima detik kemudian, ada raja berbulu yang sudah duduk di atasnya. Tatapan tenang, ekor menyapu pelan, seolah bilang: "Ini milikku sekarang." Selamat datang di ritual klaim barang baru yang hampir wajib di rumah berpenghuni kucing.</p>
+      <p>Kalau ini sering terjadi, kamu tidak sendirian. Banyak pemilik kucing punya foto anabul bertengger di atas tas belanja, kardus paket, atau tumpukan baju baru sebelum sempat dicoba. Tapi kenapa mereka begitu semangat mengklaim barang yang baru masuk rumah? Dan bagaimana menyiasatinya supaya barang tetap aman, tapi anabul tetap merasa dihargai?</p>
+
+      <h2>Bukan iseng: bau baru itu menarik bagi hidung kucing</h2>
+      <p>Barang baru membawa aroma yang berbeda dari rumahmu. Ada bau toko, plastik kemasan, kardus, atau tangan orang yang membungkusnya. Bagi hidung kucing yang jauh lebih peka daripada milik kita, itu seperti undangan terbuka: "Ada sesuatu yang belum dikenal di wilayahku."</p>
+      <p>Duduk di atasnya adalah cara praktis untuk memeriksa, menenangkan diri, sekaligus menandai. Dengan bulu dan kelenjar bau di tubuhnya, anabul menempelkan aroma familiar ke permukaan yang masih "asing". Mirip dengan kebiasaan manis lain seperti menyundul kepala atau menggosokkan pipi. Kalau anabulmu juga hobi sundul-sundul, kamu bisa baca lebih lanjut di artikel <a href="/artikel/kucing-suka-menyundul-kepala/">kenapa kucing suka head bunting</a>.</p>
+
+      <h2>Tas, kardus, dan baju baru: kenapa spot itu favorit?</h2>
+      <p>Tas belanja dan kardus sering punya bentuk yang "pas" buat kucing: sedikit cekung, cukup sempit, dan terasa seperti tempat sembunyi mini. Banyak kucing suka ruang yang memberi rasa terlindungi. Barang baru di lantai juga berada di jalur lalu-lalangmu, jadi anabul bisa sekalian memantau aktivitasmu sambil klaim tahta dadakan.</p>
+      <p>Baju atau selimut baru punya daya tarik lain: tekstur lembut plus bau manusia yang masih campur bau toko. Pola ini dekat dengan kebiasaan tidur di atas pakaian bekas pemilik. Bedanya, di sini yang diklaim masih baru. Kalau kamu penasaran kenapa bau kamu begitu memikat, coba baca juga <a href="/artikel/kucing-tidur-di-atas-baju-kotor/">kenapa kucing suka tidur di baju kotor</a>.</p>
+
+      <h2>Ini juga soal kontrol wilayah, bukan cuma "nakal"</h2>
+      <p>Kucing adalah hewan yang senang merasa rumahnya terprediksi. Saat ada benda baru masuk, peta aroma di rumah berubah sedikit. Duduk di atasnya membantu mereka mengembalikan rasa "ini sudah aku kenali". Bukan berarti anabul jahat atau ingin merusak belanjaanmu. Sering kali mereka hanya sedang mengatur ulang dunia kecilnya.</p>
+      <p>Kadang klaim itu dilanjut dengan menggaruk pelan, menggigit tali plastik, atau membawa barang kecil ke tempat lain. Perilaku "bawa hadiah" dan sembunyi-mainan punya semangat yang mirip: menguasai, memindahkan, dan menyimpan. Kalau anabulmu juga suka surprise kaus kaki di kasur, lihat artikel <a href="/artikel/kucing-membawa-hadiah-dan-menyembunyikan-mainan/">kenapa kucing suka bawa hadiah</a>.</p>
+
+      <h2>Cara menyiasatinya tanpa drama</h2>
+      <p>Tidak perlu mengusir dengan teriakan atau mengangkat anabul kasar setiap kali ia naik ke tas. Coba pendekatan yang lebih santai:</p>
+      <ul>
+        <li><strong>Siapkan zona "klaim resmi".</strong> Sediakan kardus kosong, tas kain yang sudah aman, atau bantal kecil di dekat area bongkar belanja. Arahkan anabul ke situ supaya ia tetap punya tahta, tapi bukan di atas baju mahal.</li>
+        <li><strong>Angkat barang penting lebih dulu.</strong> Makanan, obat, benda tajam, atau barang mudah rusak langsung dipindah ke meja atau lemari. Sisakan yang aman di lantai kalau kamu mau membiarkan sesi inspeksi singkat.</li>
+        <li><strong>Biarkan inspeksi singkat, lalu alihkan.</strong> Beberapa menit duduk di atas tas sering cukup. Setelah itu, ajak main sebentar atau sodorkan camilan di spot alternatif supaya fokusnya pindah.</li>
+        <li><strong>Jauhkan plastik dan tali.</strong> Kantong kresek, label, dan tali pengikat berbahaya kalau digigit atau ditelan. Buang atau simpan segera, terutama kalau anabulmu hobi main benda terlarang.</li>
+        <li><strong>Jangan jadikan kejaran sebagai game.</strong> Kalau setiap kali kamu menarik tas anabul ikut kejar-kejaran, ia bisa semakin bersemangat. Lebih baik tukar dengan mainan atau tempat duduk yang memang disediakan untuknya.</li>
+        <li><strong>Rapikan jalur lalu-lalang.</strong> Rumah yang punya tempat bersembunyi dan spot tinggi yang jelas biasanya membuat kucing kurang "terpaksa" duduk di tumpukan belanja. Semakin banyak opsi nyaman, semakin kecil godaan naik ke tas belanja.</li>
+      </ul>
+
+      <h2>Kapan perlu lebih diperhatikan?</h2>
+      <p>Duduk di atas barang baru umumnya perilaku penasaran yang wajar. Yang perlu diwaspadai lebih ke risiko keselamatan: anabul menggigit plastik, menelan tali, terjebak di dalam tas, atau terus-menerus stres setiap ada paket masuk. Kalau ia tiba-tiba sangat gelisah, agresif, atau menunjukkan perubahan perilaku mencolok setelah banyak barang baru datang, lebih aman dikonsultasikan ke dokter hewan daripada ditebak sendiri.</p>
+      <p>Dari sisi barangmu juga sah menjaga batas. Tidak semua orang nyaman bulu menempel di baju baru atau kotak elektronik. Menyediakan alternatif dan merapikan cepat bukan berarti kamu kurang sayang. Itu justru cara hidup berdampingan yang adil.</p>
+
+      <h2>Penutup: tahta dadakan yang penuh arti</h2>
+      <p>Bagi anabul, duduk di atas tas belanja atau baju baru sering artinya sederhana: "Ada yang baru di rumahku, jadi aku harus kenalan." Versi kucing dari inspeksi resmi memang kadang datang dalam bentuk tubuh bulat di atas kardus dan tatapan tanpa dosa. Lucu, agak merepotkan, tapi masuk akal dari sudut pandang mereka.</p>
+      <p>Jadi lain kali belanjaan belum sempat kamu bongkar sudah ada yang duduk di atasnya, senyum dulu sebelum mengeluh. Amankan yang berbahaya, sodorkan tahta alternatif, lalu biarkan inspeksi singkat berjalan. Karena hidup dengan kucing memang sering berbulu, sedikit berantakan, dan penuh klaim dadakan di waktu yang paling tidak terduga.</p>
+    `,
+  },
+  {
     slug: "kucing-menjilat-tangan-atau-wajah",
     title: "Spa Dadakan di Wajah: Kenapa Kucing Suka Menjilat Tangan dan Pipimu?",
     category: "Perilaku",
