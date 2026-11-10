@@ -24,6 +24,52 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-menatap-dinding-atau-sudut-ruangan",
+    title: "Lagi Lihat Apa, Nak? Kenapa Kucing Suka Menatap Dinding atau Sudut Ruangan",
+    category: "Perilaku",
+    excerpt:
+      "Anabul diam menatap dinding kosong dan bikin kamu merinding? Tenang, biasanya ada penjelasan sederhana. Ini alasannya dan kapan perlu diperhatikan.",
+    date: "2026-11-10",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "eye",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-menatap-dinding-atau-sudut-ruangan.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk tenang menatap sudut ruangan yang terkena cahaya lampu hangat, gaya pastel lembut",
+    content: `
+      <p>Malam-malam, lampu sudah redup, kamu lagi santai scroll HP. Lalu kamu sadar: anabul duduk tegak, telinga maju, mata bulat, menatap sudut ruangan yang... kosong. Tidak ada apa-apa di sana. Lima menit kemudian, dia masih di posisi yang sama. Bulu kudukmu mulai berdiri. "Nak, kamu lihat apa sih?"</p>
+      <p>Tenang dulu. Sebelum kamu menyalakan semua lampu dan memutar lagu ceria keras-keras, mari kita bahas kenapa kucing suka menatap dinding atau sudut ruangan. Kabar baiknya, sebagian besar alasannya jauh lebih membumi daripada cerita seram.</p>
+
+      <h2>Indra kucing menangkap hal yang kita lewatkan</h2>
+      <p>Kucing dikenal punya pendengaran yang sangat tajam dan peka terhadap suara bernada tinggi atau sangat pelan. Bunyi serangga kecil di balik dinding, cicak yang merayap, air yang mengalir di pipa, atau dengung halus dari perangkat elektronik bisa saja tidak terdengar oleh kita, tapi cukup menarik buat anabul. Jadi saat dia menatap dinding, bisa jadi dia sebenarnya sedang <em>mendengarkan</em> sesuatu, bukan melihat sesuatu.</p>
+      <p>Mata kucing juga sangat jeli menangkap gerakan kecil. Seekor nyamuk, debu yang melayang terkena cahaya, atau bayangan daun dari luar jendela bisa terlihat menarik dari sudut pandangnya. Ini mirip dengan kebiasaan mereka mengejar bayangan dan pantulan cahaya. Kalau anabulmu juga hobi itu, coba baca <a href="/artikel/kucing-mengejar-ekor-dan-cahaya/">kenapa kucing suka mengejar ekor dan cahaya</a>.</p>
+
+      <h2>Mode pemburu: diam dulu, terkam nanti</h2>
+      <p>Kucing adalah pemburu yang sabar. Di alam, mereka bisa menunggu lama tanpa bergerak sebelum menerkam. Naluri ini tetap ada pada kucing rumahan, termasuk yang hidupnya lebih banyak rebahan di sofa. Menatap satu titik dengan fokus penuh adalah bagian dari "mode berburu" itu. Kadang ekornya bergerak pelan, badannya sedikit merendah, atau terdengar suara kecil seperti saat dia melihat burung dari jendela. Soal suara lucu itu, ada pembahasannya di artikel <a href="/artikel/kucing-chattering-lihat-burung/">kenapa kucing bersuara aneh saat melihat burung</a>.</p>
+      <p>Kalau ternyata "target"-nya cuma cicak yang lalu kabur ke balik lemari, ya sudah. Anabul mungkin akan duduk di situ cukup lama, berharap targetnya muncul lagi. Dedikasinya patut diacungi jempol.</p>
+
+      <h2>Sekadar melamun dan santai</h2>
+      <p>Tidak semua tatapan kosong berarti ada sesuatu. Kucing juga bisa sekadar santai, setengah mengantuk, dan pandangannya kebetulan mengarah ke dinding. Mirip kita yang kadang bengong menatap langit-langit sebelum tidur. Biasanya tanda-tandanya terlihat: mata agak sayu, badan rileks, dan sesekali berkedip pelan. Kalau dia menoleh ke arahmu lalu berkedip pelan, balas saja dengan cara yang sama. Siapa tahu itu ajakan ngobrol santai ala kucing, seperti yang dibahas di <a href="/artikel/kedipan-pelan-kucing-slow-blink/">slow blink kucing</a>.</p>
+
+      <h2>Bosan juga bisa jadi alasan</h2>
+      <p>Kucing indoor yang kurang aktivitas kadang mencari hiburan sendiri, termasuk mengamati hal-hal kecil di sekitarnya terlalu lama. Ini bukan masalah besar, tapi bisa jadi sinyal bahwa anabul butuh stimulasi tambahan. Beberapa ide sederhana:</p>
+      <ul>
+        <li><strong>Sesi main singkat tiap hari.</strong> Mainan tongkat bulu selama beberapa menit bisa membantu menyalurkan naluri berburunya.</li>
+        <li><strong>Spot jendela yang aman.</strong> Pemandangan luar seperti burung atau daun bergoyang sering jadi "tontonan" favorit.</li>
+        <li><strong>Mainan teka-teki camilan.</strong> Membuat anabul berpikir sedikit sebelum dapat hadiah bisa jadi hiburan yang menyenangkan.</li>
+        <li><strong>Ganti-ganti mainan.</strong> Simpan sebagian mainan dan keluarkan bergantian supaya terasa baru lagi.</li>
+      </ul>
+
+      <h2>Kapan perlu lebih diperhatikan?</h2>
+      <p>Sesekali menatap dinding umumnya wajar. Tapi ada beberapa kondisi yang sebaiknya tidak diabaikan. Misalnya kalau anabul terlihat bingung atau seperti tersesat di rumahnya sendiri, sering menekan kepalanya ke dinding, berjalan berputar-putar, sulit diajak berinteraksi, atau perilaku ini muncul tiba-tiba bersamaan dengan perubahan lain seperti nafsu makan turun, lemas, atau gerakan yang tidak biasa. Hal yang sama berlaku kalau kucingmu sudah senior dan kebiasaan menatap kosong ini terasa makin sering.</p>
+      <p>Dalam kondisi seperti itu, jangan menebak sendiri. Catat kapan dan seberapa sering kejadiannya, kalau bisa rekam videonya, lalu konsultasikan ke dokter hewan. Video singkat sering sangat membantu dokter memahami apa yang kamu lihat di rumah.</p>
+
+      <h2>Penutup: bukan hantu, cuma anabul yang super peka</h2>
+      <p>Jadi lain kali anabul menatap sudut ruangan dengan serius, kemungkinan besar dia sedang mendengar suara kecil, mengintai cicak, atau sekadar melamun. Indranya bekerja jauh lebih detail dari kita, jadi dunia di matanya memang lebih ramai.</p>
+      <p>Kalau penasaran, ikut saja duduk di sebelahnya dan dengarkan. Mungkin kamu akan menemukan nyamuk yang dari tadi bikin dia fokus. Atau mungkin tidak menemukan apa-apa, dan dia tiba-tiba pergi seolah tidak terjadi apa-apa. Begitulah kucing: misterius, menggemaskan, dan selalu satu langkah lebih peka daripada kita.</p>
+    `,
+  },
+  {
     slug: "kucing-klaim-barang-baru-atau-tas-belanja",
     title: "Tas Belanja Jadi Tahta: Kenapa Kucing Langsung Duduk di Atas Barang Baru?",
     category: "Perilaku",
