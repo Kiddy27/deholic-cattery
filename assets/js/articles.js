@@ -24,6 +24,57 @@
 
 window.ARTICLES = [
   {
+    slug: "kalung-dan-tag-identitas-kucing-indoor",
+    title: "Anak Rumahan Juga Butuh KTP? Kalung dan Tag Identitas untuk Kucing Indoor",
+    category: "Gaya Hidup",
+    excerpt:
+      "Kucingmu nggak pernah keluar rumah, jadi buat apa pakai kalung? Ini alasan tag identitas tetap berguna dan tips memilih yang aman buat anabul.",
+    date: "2026-11-11",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "shield",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kalung-dan-tag-identitas-kucing-indoor.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk manis memakai kalung lembut berwarna pastel dengan tag kecil berbentuk tulang ikan, latar ruang tamu yang hangat, gaya pastel",
+    content: `
+      <p>"Ngapain kucingku pakai kalung? Dia kan anak rumahan sejati. Paling jauh juga cuma dari kasur ke mangkuk makan, lalu balik lagi ke kasur." Kalimat ini mungkin pernah terlintas di kepalamu. Dan memang benar, banyak kucing indoor yang hidupnya damai di dalam rumah, jauh dari hiruk-pikuk jalanan.</p>
+      <p>Tapi coba bayangkan skenario ini: kurir datang, pintu terbuka sebentar, dan dalam satu kedipan mata ada bayangan abu-abu yang melesat keluar. Atau jendela yang lupa ditutup saat kamu sedang menjemur baju. Hal-hal kecil seperti ini bisa terjadi di rumah siapa saja. Di sinilah kalung dan tag identitas jadi semacam "KTP" sederhana untuk anabul.</p>
+
+      <h2>Kenapa kucing indoor tetap perlu identitas?</h2>
+      <p>Kucing yang terbiasa di dalam rumah biasanya tidak mengenal lingkungan luar. Kalau tiba-tiba ada di luar, dia bisa panik, bersembunyi di kolong mobil, atau lari ke tempat yang asing. Orang yang menemukannya pun belum tentu tahu bahwa kucing manis itu punya rumah dan pemilik yang sedang kebingungan mencarinya.</p>
+      <p>Tag identitas membantu orang yang menemukan anabul untuk menghubungi kamu dengan cepat. Tanpa tanda apa pun, kucing rumahan yang bersih dan gemuk pun bisa dikira kucing liar, atau malah "diadopsi" orang lain dengan niat baik. Sedikit persiapan bisa mempercepat proses pulangnya.</p>
+      <p>Selain kalung, kamu juga bisa menanyakan ke dokter hewan soal pilihan identitas permanen seperti microchip, termasuk apakah layanan itu tersedia di tempatmu dan cocok untuk kucingmu. Kalau kamu belum pernah membawa anabul periksa, artikel <a href="/artikel/membawa-kucing-ke-vet-pertama-kali/">tips ke vet pertama kali</a> bisa membantu persiapannya.</p>
+
+      <h2>Memilih kalung yang aman</h2>
+      <p>Tidak semua kalung cocok untuk kucing. Kucing suka menyelinap, memanjat, dan masuk ke celah sempit, jadi kalungnya harus dipilih dengan teliti. Beberapa hal yang bisa jadi pertimbangan:</p>
+      <ul>
+        <li><strong>Pilih kalung dengan pengait pengaman (breakaway).</strong> Jenis ini dirancang untuk terlepas sendiri kalau kalung tersangkut sesuatu, sehingga anabul tidak terjerat. Kalung anjing biasa dengan gesper kaku sebaiknya tidak dipakai untuk kucing.</li>
+        <li><strong>Bahan ringan dan lembut.</strong> Kain atau nilon yang halus biasanya lebih nyaman daripada bahan yang kaku atau berat.</li>
+        <li><strong>Ukuran pas, tidak terlalu longgar.</strong> Patokan yang sering dipakai adalah dua jari bisa masuk di antara kalung dan leher. Terlalu longgar bisa membuat kaki depan atau rahang tersangkut, terlalu ketat tentu tidak nyaman.</li>
+        <li><strong>Hindari hiasan yang bisa digigit dan lepas.</strong> Manik-manik kecil, pita panjang, atau hiasan yang mudah copot bisa jadi mainan berbahaya kalau tertelan.</li>
+        <li><strong>Pertimbangkan soal lonceng.</strong> Ada kucing yang cuek dengan bunyi lonceng, ada juga yang terlihat terganggu. Kalau anabulmu tampak tidak nyaman, kalung tanpa lonceng adalah pilihan yang lebih tenang.</li>
+      </ul>
+
+      <h2>Apa yang ditulis di tag?</h2>
+      <p>Tag tidak perlu penuh tulisan seperti CV. Cukup informasi yang membantu orang menghubungimu. Biasanya berupa nama kucing dan nomor yang bisa dihubungi. Sebagian pemilik lebih nyaman menulis nomor saja tanpa alamat lengkap demi privasi, dan itu sah-sah saja. Kalau anabul punya kondisi khusus yang perlu diketahui penemunya, kamu bisa menambahkan catatan singkat seperti "butuh obat rutin, mohon hubungi".</p>
+      <p>Pilih tag yang ringan dan tulisannya awet, supaya tidak cepat pudar. Sesekali cek apakah tulisannya masih terbaca dan nomornya masih aktif. Nomor lama yang sudah tidak dipakai tentu tidak akan banyak membantu.</p>
+
+      <h2>Cara membiasakan anabul memakai kalung</h2>
+      <p>Wajar kalau kucing protes di awal. Ada yang langsung menggaruk-garuk leher, ada yang berjalan mundur dengan dramatis seolah kalungnya adalah musuh bebuyutan, ada juga yang mendadak "membeku" di tempat. Pelan-pelan saja:</p>
+      <ul>
+        <li><strong>Kenalkan dulu.</strong> Biarkan anabul mencium kalungnya, atau letakkan kalung di dekat tempat tidurnya supaya baunya jadi familier.</li>
+        <li><strong>Pakai sebentar-sebentar.</strong> Mulai dari beberapa menit sambil diajak main atau diberi camilan, lalu tambah durasinya sedikit demi sedikit.</li>
+        <li><strong>Alihkan perhatiannya.</strong> Sesi main yang seru biasanya bikin anabul lupa sedang memakai aksesori baru.</li>
+        <li><strong>Jangan dipaksa.</strong> Kalau dia sangat stres, lepaskan dulu dan coba lagi di hari lain. Prinsipnya mirip dengan <a href="/artikel/membiasakan-kucing-masuk-carrier/">membiasakan kucing masuk carrier</a>: sabar, positif, dan bertahap.</li>
+      </ul>
+      <p>Kalau kamu baru saja mengadopsi kucing, beri dia waktu untuk merasa aman di rumah dulu sebelum mengenalkan kalung. Panduan <a href="/artikel/menyambut-kucing-baru-di-rumah/">menyambut kucing baru di rumah</a> bisa jadi langkah awal yang pas.</p>
+
+      <h2>Rutin cek, biar tetap aman</h2>
+      <p>Kalung bukan barang "pasang lalu lupa". Cek secara berkala apakah ukurannya masih pas, terutama untuk anak kucing yang masih tumbuh. Perhatikan juga kulit dan bulu di sekitar leher. Kalau ada kemerahan, bulu rontok di area kalung, luka, atau anabul terus-menerus menggaruk leher, lepaskan kalungnya dan konsultasikan ke dokter hewan.</p>
+      <p>Pada akhirnya, kalung dan tag identitas adalah langkah kecil yang semoga tidak pernah benar-benar dibutuhkan. Tapi kalau suatu hari si anak rumahan nekat jalan-jalan sendiri, "KTP" mungil di lehernya bisa jadi jalan pulang tercepat ke pelukanmu, ke mangkuk makannya, dan tentu saja ke kasur favoritnya.</p>
+    `,
+  },
+  {
     slug: "kucing-menatap-dinding-atau-sudut-ruangan",
     title: "Lagi Lihat Apa, Nak? Kenapa Kucing Suka Menatap Dinding atau Sudut Ruangan",
     category: "Perilaku",
