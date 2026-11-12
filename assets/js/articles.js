@@ -24,6 +24,60 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-nyaman-saat-musim-hujan",
+    title: "Hujan Seharian, Anabul Jadi Bola Bulu: Cara Bikin Kucing Tetap Hangat dan Nyaman di Musim Hujan",
+    category: "Gaya Hidup",
+    excerpt:
+      "Musim hujan bikin anabul makin rajin meringkuk? Ini tips sederhana menjaga kucing tetap hangat, kering, dan tidak bosan selama cuaca dingin dan lembap.",
+    date: "2026-11-12",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "home",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-nyaman-saat-musim-hujan.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga meringkuk di atas selimut rajut lembut dekat jendela berembun dengan tetes hujan di luar, suasana kamar hangat, gaya pastel",
+    content: `
+      <p>Begitu langit Jakarta mulai mendung dan hujan turun dari siang sampai malam, ada satu makhluk di rumah yang langsung berubah wujud: anabul. Yang tadinya kucing biasa, mendadak jadi bola bulu bulat yang meringkuk rapat di pojok sofa, ekornya melingkar menutupi hidung, dan matanya setengah terpejam seolah berkata, "Jangan ganggu, aku lagi hibernasi."</p>
+      <p>Tenang, itu bukan drama berlebihan. Kucing memang suka kehangatan, jadi wajar kalau saat cuaca dingin dan lembap mereka lebih rajin mencari tempat nyaman. Tugas kita sebagai manusia pendamping cukup sederhana: memastikan rumah tetap jadi markas yang hangat, kering, dan menyenangkan selama musim hujan.</p>
+
+      <h2>Kenapa kucing makin mager saat hujan?</h2>
+      <p>Saat cuaca dingin, banyak kucing terlihat lebih banyak tidur dan memilih meringkuk. Posisi melingkar itu membantu mereka menyimpan panas tubuh. Suasana yang gelap dan suara hujan yang konstan juga bikin rumah terasa lebih tenang, jadi tidak heran kalau jadwal tidur siang anabul mendadak "lembur".</p>
+      <p>Selama anabul tetap mau makan, minum, buang air seperti biasa, dan masih mau diajak main sesekali, kebiasaan rebahan ekstra ini umumnya masih wajar. Yang perlu kita lakukan adalah membantu dia tetap nyaman, bukan memaksanya aktif seperti di hari cerah.</p>
+
+      <h2>Siapkan spot hangat yang bebas angin</h2>
+      <p>Kucing biasanya pintar mencari tempat paling enak di rumah, tapi tidak ada salahnya kita membantu. Beberapa ide sederhana:</p>
+      <ul>
+        <li><strong>Jauhkan kasur dari lantai dingin.</strong> Tempat tidur yang sedikit lebih tinggi, misalnya di atas kursi atau rak rendah, biasanya terasa lebih hangat daripada yang langsung menempel di keramik.</li>
+        <li><strong>Tambahkan selimut atau alas lembut.</strong> Selimut bulu, handuk tebal, atau kain rajut bisa jadi lapisan ekstra yang disukai banyak kucing.</li>
+        <li><strong>Hindari area dekat jendela yang bocor angin.</strong> Spot berjemur favorit di siang cerah bisa jadi terlalu dingin saat hujan deras.</li>
+        <li><strong>Sediakan tempat semi-tertutup.</strong> Kasur berbentuk gua, kardus yang dilapisi kain, atau keranjang dengan selimut sering jadi pilihan favorit karena terasa hangat dan aman.</li>
+      </ul>
+      <p>Kalau anabulmu tipe yang cuek dengan kasur mahal tapi setia pada kardus, kamu tidak sendirian. Coba intip tips di artikel <a href="/artikel/memilih-tempat-tidur-kucing/">cara memilih tempat tidur kucing</a> untuk ide yang lebih "sesuai selera" si bos kecil.</p>
+      <p>Satu catatan penting: hindari menaruh pemanas listrik atau benda panas langsung di tempat tidur kucing tanpa pengawasan, karena kucing bisa kepanasan atau menggigit kabelnya. Selimut tebal dan tempat yang terlindung dari angin biasanya sudah cukup membantu.</p>
+
+      <h2>Jaga rumah tetap kering</h2>
+      <p>Musim hujan identik dengan udara lembap. Selain bikin jemuran lama kering, kelembapan juga bisa membuat beberapa barang anabul jadi kurang nyaman.</p>
+      <ul>
+        <li><strong>Cek kotak pasir lebih sering.</strong> Pasir yang lembap bisa lebih cepat menggumpal dan berbau. Membersihkan secara rutin dan mengganti pasir sesuai kebutuhan bikin anabul tetap mau memakainya.</li>
+        <li><strong>Simpan makanan kering dalam wadah tertutup rapat.</strong> Udara lembap bisa membuat kibble cepat melempem atau bahkan berjamur. Kalau makanan sudah berbau aneh atau terlihat berjamur, sebaiknya jangan diberikan.</li>
+        <li><strong>Jemur atau cuci alas tidur secara berkala.</strong> Selimut yang lembap dan apek tentu kurang nyaman untuk ditiduri.</li>
+        <li><strong>Keringkan anabul kalau sempat kena air.</strong> Misalnya karena main dekat jendela yang tempias. Lap pelan dengan handuk kering supaya bulunya tidak lama basah.</li>
+      </ul>
+
+      <h2>Petir datang, anabul kabur?</h2>
+      <p>Hujan deras sering datang satu paket dengan petir yang menggelegar. Sebagian kucing santai saja, sebagian lagi langsung menghilang ke kolong kasur. Biarkan dia bersembunyi di tempat yang dia anggap aman, jangan ditarik keluar paksa. Kamu bisa menemaninya dengan tenang di dekatnya, tanpa heboh. Tips lengkapnya ada di artikel <a href="/artikel/kucing-takut-suara-bising/">membuat anabul tetap tenang saat rumah bising</a>.</p>
+
+      <h2>Jangan lupa tetap main dan minum</h2>
+      <p>Seharian di dalam rumah dengan cuaca kelabu bisa bikin anabul bosan, walaupun dia terlihat sibuk tidur. Sesi main singkat beberapa kali sehari bisa membantu menyalurkan energinya. Tongkat bulu, bola kertas, atau permainan mencari camilan bisa jadi hiburan murah meriah. Kalau butuh ide, cek artikel <a href="/artikel/mainan-stimulasi-kucing-indoor/">mainan dan stimulasi untuk kucing indoor</a>.</p>
+      <p>Saat cuaca dingin, sebagian kucing juga terlihat lebih malas minum. Pastikan air bersih selalu tersedia di beberapa titik dan diganti secara rutin, supaya anabul tetap gampang menjangkaunya tanpa harus keluar dari zona nyaman terlalu jauh.</p>
+
+      <h2>Kapan perlu ke dokter hewan?</h2>
+      <p>Rebahan lebih lama itu wajar, tapi ada tanda-tanda yang sebaiknya tidak diabaikan. Kalau anabul bersin terus-menerus, ada cairan dari mata atau hidung, tidak mau makan, terlihat sangat lemas, atau perilakunya berubah drastis, sebaiknya segera konsultasikan ke dokter hewan. Lebih baik dicek lebih awal daripada menebak-nebak sendiri.</p>
+
+      <p>Pada akhirnya, musim hujan bisa jadi momen yang menyenangkan untuk kamu dan anabul. Siapkan selimut hangat, secangkir teh untukmu, suara hujan di luar, dan bola bulu yang mendengkur pelan di sebelahmu. Rasanya, cuaca kelabu pun jadi tidak terlalu buruk.</p>
+    `,
+  },
+  {
     slug: "kalung-dan-tag-identitas-kucing-indoor",
     title: "Anak Rumahan Juga Butuh KTP? Kalung dan Tag Identitas untuk Kucing Indoor",
     category: "Gaya Hidup",
