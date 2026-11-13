@@ -24,6 +24,52 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-minta-pintu-dibuka-lalu-tidak-masuk",
+    title: "Pintu Dibuka, Anabul Cuma Bengong: Kenapa Kucing Suka Minta Pintu Dibuka lalu Nggak Jadi Masuk?",
+    category: "Perilaku",
+    excerpt:
+      "Anabul mengeong di depan pintu, tapi begitu dibuka malah duduk diam? Yuk pahami kebiasaan 'inspeksi pintu' ini dan cara menyikapinya dengan sabar.",
+    date: "2026-11-13",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "eye",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-minta-pintu-dibuka-lalu-tidak-masuk.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk tegak di ambang pintu kamar yang setengah terbuka, menatap ke dalam dengan wajah penasaran, suasana rumah cerah, gaya pastel tanpa teks",
+    content: `
+      <p>Skenarionya mungkin sudah sangat akrab. Kamu lagi asyik rebahan, lalu dari balik pintu kamar terdengar suara "meooong" yang makin lama makin dramatis. Kamu bangun, berjalan ke pintu, membukanya dengan penuh kasih sayang... dan anabul cuma duduk di situ. Menatapmu. Tidak masuk. Tidak pergi. Seolah berkata, "Oh, sudah dibuka? Oke, terima kasih, aku cuma mau memastikan."</p>
+      <p>Lima menit kemudian, dia mengeong lagi dari sisi yang lain. Selamat, kamu resmi jadi petugas pintu pribadi seekor kucing. Tenang, kamu tidak sendirian, dan kebiasaan ini umumnya bukan tanda ada yang salah dengan anabulmu.</p>
+
+      <h2>Kenapa kucing suka "menginspeksi" pintu?</h2>
+      <p>Tidak ada satu jawaban pasti untuk semua kucing, tapi ada beberapa alasan yang sering dianggap masuk akal oleh para pencinta kucing:</p>
+      <ul>
+        <li><strong>Pintu tertutup itu misteri.</strong> Kucing dikenal sebagai makhluk yang penasaran dan suka tahu apa yang terjadi di wilayahnya. Pintu yang tertutup berarti ada bagian "kerajaan" yang tidak bisa dia awasi, dan itu cukup mengganggu ketenangan batinnya.</li>
+        <li><strong>Mengecek dulu sebelum melangkah.</strong> Banyak kucing suka berhenti di ambang pintu untuk mengamati, mengendus, dan memastikan situasi aman sebelum masuk. Bagi kita terlihat seperti bengong, bagi dia itu prosedur keamanan standar.</li>
+        <li><strong>Yang dicari sebenarnya kamu.</strong> Kadang yang diinginkan anabul bukan ruangannya, tapi perhatianmu. Begitu kamu datang dan membukakan pintu, misinya sudah tercapai. Mirip dengan kebiasaan <a href="/artikel/kucing-menunggu-di-depan-pintu/">kucing menunggu di depan pintu saat kamu pulang</a>.</li>
+        <li><strong>Suka punya pilihan.</strong> Kucing biasanya merasa lebih nyaman kalau bisa memilih mau di mana. Pintu yang terbuka memberi pilihan itu, walaupun akhirnya dia memilih untuk... tetap duduk di luar.</li>
+      </ul>
+
+      <h2>Mengeong di depan pintu: apa yang mau disampaikan?</h2>
+      <p>Meongan di depan pintu biasanya memang ditujukan untuk manusia. Kucing cepat belajar bahwa suara tertentu bikin pintu terbuka, jadi jangan heran kalau "dialognya" makin lancar dari hari ke hari. Kalau kamu ingin lebih paham ragam suara anabul, coba baca juga <a href="/artikel/arti-suara-kucing-meong-dengkur-desis/">arti meong, dengkur, dan desis kucing</a>.</p>
+      <p>Perhatikan juga waktunya. Kalau anabul selalu ramai di depan pintu pada jam yang sama, misalnya pagi-pagi atau menjelang jam makan, bisa jadi itu bagian dari rutinitasnya, bukan sekadar iseng.</p>
+
+      <h2>Cara menyikapinya dengan sabar (dan tetap waras)</h2>
+      <p>Kabar baiknya, kamu tidak harus jadi penjaga pintu seumur hidup. Beberapa ide yang bisa dicoba:</p>
+      <ul>
+        <li><strong>Biarkan pintu sedikit terbuka.</strong> Kalau ruangan itu memang aman untuk kucing, pintu yang dibiarkan terbuka sedikit (dengan penahan pintu supaya tidak tiba-tiba menutup) sering kali langsung menyelesaikan masalah. Tidak ada misteri, tidak ada drama.</li>
+        <li><strong>Pertimbangkan pintu kucing.</strong> Untuk pintu yang sering jadi sumber protes, pintu kecil khusus kucing bisa jadi solusi jangka panjang, asalkan cocok dengan rumahmu dan anabul mau belajar memakainya.</li>
+        <li><strong>Jangan selalu membalas meongan dengan pintu.</strong> Kalau setiap meongan langsung dihadiahi pintu terbuka, anabul akan belajar bahwa strategi ini selalu berhasil. Sesekali tunggu dia tenang dulu, baru buka pintunya.</li>
+        <li><strong>Penuhi kebutuhan main dan perhatiannya.</strong> Kucing yang bosan cenderung mencari "proyek", dan pintu tertutup adalah proyek yang sempurna. Sesi main singkat beberapa kali sehari bisa membantu menyalurkan energinya. Butuh inspirasi? Lihat <a href="/artikel/sesi-main-kucing-singkat-efektif/">tips sesi playtime yang singkat tapi efektif</a>.</li>
+        <li><strong>Buat ruangan yang tidak boleh dimasuki tetap tertutup dengan konsisten.</strong> Kalau ada ruangan yang memang tidak aman, misalnya karena banyak kabel atau barang mudah pecah, lebih baik konsisten tertutup daripada kadang dibuka, kadang tidak. Konsistensi membantu anabul memahami aturan rumah.</li>
+      </ul>
+
+      <h2>Kapan perlu lebih waspada?</h2>
+      <p>Kebiasaan inspeksi pintu umumnya wajar. Tapi kalau anabul tiba-tiba mengeong jauh lebih sering dari biasanya, tampak gelisah, terlihat bingung, atau perilakunya berubah drastis tanpa alasan yang jelas, ada baiknya berkonsultasi ke dokter hewan. Perubahan perilaku yang mendadak kadang bisa berkaitan dengan rasa tidak nyaman yang tidak kelihatan dari luar.</p>
+
+      <p>Pada akhirnya, kucing yang minta pintu dibuka lalu cuma duduk manis itu sedang melakukan hal yang sangat "kucing": mengawasi wilayahnya, memastikan semuanya aman, dan mengecek apakah manusianya masih sigap. Jadi lain kali dia menatapmu dari ambang pintu tanpa bergerak, anggap saja itu inspeksi rutin. Dan sepertinya, kamu lulus.</p>
+    `,
+  },
+  {
     slug: "kucing-nyaman-saat-musim-hujan",
     title: "Hujan Seharian, Anabul Jadi Bola Bulu: Cara Bikin Kucing Tetap Hangat dan Nyaman di Musim Hujan",
     category: "Gaya Hidup",
