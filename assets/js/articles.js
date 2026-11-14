@@ -24,6 +24,54 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-mengendus-sepatu-dan-tas",
+    title: "Petugas Bea Cukai Berbulu: Kenapa Kucing Suka Mengendus Sepatu dan Tasmu Sepulang dari Luar?",
+    category: "Perilaku",
+    excerpt:
+      "Baru pulang, sepatu dan tasmu langsung diperiksa anabul? Yuk kenali kebiasaan 'cek bau' ini dan cara menyikapinya dengan santai dan aman.",
+    date: "2026-11-14",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "paw",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-mengendus-sepatu-dan-tas.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga sedang serius mengendus sepasang sepatu kets dan tas kanvas di dekat pintu masuk rumah, suasana hangat, gaya pastel tanpa teks",
+    content: `
+      <p>Kamu baru saja pulang. Kunci belum sempat ditaruh, sepatu baru setengah dilepas, dan tiba-tiba ada sosok abu-abu yang datang dengan langkah penuh wibawa. Bukan untuk menyambutmu, ternyata. Dia langsung menuju sepatumu, menempelkan hidung, mengendus lama sekali, lalu pindah ke tas. Kamu cuma bisa berdiri seperti penumpang yang sedang menunggu hasil pemeriksaan di bandara.</p>
+      <p>Selamat datang di pos bea cukai versi rumahan, dengan petugas berbulu yang sangat teliti. Kabar baiknya, kebiasaan ini umumnya wajar dan justru cukup menggemaskan kalau kita paham alasannya.</p>
+
+      <h2>Hidung adalah "berita harian" bagi kucing</h2>
+      <p>Kucing dikenal sangat mengandalkan indra penciuman untuk memahami dunia di sekitarnya. Kalau kita membaca berita lewat ponsel, anabul "membaca" berita lewat bau. Dan sepatu serta tasmu adalah koran paling lengkap yang masuk ke rumah hari itu.</p>
+      <p>Coba pikirkan: sepatumu membawa jejak jalanan, rumput, lantai kantor, mungkin juga bau kucing tetangga yang tadi kamu sapa di parkiran. Tasmu bisa membawa aroma makanan, kafe, atau rumah teman. Semua itu informasi baru di wilayah yang biasanya sangat ia kenal. Wajar kalau dia ingin tahu, "Kamu habis dari mana saja, hah?"</p>
+
+      <h2>Beberapa alasan kucing suka memeriksa barang bawaanmu</h2>
+      <ul>
+        <li><strong>Penasaran dengan bau baru.</strong> Bagi kucing yang lebih banyak di dalam rumah, bau dari luar adalah hiburan sekaligus teka-teki. Sedikit mirip dengan kebiasaan <a href="/artikel/kucing-klaim-barang-baru-atau-tas-belanja/">langsung duduk di atas tas belanja atau barang baru</a>.</li>
+        <li><strong>Memastikan wilayahnya tetap aman.</strong> Barang yang membawa bau asing bisa membuat kucing ingin mengeceknya dulu sebelum merasa tenang lagi. Ini bagian dari caranya menjaga "kerajaan" kecilnya.</li>
+        <li><strong>Mengembalikan bau yang familier.</strong> Setelah mengendus, sebagian kucing lanjut menggosokkan pipi atau kepalanya ke sepatu, tas, atau kakimu. Banyak pencinta kucing menganggap ini cara anabul menambahkan baunya sendiri, seperti saat <a href="/artikel/kucing-suka-menyundul-kepala/">ia menyundul kepala dan gosok-gosok di kakimu</a>.</li>
+        <li><strong>Bagian dari ritual menyambutmu.</strong> Kalau anabulmu tipe yang <a href="/artikel/kucing-menunggu-di-depan-pintu/">suka menunggu di depan pintu saat kamu pulang</a>, sesi mengendus ini bisa jadi bagian dari "upacara penyambutan" versinya. Kamu disambut, tapi diperiksa dulu.</li>
+      </ul>
+
+      <h2>Wajah aneh setelah mengendus? Tenang dulu</h2>
+      <p>Kadang setelah mengendus sepatu, anabul membuka mulutnya sedikit dengan ekspresi seperti habis mencium sesuatu yang aneh. Tampangnya seolah sedang menilai, "Hmm, sepatu ini pernah menginjak apa?" Ekspresi ini sering disebut flehmen response, dan umumnya dianggap sebagai cara kucing menganalisis bau dengan lebih saksama. Jadi bukan berarti sepatumu seburuk itu. Mungkin.</p>
+
+      <h2>Cara menyikapinya dengan santai dan aman</h2>
+      <p>Membiarkan anabul mengendus sebentar biasanya tidak masalah. Tapi karena sepatu dan tas dari luar bisa membawa kotoran atau benda yang tidak cocok untuk kucing, ada beberapa hal kecil yang bisa kamu lakukan:</p>
+      <ul>
+        <li><strong>Simpan sepatu di rak atau lemari tertutup.</strong> Biarkan anabul mengendus sebentar saat kamu datang, lalu taruh sepatu di tempatnya supaya tidak jadi bantal atau mainan berjam-jam.</li>
+        <li><strong>Jangan biarkan dia menjilati atau menggigit sol sepatu.</strong> Kalau dia mulai menjilat, alihkan perhatiannya dengan lembut, misalnya dengan mainan atau elusan.</li>
+        <li><strong>Periksa isi tas sebelum ditinggal terbuka.</strong> Tas sering berisi barang yang menarik tapi tidak aman untuk kucing, seperti obat, permen karet, karet rambut, atau kantong plastik. Tutup ritsletingnya atau gantung tas di tempat yang tidak terjangkau.</li>
+        <li><strong>Cuci tangan dulu, baru main.</strong> Kebiasaan sederhana ini membantu mengurangi kotoran dari luar yang ikut terbawa ke bulu anabul saat kamu mengelusnya.</li>
+        <li><strong>Jadikan momen pulang sebagai waktu bonding.</strong> Setelah sesi "pemeriksaan" selesai, sapa anabul, ajak bicara, atau ajak main sebentar. Banyak kucing senang kalau momen kamu pulang terasa menyenangkan dan bisa ditebak.</li>
+      </ul>
+
+      <h2>Kapan perlu lebih waspada?</h2>
+      <p>Mengendus barang bawaan adalah perilaku yang umum. Namun kalau anabul tampak sangat stres setiap kali mencium bau tertentu, misalnya mendesis terus, bersembunyi lama, atau berubah perilaku secara mendadak, coba perhatikan apa pemicunya. Bau kucing lain kadang bisa membuat sebagian kucing gelisah. Kalau perubahan perilakunya berlangsung lama atau kamu khawatir, konsultasikan ke dokter hewan supaya penyebabnya bisa dicek dengan tepat.</p>
+
+      <p>Jadi lain kali kamu pulang dan langsung "digeledah" oleh hidung kecil yang serius, nikmati saja prosesnya. Anabulmu cuma sedang membaca cerita harimu lewat bau. Setelah semuanya dinyatakan aman, biasanya giliran kamu yang diperiksa: kaki diendus, betis disundul, lalu dia duduk manis menunggu camilan. Pemeriksaan selesai, silakan masuk.</p>
+    `,
+  },
+  {
     slug: "kucing-minta-pintu-dibuka-lalu-tidak-masuk",
     title: "Pintu Dibuka, Anabul Cuma Bengong: Kenapa Kucing Suka Minta Pintu Dibuka lalu Nggak Jadi Masuk?",
     category: "Perilaku",
