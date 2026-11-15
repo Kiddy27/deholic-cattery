@@ -24,6 +24,53 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-suka-ngobrol-balik",
+    title: "Diajak Ngobrol, Malah Dijawab: Kenapa Sebagian Kucing Suka \"Ngobrol\" Balik dengan Pemiliknya?",
+    category: "Perilaku",
+    excerpt:
+      "Kamu bilang \"Halo, Nak\", dia jawab \"Mrrp!\" Yuk kenali kebiasaan kucing yang suka membalas obrolan dan cara menikmatinya bareng anabul.",
+    date: "2026-11-15",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "heart",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-suka-ngobrol-balik.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk di sofa sambil membuka mulut seperti sedang menjawab pemiliknya yang tersenyum di sebelahnya, gelembung suara kosong tanpa tulisan, gaya pastel hangat tanpa teks",
+    content: `
+      <p>Pagi-pagi kamu menyapa, "Selamat pagi, Nak. Tidurnya nyenyak?" Dari ujung kasur terdengar jawaban pendek: "Mrrp." Kamu tanya lagi, "Lapar, ya?" Kali ini jawabannya lebih panjang: "Mraaang!" Dan entah bagaimana, kalian baru saja melakukan percakapan yang terasa sangat masuk akal, padahal tidak ada satu pun dari kalian yang benar-benar paham bahasa lawan bicara.</p>
+      <p>Kalau anabulmu termasuk tipe yang suka "ngobrol" balik, selamat. Kamu punya teman curhat yang selalu merespons, walaupun isi jawabannya masih jadi misteri. Yuk kita bahas kenapa sebagian kucing rajin membalas suara pemiliknya, dan bagaimana cara menikmati obrolan ini.</p>
+
+      <h2>Meong itu sebagian besar untuk manusia</h2>
+      <p>Banyak pencinta kucing dan pengamat perilaku hewan menyebut bahwa kucing dewasa jarang saling mengeong satu sama lain. Antar sesama kucing, mereka lebih banyak "bicara" lewat bau, posisi tubuh, ekor, dan tatapan. Meong justru sering dipakai untuk berkomunikasi dengan kita, para manusia yang kurang peka membaca bahasa tubuh.</p>
+      <p>Artinya, saat anabul membalas sapaanmu, bisa jadi dia memang sedang memakai "bahasa khusus manusia" yang ia pelajari di rumah. Kalau kamu ingin mengenal berbagai jenis suaranya, coba baca juga <a href="/artikel/arti-suara-kucing-meong-dengkur-desis/">arti suara kucing dari meong, dengkur, sampai desis</a>.</p>
+
+      <h2>Beberapa alasan kucing suka membalas obrolan</h2>
+      <ul>
+        <li><strong>Dia belajar bahwa suaranya didengar.</strong> Kalau setiap kali ia bersuara kamu menoleh, menjawab, atau mengelus, lama-lama ia paham bahwa "ngobrol" itu menghasilkan perhatian. Kucing itu pengamat yang cerdas, lho.</li>
+        <li><strong>Menyapa dan menjalin kedekatan.</strong> Suara pendek seperti "mrrp" atau "mrrrow" sering terdengar saat kucing menyapa orang yang ia kenal. Banyak pemilik merasakan ini sebagai cara anabul bilang, "Iya, aku di sini."</li>
+        <li><strong>Ada maunya.</strong> Jujur saja, sebagian obrolan berujung ke mangkuk makan. Kalau jawabannya makin keras setiap kamu berjalan ke dapur, kemungkinan topik pembicaraannya sudah jelas.</li>
+        <li><strong>Kepribadian dan kebiasaan.</strong> Setiap kucing punya karakter berbeda. Ada yang cerewet seperti penyiar radio, ada juga yang kalem dan cuma sesekali bersuara. Dua-duanya normal.</li>
+      </ul>
+
+      <h2>Kucing pendiam bukan berarti tidak sayang</h2>
+      <p>Kalau anabulmu jarang membalas, jangan buru-buru merasa dicuekin. Banyak kucing lebih suka berkomunikasi lewat cara lain: duduk di dekatmu, menyundul kaki, atau memberikan <a href="/artikel/kedipan-pelan-kucing-slow-blink/">kedipan pelan alias slow blink</a> dari seberang ruangan. Itu juga obrolan, hanya saja versi tanpa suara. Lebih elegan, mungkin.</p>
+
+      <h2>Cara menikmati obrolan dengan anabul</h2>
+      <ul>
+        <li><strong>Ajak bicara dengan nada lembut.</strong> Kucing biasanya lebih nyaman dengan suara yang tenang dan ramah dibanding suara keras atau tiba-tiba.</li>
+        <li><strong>Beri jeda untuk "menjawab".</strong> Sapa, lalu tunggu sebentar. Banyak pemilik yang merasa kucingnya mulai paham pola giliran bicara ini. Rasanya seperti podcast berdua.</li>
+        <li><strong>Sapa di momen yang sama setiap hari.</strong> Misalnya saat bangun tidur, waktu makan, atau saat kamu pulang. Kebiasaan yang bisa ditebak sering bikin kucing lebih tenang, sama seperti manfaat <a href="/artikel/rutinitas-harian-kucing/">rutinitas harian yang konsisten</a>.</li>
+        <li><strong>Perhatikan bahasa tubuhnya.</strong> Telinga ke depan, ekor tegak, dan badan santai biasanya tanda dia sedang dalam mood ngobrol. Kalau telinganya mendatar atau ekornya mengibas cepat, mungkin dia sedang tidak ingin diganggu. Hormati saja, nanti juga dia datang lagi.</li>
+        <li><strong>Jangan selalu jawab meong subuh dengan makanan.</strong> Kalau setiap "pidato" jam 4 pagi langsung dihadiahi makanan, anabul bisa belajar bahwa itu cara ampuh membangunkanmu. Tetap sayang, tapi tetap konsisten dengan jadwal.</li>
+      </ul>
+
+      <h2>Kapan perlu lebih waspada?</h2>
+      <p>Obrolan santai sehari-hari umumnya bukan hal yang perlu dikhawatirkan. Namun kalau kucingmu tiba-tiba jadi jauh lebih sering bersuara dari biasanya, suaranya berubah menjadi serak, terdengar seperti kesakitan, atau justru mendadak diam padahal biasanya cerewet, coba perhatikan tanda lain seperti nafsu makan dan kebiasaan ke kotak pasir. Perubahan perilaku yang mendadak sebaiknya dikonsultasikan ke dokter hewan supaya penyebabnya bisa dicek dengan tepat.</p>
+
+      <p>Jadi lain kali anabul menjawab "Mrrp!" saat kamu bertanya soal harinya, jawab saja dengan sepenuh hati. Mungkin dia sedang cerita soal cicak di dinding, mungkin protes karena mangkuknya tinggal setengah, atau mungkin cuma ingin bilang dia senang kamu ada di rumah. Kita memang belum punya kamus bahasa kucing, tapi rasa sayangnya selalu sampai dengan jelas.</p>
+    `,
+  },
+  {
     slug: "kucing-mengendus-sepatu-dan-tas",
     title: "Petugas Bea Cukai Berbulu: Kenapa Kucing Suka Mengendus Sepatu dan Tasmu Sepulang dari Luar?",
     category: "Perilaku",
