@@ -24,6 +24,54 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-menggigit-kabel-charger",
+    title: "Kabel Charger Putus Lagi? Kenapa Kucing Suka Menggigit Kabel dan Cara Mengamankan Rumah Tanpa Drama",
+    category: "Gaya Hidup",
+    excerpt:
+      "Charger baru, besoknya sudah ada bekas gigitan mungil. Yuk kenali kenapa kucing suka mengunyah kabel dan cara bikin rumah lebih aman buat anabul.",
+    date: "2026-11-16",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "shield",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-menggigit-kabel-charger.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk penasaran di dekat meja kerja, menatap kabel charger yang sudah dirapikan di dalam pelindung kabel, sementara mainan tongkat bulu tergeletak di lantai, gaya pastel lembut tanpa teks",
+    content: `
+      <p>Malam hari kamu mencolokkan HP, lalu tidur dengan tenang. Paginya, baterai masih 12 persen. Kamu cek kabelnya, dan di sana terlihat jejak gigitan kecil yang rapi, seperti karya seni abstrak. Tersangka utama duduk manis di ujung kasur, menjilati kaki depannya dengan wajah paling polos sedunia.</p>
+      <p>Kalau ini terdengar akrab, kamu tidak sendirian. Banyak pemilik kucing punya koleksi charger "korban" yang sudah dililit selotip. Lucu sih kalau diceritakan, tapi kebiasaan menggigit kabel sebetulnya perlu ditanggapi serius, terutama kalau kabelnya sedang tersambung ke listrik. Yuk bahas kenapa anabul tertarik dan bagaimana mengamankan rumah tanpa drama.</p>
+
+      <h2>Kenapa kabel terlihat begitu menggoda?</h2>
+      <p>Belum ada satu jawaban pasti untuk semua kucing, tapi ada beberapa kemungkinan yang sering disebut pemilik dan pengamat perilaku kucing:</p>
+      <ul>
+        <li><strong>Bentuknya mirip mainan.</strong> Kabel itu panjang, tipis, dan bergoyang kalau disentuh. Buat insting pemburu kucing, ini mirip ekor mangsa atau tali mainan. Tidak heran kalau mereka juga sering tertarik pada <a href="/artikel/kucing-suka-kantong-plastik-dan-tali/">kresek, karet rambut, dan tali sepatu</a>.</li>
+        <li><strong>Teksturnya enak dikunyah.</strong> Lapisan karet atau plastik kabel terasa kenyal di gigi. Sebagian kucing tampaknya menikmati sensasi mengunyah itu, apalagi anak kucing yang sedang aktif mengeksplorasi apa saja dengan mulutnya.</li>
+        <li><strong>Bosan dan butuh kegiatan.</strong> Kucing rumahan yang energinya belum tersalurkan bisa mencari hiburan sendiri. Kabel yang menjuntai di belakang meja jadi "wahana" gratis.</li>
+        <li><strong>Cari perhatian.</strong> Kalau setiap kali dia mendekati kabel kamu langsung lompat dan heboh, anabul bisa belajar bahwa kabel adalah tombol ajaib untuk memanggilmu.</li>
+      </ul>
+
+      <h2>Kenapa perlu dicegah?</h2>
+      <p>Selain bikin dompet menangis karena harus beli charger baru terus, kabel yang tersambung listrik bisa berbahaya kalau digigit sampai lapisannya terkelupas. Potongan plastik kecil juga sebaiknya tidak sampai tertelan. Jadi tujuan kita bukan memarahi anabul, melainkan membuat kabel jadi tidak menarik dan tidak mudah dijangkau.</p>
+
+      <h2>Cara mengamankan rumah tanpa drama</h2>
+      <ul>
+        <li><strong>Sembunyikan dan rapikan kabel.</strong> Gunakan pelindung kabel (cable protector), pipa spiral, atau kotak penyimpan stopkontak. Kabel yang menempel rapi di dinding atau tersembunyi di balik furnitur jauh lebih sulit dijadikan mainan.</li>
+        <li><strong>Cabut kalau tidak dipakai.</strong> Charger yang tergeletak di lantai tanpa HP itu ibarat undangan terbuka. Biasakan mencabut dan menyimpan kabel di laci setelah selesai mengisi daya.</li>
+        <li><strong>Atur posisi charger.</strong> Kalau bisa, isi daya di tempat yang tidak bisa dijangkau anabul saat kamu tidur atau pergi, misalnya di ruangan yang pintunya ditutup.</li>
+        <li><strong>Beri alternatif yang boleh digigit.</strong> Siapkan mainan kunyah yang aman untuk kucing atau mainan tongkat berbulu. Begitu dia mulai mengincar kabel, alihkan dengan tenang ke mainan itu.</li>
+        <li><strong>Salurkan energinya.</strong> Kucing yang puas bermain biasanya lebih santai dan tidak terlalu iseng. Lihat juga ide <a href="/artikel/sesi-main-kucing-singkat-efektif/">sesi main singkat tapi efektif</a> dan <a href="/artikel/mainan-stimulasi-kucing-indoor/">mainan dan stimulasi untuk kucing indoor</a>.</li>
+        <li><strong>Jangan heboh berlebihan.</strong> Cukup pindahkan anabul atau alihkan perhatiannya tanpa teriak. Reaksi yang terlalu dramatis bisa membuat kabel justru terasa makin seru.</li>
+        <li><strong>Hindari hukuman.</strong> Memukul atau menyemprot kucing tidak membantu dia paham, malah bisa membuat dia takut padamu. Mengubah lingkungan jauh lebih efektif.</li>
+      </ul>
+
+      <h2>Kapan perlu ke dokter hewan?</h2>
+      <p>Kalau kamu curiga anabul menggigit kabel yang sedang tersambung listrik, atau kamu menemukan tanda-tanda yang tidak biasa seperti luka di mulut, ngiler berlebihan, lemas, kesulitan bernapas, atau perilakunya berubah mendadak, segera hubungi dokter hewan. Jangan tunggu sampai besok. Begitu juga kalau dia terlihat menelan potongan plastik atau kabel. Dan sebelum menyentuh kucing yang masih dekat dengan kabel bermasalah, pastikan aliran listriknya sudah dimatikan dulu supaya kamu juga aman.</p>
+      <p>Selain itu, kalau kucingmu punya kebiasaan mengunyah berbagai benda yang bukan makanan secara terus-menerus, ada baiknya ceritakan ke dokter hewan saat pemeriksaan rutin. Dokter bisa membantu mencari tahu apakah ada penyebab lain yang perlu diperhatikan.</p>
+
+      <h2>Penutup: rumah aman, anabul senang, charger awet</h2>
+      <p>Menghadapi kucing penggigit kabel memang butuh sedikit kreativitas. Rapikan kabel, cabut yang tidak dipakai, sediakan mainan pengganti, dan ajak anabul bermain setiap hari. Lama-lama, kabel charger akan kembali jadi benda membosankan yang memang seharusnya begitu. Dan kamu bisa bangun pagi dengan baterai HP penuh, ditemani anabul yang tetap polos, tapi kali ini benar-benar tidak bersalah.</p>
+    `,
+  },
+  {
     slug: "kucing-suka-ngobrol-balik",
     title: "Diajak Ngobrol, Malah Dijawab: Kenapa Sebagian Kucing Suka \"Ngobrol\" Balik dengan Pemiliknya?",
     category: "Perilaku",
