@@ -24,6 +24,51 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-membantu-beberes-kasur-dan-baju",
+    title: "Asisten Beberes yang Malah Bikin Berantakan: Kenapa Kucing Selalu Muncul Saat Kamu Merapikan Kasur dan Melipat Baju?",
+    category: "Perilaku",
+    excerpt:
+      "Seprai baru dibentangkan, anabul langsung menyelam ke bawahnya. Yuk kenali kenapa kucing suka \"membantu\" beberes dan cara menikmatinya tanpa stres.",
+    date: "2026-11-17",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "home",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-membantu-beberes-kasur-dan-baju.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga mengintip dari bawah seprai putih yang sedang dibentangkan di atas kasur, dengan tumpukan baju terlipat rapi di sampingnya, gaya pastel lembut tanpa teks",
+    content: `
+      <p>Minggu pagi, kamu akhirnya punya niat mulia: ganti seprai dan melipat setumpuk baju yang sudah seminggu menggunung di kursi. Seprai baru kamu bentangkan dengan gaya ala hotel bintang lima. Lalu, entah dari mana, muncul gundukan bulat yang bergerak-gerak di bawah kain. Gundukan itu punya ekor. Dan sepertinya dia sangat bangga dengan pekerjaannya.</p>
+      <p>Selamat, kamu punya asisten beberes pribadi. Gajinya cuma elusan dan camilan, tapi hasil kerjanya... yah, kasur jadi dua kali lebih lama rapinya. Kenapa sih kucing selalu datang tepat saat kita sedang merapikan sesuatu? Yuk kita bahas pelan-pelan.</p>
+
+      <h2>Kemungkinan alasan di balik "bantuan" anabul</h2>
+      <p>Tidak ada satu jawaban yang pasti untuk semua kucing, karena tiap anabul punya kepribadian sendiri. Tapi ada beberapa kemungkinan yang sering terlihat di rumah-rumah pencinta kucing:</p>
+      <ul>
+        <li><strong>Kain yang bergerak itu seperti mainan raksasa.</strong> Seprai yang dikibaskan, selimut yang melambai, ujung baju yang terseret, semuanya bergerak dengan cara yang menggoda insting pemburu. Dari sudut pandang kucing, kamu baru saja mengeluarkan mainan paling seru di rumah.</li>
+        <li><strong>Ada aroma kamu di mana-mana.</strong> Baju dan kasur menyimpan bau pemiliknya, sesuatu yang bagi banyak kucing terasa akrab dan menenangkan. Ini mirip dengan alasan kenapa anabul suka <a href="/artikel/kucing-tidur-di-atas-baju-kotor/">tidur di atas baju kotor</a> milikmu.</li>
+        <li><strong>Hal baru harus diperiksa dulu.</strong> Seprai yang baru dicuci atau tumpukan baju yang tiba-tiba muncul adalah "barang baru" di wilayahnya. Kucing cenderung ingin mengendus dan menduduki benda baru, seperti saat mereka langsung <a href="/artikel/kucing-klaim-barang-baru-atau-tas-belanja/">mengklaim tas belanja</a> yang baru kamu taruh.</li>
+        <li><strong>Kamu sedang sibuk, dan itu kesempatan.</strong> Saat beberes, kamu ada di satu tempat, bergerak di dekatnya, dan sesekali tertawa melihat tingkahnya. Buat kucing yang suka perhatian, ini panggung yang sempurna.</li>
+        <li><strong>Tempat hangat dan empuk.</strong> Baju yang baru diangkat dari jemuran atau kasur yang baru dirapikan memang terasa nyaman. Kadang alasannya sesederhana itu: tempatnya enak buat rebahan.</li>
+      </ul>
+
+      <h2>Apakah ini perlu dikhawatirkan?</h2>
+      <p>Umumnya tidak. Kebiasaan ini termasuk perilaku main dan penasaran yang wajar. Bahkan banyak pemilik menganggapnya salah satu momen paling lucu bersama anabul. Yang perlu diperhatikan hanyalah keamanannya: jangan sampai kucing terjebak terlalu lama di dalam sarung bantal atau selimut yang terlipat, dan hati-hati saat menutup lemari atau keranjang cucian supaya tidak ada "penumpang gelap" di dalamnya.</p>
+      <p>Kalau kebiasaan ini tiba-tiba berubah drastis, misalnya anabul jadi sering bersembunyi lama di balik selimut dan tidak mau keluar, terlihat lesu, atau nafsu makannya turun, ada baiknya kamu konsultasikan ke dokter hewan untuk memastikan ia baik-baik saja.</p>
+
+      <h2>Cara beberes dengan tenang (tanpa mengusir asisten)</h2>
+      <ol>
+        <li><strong>Ajak main sebelum mulai.</strong> Sesi main singkat dengan mainan tongkat bisa membantu menyalurkan energinya dulu. Kucing yang sudah puas berburu lebih mungkin rebahan santai daripada menyerang seprai. Ide sesinya bisa kamu lihat di artikel <a href="/artikel/sesi-main-kucing-singkat-efektif/">playtime singkat tapi efektif</a>.</li>
+        <li><strong>Siapkan "pos jaga" untuknya.</strong> Taruh selimut kecil atau baju lama di kursi dekat kasur. Ada kucing yang senang ikut "mengawasi" dari tempatnya sendiri, asal tetap dekat denganmu.</li>
+        <li><strong>Beri bagian pekerjaan sendiri.</strong> Lempar satu kaus kaki bersih yang sudah tidak terpakai atau mainan kain ringan ke lantai. Kadang ini cukup untuk mengalihkan perhatiannya selama kamu menyelesaikan seprai.</li>
+        <li><strong>Pilih waktu saat ia biasanya tidur.</strong> Kalau anabulmu punya jam tidur siang yang teratur, beberes di jam itu bisa jadi strategi jitu. Walaupun, jujur saja, banyak kucing tetap terbangun begitu mendengar suara seprai dikibaskan.</li>
+        <li><strong>Jangan memarahi.</strong> Kucing tidak sedang berniat menyabotase. Mengangkatnya dengan lembut ke tempat lain jauh lebih efektif daripada membentak, dan hubungan kalian tetap hangat.</li>
+      </ol>
+
+      <h2>Kadang, terima saja bantuannya</h2>
+      <p>Ada kalanya cara terbaik adalah menyerah dengan anggun. Biarkan anabul menyelam di bawah seprai selama satu atau dua menit, nikmati tingkahnya, foto kalau perlu, lalu lanjutkan pekerjaan setelah ia bosan sendiri. Baju yang terlipat mungkin jadi sedikit berbulu, tapi kenangan pagi yang lucu itu jauh lebih berharga.</p>
+      <p>Lagipula, kasur yang rapi memang enak dilihat. Tapi kasur yang rapi dengan satu kucing abu-abu bulat tidur di tengahnya? Itu baru namanya rumah.</p>
+    `,
+  },
+  {
     slug: "kucing-menggigit-kabel-charger",
     title: "Kabel Charger Putus Lagi? Kenapa Kucing Suka Menggigit Kabel dan Cara Mengamankan Rumah Tanpa Drama",
     category: "Gaya Hidup",
