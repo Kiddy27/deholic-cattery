@@ -24,6 +24,51 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-mengintip-dari-balik-tirai",
+    title: "Agen Rahasia di Balik Gorden: Kenapa Kucing Suka Mengintip dari Balik Tirai?",
+    category: "Perilaku",
+    excerpt:
+      "Gorden bergoyang, ada sepasang mata bulat mengintip. Yuk kenali kenapa kucing suka mengamati dari balik tirai dan cara bikin spot intip yang aman.",
+    date: "2026-11-18",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "eye",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-mengintip-dari-balik-tirai.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga mengintip dari balik gorden pastel yang sedikit tersingkap di dekat jendela, hanya kepala dan kaki depannya yang terlihat, gaya pastel lembut tanpa teks",
+    content: `
+      <p>Kamu sedang santai di ruang tamu, lalu sudut mata menangkap sesuatu yang aneh: gorden bergoyang padahal jendela tertutup. Kamu menoleh. Dari celah kain, muncul sepasang mata bulat yang menatap lurus ke arahmu, tanpa berkedip, penuh rahasia. Begitu ketahuan, kepala itu menghilang lagi. Seolah-olah tadi tidak terjadi apa-apa.</p>
+      <p>Selamat, rumahmu punya agen rahasia berbulu. Ia tidak digaji, tidak punya lencana, tapi tugasnya jelas: mengawasi semua yang terjadi dari tempat yang (menurutnya) tidak terlihat. Kenapa sih kucing suka sekali mengintip dari balik tirai? Yuk kita bongkar misinya pelan-pelan.</p>
+
+      <h2>Kemungkinan alasan di balik misi mengintip</h2>
+      <p>Setiap kucing punya kepribadian sendiri, jadi alasannya bisa berbeda-beda. Tapi ada beberapa kemungkinan yang sering terlihat:</p>
+      <ul>
+        <li><strong>Melihat tanpa dilihat itu terasa aman.</strong> Kucing adalah pemburu, tapi di alam mereka juga bisa menjadi buruan hewan yang lebih besar. Karena itu, banyak kucing merasa lebih tenang saat bisa mengamati sekeliling dari tempat yang tertutup. Tirai memberi "dinding" tipis yang membuatnya merasa tersembunyi, padahal ekornya sering masih kelihatan di bawah.</li>
+        <li><strong>Di balik tirai biasanya ada jendela.</strong> Jendela adalah layar TV favorit anabul: burung lewat, daun bergoyang, tetangga pulang kerja. Kalau anabulmu juga suka <a href="/artikel/kucing-chattering-lihat-burung/">bersuara "ekekek" saat melihat burung</a>, besar kemungkinan gorden adalah markas pengintaiannya.</li>
+        <li><strong>Pos pemantauan saat suasana ramai.</strong> Ketika ada tamu, suara keras, atau barang baru di rumah, sebagian kucing memilih mundur ke balik tirai sambil tetap memantau keadaan. Ia belum siap bergabung, tapi juga tidak mau ketinggalan berita.</li>
+        <li><strong>Persiapan "serangan" kejutan.</strong> Ada juga kucing yang mengintip karena sedang bermain. Kaki kamu yang lewat, mainan yang bergerak, atau kucing lain di rumah bisa jadi target sergapan. Mengintip adalah bagian dari strategi, lalu... hap!</li>
+        <li><strong>Kainnya enak dan tempatnya hangat.</strong> Area dekat jendela sering kena sinar matahari pagi. Kadang alasannya sesederhana itu: tempatnya nyaman buat rebahan sambil sesekali melirik dunia.</li>
+      </ul>
+
+      <h2>Apakah ini perlu dikhawatirkan?</h2>
+      <p>Umumnya tidak. Mengintip dan bersembunyi sebentar termasuk perilaku kucing yang wajar, dan banyak pemilik justru menganggapnya menggemaskan. Yang perlu diperhatikan adalah konteksnya. Kalau anabul tiba-tiba jauh lebih sering bersembunyi dari biasanya, lama tidak mau keluar, terlihat lesu, nafsu makannya turun, atau ada perubahan perilaku lain yang membuatmu ragu, sebaiknya konsultasikan ke dokter hewan untuk memastikan ia baik-baik saja.</p>
+      <p>Satu hal lagi yang patut diwaspadai adalah keamanan tirainya sendiri. Kucing yang bersemangat kadang memanjat gorden, dan tali tirai atau tali blind yang menjuntai bisa membuat kaki atau lehernya terbelit. Lebih aman kalau tali-tali seperti ini diikat tinggi atau digulung supaya tidak terjangkau.</p>
+
+      <h2>Cara membuat spot intip yang aman dan seru</h2>
+      <ol>
+        <li><strong>Sediakan tempat duduk di dekat jendela.</strong> Kursi kecil, rak rendah, atau tempat tidur jendela bisa jadi pos pengintaian resmi, jadi anabul tidak perlu memanjat kain. Ide menata spot seperti ini juga ada di artikel <a href="/artikel/spot-jendela-berjemur-kucing/">spot berjemur di jendela</a>.</li>
+        <li><strong>Pastikan jendela aman.</strong> Kalau jendela sering dibuka, gunakan kasa atau teralis yang kokoh supaya agen rahasiamu tidak "bertugas" terlalu jauh sampai keluar rumah.</li>
+        <li><strong>Pilih tirai yang kuat atau pendek.</strong> Gorden dari kain tebal yang tergantung dengan rel kokoh biasanya lebih tahan banting. Kalau anabulmu hobi bergelantungan, tirai yang lebih pendek bisa mengurangi godaan memanjat.</li>
+        <li><strong>Beri alternatif tempat sembunyi.</strong> Kardus dengan lubang intip, terowongan kain, atau tempat tidur berpenutup bisa memberi rasa aman yang sama. Ini terutama membantu saat rumah sedang ramai, seperti yang dibahas di artikel <a href="/artikel/kucing-nyaman-saat-ada-tamu/">kucing nyaman saat ada tamu</a>.</li>
+        <li><strong>Jangan menarik paksa dari persembunyiannya.</strong> Kalau ia sedang mengintip karena gugup, biarkan saja. Kucing biasanya akan keluar sendiri saat sudah merasa aman, dan kepercayaan yang tumbuh dari situ jauh lebih berharga.</li>
+      </ol>
+
+      <h2>Nikmati saja pertunjukannya</h2>
+      <p>Pada akhirnya, mengintip dari balik tirai adalah salah satu cara anabul menikmati rumahnya: aman, nyaman, dan tetap tahu semua gosip terbaru. Selama tirainya aman dan ia punya pilihan tempat lain untuk bersembunyi, tidak ada salahnya membiarkan sang agen rahasia menjalankan misinya.</p>
+      <p>Jadi lain kali gorden bergoyang sendiri, jangan panik dulu. Coba lihat ke bawah. Kemungkinan besar, ada ekor abu-abu yang lupa ikut disembunyikan.</p>
+    `,
+  },
+  {
     slug: "kucing-membantu-beberes-kasur-dan-baju",
     title: "Asisten Beberes yang Malah Bikin Berantakan: Kenapa Kucing Selalu Muncul Saat Kamu Merapikan Kasur dan Melipat Baju?",
     category: "Perilaku",
