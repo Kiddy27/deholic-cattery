@@ -24,6 +24,51 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-rebahan-di-tengah-jalan",
+    title: "Polisi Tidur Berbulu: Kenapa Kucing Suka Rebahan di Ambang Pintu dan Tengah Jalan?",
+    category: "Perilaku",
+    excerpt:
+      "Rumah luas, tapi anabul pilih rebahan tepat di jalur lewat. Yuk kenali alasannya dan cara menyiasatinya supaya kamu nggak tersandung.",
+    date: "2026-11-19",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "home",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-rebahan-di-tengah-jalan.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga rebahan santai telentang di ambang pintu lorong rumah, sepasang kaki manusia bersandal sedang melangkah hati-hati melewatinya, gaya pastel lembut tanpa teks",
+    content: `
+      <p>Rumahmu punya sofa empuk, kasur kucing yang dibeli dengan penuh harapan, dan karpet yang lembut. Tapi di mana anabulmu memilih rebahan? Tepat di ambang pintu dapur. Atau di tengah lorong, persis di jalur yang pasti kamu lewati sambil membawa piring panas. Kamu berhenti, dia menatapmu santai, lalu... menguap. Tidak ada tanda-tanda mau pindah.</p>
+      <p>Selamat, rumahmu sekarang punya polisi tidur berbulu. Bedanya, polisi tidur yang satu ini bisa protes kalau terinjak. Kenapa sih kucing hobi sekali rebahan di tempat orang lewat? Yuk kita bahas pelan-pelan, sambil melangkah hati-hati.</p>
+
+      <h2>Kemungkinan alasan di balik "blokade" ini</h2>
+      <p>Setiap kucing punya kepribadian sendiri, jadi alasannya bisa berbeda-beda. Tapi ada beberapa kemungkinan yang sering terlihat:</p>
+      <ul>
+        <li><strong>Pos pemantauan terbaik.</strong> Ambang pintu dan lorong adalah titik pertemuan banyak ruangan. Dari situ, anabul bisa memantau dapur, ruang tamu, dan kamar sekaligus. Bagi makhluk yang suka tahu semua kejadian di wilayahnya, ini lokasi strategis kelas satu.</li>
+        <li><strong>Supaya tidak ketinggalan kamu.</strong> Kalau kamu sering bolak-balik lewat jalur itu, berarti di situlah "aksi" terjadi. Rebahan di jalurmu adalah cara memastikan ia tidak terlewat saat kamu menuju dapur (siapa tahu ada camilan) atau saat kamu mau keluar kamar. Mirip dengan kebiasaan <a href="/artikel/kucing-menunggu-di-depan-pintu/">menunggu kamu pulang di depan pintu</a>, hanya versi dalam rumah.</li>
+        <li><strong>Lantainya pas suhunya.</strong> Lorong dan ambang pintu sering dilewati aliran udara, jadi terasa lebih adem saat siang yang gerah. Sebaliknya, kalau ada sinar matahari yang jatuh ke lantai lorong, di situlah ia akan berjemur. Kadang alasannya sesederhana itu: tempatnya enak.</li>
+        <li><strong>Cari perhatian, dengan sukses besar.</strong> Coba ingat: setiap kali ia rebahan di jalanmu, apa yang kamu lakukan? Berhenti, menunduk, mungkin mengelus perutnya sambil bilang, "Aduh, minggir dong, Sayang." Dari sudut pandang kucing, ini strategi yang terbukti berhasil.</li>
+        <li><strong>Rasa percaya diri di wilayah sendiri.</strong> Kucing yang rebahan santai, apalagi telentang, di tempat ramai biasanya sedang merasa aman. Ia tidak merasa perlu bersembunyi di pojok, karena menurutnya seluruh rumah adalah miliknya. Dan kamu, ya, numpang lewat.</li>
+      </ul>
+
+      <h2>Apakah ini perlu dikhawatirkan?</h2>
+      <p>Umumnya tidak. Rebahan di tempat orang lewat termasuk perilaku kucing yang wajar, bahkan bisa jadi tanda ia nyaman di rumah. Yang perlu diwaspadai justru keselamatan kalian berdua: kaki yang tersandung, ekor yang terinjak, atau kamu yang jatuh sambil membawa barang. Apalagi kucing berbulu abu-abu di lantai gelap pada malam hari, nyaris tidak kelihatan!</p>
+      <p>Satu catatan kecil: kalau anabul tiba-tiba lebih sering berbaring diam dan enggan bergerak walau dipanggil, terlihat lesu, atau ada perubahan perilaku lain yang membuatmu ragu, sebaiknya konsultasikan ke dokter hewan untuk memastikan ia baik-baik saja.</p>
+
+      <h2>Cara menyiasatinya tanpa drama</h2>
+      <ol>
+        <li><strong>Biasakan berjalan sedikit menyeret kaki.</strong> Langkah yang terdengar memberi kode ke anabul bahwa kamu datang, jadi ia punya waktu untuk bergeser (atau setidaknya menarik ekornya).</li>
+        <li><strong>Pasang lampu kecil di lorong.</strong> Lampu tidur atau lampu sensor gerak membantu kamu melihat "polisi tidur" yang sedang bertugas saat malam, sekaligus membuat rumah lebih aman untuk semua penghuni.</li>
+        <li><strong>Sediakan spot pantau resmi di dekatnya.</strong> Taruh kasur kecil, keset tebal, atau rak rendah di pinggir lorong, sedikit keluar dari jalur utama. Kalau tujuannya memantau, spot di samping jalan sering sama menariknya. Ide memilih alasnya bisa kamu intip di artikel <a href="/artikel/kucing-suka-tidur-di-tempat-aneh/">kenapa kucing suka tidur di tempat aneh</a>.</li>
+        <li><strong>Pindahkan dengan lembut, jangan didorong kaki.</strong> Kalau memang harus lewat, angkat ia pelan-pelan ke spot sebelah atau panggil dengan suara ceria sambil menunjukkan mainan. Hindari menyenggolnya dengan kaki supaya ia tidak kaget.</li>
+        <li><strong>Penuhi jatah perhatiannya.</strong> Kalau blokade ini ternyata strategi cari perhatian, sesi main dan elus yang rutin bisa mengurangi kebutuhan "demo" di tengah jalan. Kucing biasanya lebih tenang kalau harinya punya pola yang jelas, seperti dibahas di artikel <a href="/artikel/rutinitas-harian-kucing/">rutinitas harian kucing</a>.</li>
+      </ol>
+
+      <h2>Anggap saja pemeriksaan rutin</h2>
+      <p>Pada akhirnya, kucing yang rebahan di ambang pintu sedang melakukan tiga hal sekaligus: menjaga wilayah, memantau keluarganya, dan menikmati lantai yang nyaman. Selama rumahmu cukup terang dan ia punya spot alternatif yang menarik, kebiasaan ini bisa jadi bagian lucu dari hidup bersama anabul.</p>
+      <p>Jadi lain kali ada gumpalan bulu abu-abu yang memblokir jalan ke dapur, tarik napas, langkahi dengan hati-hati, dan bayar "tarif lewat" berupa satu elusan di kepala. Petugasnya pasti senang.</p>
+    `,
+  },
+  {
     slug: "kucing-mengintip-dari-balik-tirai",
     title: "Agen Rahasia di Balik Gorden: Kenapa Kucing Suka Mengintip dari Balik Tirai?",
     category: "Perilaku",
