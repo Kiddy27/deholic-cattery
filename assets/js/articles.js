@@ -24,6 +24,51 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-mengeong-saat-telepon-atau-video-call",
+    title: "Peserta Rapat Tak Diundang: Kenapa Kucing Suka Mengeong Saat Kamu Menelepon atau Video Call?",
+    category: "Perilaku",
+    excerpt:
+      "Baru angkat telepon, anabul langsung konser. Yuk kenali kenapa kucing suka ikut \"rapat\" dan cara menyiasatinya tanpa drama.",
+    date: "2026-11-20",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "sparkle",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-mengeong-saat-telepon-atau-video-call.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk di meja kerja di depan laptop yang sedang video call, mulutnya terbuka seperti sedang mengeong, pemiliknya tersenyum sambil memegang headphone, gaya pastel lembut tanpa teks",
+    content: `
+      <p>Seharian anabulmu tidur pulas di sofa, tenang seperti patung. Lalu kamu mengangkat telepon, atau menyalakan kamera untuk video call kantor. Belum sampai satu menit, terdengar suara dari bawah meja: "Meooong." Disusul lagi, lebih keras. Lalu ekor abu-abu melintas tepat di depan kamera, dan semua peserta rapat mendadak lebih tertarik pada kucingmu daripada slide presentasimu.</p>
+      <p>Tenang, kamu tidak sendirian. Banyak pemilik kucing punya "rekan kerja berbulu" yang selalu ingin ikut bicara di saat paling tidak tepat. Kenapa sih kucing seperti punya radar khusus untuk telepon dan video call? Yuk kita bahas sambil menekan tombol mute.</p>
+
+      <h2>Kemungkinan alasan anabul ikut "rapat"</h2>
+      <p>Setiap kucing punya kepribadian sendiri, jadi alasannya bisa berbeda. Tapi ada beberapa kemungkinan yang sering terlihat:</p>
+      <ul>
+        <li><strong>Dia mengira kamu sedang bicara dengannya.</strong> Dari sudut pandang kucing, kamu tiba-tiba mengobrol panjang, padahal tidak ada orang lain di ruangan. Siapa lagi lawan bicaramu kalau bukan dia? Jadi ia pun menjawab. Kalau anabulmu memang tipe yang suka membalas obrolan, kebiasaan ini mirip dengan yang dibahas di artikel <a href="/artikel/kucing-suka-ngobrol-balik/">kenapa sebagian kucing suka "ngobrol" balik</a>.</li>
+        <li><strong>Perhatianmu sedang tidak tertuju padanya.</strong> Saat menelepon, matamu fokus ke layar dan suaramu untuk orang lain. Kucing yang terbiasa jadi pusat perhatian bisa merasakan perubahan ini, lalu mengeong untuk "mengingatkan" bahwa ia masih ada.</li>
+        <li><strong>Pengalaman mengajarinya bahwa cara ini berhasil.</strong> Coba ingat: waktu ia mengeong saat kamu menelepon, apa yang terjadi? Mungkin kamu langsung mengelusnya, menggendongnya supaya diam, atau mengambilkan camilan agar rapat bisa lanjut. Bagi kucing, ini pelajaran yang jelas: "Kalau manusia bicara ke kotak bercahaya, aku mengeong, lalu dapat hadiah."</li>
+        <li><strong>Rutinitasnya terganggu.</strong> Kalau jadwal video call bertabrakan dengan jam makan atau jam main, wajar kalau anabul protes. Kucing umumnya menyukai pola yang bisa ditebak.</li>
+        <li><strong>Penasaran dengan suara dari perangkat.</strong> Suara orang yang keluar dari laptop atau HP bisa membuat kucing bingung dan ingin tahu. Sebagian kucing mendekat untuk menyelidiki, lalu ikut berkomentar.</li>
+      </ul>
+
+      <h2>Apakah ini perlu dikhawatirkan?</h2>
+      <p>Umumnya tidak. Mengeong saat kamu menelepon termasuk perilaku yang wajar dan sering kali tanda anabul terikat denganmu. Yang perlu diperhatikan hanyalah kalau pola suaranya berubah drastis, misalnya ia jadi mengeong terus-menerus sepanjang hari, terdengar gelisah, atau ada perubahan lain seperti nafsu makan menurun. Kalau begitu, sebaiknya konsultasikan ke dokter hewan untuk memastikan semuanya baik-baik saja.</p>
+
+      <h2>Cara menyiasatinya tanpa drama</h2>
+      <ol>
+        <li><strong>Penuhi jatah perhatian sebelum rapat.</strong> Sisihkan beberapa menit untuk bermain sebelum jadwal video call. Kucing yang sudah puas berburu mainan biasanya lebih memilih tidur siang daripada jadi bintang tamu. Ide sesi main yang singkat tapi efektif bisa kamu intip di artikel <a href="/artikel/sesi-main-kucing-singkat-efektif/">tips playtime 10 menit</a>.</li>
+        <li><strong>Atur jadwal makan agar tidak bertabrakan.</strong> Kalau memungkinkan, beri makan sedikit sebelum rapat dimulai. Perut kenyang sering membuat anabul lebih santai.</li>
+        <li><strong>Siapkan spot nyaman di dekatmu.</strong> Banyak kucing hanya ingin berada di dekat pemiliknya. Taruh kasur kecil atau selimut di samping meja kerja, di luar jangkauan kamera. Ini juga membantu kalau anabulmu suka naik ke keyboard, seperti yang dibahas di artikel <a href="/artikel/kucing-suka-duduk-di-laptop/">kenapa kucing suka duduk di laptop</a>.</li>
+        <li><strong>Jangan beri hadiah untuk konser dadakan.</strong> Sesulit apa pun, usahakan tidak langsung memberi camilan atau gendongan setiap kali ia mengeong saat kamu menelepon. Sebaliknya, beri pujian dan elusan saat ia sedang tenang. Perlahan, ia bisa belajar bahwa diam juga ada hadiahnya.</li>
+        <li><strong>Sediakan mainan "teman rapat".</strong> Mainan puzzle berisi camilan atau mainan yang bisa ia mainkan sendiri bisa jadi pengalih perhatian selama kamu bekerja.</li>
+        <li><strong>Akrabkan diri dengan tombol mute.</strong> Kadang solusi paling praktis memang yang paling sederhana. Biasakan mikrofon dalam keadaan mute saat kamu tidak bicara, supaya meongan kecil tidak mengganggu jalannya rapat.</li>
+      </ol>
+
+      <h2>Anggap saja bonus hiburan</h2>
+      <p>Pada akhirnya, kucing yang ikut "rapat" sebenarnya sedang bilang satu hal sederhana: "Aku di sini, jangan lupakan aku." Dengan sedikit persiapan, perhatian yang cukup, dan spot nyaman di dekat meja, kebiasaan ini biasanya bisa dikurangi tanpa membuat anabul merasa diabaikan.</p>
+      <p>Dan kalau suatu hari ia tetap berhasil muncul di kamera, ya sudah, nikmati saja. Siapa tahu rekan kerjamu justru menunggu-nunggu kemunculan peserta rapat favorit mereka.</p>
+    `,
+  },
+  {
     slug: "kucing-rebahan-di-tengah-jalan",
     title: "Polisi Tidur Berbulu: Kenapa Kucing Suka Rebahan di Ambang Pintu dan Tengah Jalan?",
     category: "Perilaku",
