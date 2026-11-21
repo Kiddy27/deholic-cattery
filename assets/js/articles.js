@@ -24,6 +24,56 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-dan-tanaman-hias",
+    title: "Daun Monstera Digigit Lagi? Cara Akur antara Anabul dan Tanaman Hias di Rumah",
+    category: "Gaya Hidup",
+    excerpt:
+      "Tanaman baru datang, anabul langsung jadi juri rasa. Yuk kenali kenapa kucing suka mengunyah daun dan cara menata rumah hijau yang lebih aman.",
+    date: "2026-11-21",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "home",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-dan-tanaman-hias.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk di lantai dekat pot rumput kucing hijau, sementara tanaman hias besar diletakkan di rak tinggi di belakangnya, gaya pastel lembut tanpa teks",
+    content: `
+      <p>Kamu baru pulang membawa tanaman hias cantik. Daunnya hijau segar, potnya sudah dipilih susah payah, posisinya pas dekat jendela. Rumah terasa lebih adem. Lalu keesokan paginya, kamu menemukan satu daun penuh bekas gigitan kecil, tanah berserakan di lantai, dan seekor anabul duduk di sebelahnya dengan wajah paling polos sedunia.</p>
+      <p>Selamat, tanamanmu baru saja lolos (atau gagal) audisi juri rasa berbulu. Tenang, ini cerita yang akrab bagi banyak pemilik kucing. Kabar baiknya, kucing dan tanaman hias sebenarnya bisa hidup berdampingan, asal kita sedikit lebih cerdik menata rumah.</p>
+
+      <h2>Kenapa kucing suka mengganggu tanaman?</h2>
+      <p>Setiap kucing berbeda, tapi ada beberapa kemungkinan alasan yang sering terlihat:</p>
+      <ul>
+        <li><strong>Daun yang bergoyang itu mengundang.</strong> Daun yang melambai kena angin kipas mirip mainan bulu. Insting berburu anabul pun langsung menyala, dan cakaran kecil berubah jadi gigitan.</li>
+        <li><strong>Penasaran dengan barang baru.</strong> Tanaman baru membawa aroma tanah, pupuk, dan toko yang asing. Wajar kalau kucing ingin memeriksanya, sama seperti saat ia mengklaim barang belanjaan yang baru datang.</li>
+        <li><strong>Suka tekstur dan sensasi mengunyah.</strong> Sebagian kucing memang senang mengunyah sesuatu yang renyah atau berserat. Rumput dan daun memberi sensasi itu.</li>
+        <li><strong>Bosan.</strong> Kucing indoor yang kurang hiburan bisa mencari kegiatan sendiri. Pot tanaman pun jadi taman bermain dadakan, lengkap dengan tanah untuk digali.</li>
+      </ul>
+
+      <h2>Yang paling penting: kenali dulu tanamanmu</h2>
+      <p>Sebelum urusan estetika, ada satu hal yang perlu diutamakan: tidak semua tanaman aman untuk kucing. Beberapa tanaman dikenal bisa berbahaya bila tergigit atau tertelan, dan bunga lily termasuk yang paling sering diingatkan oleh para dokter hewan untuk dijauhkan dari kucing.</p>
+      <p>Karena daftar tanaman sangat banyak dan nama lokalnya sering berbeda-beda, cara paling aman adalah mencari tahu nama tanamanmu dulu sebelum dibawa pulang, lalu memeriksanya lewat sumber tepercaya atau menanyakannya langsung ke dokter hewan. Kalau masih ragu, anggap saja tanaman itu belum lolos seleksi untuk ruangan yang bisa dijangkau anabul.</p>
+      <p>Kalau kucingmu terlihat mengunyah tanaman yang kamu tidak yakin keamanannya, lalu muntah, ngiler berlebihan, lemas, atau bertingkah tidak seperti biasanya, jangan tunggu lama. Segera hubungi dokter hewan dan, kalau bisa, bawa foto atau potongan tanamannya supaya lebih mudah dikenali.</p>
+
+      <h2>Cara menata rumah hijau yang ramah anabul</h2>
+      <ol>
+        <li><strong>Pilih tanaman yang sudah dipastikan aman.</strong> Dengan begitu, kalau sesekali tergigit, kamu tidak perlu panik berlebihan. Tetap awasi, karena mengunyah daun dalam jumlah banyak tetap bisa bikin perut tidak nyaman.</li>
+        <li><strong>Mainkan ketinggian, tapi dengan hati-hati.</strong> Rak dinding atau pot gantung bisa membantu. Ingat saja bahwa kucing jago memanjat, jadi rak tinggi bukan jaminan untuk tanaman yang benar-benar berbahaya. Yang seperti itu lebih baik tidak ada di rumah sama sekali.</li>
+        <li><strong>Lindungi tanah di pot.</strong> Kalau anabul hobi menggali, tutup permukaan tanah dengan batu hias berukuran besar atau penutup pot. Ini juga mencegah pot dijadikan kotak pasir cadangan.</li>
+        <li><strong>Sediakan "salad bar" khusus kucing.</strong> Banyak pemilik menanam rumput kucing, misalnya dari biji gandum, di pot kecil yang memang boleh dikunyah. Taruh di tempat yang mudah dijangkau, supaya anabul punya pilihan resmi selain monstera kesayanganmu.</li>
+        <li><strong>Atasi rasa bosannya.</strong> Kucing yang cukup bermain biasanya tidak terlalu tertarik merusak tanaman. Rotasi mainan dan beri stimulasi harian, seperti yang dibahas di artikel <a href="/artikel/mainan-stimulasi-kucing-indoor/">mainan stimulasi untuk kucing indoor</a>.</li>
+        <li><strong>Jangan pakai cara yang menakutkan.</strong> Menyemprot air atau membentak mungkin membuat kucing kaget, tapi juga bisa membuatnya takut padamu. Lebih baik alihkan perhatiannya dengan lembut ke mainan atau rumput kucing, lalu beri pujian saat ia memilih yang benar.</li>
+      </ol>
+
+      <h2>Satu paket dengan keamanan rumah lainnya</h2>
+      <p>Menata tanaman sebenarnya bagian dari "cat-proofing" rumah secara umum. Kalau kamu sudah mulai merapikan kabel supaya tidak digigiti, prinsipnya mirip: kenali risikonya, beri alternatif yang aman, dan buat rumah lebih menarik untuk hal yang boleh. Tips soal kabel bisa kamu baca di artikel <a href="/artikel/kucing-menggigit-kabel-charger/">kenapa kucing suka menggigit kabel charger</a>.</p>
+      <p>Dan kalau tanamanmu ada di dekat jendela, jangan heran kalau spot itu juga jadi rebutan. Jendela yang terang adalah tempat favorit banyak kucing untuk berjemur dan mengamati dunia luar. Ide menata spot jendela yang nyaman ada di artikel <a href="/artikel/spot-jendela-berjemur-kucing/">spot jendela untuk anabul berjemur</a>.</p>
+
+      <h2>Rumah hijau, anabul tetap happy</h2>
+      <p>Punya kucing bukan berarti harus melepas mimpi punya rumah yang rimbun. Dengan memilih tanaman secara cermat, menyediakan rumput kucing, dan memastikan anabul cukup bermain, kamu dan si juri rasa berbulu bisa sama-sama menikmati sudut hijau di rumah.</p>
+      <p>Siapa tahu, suatu hari kamu akan menemukan anabul tidur pulas di samping pot rumputnya sendiri, sementara monstera di rak sebelah akhirnya bisa tumbuh dengan damai.</p>
+    `,
+  },
+  {
     slug: "kucing-mengeong-saat-telepon-atau-video-call",
     title: "Peserta Rapat Tak Diundang: Kenapa Kucing Suka Mengeong Saat Kamu Menelepon atau Video Call?",
     category: "Perilaku",
