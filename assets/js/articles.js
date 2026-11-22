@@ -24,6 +24,65 @@
 
 window.ARTICLES = [
   {
+    slug: "membersihkan-telinga-kucing-dengan-lembut",
+    title: "Kuping Anabul Kotor Nggak, Sih? Panduan Santai Mengecek dan Membersihkan Telinga Kucing dengan Lembut",
+    category: "Perawatan",
+    excerpt:
+      "Telinga kucing itu mungil tapi penting. Yuk belajar cara mengecek dan membersihkannya dengan lembut, plus tanda kapan sebaiknya ke dokter hewan.",
+    date: "2026-11-22",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "sparkle",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/membersihkan-telinga-kucing-dengan-lembut.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk santai di pangkuan sambil telinganya diperiksa dengan lembut oleh tangan manusia, kapas dan handuk kecil di samping, gaya pastel lembut tanpa teks",
+    content: `
+      <p>Coba perhatikan anabul yang lagi tidur siang. Telinganya kadang berkedut sendiri, berputar ke arah suara bungkus snack, lalu diam lagi seolah tidak terjadi apa-apa. Telinga kucing memang radar kecil yang bekerja tanpa cuti. Tapi pernahkah kamu benar-benar mengintip ke dalamnya dan bertanya, "Ini bersih nggak, sih?"</p>
+      <p>Kabar baiknya, banyak kucing sehat sebenarnya cukup pandai menjaga kebersihan telinganya sendiri. Tugas kita lebih sering sebagai <em>pengecek rutin</em> daripada tukang bersih-bersih. Yuk, kita bahas cara melakukannya dengan santai, lembut, dan tanpa drama.</p>
+
+      <h2>Kenapa telinga perlu dicek?</h2>
+      <p>Telinga adalah bagian yang gampang terlewat. Bulu bisa dirapikan, kuku bisa dipotong, tapi telinga sering baru diperhatikan saat anabul mulai menggaruk-garuk heboh. Dengan mengecek secara berkala, kamu jadi kenal seperti apa telinga "normal" milik kucingmu. Nah, kalau suatu hari ada yang berubah, kamu bisa lebih cepat menyadarinya.</p>
+      <p>Kebiasaan ini juga cocok digabung dengan sesi perawatan lain, misalnya saat <a href="/artikel/merawat-bulu-kucing/">menyisir dan merawat bulu kucing</a>. Sekali duduk, beberapa urusan beres.</p>
+
+      <h2>Seperti apa telinga yang tampak normal?</h2>
+      <p>Secara umum, bagian dalam telinga kucing yang sehat biasanya terlihat bersih, berwarna merah muda pucat, dan tidak berbau tajam. Sedikit kotoran tipis berwarna terang kadang masih wajar. Yang paling penting adalah membandingkan dengan kondisi biasanya: kucing tiap individu bisa sedikit berbeda.</p>
+
+      <h2>Langkah santai mengecek telinga</h2>
+      <ol>
+        <li><strong>Pilih waktu yang tepat.</strong> Lakukan saat anabul sedang mengantuk dan rileks, misalnya setelah makan atau setelah <a href="/artikel/sesi-main-kucing-singkat-efektif/">sesi main singkat</a>. Jangan saat ia sedang mode zoomies.</li>
+        <li><strong>Mulai dengan elusan.</strong> Elus kepala dan pangkal telinganya dulu, biar ia terbiasa disentuh di area itu.</li>
+        <li><strong>Lipat pelan daun telinganya.</strong> Buka sedikit ke belakang dengan lembut supaya kamu bisa melihat bagian dalam yang terlihat. Cukup lihat, jangan mengorek.</li>
+        <li><strong>Cium sedikit aromanya.</strong> Kedengarannya aneh, tapi bau yang tidak biasa bisa jadi petunjuk penting.</li>
+        <li><strong>Akhiri dengan hadiah.</strong> Camilan kecil atau pujian manis membuat sesi berikutnya lebih mudah. Anabul cepat belajar bahwa "dipegang kuping = dapat snack".</li>
+      </ol>
+
+      <h2>Kalau memang perlu dibersihkan</h2>
+      <p>Jika terlihat sedikit kotoran di bagian luar yang mudah dijangkau, kamu bisa membersihkannya dengan cara sederhana:</p>
+      <ul>
+        <li>Gunakan kapas atau kain kasa yang lembut, dililit di ujung jari.</li>
+        <li>Usap pelan hanya bagian yang terlihat, dari dalam ke arah luar.</li>
+        <li>Kalau ingin memakai cairan pembersih telinga, pilih produk khusus kucing, sebaiknya yang direkomendasikan dokter hewan. Jangan memakai alkohol, minyak, atau cairan sembarangan dari lemari obat.</li>
+        <li><strong>Hindari cotton bud yang dimasukkan ke lubang telinga.</strong> Saluran telinga kucing itu sensitif, dan mengorek terlalu dalam justru berisiko mendorong kotoran ke dalam atau membuat iritasi.</li>
+      </ul>
+      <p>Kalau anabul mulai menggeliat dan protes, berhenti dulu. Lebih baik satu telinga hari ini, satu telinga besok, daripada satu sesi penuh perjuangan yang bikin ia trauma tiap kali melihat kapas.</p>
+
+      <h2>Tanda-tanda yang sebaiknya ditanyakan ke dokter hewan</h2>
+      <p>Mengecek telinga di rumah bukan pengganti pemeriksaan profesional. Segera konsultasikan ke dokter hewan jika kamu melihat hal-hal seperti:</p>
+      <ul>
+        <li>Kotoran berwarna gelap, menggumpal, atau jumlahnya banyak.</li>
+        <li>Bau tidak sedap dari telinga.</li>
+        <li>Telinga tampak merah, bengkak, atau ada luka.</li>
+        <li>Kucing sering menggeleng-gelengkan kepala atau menggaruk telinga terus-menerus.</li>
+        <li>Kepala tampak miring, atau ia terlihat kesakitan saat telinganya disentuh.</li>
+      </ul>
+      <p>Tanda-tanda seperti ini bisa punya banyak penyebab, dan hanya dokter hewan yang bisa memeriksa bagian dalam telinga dengan alat yang tepat serta memberi penanganan yang sesuai. Jangan coba-coba mengobati sendiri dengan tetes telinga milik manusia, ya.</p>
+
+      <h2>Biasakan sejak dini, santai saja</h2>
+      <p>Seperti urusan <a href="/artikel/potong-kuku-kucing-tanpa-drama/">potong kuku tanpa drama</a>, kuncinya adalah sabar dan konsisten. Sentuhan singkat yang menyenangkan, diulang sedikit-sedikit, jauh lebih efektif daripada satu sesi panjang yang dipaksakan. Lama-lama, anabul akan menganggap pemeriksaan telinga sebagai bagian biasa dari quality time bersamamu.</p>
+      <p>Jadi, lain kali radar kecil itu berkedut ke arahmu, sempatkan mengintip sebentar. Tidak perlu jadi ahli, cukup jadi pemilik yang peka dan rajin memperhatikan. Siapa tahu ia sebenarnya cuma menunggu satu hal: elusan di belakang telinga, spot favorit sejuta umat kucing.</p>
+    `,
+  },
+  {
     slug: "kucing-dan-tanaman-hias",
     title: "Daun Monstera Digigit Lagi? Cara Akur antara Anabul dan Tanaman Hias di Rumah",
     category: "Gaya Hidup",
