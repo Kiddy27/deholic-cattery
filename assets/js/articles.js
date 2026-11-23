@@ -24,6 +24,60 @@
 
 window.ARTICLES = [
   {
+    slug: "hairball-pada-kucing",
+    title: "Hoek! Ada Kado di Karpet: Kenalan dengan Hairball dan Cara Membantu Anabul Menguranginya",
+    category: "Perawatan",
+    excerpt:
+      "Suara hoek tengah malam lalu ada gumpalan bulu di karpet? Yuk kenalan dengan hairball, cara membantu menguranginya, dan kapan perlu ke dokter hewan.",
+    date: "2026-11-23",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "sparkle",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/hairball-pada-kucing.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk tenang di atas karpet sementara bulunya disisir lembut oleh tangan manusia, sisir dan segumpal bulu di samping, gaya pastel lembut tanpa teks",
+    content: `
+      <p>Jam tiga pagi, rumah sunyi. Tiba-tiba terdengar suara khas dari ruang tengah: <em>hoek... hoek... hoeeek</em>. Kamu langsung melek, lari tanpa sandal, dan menemukan "kado" kecil berbentuk lonjong di atas karpet favorit. Pelakunya? Duduk manis di sebelahnya, menjilat bibir, lalu pergi seolah barusan tidak terjadi apa-apa. Selamat datang di dunia <strong>hairball</strong>.</p>
+      <p>Bagi pemilik kucing pemula, momen ini bisa bikin panik. Tapi tenang dulu. Yuk kita kenalan dengan si gumpalan bulu ini: kenapa bisa muncul, apa yang bisa kita lakukan untuk membantu mengurangi, dan kapan sebaiknya anabul diajak ke dokter hewan.</p>
+
+      <h2>Hairball itu sebenarnya apa?</h2>
+      <p>Kucing adalah makhluk yang sangat rajin merawat diri. Lidahnya punya permukaan kasar seperti sikat kecil, jadi setiap kali ia menjilati badan, bulu-bulu yang rontok ikut tersangkut dan tertelan. Sebagian besar bulu itu biasanya ikut terbawa keluar lewat pencernaan tanpa drama. Tapi kadang, bulu menumpuk di perut dan akhirnya dikeluarkan lewat mulut dalam bentuk gumpalan.</p>
+      <p>Bentuknya sering lonjong seperti sosis kecil, bukan bulat seperti bola. Namanya saja yang "ball", kenyataannya lebih mirip lumpia mini yang gagal. Maaf kalau setelah ini kamu jadi kepikiran tiap lihat lumpia.</p>
+
+      <h2>Kenapa sebagian kucing lebih sering mengalaminya?</h2>
+      <p>Setiap kucing berbeda. Secara umum, ada beberapa hal yang bisa membuat bulu yang tertelan lebih banyak:</p>
+      <ul>
+        <li><strong>Musim rontok.</strong> Saat bulu sedang banyak-banyaknya rontok, bulu yang ikut terjilat juga lebih banyak.</li>
+        <li><strong>Bulu tebal atau panjang.</strong> Kucing berbulu lebat, termasuk British Shorthair dengan bulu padatnya yang empuk seperti boneka, punya "stok" bulu yang lebih banyak untuk ditelan.</li>
+        <li><strong>Terlalu rajin grooming.</strong> Kucing yang bosan atau sedang stres kadang menjilati diri lebih sering dari biasanya.</li>
+      </ul>
+
+      <h2>Cara membantu mengurangi hairball</h2>
+      <p>Kita tidak bisa (dan tidak perlu) menghentikan kucing merawat dirinya. Yang bisa kita lakukan adalah mengurangi jumlah bulu yang ikut tertelan dan menjaga anabul tetap nyaman.</p>
+      <ol>
+        <li><strong>Rajin menyisir.</strong> Ini senjata paling sederhana. Setiap bulu yang tersangkut di sisir adalah bulu yang tidak masuk ke perut anabul. Kalau butuh panduan, cek artikel <a href="/artikel/merawat-bulu-kucing/">menyisir dan merawat bulu kucing</a>. Bonusnya, sesi sisir bisa jadi quality time yang menyenangkan.</li>
+        <li><strong>Pastikan cukup minum.</strong> Asupan cairan yang baik mendukung pencernaan yang lancar secara umum. Ada beberapa trik seru di artikel <a href="/artikel/tips-air-minum-kucing-rumahan/">tips air minum untuk kucing rumahan</a>.</li>
+        <li><strong>Ajak main supaya tidak bosan.</strong> Kucing yang punya cukup aktivitas biasanya tidak menghabiskan seluruh harinya untuk menjilati diri. Sesi main singkat tapi rutin sudah sangat membantu.</li>
+        <li><strong>Tanya dokter hewan soal makanan atau produk khusus.</strong> Di pasaran ada pakan dan camilan yang diklaim membantu soal hairball. Sebelum mencoba, sebaiknya konsultasikan dulu ke dokter hewan agar sesuai dengan kondisi kucingmu.</li>
+      </ol>
+      <p>Satu lagi: hindari memberi "obat rumahan" atau minyak-minyakan tanpa saran dokter hewan. Niatnya baik, tapi tidak semua yang terdengar aman memang cocok untuk perut kucing.</p>
+
+      <h2>Kapan sebaiknya ke dokter hewan?</h2>
+      <p>Hairball sesekali pada kucing yang tetap ceria, doyan makan, dan buang air seperti biasa umumnya bukan hal yang perlu bikin panik. Tapi muntah bukan selalu soal bulu. Segera konsultasikan ke dokter hewan jika kamu melihat hal-hal seperti ini:</p>
+      <ul>
+        <li>Muntah terlalu sering, atau lebih sering dari biasanya.</li>
+        <li>Kucing terlihat berusaha muntah berulang kali tapi tidak ada yang keluar.</li>
+        <li>Nafsu makan turun, lemas, atau lebih banyak bersembunyi.</li>
+        <li>Susah buang air besar, perut tampak kembung, atau terlihat tidak nyaman saat disentuh.</li>
+      </ul>
+      <p>Lebih baik bertanya dan ternyata tidak apa-apa, daripada menunggu terlalu lama. Kalau anabul belum pernah ke klinik, artikel <a href="/artikel/membawa-kucing-ke-vet-pertama-kali/">ke vet pertama kali tanpa panik</a> bisa membantu persiapannya.</p>
+
+      <h2>Catatan kecil buat hooman</h2>
+      <p>Coba catat kapan saja anabul memuntahkan hairball. Tidak perlu ribet, cukup tulis tanggalnya di catatan HP. Dengan begitu kamu jadi tahu pola "normal" kucingmu, dan bisa memberi informasi yang jelas kalau suatu hari perlu konsultasi ke dokter hewan.</p>
+      <p>Dan soal karpet? Yah, anggap saja itu pajak kecil karena tinggal serumah dengan makhluk berbulu yang sangat peduli penampilan. Bersihkan, tarik napas, lalu sisir lagi bulunya besok pagi. Anabul mungkin tidak mengucapkan terima kasih, tapi dengkurannya saat disisir sudah cukup jadi jawaban.</p>
+    `,
+  },
+  {
     slug: "membersihkan-telinga-kucing-dengan-lembut",
     title: "Kuping Anabul Kotor Nggak, Sih? Panduan Santai Mengecek dan Membersihkan Telinga Kucing dengan Lembut",
     category: "Perawatan",
