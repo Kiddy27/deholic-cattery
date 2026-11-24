@@ -24,6 +24,52 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-berburu-kaki-di-balik-selimut",
+    title: "Awas, Ada Predator di Ujung Kasur! Kenapa Kucing Suka Menerkam Kaki di Balik Selimut?",
+    category: "Perilaku",
+    excerpt:
+      "Kaki bergerak sedikit di balik selimut, langsung diterkam anabul? Yuk pahami kenapa kakimu jadi \"mangsa\" favorit dan cara mengalihkannya ke mainan.",
+    date: "2026-11-24",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "paw",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-berburu-kaki-di-balik-selimut.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga dalam posisi siap menerkam di atas kasur, menatap tonjolan kaki di balik selimut pastel, suasana kamar hangat dan lucu, gaya pastel lembut tanpa teks",
+    content: `
+      <p>Malam sudah larut, lampu sudah dimatikan, dan kamu akhirnya menemukan posisi tidur paling sempurna. Lalu jempol kaki bergeser sedikit di balik selimut. Sepersekian detik kemudian: <em>HAP!</em> Ada makhluk berbulu yang menerkam dari ujung kasur, lengkap dengan cakar mungil dan tatapan seperti singa di film dokumenter. Kakimu, rupanya, baru saja naik pangkat jadi "mangsa".</p>
+      <p>Kalau ini terjadi hampir tiap malam, tenang, kamu tidak sendirian. Banyak pemilik kucing punya kisah serupa. Yuk kita bahas kenapa anabul begitu tergoda dengan kaki di balik selimut, dan bagaimana cara menyalurkan semangat berburunya tanpa kamu harus tidur pakai kaus kaki tebal.</p>
+
+      <h2>Benjolan misterius yang bergerak = mangsa</h2>
+      <p>Kucing rumahan boleh saja makan dari mangkuk dan tidur di bantal empuk, tapi naluri berburunya tetap ikut serta. Secara umum, kucing sangat tertarik pada sesuatu yang kecil, bergerak tiba-tiba, lalu diam, lalu bergerak lagi. Coba perhatikan gerakan kakimu di balik selimut: bergeser sedikit, berhenti, menggeliat, berhenti lagi. Dari sudut pandang anabul, itu persis seperti tikus kecil yang sedang mengendap-endap di bawah daun.</p>
+      <p>Ditambah lagi, mangsanya tersembunyi. Selimut membuat "target" tidak terlihat jelas, hanya ada tonjolan yang bergerak. Misteri seperti ini biasanya justru membuat kucing makin penasaran. Sama seperti kenapa anabul suka mengejar bayangan atau pantulan cahaya, yang pernah kita bahas di artikel <a href="/artikel/kucing-mengejar-ekor-dan-cahaya/">kucing mengejar ekor dan cahaya</a>.</p>
+
+      <h2>Kenapa sering terjadi malam atau pagi buta?</h2>
+      <p>Banyak kucing cenderung lebih aktif di sekitar senja dan dini hari. Jadi pas kamu baru mau tidur atau baru mulai bangun, anabul justru sedang semangat-semangatnya. Kalau seharian ia lebih banyak rebahan karena kamu sibuk, energi yang tersimpan bisa "meledak" tepat saat kakimu mulai menggeliat. Kombinasi yang sempurna, setidaknya bagi si kucing.</p>
+      <p>Ada juga kemungkinan lain: ini caranya mengajak main. Kucing cepat belajar. Kalau setiap kali ia menerkam kaki kamu tertawa, menggoyang-goyangkan kaki, atau mengajaknya bercanda, ia bisa menyimpulkan bahwa "kaki di balik selimut" adalah permainan resmi yang selalu tersedia tiap malam.</p>
+
+      <h2>Lucu sih, tapi ada sisi kurang enaknya</h2>
+      <p>Diterkam sesekali memang menggemaskan. Masalahnya, cakar dan gigi tetaplah cakar dan gigi. Selimut tipis tidak selalu cukup melindungi, dan tidur yang terus terganggu juga bukan hal yang menyenangkan. Selain itu, kalau kebiasaan ini makin seru, anabul bisa makin bersemangat menyerang bagian tubuh lain, termasuk tangan yang sedang bergerak. Untuk urusan gigitan saat dielus, kamu bisa baca juga artikel <a href="/artikel/kucing-menggigit-pelan-saat-dielus/">love bite saat dielus</a>.</p>
+
+      <h2>Cara mengalihkan si pemburu malam</h2>
+      <p>Tujuannya bukan menghapus naluri berburu, karena itu bagian alami dari diri kucing. Yang kita lakukan adalah memberinya "mangsa" yang lebih pantas. Beberapa ide yang bisa dicoba:</p>
+      <ol>
+        <li><strong>Sesi main sebelum tidur.</strong> Ajak anabul main dengan mainan pancing selama beberapa menit sebelum kamu naik ke kasur. Biarkan ia mengejar, mengintai, dan akhirnya "menangkap" mainannya. Panduannya ada di artikel <a href="/artikel/sesi-main-kucing-singkat-efektif/">sesi playtime singkat tapi efektif</a>.</li>
+        <li><strong>Lanjutkan dengan makan atau camilan kecil.</strong> Banyak pemilik merasa kucingnya lebih tenang kalau sesi main diakhiri dengan makan. Seperti alur berburu: kejar, tangkap, makan, lalu tidur. Tentu sesuaikan porsinya dengan jatah harian anabul.</li>
+        <li><strong>Jangan jadikan kaki sebagai mainan.</strong> Sesekali bercanda memang menggoda, tapi usahakan konsisten: kaki dan tangan bukan mainan, siang maupun malam.</li>
+        <li><strong>Diamkan kaki saat diterkam.</strong> Menarik kaki dengan cepat justru membuatnya terasa makin seperti mangsa yang kabur. Coba diam sejenak supaya "mangsa" jadi membosankan, lalu alihkan perhatian anabul ke mainan.</li>
+        <li><strong>Sediakan mainan di dekat kasur.</strong> Simpan mainan lembut atau bola kecil di samping tempat tidur. Saat anabul mulai mengintai kakimu, lempar mainan itu sebagai pengalih.</li>
+      </ol>
+      <p>Hindari memarahi dengan keras atau menghukum anabul. Ia tidak sedang berbuat jahat, hanya sedang menjadi kucing. Kesabaran dan konsistensi biasanya jauh lebih ampuh.</p>
+
+      <h2>Kapan perlu bertanya ke dokter hewan?</h2>
+      <p>Menerkam kaki di balik selimut umumnya adalah perilaku bermain yang normal. Tapi kalau anabul tiba-tiba jadi jauh lebih agresif dari biasanya, menggigit keras sampai melukai, atau ada perubahan perilaku lain seperti gelisah berlebihan dan nafsu makan berubah, tidak ada salahnya berkonsultasi ke dokter hewan untuk memastikan semuanya baik-baik saja.</p>
+
+      <h2>Penutup dari ujung kasur</h2>
+      <p>Pada akhirnya, kucing yang menerkam kakimu adalah kucing yang merasa cukup aman dan nyaman untuk bermain di dekatmu. Itu semacam pujian, meski datangnya jam satu pagi. Beri ia "mangsa" yang pantas, waktu main yang cukup, dan rutinitas malam yang jelas. Siapa tahu, beberapa minggu lagi si predator ujung kasur berubah jadi bola bulu yang mendengkur pulas di dekat kakimu, bukan di atasnya.</p>
+    `,
+  },
+  {
     slug: "hairball-pada-kucing",
     title: "Hoek! Ada Kado di Karpet: Kenalan dengan Hairball dan Cara Membantu Anabul Menguranginya",
     category: "Perawatan",
