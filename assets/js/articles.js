@@ -24,6 +24,57 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-menonton-saat-kamu-makan",
+    title: "Penonton Setia di Meja Makan: Kenapa Kucing Suka Memandangi Saat Kamu Makan?",
+    category: "Perilaku",
+    excerpt:
+      "Baru buka bungkus nasi, sepasang mata bulat langsung menatap? Yuk pahami kenapa anabul jadi penonton setia saat kamu makan dan cara bersikap tanpa drama.",
+    date: "2026-11-25",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "bowl",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-menonton-saat-kamu-makan.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk manis di kursi sebelah meja makan, menatap penuh harap ke arah piring, suasana ruang makan hangat dan lucu, gaya pastel lembut tanpa teks",
+    content: `
+      <p>Kamu baru saja duduk, membuka bungkus nasi, dan mengangkat sendok pertama. Lalu terasa ada yang memperhatikan. Pelan-pelan kamu menoleh, dan di sana dia duduk: anabul dengan posisi roti tawar sempurna, mata bulat tak berkedip, menatap piringmu seolah sedang menyaksikan final pertandingan paling menegangkan tahun ini. Tidak bersuara, tidak bergerak. Hanya menatap. Dan entah kenapa, nasi gorengnya jadi terasa sedikit bersalah.</p>
+      <p>Kalau momen ini terjadi hampir setiap jam makan, selamat, kamu punya penonton setia. Yuk kita bahas kenapa kucing suka memandangi saat kamu makan, dan bagaimana cara menyikapinya tanpa harus menyerahkan separuh lauk.</p>
+
+      <h2>Aroma makanan itu menggoda, bahkan bagi kucing</h2>
+      <p>Alasan paling sederhana: makananmu wangi. Kucing dikenal punya indra penciuman yang tajam, jadi aroma ayam goreng atau ikan bakar dari piringmu tentu sampai ke hidungnya lebih dulu daripada kamu sempat berdoa. Wajar kalau ia penasaran, "Itu apa? Kok baunya enak? Kok aku nggak ditawari?"</p>
+      <p>Tapi menariknya, banyak kucing tetap menonton meski makananmu sama sekali tidak menarik bagi mereka, misalnya saat kamu makan buah atau sereal. Artinya, rasa penasaran soal aroma bukan satu-satunya alasan.</p>
+
+      <h2>Jam makanmu adalah acara favoritnya</h2>
+      <p>Kucing umumnya suka hal-hal yang bisa ditebak. Kalau kamu makan di jam dan tempat yang sama setiap hari, anabul cepat hafal polanya. Bunyi piring, kursi digeser, kantong plastik dibuka, semua itu bisa jadi tanda bahwa "acara" akan segera dimulai. Kebiasaan menghafal pola ini juga yang membuat banyak kucing jadi alarm berbulu di pagi hari, seperti yang pernah kita bahas di artikel <a href="/artikel/rutinitas-harian-kucing/">rutinitas harian kucing</a>.</p>
+      <p>Apalagi kalau jam makanmu berdekatan dengan jam makannya sendiri. Bagi anabul, melihatmu makan bisa terasa seperti pengingat, "Eh, aku juga sudah lapar belum, ya?"</p>
+
+      <h2>Pernah sekali dikasih, langsung jadi pelanggan tetap</h2>
+      <p>Nah, ini yang sering jadi akar masalah. Kucing belajar dengan cepat dari pengalaman. Kalau pernah sekali saja menatap lalu mendapat secuil ayam, ia bisa menyimpulkan bahwa menatap adalah strategi yang berhasil. Kalau menatap tidak berhasil, ia mungkin naik level: mengeong, menyentuh tanganmu dengan kaki depan, atau naik ke meja. Untuk anabul yang memang suka "ngobrol", kamu mungkin juga akan mendapat orasi panjang, mirip yang dibahas di artikel <a href="/artikel/kucing-suka-ngobrol-balik/">kucing yang suka ngobrol balik</a>.</p>
+
+      <h2>Atau, ia cuma ingin dekat denganmu</h2>
+      <p>Tidak semua penonton datang demi makanan. Sebagian kucing memang senang berada di dekat pemiliknya, apa pun aktivitasnya. Makan, kerja, beberes, mandi, semuanya layak ditonton. Kalau anabulmu tetap duduk tenang di dekatmu meski kamu tidak pernah berbagi makanan, bisa jadi ia hanya menikmati kebersamaan. Itu sudah cukup manis, kan?</p>
+
+      <h2>Kenapa sebaiknya tidak asal berbagi?</h2>
+      <p>Wajah memelas memang sulit dilawan, tapi makanan manusia tidak dibuat untuk kucing. Banyak masakan rumahan memakai bumbu, garam, bawang, atau bahan lain yang umumnya tidak disarankan untuk kucing, bahkan ada yang bisa berbahaya. Selain itu, camilan kecil yang terus-terusan bisa menambah asupan harian tanpa terasa. Kalau kamu ragu apakah suatu makanan aman untuk anabul, paling tepat tanyakan langsung ke dokter hewan.</p>
+
+      <h2>Cara menyikapi si penonton setia</h2>
+      <p>Tujuannya bukan mengusir anabul dari ruang makan, tapi membuat jam makanmu tetap tenang. Beberapa ide yang bisa dicoba:</p>
+      <ol>
+        <li><strong>Konsisten tidak memberi dari piring.</strong> Ini kunci utamanya. Kalau semua anggota rumah sepakat, anabul perlahan belajar bahwa menatap tidak menghasilkan apa-apa. Satu orang yang diam-diam berbagi bisa membuat semua usaha kembali ke nol.</li>
+        <li><strong>Atur jam makannya berdekatan.</strong> Coba beri makan anabul sesuai jatahnya sebelum atau bersamaan dengan jam makanmu. Perut yang sudah kenyang biasanya membuat tatapan jadi sedikit kurang intens.</li>
+        <li><strong>Siapkan kegiatan pengalih.</strong> Mainan puzzle makanan atau mainan yang bisa dikejar sendiri bisa membuatnya sibuk sejenak. Ide-ide lainnya ada di artikel <a href="/artikel/mainan-stimulasi-kucing-indoor/">mainan dan stimulasi untuk kucing indoor</a>.</li>
+        <li><strong>Beri tempat duduk sendiri.</strong> Kalau ia suka menemani, sediakan kursi atau alas empuk di dekat meja, tapi bukan di atas meja. Ia tetap bisa dekat denganmu tanpa harus berhadapan langsung dengan piring.</li>
+        <li><strong>Jangan memarahi.</strong> Anabul tidak sedang nakal, ia hanya penasaran atau berharap. Cukup abaikan permintaannya dengan tenang, lalu beri perhatian saat ia sedang bersikap santai.</li>
+      </ol>
+
+      <h2>Kapan perlu bertanya ke dokter hewan?</h2>
+      <p>Menonton saat kamu makan umumnya perilaku yang normal. Tapi kalau anabul tiba-tiba jadi jauh lebih rakus dari biasanya, terus-menerus mencari makanan meski sudah makan, atau ada perubahan lain seperti berat badan naik turun tanpa sebab yang jelas, sebaiknya konsultasikan ke dokter hewan untuk memastikan semuanya baik-baik saja.</p>
+
+      <h2>Penutup dari kursi penonton</h2>
+      <p>Pada akhirnya, punya penonton setia di meja makan adalah salah satu "fasilitas" tinggal bersama kucing. Kadang ia datang demi aroma, kadang demi harapan, kadang cuma demi kamu. Tetap konsisten soal makanan, penuhi kebutuhannya sendiri, dan nikmati saja tatapan bulat itu. Anggap ia sedang memberi rating bintang lima untuk masakanmu, meski ia tidak pernah mencicipinya.</p>
+    `,
+  },
+  {
     slug: "kucing-berburu-kaki-di-balik-selimut",
     title: "Awas, Ada Predator di Ujung Kasur! Kenapa Kucing Suka Menerkam Kaki di Balik Selimut?",
     category: "Perilaku",
