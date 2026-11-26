@@ -24,6 +24,55 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-mengubur-makanan-di-sekitar-mangkuk",
+    title: "Makan Malam Dikubur Sendiri: Kenapa Kucing Suka Menggaruk Lantai di Sekitar Mangkuk?",
+    category: "Perilaku",
+    excerpt:
+      "Habis makan, anabul malah menggaruk lantai seolah mengubur sisa makanannya? Yuk pahami kenapa kucing melakukannya dan kapan perlu diperhatikan.",
+    date: "2026-11-26",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "bowl",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-mengubur-makanan-di-sekitar-mangkuk.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga menggaruk lantai dengan kaki depan di samping mangkuk makan berisi sisa makanan, ekspresi serius dan lucu, dapur rumah yang hangat, gaya pastel lembut tanpa teks",
+    content: `
+      <p>Kamu baru saja menuang makanan ke mangkuk anabul. Ia makan beberapa suap dengan lahap, lalu berhenti, menatap sisa makanannya dengan serius, dan... mulai menggaruk-garuk lantai di sekitar mangkuk. Srek, srek, srek. Persis seperti sedang menutup pasir di kotak kotorannya. Kamu yang menyaksikan cuma bisa bertanya dalam hati, "Nak, itu makan malammu, lho. Bukan urusan kotak pasir."</p>
+      <p>Tenang, kamu tidak sendirian. Kebiasaan "mengubur" makanan ini cukup sering ditemui pada kucing rumahan. Yuk kita bahas kenapa anabul melakukannya, apakah perlu khawatir, dan apa yang bisa kamu lakukan.</p>
+
+      <h2>Sisa makanan disimpan untuk nanti</h2>
+      <p>Salah satu penjelasan yang paling sering disebut adalah naluri lama. Kucing pada dasarnya pemburu kecil, dan di alam liar sisa makanan yang tergeletak begitu saja bisa mengundang perhatian hewan lain. Menutupinya, atau setidaknya berpura-pura menutupinya, mungkin cara anabul bilang, "Ini punyaku, simpan dulu buat nanti."</p>
+      <p>Tentu saja di rumah tidak ada tanah atau daun kering di dekat mangkuk. Jadi yang digaruk ya lantai keramik, keset, atau tembok. Hasilnya nol, tapi semangatnya seratus. Yang penting ritualnya sudah dijalankan.</p>
+
+      <h2>Porsinya kebanyakan</h2>
+      <p>Kadang alasannya jauh lebih sederhana: anabul sudah kenyang, tapi makanan masih ada. Kalau kamu sering melihat aksi menggaruk ini setelah ia makan setengah porsi, bisa jadi porsinya memang lebih besar dari yang ia butuhkan sekali makan. Kucing umumnya lebih suka makan sedikit-sedikit, jadi ia "menyisihkan" sisanya.</p>
+      <p>Coba perhatikan pola makannya beberapa hari. Kalau ia selalu menyisakan, kamu bisa membagi jatah hariannya menjadi beberapa kali makan dengan porsi lebih kecil, tetap mengikuti anjuran di kemasan atau saran dokter hewan.</p>
+
+      <h2>"Menu hari ini kurang cocok, ya"</h2>
+      <p>Ada juga kucing yang menggaruk di sekitar mangkuk saat makanannya kurang menarik baginya. Mungkin aromanya berbeda, teksturnya baru, atau makanan basahnya sudah terlalu lama dibiarkan terbuka. Anggap saja ini ulasan bintang dua dari kritikus kuliner berbulu. Kalau kebiasaan ini muncul tepat setelah kamu mengganti merek atau jenis makanan, itu petunjuk yang patut dicatat.</p>
+
+      <h2>Soal lokasi dan mangkuk</h2>
+      <p>Kucing cukup peka terhadap lingkungannya. Mangkuk yang diletakkan terlalu dekat dengan kotak pasir, di tempat yang ramai lalu-lalang, atau di dekat suara bising bisa membuat suasana makan jadi kurang nyaman. Sebagian pemilik juga merasa kucingnya lebih santai makan dari mangkuk yang lebar dan dangkal. Tidak ada aturan baku, jadi cara terbaik adalah mencoba dan mengamati reaksi anabulmu sendiri.</p>
+      <p>Prinsip yang sama juga berlaku untuk tempat minum, seperti yang pernah kita bahas di artikel <a href="/artikel/tips-air-minum-kucing-rumahan/">tips air minum untuk kucing rumahan</a>: tempat yang tenang dan bersih biasanya lebih disukai.</p>
+
+      <h2>Apakah perlu dikhawatirkan?</h2>
+      <p>Umumnya tidak. Kalau anabul tetap makan dengan baik, aktif, dan berat badannya stabil, menggaruk lantai di sekitar mangkuk biasanya hanya salah satu kebiasaan lucu kucing. Kamu tidak perlu memarahinya, karena ia tidak sedang nakal atau protes kepadamu secara pribadi.</p>
+      <p>Lain cerita kalau kebiasaan ini muncul bersamaan dengan tanda lain, misalnya nafsu makan turun drastis, ia terlihat ingin makan tapi tidak jadi, lesu, muntah, atau berat badannya berubah tanpa sebab jelas. Dalam situasi seperti itu, sebaiknya konsultasikan ke dokter hewan untuk memastikan semuanya baik-baik saja.</p>
+
+      <h2>Tips praktis menghadapi si tukang kubur</h2>
+      <ol>
+        <li><strong>Sesuaikan porsi.</strong> Beri porsi lebih kecil tapi lebih sering, supaya sisa makanan yang "perlu dikubur" makin sedikit.</li>
+        <li><strong>Angkat sisa makanan basah.</strong> Makanan basah yang dibiarkan lama bisa basi dan kurang higienis. Bereskan sisanya setelah jam makan selesai.</li>
+        <li><strong>Pakai alas makan.</strong> Taruh tatakan atau keset kecil di bawah mangkuk. Anabul tetap bisa menjalankan ritual menggaruk, dan lantai lebih mudah dibersihkan.</li>
+        <li><strong>Pindahkan mangkuk ke tempat yang tenang.</strong> Jauhkan dari kotak pasir dan jalur ramai. Suasana makan yang tenang dan bisa ditebak juga sejalan dengan pentingnya rutinitas, seperti dibahas di artikel <a href="/artikel/rutinitas-harian-kucing/">rutinitas harian kucing</a>.</li>
+        <li><strong>Buat jadwal makan yang konsisten.</strong> Makan di jam yang sama setiap hari membantu anabul tahu kapan waktunya makan, sehingga ia tidak merasa perlu "menabung" makanan.</li>
+      </ol>
+
+      <h2>Penutup dari tepi mangkuk</h2>
+      <p>Kucing yang menggaruk lantai di dekat mangkuknya mungkin terlihat aneh, tapi bagi anabul itu terasa sangat masuk akal: menyimpan, menandai, atau sekadar memberi ulasan soal menu hari ini. Selama ia sehat dan makan dengan baik, nikmati saja pertunjukannya. Dan kalau kebetulan ia juga suka jadi penonton saat kamu makan, mungkin kalian memang sama-sama penggemar berat jam makan, seperti di artikel <a href="/artikel/kucing-menonton-saat-kamu-makan/">kenapa kucing suka memandangi saat kamu makan</a>.</p>
+    `,
+  },
+  {
     slug: "kucing-menonton-saat-kamu-makan",
     title: "Penonton Setia di Meja Makan: Kenapa Kucing Suka Memandangi Saat Kamu Makan?",
     category: "Perilaku",
