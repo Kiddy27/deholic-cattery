@@ -24,6 +24,56 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-menepuk-wajah-membangunkan-pagi",
+    title: "Jurus Tepuk Pipi Jam 5 Pagi: Kenapa Kucing Suka Membangunkanmu dan Cara Menggeser Jam Bangunnya",
+    category: "Perilaku",
+    excerpt:
+      "Pipi ditepuk kaki berbulu sebelum alarm bunyi? Yuk pahami kenapa kucing suka membangunkanmu pagi-pagi dan cara menggeser jam bangunnya pelan-pelan.",
+    date: "2026-11-27",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "sparkle",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-menepuk-wajah-membangunkan-pagi.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk di bantal dan menepuk pelan pipi pemiliknya yang masih tidur dengan kaki depan, cahaya fajar lembut dari jendela kamar, gaya pastel lembut tanpa teks",
+    content: `
+      <p>Masih gelap. Alarm belum bunyi. Kamu sedang mimpi indah, lalu tiba-tiba... puk. Ada sesuatu yang lembut menepuk pipimu. Puk, puk. Kamu membuka satu mata dan melihat sepasang mata bulat menatap dari jarak lima sentimeter, penuh harapan. Selamat pagi, kamu baru saja kena <em>jurus tepuk pipi</em> dari anabul.</p>
+      <p>Banyak pemilik kucing hafal adegan ini. Ada yang ditepuk, ada yang diinjak-injak, ada yang dijilat rambutnya, ada juga yang dibangunkan dengan suara barang jatuh dari meja. Caranya beda-beda, pesannya sama: "Bangun, hooman. Ada urusan penting." Yuk kita bahas kenapa anabul melakukannya dan bagaimana caranya supaya kamu bisa tidur sedikit lebih lama.</p>
+
+      <h2>Jam biologis anabul memang beda</h2>
+      <p>Kucing sering disebut sebagai hewan yang paling aktif saat fajar dan senja. Jadi ketika kamu masih ingin menarik selimut, tubuh anabul justru sedang bilang, "Ini jam terbaik buat beraksi!" Ditambah lagi, kucing banyak tidur di siang hari, sehingga pagi buta bisa jadi waktu ia sudah merasa segar bugar.</p>
+      <p>Jadi sebenarnya ia tidak sedang iseng. Ia hanya hidup di zona waktu yang sedikit berbeda dengan kita.</p>
+
+      <h2>"Sarapan, please"</h2>
+      <p>Alasan paling klasik tentu saja perut. Kalau suatu hari kamu bangun karena ditepuk lalu langsung mengisi mangkuk, anabul yang pintar akan mencatat: <strong>tepuk pipi = makanan datang</strong>. Besok ia ulangi. Lusa ia ulangi lebih awal. Tanpa sadar, kita sendiri yang melatihnya jadi alarm berbulu.</p>
+      <p>Ini juga berhubungan dengan pentingnya jadwal yang bisa ditebak, seperti yang pernah dibahas di artikel <a href="/artikel/rutinitas-harian-kucing/">rutinitas harian kucing</a>. Kucing senang dengan pola, dan sayangnya ia juga cepat belajar pola yang kurang kita sukai.</p>
+
+      <h2>Kangen dan minta ditemani</h2>
+      <p>Tidak semua kucing membangunkan karena lapar. Ada juga yang sekadar ingin perhatian: minta dielus, minta diajak main, atau ingin kamu ikut "bangun" bersamanya. Kucing yang semalaman tidur menempel di dekatmu, seperti di artikel <a href="/artikel/kucing-tidur-di-dada-atau-kepala/">kenapa kucing suka tidur di atas badanmu</a>, mungkin merasa kamu adalah teman paling seru di rumah. Jadi wajar kalau ia ingin harinya dimulai bersama kamu.</p>
+
+      <h2>Energi yang belum tersalurkan</h2>
+      <p>Kucing indoor yang kurang bermain di malam hari bisa punya sisa energi yang cukup banyak. Begitu matahari mulai naik, energi itu keluar dalam bentuk lari-lari, mengeong, atau menepuk wajah pemiliknya. Dalam kamus anabul, wajahmu adalah tombol "mulai" yang paling efektif.</p>
+
+      <h2>Cara menggeser jam bangun anabul pelan-pelan</h2>
+      <p>Kabar baiknya, kebiasaan ini biasanya bisa dikurangi dengan sabar dan konsisten. Beberapa hal yang bisa dicoba:</p>
+      <ol>
+        <li><strong>Main dulu sebelum tidur.</strong> Ajak anabul bermain aktif menjelang waktu tidurmu supaya energinya tersalurkan. Tidak perlu lama, sesi singkat pun bisa membantu, seperti tips di artikel <a href="/artikel/sesi-main-kucing-singkat-efektif/">sesi playtime yang singkat tapi efektif</a>.</li>
+        <li><strong>Beri makan setelah main.</strong> Pola "berburu, makan, lalu tidur" sering disarankan untuk kucing rumahan. Jatah makan malam bisa diberikan setelah sesi main, tetap dalam porsi harian yang sesuai.</li>
+        <li><strong>Jangan langsung ke mangkuk setelah ditepuk.</strong> Ini bagian tersulit. Usahakan jeda antara kamu bangun dan waktu sarapan, misalnya cuci muka atau merapikan kasur dulu, supaya anabul tidak lagi menyambungkan tepukan dengan makanan.</li>
+        <li><strong>Konsisten, termasuk di akhir pekan.</strong> Kalau hari ini kamu tahan, lalu besok menyerah di tepukan ke-20, anabul justru belajar bahwa usaha keras akan membuahkan hasil. Semangatnya bisa malah bertambah.</li>
+        <li><strong>Sediakan hiburan pagi.</strong> Jendela dengan pemandangan, mainan yang aman ditinggal, atau tempat bertengger bisa jadi kegiatan pengganti sambil menunggu kamu bangun.</li>
+        <li><strong>Geser jamnya sedikit demi sedikit.</strong> Kalau kebiasaannya bangun jam 5, jangan langsung berharap jam 8. Coba mundurkan waktu sarapan beberapa menit dulu, lalu pelan-pelan tambah.</li>
+      </ol>
+      <p>Satu hal yang sebaiknya dihindari: memarahi atau menghukum anabul. Ia tidak bermaksud jahat, dan hukuman bisa membuatnya stres tanpa benar-benar menyelesaikan masalah.</p>
+
+      <h2>Kapan perlu tanya dokter hewan?</h2>
+      <p>Kalau kebiasaan membangunkan ini muncul tiba-tiba, terutama disertai perubahan lain seperti mengeong jauh lebih sering di malam hari, terlihat gelisah, nafsu makan berubah drastis, atau terlihat bingung, sebaiknya konsultasikan ke dokter hewan. Perubahan perilaku yang mendadak kadang bisa berkaitan dengan kondisi kesehatan, dan dokter hewan adalah orang yang tepat untuk memeriksanya.</p>
+
+      <h2>Penutup dari atas bantal</h2>
+      <p>Dibangunkan dengan tepukan kaki berbulu memang bikin kantuk setengah mati, tapi juga sedikit bikin meleleh. Bagaimanapun, kamu adalah orang pertama yang ingin ia temui di pagi hari. Dengan rutinitas yang konsisten dan sedikit kesabaran, jam bangun anabul bisa pelan-pelan bergeser. Dan kalau masih kena jurus tepuk pipi sesekali, anggap saja itu ucapan "selamat pagi" versi kucing.</p>
+    `,
+  },
+  {
     slug: "kucing-mengubur-makanan-di-sekitar-mangkuk",
     title: "Makan Malam Dikubur Sendiri: Kenapa Kucing Suka Menggaruk Lantai di Sekitar Mangkuk?",
     category: "Perilaku",
