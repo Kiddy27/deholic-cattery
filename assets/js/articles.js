@@ -24,6 +24,54 @@
 
 window.ARTICLES = [
   {
+    slug: "kucing-duduk-di-koper-saat-mau-pergi",
+    title: "Penumpang Gelap di Dalam Koper: Kenapa Kucing Suka Duduk di Tas Saat Kamu Mau Pergi?",
+    category: "Perilaku",
+    excerpt:
+      "Baru buka koper, anabul langsung masuk duluan? Yuk pahami kenapa kucing suka duduk di tas saat kamu bersiap pergi dan cara packing dengan damai.",
+    date: "2026-11-28",
+    readTime: 4,
+    author: "Tim Deholic Cattery",
+    icon: "home",
+    accent: ["#d9e1ea", "#f3d2b5"],
+    image: "assets/img/artikel/kucing-duduk-di-koper-saat-mau-pergi.webp",
+    imageAlt: "Ilustrasi kucing British Shorthair abu-abu bermata tembaga duduk santai di dalam koper terbuka berisi baju terlipat di lantai kamar, cahaya siang lembut, gaya pastel lembut tanpa teks",
+    content: `
+      <p>Kamu baru membuka koper di lantai kamar. Baju sudah dilipat rapi, daftar barang sudah dicentang separuh. Kamu berbalik sebentar untuk mengambil charger, dan saat menoleh lagi... koper itu sudah ada penghuninya. Seekor anabul duduk manis di atas tumpukan kaus, menatapmu dengan wajah tanpa dosa. Pesannya kira-kira begini: "Kalau mau pergi, bawa aku. Atau jangan pergi sama sekali."</p>
+      <p>Adegan ini akrab sekali bagi banyak pemilik kucing. Koper, ransel, tas laptop, bahkan tas belanja yang baru diletakkan, rasanya langsung punya magnet khusus begitu kamu bersiap keluar rumah. Yuk kita bahas kenapa anabul suka "menyegel" tasmu, dan bagaimana caranya pamit dengan lebih santai.</p>
+
+      <h2>Kotak baru, wajib diperiksa</h2>
+      <p>Alasan paling sederhana: koper yang terbuka itu, di mata kucing, adalah kotak besar yang tiba-tiba muncul di wilayahnya. Kucing umumnya suka ruang yang agak tertutup dan empuk, dan koper berisi baju bersih memenuhi dua syarat itu sekaligus. Kalau kamu pernah melihat anabul langsung mengklaim tas belanja yang baru datang, seperti di artikel <a href="/artikel/kucing-klaim-barang-baru-atau-tas-belanja/">kenapa kucing langsung duduk di atas barang baru</a>, logikanya mirip: ada benda baru, harus segera diperiksa dan diduduki.</p>
+
+      <h2>Penuh dengan aroma kamu</h2>
+      <p>Baju yang akan kamu bawa biasanya membawa bau tubuhmu. Banyak kucing merasa nyaman berada di dekat aroma pemiliknya, makanya mereka juga sering tidur di atas pakaian bekas pakai. Tumpukan baju di koper jadi semacam kasur premium yang wanginya familiar. Bonusnya, sambil rebahan di sana, anabul juga ikut menitipkan baunya sendiri. Jangan kaget kalau sesampainya di tujuan, bajumu ikut membawa "oleh-oleh" bulu abu-abu.</p>
+
+      <h2>Anabul peka dengan perubahan rutinitas</h2>
+      <p>Kucing adalah pengamat yang teliti. Ia mungkin tidak tahu arti kata "liburan" atau "dinas luar kota", tapi ia bisa memperhatikan bahwa ada yang berbeda: lemari dibuka-tutup lebih sering, barang-barang dipindahkan, kamu mondar-mandir lebih sibuk dari biasanya. Bagi sebagian kucing, perubahan suasana seperti ini cukup untuk membuat mereka ingin berada di tengah-tengah aksi.</p>
+      <p>Apakah anabul benar-benar paham bahwa kamu akan pergi? Kita tidak bisa membaca pikirannya, jadi sebaiknya jangan buru-buru menyimpulkan. Yang jelas, kucing yang terbiasa menyambutmu pulang, seperti yang dibahas di artikel <a href="/artikel/kucing-menunggu-di-depan-pintu/">kenapa kucing suka menunggu kamu pulang</a>, memang sering tertarik dengan apa pun yang berhubungan dengan datang dan perginya kamu.</p>
+
+      <h2>Minta perhatian, versi kucing</h2>
+      <p>Ada juga alasan yang lebih sederhana lagi: duduk di koper itu sangat efektif untuk menarik perhatian. Begitu ia masuk, kamu pasti berhenti, tertawa, mungkin mengambil foto, lalu mengelusnya. Dari sudut pandang anabul, itu tanda keberhasilan. Tidak heran kalau besok-besok ia mengulanginya dengan penuh percaya diri.</p>
+
+      <h2>Cara packing dengan damai</h2>
+      <p>Tidak perlu memarahi anabul yang "menyabotase" kopermu. Coba beberapa trik berikut:</p>
+      <ol>
+        <li><strong>Sediakan koper tandingan.</strong> Letakkan kardus atau keranjang beralas kain bekas pakaimu di dekat koper. Kadang kucing cukup puas dengan "kotak" lain yang wanginya juga familiar.</li>
+        <li><strong>Packing dengan pintu tertutup.</strong> Kalau memungkinkan, siapkan koper di ruangan yang tidak bisa dimasuki anabul, lalu tutup koper setiap kali kamu meninggalkannya.</li>
+        <li><strong>Cek isi koper sebelum ditutup.</strong> Kedengarannya lucu, tapi biasakan memastikan tidak ada anabul yang ikut bersembunyi di dalam koper, tas, atau lemari sebelum ritsleting ditarik dan pintu dikunci.</li>
+        <li><strong>Simpan barang berisiko.</strong> Obat-obatan, tali, karet rambut, dan barang kecil lain yang biasa dibawa bepergian sebaiknya disimpan di wadah tertutup supaya tidak dimainkan atau tertelan.</li>
+        <li><strong>Pamit dengan tenang.</strong> Tidak perlu drama perpisahan panjang. Beri elusan atau sesi main singkat, lalu berangkat dengan santai.</li>
+      </ol>
+
+      <h2>Kalau kamu pergi beberapa hari</h2>
+      <p>Pastikan anabul tetap terurus selama kamu tidak di rumah: ada orang tepercaya yang bisa mengecek makan, minum, dan kotak pasirnya, atau pilih penitipan yang kamu yakini aman. Usahakan rutinitas hariannya tetap mirip dengan biasanya. Kalau ia perlu ikut bepergian atau dititipkan, latihan yang ada di artikel <a href="/artikel/membiasakan-kucing-masuk-carrier/">cara membiasakan kucing masuk carrier</a> bisa sangat membantu.</p>
+      <p>Kalau setiap kali kamu pergi anabul terlihat sangat gelisah, berhenti makan, atau menunjukkan perubahan perilaku yang mencolok, ada baiknya berkonsultasi dengan dokter hewan untuk mencari cara terbaik membantunya.</p>
+
+      <h2>Penutup dari dalam koper</h2>
+      <p>Anabul yang duduk di koper mungkin bikin acara packing jadi dua kali lebih lama, tapi juga dua kali lebih menggemaskan. Entah ia cuma suka kotak baru, suka wangi bajumu, atau ingin diperhatikan, satu hal pasti: kamu punya teman serumah yang selalu ingin terlibat dalam urusanmu. Jadi, sebelum menarik ritsleting, cek sekali lagi. Siapa tahu ada penumpang gelap berbulu yang ingin ikut jalan-jalan.</p>
+    `,
+  },
+  {
     slug: "kucing-menepuk-wajah-membangunkan-pagi",
     title: "Jurus Tepuk Pipi Jam 5 Pagi: Kenapa Kucing Suka Membangunkanmu dan Cara Menggeser Jam Bangunnya",
     category: "Perilaku",
